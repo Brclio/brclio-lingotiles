@@ -1,0 +1,119 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "there",
+      "pos": "adv.",
+      "meaning": "在那里",
+      "alt": "男孩站在近处指向远处一块空地，蓝色箭头指向地面的珊瑚色圆圈",
+      "selfReviewNotes": "男孩保持站立，手势与蓝箭头均指向远处空地，没有目标物体；距离与位置清楚。箭头可能被理解为去那里或方向，草地远山细节偏多、留白少于预期，需盲审确认位置义项。无文字。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"there\",\"pos\":\"adv.\",\"meaning\":\"在那里\"}.\nPrimary request: illustrate a clearly indicated distant PLACE, meaning \"at that place over there\".\nScene: one child stands in the near foreground at the left, shown in three-quarter back view, looking and pointing with a fully extended arm across a broad visible gap toward a SMALL EMPTY PATCH OF GROUND far away at the right. A small soft coral oval ring painted flat on the ground marks only that distant standing place; its interior is empty. One simple broad hand-painted blue directional arrow begins beside the pointing hand and ends precisely inside that distant ground oval, reinforcing the indicated location. A narrow gently receding footpath gives clear near-versus-far perspective. The child remains nearby and still; there is no walking or travel action. The indicated place is much farther away than the child, separated by empty space. Do not place any object, building, tree, person or animal inside the distant target location: the focal meaning is WHERE, not WHICH OBJECT. Keep the ground treatment minimal.\nStyle/medium: innocent hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral.\nComposition: square 1:1, one simple scene centered within the middle 70 percent, fully visible child, generous empty warm-paper margins. The long pointing gesture, distant oval of ground, and distance between them must remain legible at small card size.\nConstraints: no text, letters, numbers, written labels, punctuation, speech bubbles, logos, watermarks, borders or card UI. No destination object, no maps or map pin, no ornate landscape, no multiple arrows.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51c-44ff-7190-81c8-c5dc9a779756/exec-539692f0-f60d-4454-8200-1390e0f2bb79.png",
+      "originalLocalPath": "output/imagegen/source/there-2253.png",
+      "candidatePath": "output/imagegen/review/2253/there.webp",
+      "intendedSavedPath": "public/images/words/there.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "08",
+        "primary": "指向远处的那个地方",
+        "alternatives": [
+          "那里",
+          "往那边去"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "静止的人指向远处被圈出的空地，箭头落点是位置且没有行走动作；场景直观指出在那里。"
+      },
+      "savedPath": "public/images/words/there.webp"
+    },
+    {
+      "word": "all",
+      "pos": "adj.",
+      "meaning": "所有的",
+      "alt": "蓝色地面圆圈中的五个孩子全部举起手，老师双手示意整个群体",
+      "selfReviewNotes": "完整五人儿童组都在同一圆圈内，五人无一遗漏地举手，教师双手指示整个群体。全体线索可见，但可能优先被读为举手、回答问题或上课；需盲审判断所有成员的关系是否足够突出。人物占幅偏大，无文字。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"all\",\"pos\":\"adj.\",\"meaning\":\"所有的\"}.\nPrimary request: illustrate ALL members of one finite group, with absolutely no one omitted.\nScene: a small friendly classroom vignette consisting of one semicircle of exactly five seated children and one teacher at the side. Every one of the five children has one arm raised high in the same clear enthusiastic answering gesture; not a single child's hand remains down. Their other hands rest on their laps. The children sit on five simple separate little stools, arranged so every face and every raised hand is fully visible without overlap. The teacher presents the ENTIRE semicircle with a broad open-palmed sweeping gesture and smiles toward all of them. A single softly hand-painted blue oval on the ground surrounds ALL FIVE CHILDREN AND THEIR STOOLS together as one complete group; no child is outside the oval. The teacher stands just outside at the side. The intended visual reading is \"all of the children\", not an individual, not a few, not most. The inclusive whole group with no exceptions must dominate the scene. Keep the teacher small and secondary.\nStyle/medium: innocent hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral; harmonious simple clothing colors.\nComposition: square 1:1, one clear compact scene centered in the middle 70 percent with generous empty paper margins. The full group and all five identical raised-hand poses must read immediately at small card size.\nConstraints: no text, letters, numbers, written labels, punctuation, speech bubbles, logos, watermarks, borders or card UI. No blackboard, books, room furniture, extra people, arrows, trophies or objects. No child missing a raised hand. No selectively emphasized individual.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51c-44ff-7190-81c8-c5dc9a779756/exec-b95bdb3b-903c-4fce-b578-82b545cb00cc.png",
+      "originalLocalPath": "output/imagegen/source/all-2253.png",
+      "candidatePath": "output/imagegen/review/2253/all.webp",
+      "intendedSavedPath": "public/images/words/all.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "10",
+        "primary": "所有孩子都举手",
+        "alternatives": [
+          "大家",
+          "回答老师的问题"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "圆圈包住完整五人组，无例外地全部举手，老师双手面向全组，没有选择性突出个体，所有的关系可见。"
+      },
+      "savedPath": "public/images/words/all.webp"
+    },
+    {
+      "word": "get",
+      "pos": "v.",
+      "meaning": "得到",
+      "alt": "孩子开心地将刚得到的礼盒抱在胸前，空的成人手旁有箭头指向孩子收到的礼物",
+      "selfReviewNotes": "礼盒已被孩子双手握在胸前，成人手为空且与盒子分离，箭头由成人指向孩子，接收方向明确。可能被读为收到礼物、礼物或开心，但没有孩子送出物品的动作。成人前臂按设定从画面左侧进入，孩子头部留白较少，无文字。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"get\",\"pos\":\"v.\",\"meaning\":\"得到\"}.\nPrimary request: unmistakably show RECEIVING AND NOW OBTAINING an item, with the recipient as the main subject.\nScene: a delighted child at the center-right has just received a small coral gift box tied with a simple blue ribbon. The gift is already firmly supported in BOTH OF THE CHILD'S HANDS, close against the child's chest; the child draws the gift inward toward their own body while looking down at it with surprised happy eyes. From the far left, only a secondary adult forearm and hand are visible, palm open and EMPTY, having just released the gift. There is a clear gap between the adult hand and the gift, and the adult is no longer touching it. One simple small blue hand-painted arrow travels from the empty adult hand toward the gift in the child's hands, with the arrowhead ending at the recipient. Ownership has transferred to the child. Make the receiving child's happy discovery and secure possession of the new item dominate. The child must never extend the gift toward somebody else.\nStyle/medium: innocent hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral.\nComposition: square 1:1, one simple tightly related scene centered in the middle 70 percent, generous empty warm-paper margins, fully visible child and gift, child much more prominent than the secondary adult hand. Clear readable hands and transfer direction at small card size.\nConstraints: no text, letters, numbers, written labels, punctuation, speech bubbles, logos, watermarks, borders or card UI. No money, shop, birthday cake, party decorations, additional gifts, clapping people, grabbing, thrown objects, reverse arrows or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51c-44ff-7190-81c8-c5dc9a779756/exec-a29d7ba8-e2af-4453-95ee-58c2305ccc8a.png",
+      "originalLocalPath": "output/imagegen/source/get-2253.png",
+      "candidatePath": "output/imagegen/review/2253/get.webp",
+      "intendedSavedPath": "public/images/words/get.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "01",
+        "primary": "收到礼物",
+        "alternatives": [
+          "送礼物",
+          "得到"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "孩子双手已抱住新收到的物品，成人手已放开，箭头指向接收方；得到这一动作及归属变化清楚。"
+      },
+      "savedPath": "public/images/words/get.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "who",
+      "pos": "pron.",
+      "meaning": "谁",
+      "alt": "男孩摊手发问并朝一旁男子指去，同伴托腮看着男子思考他的身份",
+      "selfReviewNotes": "男孩有疑问眉眼、张口和摊手姿势，同伴托腮看向分开的男子，人物身份提问有线索。指尖在图中落于同伴前臂附近，没精确指到男子面部，可能读为对话、询问或介绍人物；人物占幅较大，需盲审。无文字和问号。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"who\",\"pos\":\"pron.\",\"meaning\":\"谁\"}.\nPrimary request: a wordless scene unmistakably asking about the IDENTITY OF A PERSON: \"who is that person?\".\nScene: three people only. At the left foreground, a curious child turns toward a familiar companion to ask a question. The questioning child has clearly raised questioning eyebrows, a gently puzzled open mouth, and one hand held palm-up in an asking gesture. With the other hand the child points directly toward the FACE of an unfamiliar adult standing a short distance apart on the right. The companion looks thoughtfully at the unfamiliar adult with a finger at their chin, as if considering who that person is. The unfamiliar adult stands quietly and neutrally, fully visible, doing no other activity and holding nothing. The asking child's gaze goes toward the companion while the pointing finger identifies the separate stranger. Make the triad relationship visually clear: questioner, person being asked, unknown person whose identity is being asked. The subject of the question is visibly a PERSON, not any object or place. No waving or greetings.\nStyle/medium: innocent hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral.\nComposition: square 1:1, a simple tightly related human vignette centered in the middle 70 percent, generous empty warm-paper margins, fully visible figures, expressive readable faces and simple anatomically clear hands.\nConstraints: absolutely no text, letters, numbers, written labels, punctuation including question marks, speech or thought bubbles, logos, watermarks, borders or card UI. No objects, arrows, portrait cards, signs, scenery, mystery costume, or detective props.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51c-44ff-7190-81c8-c5dc9a779756/exec-0e3b73dc-5103-47c3-a534-9b6cb5e87eb7.png",
+      "originalLocalPath": "output/imagegen/source/who-2253.png",
+      "candidatePath": "output/imagegen/review/2253/who.webp",
+      "intendedSavedPath": "public/images/words/who.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "06",
+        "primary": "男孩向女人询问旁边的男人",
+        "alternatives": [
+          "他是谁",
+          "一家三口交谈"
+        ],
+        "confidence": "low",
+        "decision": "deferred",
+        "reason": "指尖实际落在听者手臂附近，询问对象不清楚，普通对话与询问身份容易混淆；保留重做。"
+      }
+    }
+  ],
+  "batch": "20260927-2253-b"
+}

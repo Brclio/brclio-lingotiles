@@ -1,0 +1,119 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "what",
+      "pos": "pron.",
+      "meaning": "什么",
+      "alt": "孩子指着盒子里陌生的手工具，摊开另一只手，抬头向大人询问它是什么。",
+      "prompt": "Use case: scientific-educational\nAsset type: a single square English vocabulary memory-card illustration.\nExact target sense (never write this in the image): what / pron. / 什么, an inquiry asking the identity of an unknown object.\nPrimary request: depict an unmistakable wordless \"what is this?\" interaction. A curious young child has just opened a small plain cardboard box on a low table. In it is an unfamiliar brass hand tool with a rounded gear-like head and short wooden handle. The child points directly at that unfamiliar object with one finger; the other palm is turned upward in an open questioning gesture, shoulders slightly lifted, brows raised and mouth slightly open. The child looks toward a nearby friendly adult, clearly asking the adult to identify the object. The adult looks attentively at the object. Make the child's puzzled questioning body language and directed pointing the focus; the object is not recognizable as a common named toy or food. The box is fully open and its item fully visible.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Muted natural blue, green and warm coral, soft daylight, simple friendly natural anatomy.\nComposition: square format; compact medium-view scene centered within the middle 75 percent; child foreground left, small table and object in the center, adult nearby right. Generous warm white empty margin, minimal environment, all essential gestures large and clear on a small card.\nConstraints: no words, letters, Chinese characters, numbers, punctuation or question-mark symbols. No speech bubbles, thought bubbles, labels, logos, watermarks, borders, panels, UI or unrelated decorations. Do not hide the object or imply asking for a gift. Express the question only through pointing, facial expression and palm-up gesture.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51a-5c74-7110-a00d-746178d9b68a/exec-4a54e10b-231a-4a07-9e08-df04767e926c.png",
+      "originalLocalPath": "output/imagegen/source/what-2253.png",
+      "candidatePath": "output/imagegen/review/2253/what.webp",
+      "intendedSavedPath": "public/images/words/what.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图与640像素WebP候选：孩子指向盒内陌生工具，另一手摊开，抬眼看向成人并张口，形成询问对象身份的情境；无文字及问号。疑点：画面本身无法完全排除询问工具用途或泛指提问，且成人头顶与桌边接近裁切边缘。需独立盲审。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "12",
+        "primary": "孩子询问盒子里陌生的东西",
+        "alternatives": [
+          "这是什么",
+          "这个东西有什么用"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "孩子看向听者并摊手提问，另一手明确指向唯一物体，询问事物而非人物或地点，直接支持什么。"
+      },
+      "savedPath": "public/images/words/what.webp"
+    },
+    {
+      "word": "can",
+      "pos": "v.",
+      "meaning": "能",
+      "alt": "左边的孩子费力却搬不起石头箱，右边的孩子成功把相同的石头箱稳稳提离地面。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense (do not write it): can / v. / 能, being able to successfully do something.\nPrimary request: depict visible capability using a direct wordless success-versus-difficulty comparison. Two children of the same approximate age and size each attempt to lift an identical plain wooden crate holding several smooth stones. On the left, a smaller secondary child cannot lift the crate off the ground: bent knees, hands tightly grasping the side handles, visibly struggling, crate remaining on the floor. On the right, the larger focal child is clearly able to lift it: standing upright, smiling with quiet confidence, both hands grasping the side handles and holding the crate firmly at waist height with unmistakable empty space beneath the entire crate. Both crates must be the same size and visibly contain the same few stones. Make the successful ability on the right the dominant focal point, with the failed attempt giving necessary context. Ordinary natural children, no superhero imagery, no exaggerated muscles.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted blue, sage green and coral; warm gentle children's-book style, believable anatomy and hands.\nComposition: square, compact paired scene without drawn panels; fully visible figures and crates, generous warm white margin, minimal ground shadows, center 75 percent. Simple enough for a small card. Successful child's lifted crate visibly separate from the ground.\nConstraints: absolutely no letters, words, Chinese characters, numerals, punctuation, checkmarks, crosses, written labels, speech bubbles, logos, watermarks, borders, UI, detached decorative icons or unrelated objects. No metal cans, drink containers or permission scene.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51a-5c74-7110-a00d-746178d9b68a/exec-3e0f168a-ac04-44ba-8407-1be4a807d5a1.png",
+      "originalLocalPath": "output/imagegen/source/can-2253.png",
+      "candidatePath": "output/imagegen/review/2253/can.webp",
+      "intendedSavedPath": "public/images/words/can.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图与640像素WebP候选：左边儿童皱眉费力、木箱仍落地；右边儿童微笑并成功将同类装石头木箱提离地面，可见成功与做不到的能力对比；无文字。疑点：最强具体线索也可能被读作强壮、力量、搬重物，右侧儿童视觉身高稍高，不能保证盲看直接落到情态动词能。需独立盲审。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "05",
+        "primary": "女孩力气大，男孩搬不动箱子",
+        "alternatives": [
+          "强壮与弱小",
+          "能与不能"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "两只相同装石头的箱子，一人搬不起、一人成功提起，能力可否的对比直接可见；用于能这一动词义项。"
+      },
+      "savedPath": "public/images/words/can.webp"
+    },
+    {
+      "word": "go",
+      "pos": "v.",
+      "meaning": "去",
+      "alt": "孩子背向留在家门口挥手的家长，沿着箭头指示的小路走向前方打开的花园门。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense (do not write this): go / v. / 去 — moving away from the current place toward another place.\nPrimary request: show a clear departure and destination in one wordless scene. At the left is a small house doorway where a parent remains standing and waves goodbye. A child with a small plain blue backpack is already several steps away from that doorway, moving rightward along a short curved path toward a simple open garden gate and a leafy tree at the right. The child's face, feet and body all point away from the house and toward the gate; the near leg is midstride and the back heel lifted, making active going unmistakable. View the departing child from a rear three-quarter angle, with the parent behind. One unobtrusive hand-painted directional arrow follows the path, starting behind the child's feet and ending ahead of the child toward the gate, never pointing back toward the house. Clearly separate the starting location from the destination. Focus on going from here to there, rather than posing, arriving or staying.\nStyle/medium: hand-painted gouache and subtle colored-pencil grain on warm off-white paper. Soft daylight, natural muted sage green, blue, terracotta and coral; friendly children's-book realism.\nComposition: square; one compact continuous scene within the middle 75 percent, fully visible child and doorway, generous warm white space around all edges. Minimal house outline, simple gate and tree; no extensive landscape or irrelevant garden decorations. All direction cues readable on a small card.\nConstraints: no text, letters, words, Chinese characters, numerals, punctuation, logos, labels, signboards, watermarks, borders, panels, speech bubbles, thought bubbles or card UI. Only the simple direction arrow is permitted as a symbol. No vehicle and no extra unrelated figures or objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51a-5c74-7110-a00d-746178d9b68a/exec-d827b032-4d42-4cab-8a88-c7d197afde0e.png",
+      "originalLocalPath": "output/imagegen/source/go-2253.png",
+      "candidatePath": "output/imagegen/review/2253/go.webp",
+      "intendedSavedPath": "public/images/words/go.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图与640像素WebP候选：孩子背向房屋与挥手的家长迈步走向前方打开的大门，身体、脚步与蓝箭头方向一致，能够看出离开当前地点去别处；无文字。疑点：具体情境也可能被读作出门、告别或去上学，背景植被比提示词要求更丰富。仍待独立盲审。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "11",
+        "primary": "孩子离开家、向外走",
+        "alternatives": [
+          "出门",
+          "告别"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "迈步背向出发处，清楚的向外箭头延伸到敞开的门，去与离开的方向成立，区别于迎面回来。"
+      },
+      "savedPath": "public/images/words/go.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "as",
+      "pos": "adv.",
+      "meaning": "同样地",
+      "alt": "两个孩子用同样的姿势给相同的小盆栽浇水，右边的孩子看着左边模仿动作。",
+      "prompt": "Use case: scientific-educational\nAsset type: a single square English vocabulary memory-card illustration.\nExact target sense (do not write this in the image): as / adv. / 同样地, meaning \"in the same way\".\nPrimary request: make the matching way of acting immediately visible. Two distinct friendly children stand beside each other, each using a small watering can to water a matching small potted seedling. The child on the left demonstrates a clear tilted-can pouring pose; the child on the right looks toward the first child and exactly copies the same tilted-can pouring pose. Both hands, watering-can angles, gentle water streams and seedlings visibly match. Their clothes and hair differ, making it clear they are different people doing the action in the same way. Emphasize the parallel matching actions, not a garden setting or a single watering object.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light; muted green, blue, warm coral. Warm gentle children's-book illustration with clear natural anatomy.\nComposition: square format; two equal clear figures with their objects fully visible, one compact centered scene within the middle 75 percent; generous warm white empty margin; simple ground shadow only. Every meaningful detail readable on a small card.\nConstraints: absolutely no letters, words, Chinese characters, numbers, punctuation, question marks, written labels, logos, watermarks, borders, panels, card UI or decorative symbols. Do not add unrelated objects. No text anywhere.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e51a-5c74-7110-a00d-746178d9b68a/exec-27afedbb-c124-4bd8-ad04-faa4488fdf85.png",
+      "originalLocalPath": "output/imagegen/source/as-2253.png",
+      "candidatePath": "output/imagegen/review/2253/as.webp",
+      "intendedSavedPath": "public/images/words/as.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图与640像素WebP候选：两名不同儿童以同样姿势浇同样盆栽，右侧有看向左侧的模仿线索；无文字。疑点：盲看可能首先读作浇水、一起劳动或模仿，未必直接归纳为副词同样地。主体较大，需独立盲审判定义项。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "03",
+        "primary": "两个孩子都在给植物浇水",
+        "alternatives": [
+          "一起浇水",
+          "照顾植物"
+        ],
+        "confidence": "high",
+        "decision": "deferred",
+        "reason": "盲看主要读为一起浇水或都在浇水，没有足够突出的方式比较，无法清楚表达同样地；保留重做。"
+      }
+    }
+  ],
+  "batch": "20260927-2253-a"
+}

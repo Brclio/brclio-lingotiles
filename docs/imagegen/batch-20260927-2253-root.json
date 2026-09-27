@@ -1,0 +1,166 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-2253-root",
+  "assets": [
+    {
+      "word": "they",
+      "pos": "pron.",
+      "meaning": "他们",
+      "alt": "说话者越过空白区域明确指向右侧三人，听者站在说话者身后，不挡住手势",
+      "scene": "Unambiguous THIRD-PERSON PLURAL reference. At the LEFT edge a boy stands slightly in FRONT of his listening friend. The listener is behind him and farther LEFT, never to his right. The speaker's right arm stretches unobstructed across a broad empty center gap toward THREE separate people grouped together at the RIGHT. His pointing fingertip is at the same height as their upper bodies. His arm must not cross or touch the listener at all. A speech bubble from the speaker contains a matching miniature portrait of those exact three people (blue jacket, yellow shirt, coral shirt), NOT the speaker or listener. The separate group is being talked about as THEY. Neutral standing poses only, no other actions, no extra people.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square word-sense illustration for a vocabulary game.\nExact target: \"they\" / pron. / \"他们\".\nPrimary requirement: current sense must be understandable from visible relationships alone without any word or definition. Eliminate conflicting gesture and object cues.\nScene: Unambiguous THIRD-PERSON PLURAL reference. At the LEFT edge a boy stands slightly in FRONT of his listening friend. The listener is behind him and farther LEFT, never to his right. The speaker's right arm stretches unobstructed across a broad empty center gap toward THREE separate people grouped together at the RIGHT. His pointing fingertip is at the same height as their upper bodies. His arm must not cross or touch the listener at all. A speech bubble from the speaker contains a matching miniature portrait of those exact three people (blue jacket, yellow shirt, coral shirt), NOT the speaker or listener. The separate group is being talked about as THEY. Neutral standing poses only, no other actions, no extra people.\nStyle: warm off-white paper, soft gouache and colored-pencil texture, muted green blue coral, gentle daylight, clear uncluttered margins. Legible on an 80px vocabulary card.\nConstraints: no words, letters, numbers, written labels, watermark, logo, borders or card UI. One independent sense image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-1725365d-b172-4d1f-8f27-95bac980212d.png",
+      "originalLocalPath": "output/imagegen/source/they-2253.png",
+      "candidatePath": "output/imagegen/review/2253/they.webp",
+      "intendedSavedPath": "public/images/words/they.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "02",
+        "primary": "向同伴介绍那三个人",
+        "alternatives": [
+          "他们",
+          "谈论那群人"
+        ],
+        "confidence": "medium",
+        "decision": "accepted",
+        "reason": "无遮挡手指与匹配三人气泡共同指向独立的第三方群体，排除说话者与听者，复数第三人称关系清楚。"
+      },
+      "savedPath": "public/images/words/they.webp"
+    },
+    {
+      "word": "she",
+      "pos": "pron.",
+      "meaning": "她",
+      "alt": "说话者向站在身后的同伴谈论右侧独立女孩，无遮挡手指和气泡共同指向女孩",
+      "scene": "Unambiguous THIRD-PERSON female reference. Two boys at the far LEFT: the listening boy is BEHIND and LEFT of the speaking boy. The speaker is in front and extends his arm rightwards across EMPTY space to clearly point at ONE separate girl standing at far RIGHT. The pointer must not touch or point at his listener. The fingertip and girl's upper body are aligned horizontally. The girl simply stands and smiles, wearing a coral dress and blue flower hair clip, no watering plant or other activity. A speech balloon from the boy contains only a small matching portrait of that same girl's face and hair clip. The visible relationship is talking to a companion ABOUT HER, not addressing her as you.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square word-sense illustration for a vocabulary game.\nExact target: \"she\" / pron. / \"她\".\nPrimary requirement: current sense must be understandable from visible relationships alone without any word or definition. Eliminate conflicting gesture and object cues.\nScene: Unambiguous THIRD-PERSON female reference. Two boys at the far LEFT: the listening boy is BEHIND and LEFT of the speaking boy. The speaker is in front and extends his arm rightwards across EMPTY space to clearly point at ONE separate girl standing at far RIGHT. The pointer must not touch or point at his listener. The fingertip and girl's upper body are aligned horizontally. The girl simply stands and smiles, wearing a coral dress and blue flower hair clip, no watering plant or other activity. A speech balloon from the boy contains only a small matching portrait of that same girl's face and hair clip. The visible relationship is talking to a companion ABOUT HER, not addressing her as you.\nStyle: warm off-white paper, soft gouache and colored-pencil texture, muted green blue coral, gentle daylight, clear uncluttered margins. Legible on an 80px vocabulary card.\nConstraints: no words, letters, numbers, written labels, watermark, logo, borders or card UI. One independent sense image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-ece02010-df10-40fa-abdd-e1db9ff4fca9.png",
+      "originalLocalPath": "output/imagegen/source/she-2253.png",
+      "candidatePath": "output/imagegen/review/2253/she.webp",
+      "intendedSavedPath": "public/images/words/she.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "09",
+        "primary": "向同伴介绍那个女孩",
+        "alternatives": [
+          "她",
+          "谈论那个女孩"
+        ],
+        "confidence": "medium",
+        "decision": "accepted",
+        "reason": "手指与匹配女孩气泡一致指向独立女性，听者位于后方不遮挡，谈论第三方女性的关系明确。"
+      },
+      "savedPath": "public/images/words/she.webp"
+    },
+    {
+      "word": "his",
+      "pos": "pron.",
+      "meaning": "他的",
+      "alt": "女孩指向男孩自己的书包，书包上的照片标签与男孩的脸相同，明确归属",
+      "scene": "A clear everyday illustration of HIS personal possession. A boy at the right holds his own blue school backpack close to his chest, one hand rests protectively on it, while looking toward the viewer. On the front of the backpack is a LARGE simple picture-only ownership tag: a recognizable portrait of THIS SAME BOY with the same dark spiky hair and green shirt. No names, letters or writing on the tag. A girl at the left points precisely toward this matching portrait tag and the backpack while looking at the viewer as if identifying whose backpack it is. The tag must visibly match the boy and be large enough to read at thumbnail scale. No exchange, gift, loan, other bags or extra people. The image connects a separate male person to HIS own marked personal object, not just carrying an anonymous bag.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square word-sense illustration for a vocabulary game.\nExact target: \"his\" / pron. / \"他的\".\nPrimary requirement: current sense must be understandable from visible relationships alone without any word or definition. Eliminate conflicting gesture and object cues.\nScene: A clear everyday illustration of HIS personal possession. A boy at the right holds his own blue school backpack close to his chest, one hand rests protectively on it, while looking toward the viewer. On the front of the backpack is a LARGE simple picture-only ownership tag: a recognizable portrait of THIS SAME BOY with the same dark spiky hair and green shirt. No names, letters or writing on the tag. A girl at the left points precisely toward this matching portrait tag and the backpack while looking at the viewer as if identifying whose backpack it is. The tag must visibly match the boy and be large enough to read at thumbnail scale. No exchange, gift, loan, other bags or extra people. The image connects a separate male person to HIS own marked personal object, not just carrying an anonymous bag.\nStyle: warm off-white paper, soft gouache and colored-pencil texture, muted green blue coral, gentle daylight, clear uncluttered margins. Legible on an 80px vocabulary card.\nConstraints: no words, letters, numbers, written labels, watermark, logo, borders or card UI. One independent sense image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-e8fb87af-8e28-47f9-a98f-9a843c13724f.png",
+      "originalLocalPath": "output/imagegen/source/his-2253.png",
+      "candidatePath": "output/imagegen/review/2253/his.webp",
+      "intendedSavedPath": "public/images/words/his.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "04",
+        "primary": "这个书包属于男孩",
+        "alternatives": [
+          "他的书包",
+          "女孩指着男孩"
+        ],
+        "confidence": "medium",
+        "decision": "accepted",
+        "reason": "书包上与男孩一致的照片标签和紧抱自己的物品共同明确男性物主；虽指尖接近手臂，物品归属关系仍直观。"
+      },
+      "savedPath": "public/images/words/his.webp"
+    },
+    {
+      "word": "or",
+      "pos": "conj.",
+      "meaning": "或",
+      "alt": "孩子面对分别递来的苹果或梨，空盘仍未放入任何一个，表现两个备选只选其一",
+      "scene": "Show two ALTERNATIVE options with no choice yet made: a seated child centered holds ONE small empty plate with only room for one fruit. On the LEFT an adult hand offers one red apple; on the RIGHT another adult hand offers one green pear, equally sized and equally prominent. Only hands enter from the edges, not adult heads or bodies. The child looks midway between the two offered fruits, with a thoughtful gently unsure expression and both hands holding the empty plate, NOT reaching for or rejecting either option. A subtle forked nonverbal line from the empty plate branches to apple and pear, making the alternatives clear: apple OR pear, either one. No plus sign, no acceptance/refusal gestures, no fruit already chosen, no pile of fruit, no question mark or text. One compact balanced scene.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square word-sense illustration for a vocabulary game.\nExact target: \"or\" / conj. / \"或\".\nPrimary requirement: current sense must be understandable from visible relationships alone without any word or definition. Eliminate conflicting gesture and object cues.\nScene: Show two ALTERNATIVE options with no choice yet made: a seated child centered holds ONE small empty plate with only room for one fruit. On the LEFT an adult hand offers one red apple; on the RIGHT another adult hand offers one green pear, equally sized and equally prominent. Only hands enter from the edges, not adult heads or bodies. The child looks midway between the two offered fruits, with a thoughtful gently unsure expression and both hands holding the empty plate, NOT reaching for or rejecting either option. A subtle forked nonverbal line from the empty plate branches to apple and pear, making the alternatives clear: apple OR pear, either one. No plus sign, no acceptance/refusal gestures, no fruit already chosen, no pile of fruit, no question mark or text. One compact balanced scene.\nStyle: warm off-white paper, soft gouache and colored-pencil texture, muted green blue coral, gentle daylight, clear uncluttered margins. Legible on an 80px vocabulary card.\nConstraints: no words, letters, numbers, written labels, watermark, logo, borders or card UI. One independent sense image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-eed51593-4f04-4411-a72d-a9afaa9281f2.png",
+      "originalLocalPath": "output/imagegen/source/or-2253.png",
+      "candidatePath": "output/imagegen/review/2253/or.webp",
+      "intendedSavedPath": "public/images/words/or.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "07",
+        "primary": "在苹果和梨之间作选择",
+        "alternatives": [
+          "苹果还是梨",
+          "犹豫"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "两个对等选项与从同一空盘分叉的箭头明确备选关系，尚未接受或拒绝任何一个，清楚支持或。"
+      },
+      "savedPath": "public/images/words/or.webp"
+    }
+  ],
+  "candidates": [],
+  "semanticDeferrals": [
+    {
+      "word": "the",
+      "pos": "art.",
+      "meaning": "那",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "定冠词与指示代词的区别尚无清楚的无文字画面方案。"
+    },
+    {
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "单纯对象图会变成名词插图，尚未明确表现判断关系。"
+    },
+    {
+      "word": "of",
+      "pos": "prep.",
+      "meaning": "的",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "当前释义关系宽泛，尚未确定不牵强的具体场景。"
+    },
+    {
+      "word": "do",
+      "pos": "v.",
+      "meaning": "做",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "普通具体动作难以区别于该动作本身，仍需设计。"
+    },
+    {
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "被动关系不能由普通动作图明确区分，仍需设计。"
+    }
+  ]
+}
