@@ -66,6 +66,19 @@
 .pos-chip { max-width: 100%; }
 .memory-meaning { align-items: flex-start; }
 .memory-card .pos-chip { flex-shrink: 0; }
+.memory-card.has-illustration { display: flex; align-items: center; gap: 14px; }
+.memory-image { width: 104px; height: 104px; }
+.memory-card-copy { flex: 1; min-width: 0; }
+.memory-header .phase-label { flex-shrink: 0; white-space: nowrap; }
+.memory-card .pronounce { flex-shrink: 0; }
+.memory-meaning > span:last-child { min-width: 0; overflow-wrap: anywhere; }
+@media (max-width: 1100px) {
+  .memory-card.has-illustration { gap: 10px; }
+  .memory-image { width: 80px; height: 80px; }
+}
+@media (min-width: 721px) and (max-width: 900px), (max-width: 600px) {
+  .memory-grid { grid-template-columns: minmax(0, 1fr); }
+}
 @media (max-width: 1100px) { .main-nav { gap: 15px; } .stage-choice { grid-template-columns: 1fr; gap: 5px; } .stage-index { display: none; } .stage-density { grid-column: auto; } .course-detail { align-items: flex-start; } .course-detail h3 { display: block; } .course-detail h3 span { display: block; margin-top: 6px; } .dictionary-controls { flex-wrap: wrap; justify-content: flex-end; } .notebook-toolbar { align-items: flex-start; } }
 @media (max-width: 900px) { .course-detail { flex-direction: column; gap: 15px; } .stage-track { gap: 7px; } .stage-choice strong { font-size: 12px; } .learning-mode > button { padding: 9px 13px; } }
 @media (max-width: 720px) {

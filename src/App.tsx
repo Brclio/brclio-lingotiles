@@ -8,9 +8,10 @@ import HistoryPanel from './components/HistoryPanel';
 import VictoryCelebration from './components/VictoryCelebration';
 import MatchFusion, { type FusionEvent } from './components/MatchFusion';
 import WordHarvest from './components/WordHarvest';
+import WordIllustration from './components/WordIllustration';
 import { loadMatchAnimation, saveMatchAnimation } from './game/preferences';
 import { getMatchedTiles } from './game/matchPresentation';
-import { preloadWordIllustrations, recordIllustrationPractice } from './game/wordIllustrations';
+import { getWordIllustration, preloadWordIllustrations, recordIllustrationPractice } from './game/wordIllustrations';
 import { appendCompletion } from './game/history';
 import { loadCourseLevel, loadManifest, stageProfile, STAGE_PROFILES, type CourseLevel, type StageId, type VocabularyManifest } from './data/library';
 import { getCurrentStreak, loadProgress, markSeen, recordResult, saveProgress, toggleSaved } from './game/progress';
@@ -28,10 +29,13 @@ function StarRating({ value, size = 12 }: { value: number; size?: number }) {
 }
 
 function WordCard({ word, speak }: { word: Word; speak: (text: string) => void }) {
-  return <article className="memory-card">
-    <div className="memory-word-line"><h3 className="memory-word" lang="en">{word.word}</h3><button className="pronounce" aria-label={`朗读 ${word.word}`} onClick={() => speak(word.word)}><Volume2 size={16} /></button></div>
-    <p className="phonetic" lang="en">{word.phonetic}</p>
-    <div className="memory-meaning"><span className="pos-chip" title={POS_LABELS[word.pos]}>{word.pos}</span><span>{word.meaning}</span></div>
+  return <article className={`memory-card${getWordIllustration(word) ? ' has-illustration' : ''}`}>
+    <WordIllustration word={word} className="memory-image" />
+    <div className="memory-card-copy">
+      <div className="memory-word-line"><h3 className="memory-word" lang="en">{word.word}</h3><button className="pronounce" aria-label={`朗读 ${word.word}`} onClick={() => speak(word.word)}><Volume2 size={16} /></button></div>
+      <p className="phonetic" lang="en">{word.phonetic}</p>
+      <div className="memory-meaning"><span className="pos-chip" title={POS_LABELS[word.pos]}>{word.pos}</span><span>{word.meaning}</span></div>
+    </div>
   </article>;
 }
 
@@ -112,8 +116,8 @@ export default function App() {
 
   useEffect(() => { loadManifest().then(setManifest).catch(() => {}); }, []);
   useEffect(() => {
-    if (matchAnimation && view === 'game') preloadWordIllustrations(level.words);
-  }, [matchAnimation, view, level.words]);
+    if (view === 'game') preloadWordIllustrations(level.words);
+  }, [view, level.words]);
 
   useEffect(() => {
     setStorageAvailable(saveProgress(progress));
