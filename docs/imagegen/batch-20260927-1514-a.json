@@ -1,0 +1,59 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "batch-20260927-1514-a",
+  "generatedAt": "2026-09-28",
+  "assets": [
+    {
+      "word": "proud",
+      "pos": "adj.",
+      "meaning": "自豪的",
+      "senseId": "1c3cfcfe495c9c58ac4f60691cd2efa9780fb635fcf507505240a427b359be63",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"proud\",\"pos\":\"adj.\",\"meaning\":\"自豪的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): I am proud of the progress you have made. 我为你取得的进步感到自豪。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A child standing tall with a warm satisfied confident smile proudly presents a small completed handmade wooden birdhouse held carefully at chest height; a parent nearby looks admiringly at the child's successful work with a gentle approving hand on the child's shoulder. Central clear expression of pride in progress and achievement, not arrogance or boasting. No trophies, medals, badges, lettering.",
+      "alt": "孩子挺胸微笑展示亲手完成的小鸟屋，旁边的家长赞许地看着",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-b9fcf2cc-4912-4d70-9025-899c6b4b8cb9.png",
+      "originalLocalPath": "output/imagegen/source/proud.png",
+      "savedPath": "public/images/words/proud.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "calm",
+      "pos": "adj.",
+      "meaning": "平静的",
+      "senseId": "eab6686a7fd3f36b1986f0e85f5a61bc925b171af268aa4fff9091aab3e491a0",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"calm\",\"pos\":\"adj.\",\"meaning\":\"平静的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): She stayed calm during the interview. 她在面试时保持了平静。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: An adult woman remains visibly calm during a friendly interview: seated upright with relaxed shoulders, soft steady eyes and a composed gentle mouth, hands resting comfortably in her lap. One other adult listening from the opposite chair is shown partly from behind, with a plain small table between them. Her calm expression is the unmistakable central focus, not sleep, excitement, or sadness. Sparse warm setting, no papers with text.",
+      "alt": "面试中的女子神情平静，肩膀放松，双手自然放在膝上",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-d6d033cd-1a63-40a5-a24e-d08ea418f920.png",
+      "originalLocalPath": "output/imagegen/source/calm.png",
+      "savedPath": "public/images/words/calm.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "curious",
+      "pos": "adj.",
+      "meaning": "好奇的",
+      "senseId": "d196c2ed753987aa011171b8f9d49715e2130a2da306a6500fa9f301bf3cf2cd",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"curious\",\"pos\":\"adj.\",\"meaning\":\"好奇的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): The child is curious about the stars. 这个孩子对星星充满好奇。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A child at an open window under a small patch of clear starry night sky, wide interested eyes and slightly raised brows, leaning toward a small telescope then gazing up curiously at the stars. One hand lightly rests on the telescope; face clearly shows eager questioning curiosity rather than fear or mere happiness. Keep face, telescope and a few stars in one coherent simple scene. No constellation lines, zodiac signs, questions marks or text. Soft twilight rather than daytime.",
+      "alt": "孩子睁大好奇的眼睛望向星空，身旁架着一台小望远镜",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-a5b00343-24d7-495b-84f6-a9bbd6bf12af.png",
+      "originalLocalPath": "output/imagegen/source/curious.png",
+      "savedPath": "public/images/words/curious.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "worry",
+      "pos": "v.",
+      "meaning": "担心",
+      "senseId": "bf165cb0401312874db72a56acc4d4c183e4b26a5c7f0e792025bf8baa9d0e24",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"worry\",\"pos\":\"v.\",\"meaning\":\"担心\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): Do not worry about small mistakes. 别为小错误担心。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: One child sits at a simple drawing table, looking with knitted eyebrows and a small tense mouth at a small accidental paint smudge on a drawing of a flower. One hand lightly against their cheek, visibly worrying about a minor mistake. Focus on the concerned expression and tiny mistake, not sadness, crying, danger, or guilt. Drawing contains only a flower picture, absolutely no writing.",
+      "alt": "孩子皱眉托着脸，看着画纸上的一小处颜料污点，担心自己画错了",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-1eb97121-0ebc-4440-9b57-3228f894a2ab.png",
+      "originalLocalPath": "output/imagegen/source/worry.png",
+      "savedPath": "public/images/words/worry.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    }
+  ]
+}

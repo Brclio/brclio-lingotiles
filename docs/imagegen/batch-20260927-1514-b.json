@@ -1,0 +1,50 @@
+{
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "assets": [
+    {
+      "word": "grateful",
+      "pos": "adj.",
+      "meaning": "感激的",
+      "alt": "收到帮助的人把手放在胸前，微笑感谢为她捡起掉落书本的朋友",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"grateful\" / adj. / \"感激的\".\nSense context (not image text): I am grateful for your help. 我很感激你的帮助。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: Two adult friends in a simple garden setting. One friend has just helped pick up several dropped plain books and is returning them. The recipient has a relieved warm smile, one open hand resting over her heart and a slight appreciative bow, making her grateful expression central. The helper's offered books clearly explain the reason for gratitude. No writing on books. Show thanks for help, not merely giving a gift.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-354d04a8-008c-4d5c-8777-d625d2960467.png",
+      "savedPath": "public/images/words/grateful.webp",
+      "reviewed": true
+    },
+    {
+      "word": "sketch",
+      "pos": "n.",
+      "meaning": "草图",
+      "alt": "画本上以松散铅笔线条画出的房间草图，旁边放着铅笔",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"sketch\" / n. / \"草图\".\nSense context (not image text): She made a quick sketch of the room. 她快速画了一张房间的草图。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: An open sketchbook seen at an overhead three-quarter angle. One page contains a visibly loose rough pencil sketch of a cozy room, with a chair, window, little table and a plant indicated by quick exploratory lines. Faint construction lines and unfinished areas show that this is a preliminary sketch, not a finished painting. A simple sharpened pencil lies alongside. The sketched page is the central noun object. No writing, no labels, no numbers.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-cd78d29c-d18f-4192-bc8c-049515d02fdb.png",
+      "savedPath": "public/images/words/sketch.webp",
+      "reviewed": true
+    },
+    {
+      "word": "focus",
+      "pos": "v.",
+      "meaning": "专注",
+      "alt": "学生凝神完成桌上的木质拼图，专心对齐手中的一块",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"focus\" / v. / \"专注\".\nSense context (not image text): Try to focus on one task at a time. 试着一次只专注于一项任务。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: A student at a simple desk is deeply absorbed in a single small wooden jigsaw puzzle. Their eyes are fixed intently on the last piece held carefully in their fingers; they lean slightly forward to align that piece with the open space. Quiet concentrated face, no distractions or extra tasks, uncluttered background. Clearly illustrate concentrating attention on one task, not a camera lens or optical focus.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-f5fc72f2-6247-42b1-b747-621db7b5b717.png",
+      "savedPath": "public/images/words/focus.webp",
+      "reviewed": true
+    },
+    {
+      "word": "create",
+      "pos": "v.",
+      "meaning": "创造",
+      "alt": "艺术家的双手把柔软陶泥塑造成一只新杯子",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"create\" / v. / \"创造\".\nSense context (not image text): You can create a new world with words. 你可以用文字创造一个新世界。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: An artist actively creates a new ceramic mug from soft clay on a small pottery wheel. Two natural hands are visibly shaping the emerging mug: one forms the rim, the other smooths the side. A little lump of unshaped clay nearby provides the starting material. Show a newly made object coming into existence through the person's hands, not repairing or washing an existing cup. Hands and emerging vessel are the bold central subject, the potter's torso only lightly suggested.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-23dbae98-4243-4e11-a57f-15d048d4ef80.png",
+      "savedPath": "public/images/words/create.webp",
+      "reviewed": true
+    }
+  ]
+}

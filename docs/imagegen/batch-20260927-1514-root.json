@@ -1,0 +1,62 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-1514-root",
+  "assets": [
+    {
+      "word": "straight",
+      "pos": "adv.",
+      "meaning": "径直",
+      "alt": "行人沿一条笔直的人行道向前走，经过侧边岔路也没有转弯",
+      "scene": "An adult walks directly forward along one straight village footpath toward a small house ahead. A short side path branches away, but the walker continues on the straight main path with body and gaze clearly aimed forward, not turning. Mild elevated three-quarter viewpoint makes the direct route clear. A few subtle receding footprints behind the walker remain on the main path. This represents going straight ahead, not merely a straight-shaped object.",
+      "context": "Go straight along this street. 沿着这条街一直往前走。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"straight\" / adv. / \"径直\".\nSense context (not image text): Go straight along this street. 沿着这条街一直往前走。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: An adult walks directly forward along one straight village footpath toward a small house ahead. A short side path branches away, but the walker continues on the straight main path with body and gaze clearly aimed forward, not turning. Mild elevated three-quarter viewpoint makes the direct route clear. A few subtle receding footprints behind the walker remain on the main path. This represents going straight ahead, not merely a straight-shaped object.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered within the middle 70 percent, generous empty paper margins, key subjects fully visible and clearly legible at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-6c52a67e-5e5d-481a-88d7-d951dfb98ba0.png",
+      "savedPath": "public/images/words/straight.webp",
+      "originalLocalPath": "output/imagegen/source/straight.png",
+      "reviewed": true,
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    },
+    {
+      "word": "joy",
+      "pos": "n.",
+      "meaning": "喜悦",
+      "alt": "孩子与迎面扑来的小狗重逢，脸上洋溢着喜悦",
+      "scene": "A child kneels on a garden lawn, delighted to greet a small friendly dog returning into their open arms. Focus on the child's face with a broad bright smile, crinkled happy eyes and raised cheeks, and the wagging dog. The feeling of deep uncomplicated joy is the main subject. One intimate everyday scene with no symbolic icons.",
+      "context": "Her face was full of joy. 她的脸上洋溢着喜悦。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"joy\" / n. / \"喜悦\".\nSense context (not image text): Her face was full of joy. 她的脸上洋溢着喜悦。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: A child kneels on a garden lawn, delighted to greet a small friendly dog returning into their open arms. Focus on the child's face with a broad bright smile, crinkled happy eyes and raised cheeks, and the wagging dog. The feeling of deep uncomplicated joy is the main subject. One intimate everyday scene with no symbolic icons.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered within the middle 70 percent, generous empty paper margins, key subjects fully visible and clearly legible at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-de3469c6-57ec-4595-94ee-3a6fdbf330d9.png",
+      "savedPath": "public/images/words/joy.webp",
+      "originalLocalPath": "output/imagegen/source/joy.png",
+      "reviewed": true,
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    },
+    {
+      "word": "courage",
+      "pos": "n.",
+      "meaning": "勇气",
+      "alt": "孩子鼓起勇气站到小舞台的麦克风前，面对台下观众",
+      "scene": "A school-age child bravely takes one first step toward a microphone on a very low school stage for their first short speech, despite a visibly nervous but determined expression. Their body is upright, one hand lightly clenched for resolve. Three softly suggested audience members sit attentively facing them. Show the child's decision to face fear and try something new, not winning a prize or showing off. No pages with writing or banners.",
+      "context": "It takes courage to try something new. 尝试新事物需要勇气。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"courage\" / n. / \"勇气\".\nSense context (not image text): It takes courage to try something new. 尝试新事物需要勇气。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: A school-age child bravely takes one first step toward a microphone on a very low school stage for their first short speech, despite a visibly nervous but determined expression. Their body is upright, one hand lightly clenched for resolve. Three softly suggested audience members sit attentively facing them. Show the child's decision to face fear and try something new, not winning a prize or showing off. No pages with writing or banners.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered within the middle 70 percent, generous empty paper margins, key subjects fully visible and clearly legible at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-d7c0b5d0-4227-4cc6-aa74-c5ad9070dc2d.png",
+      "savedPath": "public/images/words/courage.webp",
+      "originalLocalPath": "output/imagegen/source/courage.png",
+      "reviewed": true,
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    },
+    {
+      "word": "trust",
+      "pos": "v.",
+      "meaning": "信任",
+      "alt": "一个人放心地闭眼微微后倾，信任身后的朋友稳稳扶住自己",
+      "scene": "Two adult friends practice a gentle trust exercise at ground level on a soft grassy lawn. The person in front closes their eyes peacefully and leans back just a little into the reliable friend's waiting hands; the person behind stands securely and already supports their shoulders with both hands. The front person's relaxed face and open hands show they confidently rely on their friend. Both keep their feet on the ground, no fall, no height, no danger. Make relying on someone obvious, not romantic hugging.",
+      "context": "I trust you to make a good choice. 我相信你会做出好的选择。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"trust\" / v. / \"信任\".\nSense context (not image text): I trust you to make a good choice. 我相信你会做出好的选择。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: Two adult friends practice a gentle trust exercise at ground level on a soft grassy lawn. The person in front closes their eyes peacefully and leans back just a little into the reliable friend's waiting hands; the person behind stands securely and already supports their shoulders with both hands. The front person's relaxed face and open hands show they confidently rely on their friend. Both keep their feet on the ground, no fall, no height, no danger. Make relying on someone obvious, not romantic hugging.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered within the middle 70 percent, generous empty paper margins, key subjects fully visible and clearly legible at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-88fecc88-3d8c-46a5-ad7d-fe67a9c10719.png",
+      "savedPath": "public/images/words/trust.webp",
+      "originalLocalPath": "output/imagegen/source/trust.png",
+      "reviewed": true,
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    }
+  ]
+}

@@ -2,6 +2,14 @@
 
 2026-09-27，本地开发环境。
 
+## 配图批次 20260927-1514（北京时间 9 月 28 日完成）
+
+- 通过内置 imagegen 独立生成 straight、joy、courage、trust、worry、proud、calm、curious、grateful、sketch、focus、create，共 12 张；逐张核对词性和游戏义项，保留完整提示词与原始来源到 `docs/imagegen/batch-20260927-1514-{root,a,b}.json`。全部为独立 640×640 WebP，解码检查通过，合计 638,892 字节。
+- 发布索引和全量任务清单均为 `ready: 36 / pending: 99964`，102 片全量目录、33 片发布索引检查通过，元数据问题为 0。现有 69 项测试、TypeScript 与生产构建通过。
+- 生产版「城市漫游」8 张记忆图片齐全；320px 手机实际完成 24 次选牌，8 张合成词卡加载正确图片并进入收获区，straight 的完整图文词卡清楚显示。合成开关首次仍为关闭。
+- 生产版「心情调色盘」10 个词均显示对应图片，1440px 桌面与 320px 手机页面已检查，手机没有横向溢出。本批 12 个词逐一在单词本搜索核对，均加载各自的 640px 图片和精确游戏义项；相近拼写没有误用插图。
+- 首页显示已内置 36 / 100,000、待补齐 99,964；浏览器控制台检查无错误或警告。截图保存在 `output/playwright/batch-1514-*`。
+
 ## 配图批次 20260927-1414
 
 - 使用内置 imagegen 逐词独立生成 share、tidy、simple、often、together、corner、station、bridge、explore、follow、crowded、nearby，共 12 张；逐张核对游戏中的英文、词性、中文义项后保存为 640×640 WebP。完整提示词和生成来源分别保存在 `docs/imagegen/batch-20260927-1414-{root,a,b}.json`。
