@@ -10,6 +10,9 @@
 .fusion-card-eyebrow { display: flex; align-items: center; gap: 6px; color: var(--green); font-size: 11px; font-weight: 600; margin-bottom: 15px; }
 .fusion-card-eyebrow > span { display: grid; place-items: center; width: 17px; height: 17px; background: var(--green-soft); border-radius: 50%; font-size: 11px; }
 .fusion-card-eyebrow i { font-size: 10px; font-style: normal; font-weight: 400; color: var(--muted); margin-left: auto; }
+.fusion-card-content { display: flex; flex-direction: column; gap: 15px; }
+.fusion-card-copy { min-width: 0; }
+.fusion-card-image { width: 100%; height: 150px; }
 .fusion-card-word { display: block; color: var(--ink); font-family: Georgia, 'Times New Roman', serif; font-size: clamp(25px, 6.7vw, 32px); font-weight: 700; line-height: 1.22; overflow-wrap: anywhere; }
 .fusion-card-phonetic { display: block; color: var(--muted); font-size: 12px; line-height: 1.6; overflow-wrap: anywhere; margin-top: 5px; }
 .fusion-card-definition { display: flex; align-items: flex-start; gap: 10px; margin-top: 18px; padding-top: 13px; border-top: 1px solid var(--line); }
@@ -20,4 +23,14 @@
   .fusion-word-card { padding: 17px 18px 20px; }
   .fusion-card-definition { gap: 8px; }
   .fusion-card-definition > strong { font-size: 16px; }
+}
+@media (max-height: 650px) {
+  .fusion-word-card.is-illustrated { width: min(460px, calc(100vw - 36px)); padding: 13px 16px 16px; }
+  .is-illustrated .fusion-card-eyebrow { margin-bottom: 10px; }
+  .is-illustrated .fusion-card-content { flex-direction: row; align-items: center; gap: 13px; }
+  .is-illustrated .fusion-card-image { width: 100px; height: 120px; }
+  .is-illustrated .fusion-card-copy { flex: 1; }
+  .is-illustrated .fusion-card-word { font-size: 26px; }
+  .is-illustrated .fusion-card-definition { margin-top: 10px; padding-top: 8px; gap: 6px; }
+  .is-illustrated .fusion-card-definition > strong { font-size: 15px; }
 }

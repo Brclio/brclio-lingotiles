@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "vocabulary-garden-a",
+  "generatedAt": "2026-09-27",
+  "assets": [
+    {
+      "word": "apple",
+      "pos": "n.",
+      "meaning": "苹果",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration in an existing gentle garden game.\nStyle/medium: hand-painted gouache with colored-pencil texture.\nScene/backdrop: warm off-white paper backdrop, sparse background.\nComposition/framing: square frame; clear bold central subject entirely inside the center 70 percent, readable on a small card.\nLighting/mood: soft daylight, gentle and friendly.\nColor palette: natural muted green, blue, coral.\nConstraints: no letters, numbers, labels, logos, watermarks, borders, or card UI.\nPrimary request: illustrate the English word apple meaning 苹果.\nSubject: a single unmistakable red apple with a small green leaf and short stem. Only one apple, natural recognizable fruit shape, no face or characters.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-7932863b-cd38-4040-87d1-a0b79f89951a.png",
+      "savedPath": "public/images/words/apple.webp",
+      "originalLocalPath": "output/imagegen/source/apple.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "water",
+      "pos": "n.",
+      "meaning": "水",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration in an existing gentle garden game.\nStyle/medium: hand-painted gouache with colored-pencil texture.\nScene/backdrop: warm off-white paper backdrop, sparse background.\nComposition/framing: square frame; clear bold central subject entirely inside the center 70 percent, readable on a small card.\nLighting/mood: soft daylight, gentle and friendly.\nColor palette: natural muted green, blue, coral.\nConstraints: no letters, numbers, labels, logos, watermarks, borders, or card UI.\nPrimary request: illustrate the English word water meaning 水.\nSubject: clear drinking glass filled with clean pale blue-tinted water, a gentle pouring stream entering the glass with one small water droplet, emphasize the water itself. No beverage color, no ice or straw.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-0a106dfb-96aa-4f3c-944d-383583657444.png",
+      "savedPath": "public/images/words/water.webp",
+      "originalLocalPath": "output/imagegen/source/water.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "slowly",
+      "pos": "adv.",
+      "meaning": "缓慢地",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration in an existing gentle garden game.\nStyle/medium: hand-painted gouache with colored-pencil texture.\nScene/backdrop: warm off-white paper backdrop, sparse background.\nComposition/framing: square frame; clear bold central subject entirely inside the center 70 percent, readable on a small card.\nLighting/mood: soft daylight, gentle and friendly.\nColor palette: natural muted green, blue, coral.\nConstraints: no letters, numbers, labels, logos, watermarks, borders, or card UI.\nPrimary request: clearly illustrate the adverb slowly meaning 缓慢地.\nSubject: small friendly snail slowly crawling across a short garden path, tiny progress and relaxed movement, low simple shell, readable full body. No speed streaks, no motion blur, no clock, no race. The snail and short path are the clear central focus.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-a9d352d2-bbc6-4095-8789-3bcbd3c14212.png",
+      "savedPath": "public/images/words/slowly.webp",
+      "originalLocalPath": "output/imagegen/source/slowly.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    }
+  ]
+}

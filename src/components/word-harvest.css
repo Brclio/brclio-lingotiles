@@ -17,20 +17,33 @@
 .harvest-heading strong { font-weight: 500; margin-left: 2px; font-variant-numeric: tabular-nums; }
 .harvest-heading button { display: flex; align-items: center; gap: 4px; border: 0; background: transparent; color: var(--green); font-size: 11px; padding: 4px 0 4px 8px; }
 .harvest-heading button:disabled { opacity: .5; }
-.harvest-destination { display: flex; align-items: center; justify-content: space-between; gap: 8px 15px; flex-wrap: wrap; min-height: 56px; padding-top: 8px; }
+.harvest-destination { display: flex; align-items: center; gap: 12px; min-height: 70px; padding-top: 8px; }
 .harvest-destination p { font-size: 12px; color: var(--muted); }
+.harvest-image { width: 64px; height: 64px; }
+.harvest-word-copy { flex: 1; min-width: 0; }
 .harvest-word { font-family: Georgia, serif; font-size: 21px; font-weight: 600; line-height: 1.2; overflow-wrap: anywhere; max-width: 100%; }
-.harvest-meaning { display: flex; align-items: flex-start; gap: 7px; font-size: 12px; line-height: 1.65; overflow-wrap: anywhere; }
+.harvest-meaning { display: flex; align-items: flex-start; gap: 7px; margin-top: 5px; font-size: 12px; line-height: 1.65; overflow-wrap: anywhere; }
 .harvest-meaning .pos-chip { flex-shrink: 0; }
 .harvest-collection { max-height: min(36vh, 320px); overflow: auto; overscroll-behavior: contain; margin-top: 8px; border-bottom: 1px solid var(--line); }
-.harvest-collected-word { padding: 10px 0; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 7px 12px; }
+.harvest-collected-word { padding: 10px 0; display: flex; align-items: center; gap: 12px; }
 .harvest-collected-word + .harvest-collected-word { border-top: 1px solid var(--line); }
 .harvest-collected-word .harvest-word { font-size: 17px; }
-.app.has-word-harvest { padding-bottom: 145px; }
-.app.has-word-harvest .toast { bottom: 160px; }
+.harvest-illustration-status { margin: 10px 0 4px; color: var(--muted); font-size: 11px; line-height: 1.7; }
+.harvest-illustration-status button { border: 0; border-radius: 3px; padding: 3px 0; background: none; color: var(--green); font-size: 11px; text-decoration: underline; text-underline-offset: 3px; }
+.harvest-illustration-status button:hover { color: var(--ink); }
+.harvest-illustration-status button:active { opacity: .75; }
+.harvest-illustration-status button:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
+.app.has-word-harvest { padding-bottom: 165px; }
+.app.has-word-harvest .toast { bottom: 180px; }
 @media (max-width: 1100px) {
   .learning-options { align-items: flex-start; flex-direction: column; gap: 13px; }
   .fusion-setting { justify-content: space-between; width: 100%; }
+}
+@media (max-height: 450px) {
+  .word-harvest { bottom: 10px; padding-block: 8px; }
+  .harvest-destination { min-height: 51px; padding-top: 5px; }
+  .harvest-destination .harvest-image { width: 45px; height: 45px; }
+  .harvest-collection { max-height: 32vh; }
 }
 @media (max-width: 720px) {
   .learning-options { gap: 12px; }

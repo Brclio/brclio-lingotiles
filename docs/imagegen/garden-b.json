@@ -1,0 +1,38 @@
+{
+  "mode": "builtin",
+  "tool": "image_gen",
+  "generatedAt": "2026-09-27",
+  "useCase": "illustration-story",
+  "assets": [
+    {
+      "word": "leaf",
+      "pos": "n.",
+      "meaning": "叶子",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration in an existing gentle garden game.\nPrimary request: illustrate the precise meaning of the English noun \"leaf\" (叶子).\nSubject: a single unmistakable green leaf with fine branching veins and one short stem, the entire leaf visible.\nScene/backdrop: warm off-white paper backdrop, sparse empty background.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture, clear bold central subject, soft natural muted green with restrained blue and coral accents only if needed.\nComposition/framing: square image; keep the whole subject inside the center 70 percent, readable on a small vocabulary card.\nLighting/mood: softly lit, calm and inviting.\nConstraints: exactly one leaf, botanical recognizability, no letters, numbers, labels, logos, watermark or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-6240df2c-6c9f-40c7-85ef-f5ae804993cf.png",
+      "savedPath": "public/images/words/leaf.webp",
+      "originalLocalPath": "output/imagegen/source/leaf.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "grow",
+      "pos": "v.",
+      "meaning": "生长",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration in an existing gentle garden game.\nPrimary request: illustrate the precise meaning of the English verb \"grow\" (生长).\nSubject: one coherent botanical growth sequence, from a sprouting seed at left to a small leafy plant in the middle to a taller healthy leafy plant at right, sharing one short continuous soil cross-section. Clearly show increasing size and stages of the same plant; the concept is growth, not watering.\nScene/backdrop: warm off-white paper backdrop, sparse empty background.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture, clear bold central subjects, natural muted greens and warm brown soil, restrained blue or coral only if needed.\nComposition/framing: square image; keep all stages within the center 70 percent; readable on a small vocabulary card with generous surrounding empty paper.\nLighting/mood: softly lit, calm and inviting.\nConstraints: no watering can, no letters, numbers, arrows, labels, logos, watermark or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-1b02778f-150c-4566-ba09-8f4c5ee52c25.png",
+      "savedPath": "public/images/words/grow.webp",
+      "originalLocalPath": "output/imagegen/source/grow.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "fresh",
+      "pos": "adj.",
+      "meaning": "新鲜的",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration in an existing gentle garden game.\nPrimary request: illustrate the precise meaning of the English adjective \"fresh\" (新鲜的).\nSubject: a crisp newly harvested leafy lettuce beside one bright orange carrot and one ripe red tomato; tiny clear dewdrops on the healthy vegetables convey freshness. All food looks recently harvested, firm, clean and appetizing, with naturally vibrant leaves.\nScene/backdrop: warm off-white paper backdrop, sparse empty background.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture, clear bold central subjects, natural muted greens and coral red with the warm orange carrot.\nComposition/framing: square image; group the three vegetables tightly inside the center 70 percent, entire group visible and readable on a small vocabulary card.\nLighting/mood: softly lit, calm and inviting.\nConstraints: no stale or wilted objects, no human characters, no packaging, no letters, numbers, labels, logos, watermark or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-7d77e2a9-7723-4b61-8487-d59a58482a75.png",
+      "savedPath": "public/images/words/fresh.webp",
+      "originalLocalPath": "output/imagegen/source/fresh.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    }
+  ]
+}

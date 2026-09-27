@@ -10,6 +10,7 @@ import MatchFusion, { type FusionEvent } from './components/MatchFusion';
 import WordHarvest from './components/WordHarvest';
 import { loadMatchAnimation, saveMatchAnimation } from './game/preferences';
 import { getMatchedTiles } from './game/matchPresentation';
+import { preloadWordIllustrations, recordIllustrationPractice } from './game/wordIllustrations';
 import { appendCompletion } from './game/history';
 import { loadCourseLevel, loadManifest, stageProfile, STAGE_PROFILES, type CourseLevel, type StageId, type VocabularyManifest } from './data/library';
 import { getCurrentStreak, loadProgress, markSeen, recordResult, saveProgress, toggleSaved } from './game/progress';
@@ -89,6 +90,7 @@ export default function App() {
   const phaseRef = useRef(phase);
   phaseRef.current = phase;
   const toastTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const illustrationStorageWarned = useRef(false);
   const notify = useCallback((message: string) => {
     setToast(message);
     if (toastTimer.current) clearTimeout(toastTimer.current);
@@ -109,6 +111,9 @@ export default function App() {
   };
 
   useEffect(() => { loadManifest().then(setManifest).catch(() => {}); }, []);
+  useEffect(() => {
+    if (matchAnimation && view === 'game') preloadWordIllustrations(level.words);
+  }, [matchAnimation, view, level.words]);
 
   useEffect(() => {
     setStorageAvailable(saveProgress(progress));
@@ -308,6 +313,10 @@ export default function App() {
     setHinted(ids => ids.filter(item => item !== id));
     if (next.lastMatch) {
       const word = level.words.find(item => item.id === next.lastMatch)!;
+      if (!recordIllustrationPractice(word) && !illustrationStorageWarned.current) {
+        illustrationStorageWarned.current = true;
+        notify('待配图词单暂时只保存在本页，可在收获区展开后导出备份。');
+      }
       setLastMatched(word);
       if (sound) speak(word.word);
     }
