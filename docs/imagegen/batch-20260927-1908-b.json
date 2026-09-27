@@ -1,0 +1,94 @@
+{
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "assets": [
+    {
+      "word": "abroad",
+      "pos": "adv.",
+      "meaning": "在国外",
+      "alt": "带有中国国旗身份线索的学生在法国校园读书，背后可见法国国旗和埃菲尔铁塔",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"abroad\" / adv. / \"在国外\".\nSense context from lesson (not image text): My sister is studying abroad this year. 我姐姐今年在国外留学。\nPrimary request: communicate this precise meaning without an English or Chinese caption. Prioritize immediately readable semantic clues over decoration.\nScene: An international student from China is visibly already studying in France. Show the student sitting at an outdoor university courtyard table with open study books whose pages contain no writing. Their travel suitcase beside the chair has a small clearly recognizable Chinese national flag patch: red rectangle with one large and four small golden stars, a home-country cue. A closed red passport is next to the books, no lettering or emblem. In the background a French blue-white-red vertical tricolor flag hangs at the stone university doorway and the recognizable Eiffel Tower is visible beyond, providing an unmistakably different host country. The student is settled and learning there, not boarding a plane or merely dreaming of travel. Keep the nationality cue, foreign setting and study activity legible. Flags are the only national symbols; no words, letters, numbers or logos anywhere.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: square with generous empty paper margins, important subjects entirely visible, simple enough for a small card.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-9c989352-f294-49b1-b53f-916789b1689a.png",
+      "candidatePath": "output/imagegen/review/1908/abroad.webp",
+      "intendedSavedPath": "public/images/words/abroad.webp",
+      "reviewed": true,
+      "reviewNote": "Awaiting independent blind semantic review. Generator sees study activity with clear Chinese origin cue and French host-country setting.",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "47",
+        "primary": "一名女子带着行李，在巴黎的户外桌边读书、写笔记。法国旗帜和埃菲尔铁塔明确交代地点。",
+        "alternatives": [
+          "出国学习／留学",
+          "旅行途中学习"
+        ],
+        "reason": "行李上的中国标识与法国当地环境同时出现，地点变化明确支撑在国外；无论学习还是旅游都符合当前在国外义项。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "originalLocalPath": "output/imagegen/source/abroad-1908.png",
+      "optimization": "cwebp -q 82 -resize 640 0",
+      "status": "ready",
+      "savedPath": "public/images/words/abroad.webp"
+    },
+    {
+      "word": "forward",
+      "pos": "adv.",
+      "meaning": "向前",
+      "alt": "侧身朝右的人向自己面朝的方向迈步，身后留下同向脚印",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"forward\" / adv. / \"向前\".\nSense context from lesson (not image text): Take one small step forward. 向前迈出一小步。\nPrimary request: communicate this precise meaning without an English or Chinese caption. Prioritize immediately readable semantic clues over decoration.\nScene: A clear full-body SIDE PROFILE of one person facing to the right, calmly taking a deliberate step FORWARD in exactly the direction their face and chest point. Their front foot extends onto the next empty stepping stone ahead to the right, back heel lifts on the previous stone to the left. A short row of fresh footprints on the path trails only behind them on the left, each footprint oriented toward the right. The open path continues a short distance in front on the right. Show a small controlled forward step, not running or jumping, no backward glance. Bold uncluttered side-on silhouette and matching facing direction, foot motion and behind-trail are crucial. No arrows, motion text or signs.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: square with generous empty paper margins, important subjects entirely visible, simple enough for a small card.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-d5c43085-9d1b-491b-ae29-d02227b2ca00.png",
+      "candidatePath": "output/imagegen/review/1908/forward.webp",
+      "intendedSavedPath": "public/images/words/forward.webp",
+      "reviewed": true,
+      "reviewNote": "Awaiting independent blind semantic review. Generator sees a right-facing figure stepping right with same-direction footprints behind; possible generic walking ambiguity must be independently checked.",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "81",
+        "primary": "女孩踩着水中的石头向前走，正在从一块石头跨到下一块。直接表现的是借助踏脚石跨过水面。",
+        "alternatives": [
+          "踩石头过河",
+          "一步步前进"
+        ],
+        "reason": "脸朝方向、前迈的腿和身后脚印一致，盲审直接判断向前走；动作方向清楚。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "originalLocalPath": "output/imagegen/source/forward-1908.png",
+      "optimization": "cwebp -q 82 -resize 640 0",
+      "status": "ready",
+      "savedPath": "public/images/words/forward.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "finally",
+      "pos": "adv.",
+      "meaning": "最后",
+      "alt": "同一幅拼图经过逐步拼合，最后把唯一剩下的一块放进空位",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"finally\" / adv. / \"最后\".\nSense context from lesson (not image text): After a long walk, we finally reached the top. 走了很久之后，我们终于到达了山顶。\nPrimary request: communicate this precise meaning without an English or Chinese caption. Prioritize immediately readable semantic clues over decoration.\nScene: A tightly connected left-to-right visual sequence of the SAME simple round wooden flower jigsaw puzzle on one continuous tabletop, showing a process reaching its very last step. At far left a small early view has many loose pieces and only a few joined. In the middle a small later view is almost finished with just one clear hole. At right the dominant large view shows a hand lowering the ONE final remaining puzzle piece into that last hole, all other pieces already joined, no loose pieces remaining. The large final view is the focus, earlier two views are smaller and paler but still recognizable. Same puzzle colors and flower design in every stage. Convey 'and finally, the last piece' rather than general concentration. One concept only, no unrelated images, no panel borders, arrows, letters or numbering.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: square with generous empty paper margins, important subjects entirely visible, simple enough for a small card.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-d50d1fc6-6ce6-4723-bb79-3114475d9b70.png",
+      "candidatePath": "output/imagegen/review/1908/finally.webp",
+      "intendedSavedPath": "public/images/words/finally.webp",
+      "reviewed": false,
+      "reviewNote": "Awaiting independent blind semantic review. Generator sees a clear progression ending with the last puzzle piece.",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "25",
+        "primary": "一只手正把拼图块放进缺口，花朵拼图接近完成。背景还展示了零散到较完整的拼图状态。",
+        "alternatives": [
+          "逐步拼好拼图",
+          "补上缺失的一块"
+        ],
+        "reason": "主要读成拼图或完成拼图，三组大小变化也可能被看成远近，最后一步的时间顺序不够明确；保留重做。",
+        "confidence": "high",
+        "decision": "deferred"
+      },
+      "originalLocalPath": "output/imagegen/source/finally-1908.png",
+      "optimization": "cwebp -q 82 -resize 640 0",
+      "status": "pending_visual_revision"
+    }
+  ]
+}

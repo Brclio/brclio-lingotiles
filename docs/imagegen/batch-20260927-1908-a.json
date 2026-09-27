@@ -1,0 +1,95 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "batch-20260927-1908-a",
+  "generatedAt": "2026-09-28",
+  "assets": [
+    {
+      "word": "distant",
+      "pos": "adj.",
+      "meaning": "遥远的",
+      "senseId": "43e6337476c1ed81ce4b6578a9dadd0a24ac6d34c8e9e6e98267a1492e4f41f4",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"distant\",\"pos\":\"adj.\",\"meaning\":\"遥远的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): We could see a distant mountain through the clouds. 透过云层，我们能看到远处的一座山。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: Make DISTANT unmistakable through strong depth and relative scale: a large sharply detailed hiker and tree occupy the lower foreground; the hiker points across a vast empty valley toward a tiny pale blue mountain peak very far away at the horizon. Several overlapping progressively smaller and hazier ridgelines stretch between foreground and remote peak. A thin winding path shrinks to a hairline across the enormous intervening distance. The far mountain is separated by substantial visual space and light cloud haze. Do not make the mountain loom large or appear nearby. This is about how far away the mountain is, not about climbing or travel.",
+      "alt": "近处人物和树木清晰巨大，远方山峰隔着长长山谷与层层云雾显得很小很淡",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-b6829012-beca-4b8b-8f27-869c8a305634.png",
+      "originalLocalPath": "output/imagegen/source/distant-1908.png",
+      "candidatePath": "output/imagegen/review/1908/distant.webp",
+      "intendedSavedPath": "public/images/words/distant.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "54",
+        "primary": "徒步者站在高处，指向远方的山谷和群山。画面直接强调眺望远处及开阔景色。",
+        "alternatives": [
+          "登山远足",
+          "俯瞰山谷"
+        ],
+        "reason": "近大远小、逐层淡化山脊和间隔辽阔谷地明确表达距离；盲审首先描述远方和远处。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "generatorReview": "近处清晰大人物与树、远处淡小山峰及多层谷地形成强距离线索；目标峰可辨认，无文字。待独立盲审。",
+      "savedPath": "public/images/words/distant.webp"
+    },
+    {
+      "word": "brave",
+      "pos": "adj.",
+      "meaning": "勇敢的",
+      "senseId": "e23949683e9ee743ecb05b127b4a4ed06a29fa99da459dc03b51f134e7f77638",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"brave\",\"pos\":\"adj.\",\"meaning\":\"勇敢的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): The brave explorer entered the dark cave. 勇敢的探险者走进了黑暗的洞穴。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: Show a BRAVE person unmistakably choosing to act despite visible danger: an adult firefighter in plain unlettered protective clothing and helmet strides forward toward a small burning wooden shed, determined face and protective stance visible, extending an arm to rescue a frightened kitten perched at the open low window. Orange flames and dark smoke behind the kitten make the danger evident, while the firefighter moves toward it rather than away. The kitten is uninjured, no bodies, blood or burns, no disaster spectacle. Focus tightly on courageous forward action and danger in the same compact composition, warm compassionate age-appropriate illustration. No logos or badges, no words.",
+      "alt": "消防员顶着烟火向前迈步，冒险去救被困在窗边的小猫",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-730156dc-426b-4d0d-87b6-6c4d01f0d2d0.png",
+      "originalLocalPath": "output/imagegen/source/brave-1908.png",
+      "candidatePath": "output/imagegen/review/1908/brave.webp",
+      "intendedSavedPath": "public/images/words/brave.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "38",
+        "primary": "消防员伸手营救被困在着火房屋窗边的小猫。",
+        "alternatives": [
+          "冒险救援",
+          "勇敢地帮助动物"
+        ],
+        "reason": "可见火焰危险与主动迎向危险的救援行动同框，直接支撑勇敢的品质；盲审识别冒险与勇敢。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "generatorReview": "消防员主动迎向可见火焰，伸手救未受伤的小猫，危险与行动同框；无文字。待独立盲审。",
+      "savedPath": "public/images/words/brave.webp"
+    },
+    {
+      "word": "peaceful",
+      "pos": "adj.",
+      "meaning": "宁静的",
+      "senseId": "55da794b8ff61fc73bace8e26bece56df0f906619a7334799be325f9814a2499",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"peaceful\",\"pos\":\"adj.\",\"meaning\":\"宁静的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): The lake is peaceful in the early morning. 清晨的湖面十分宁静。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A profoundly PEACEFUL early morning lake: perfectly still mirror-like water with crisp reflections of a few willow trees, a small empty rowboat motionless at a short wooden dock, one duck quietly floating with only the faintest tiny ripple. Soft low mist and pale sunrise, no people, traffic, houses, storm, splash or waves. Simple spacious balanced composition with very quiet water as the dominant subject. This must convey silent tranquil surroundings rather than excitement or a busy scenic attraction.",
+      "alt": "清晨湖面如镜，倒映安静的树木与小船，水边没有喧闹活动",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-15f2d9ec-da1d-4bc5-95ab-bad3b4b6bf18.png",
+      "originalLocalPath": "output/imagegen/source/peaceful-1908.png",
+      "candidatePath": "output/imagegen/review/1908/peaceful.webp",
+      "intendedSavedPath": "public/images/words/peaceful.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "92",
+        "primary": "安静、平缓的湖面映着树木和天空，小船停在岸边，低处的太阳照着薄雾。整体传达宁静的湖景。",
+        "alternatives": [
+          "湖边日出",
+          "水面倒影"
+        ],
+        "reason": "静止小船、平静镜面湖和舒缓构图使宁静成为直接可见性质，盲审明确识别。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "generatorReview": "镜面湖、静止小船、轻微水纹和薄雾传达安静环境；无文字。待独立盲审。",
+      "savedPath": "public/images/words/peaceful.webp"
+    }
+  ],
+  "candidates": []
+}

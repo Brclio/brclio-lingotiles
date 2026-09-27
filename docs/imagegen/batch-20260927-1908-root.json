@@ -1,0 +1,221 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-1908-root",
+  "assets": [
+    {
+      "word": "patient",
+      "pos": "adj.",
+      "meaning": "有耐心的",
+      "alt": "缓慢长队里，一位孩子放松地安静等候，旁边的孩子焦躁地催促；对比有耐心与不耐烦",
+      "scene": "A small slow-moving queue at a single ice-cream cart. Focus on TWO waiting children side by side behind the person being served. The central child is visibly calm and patient: loose relaxed shoulders, hands gently folded, soft peaceful smile, standing still and willingly giving the busy vendor time. Next to them a smaller secondary child is clearly impatient: foot tapping with tiny motion strokes, arms crossed, irritated frown, leaning forward and repeatedly looking at a plain watch. Vendor in the background is slowly scooping a hard scoop for someone else, explaining the delay. A clear tightly related contrast of CALM WAITING versus frustrated waiting; the relaxed patient child's demeanor must dominate. No medical context, no shoelace tying, no reading, no distracting scenery.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary meaning illustration.\nExact target sense: \"patient\" / adj. / \"有耐心的\".\nPrimary requirement: convey this exact sense visually with the word and definition hidden. Subject, action, contrast and distinguishing features must communicate the meaning directly, not merely decorate it.\nScene: A small slow-moving queue at a single ice-cream cart. Focus on TWO waiting children side by side behind the person being served. The central child is visibly calm and patient: loose relaxed shoulders, hands gently folded, soft peaceful smile, standing still and willingly giving the busy vendor time. Next to them a smaller secondary child is clearly impatient: foot tapping with tiny motion strokes, arms crossed, irritated frown, leaning forward and repeatedly looking at a plain watch. Vendor in the background is slowly scooping a hard scoop for someone else, explaining the delay. A clear tightly related contrast of CALM WAITING versus frustrated waiting; the relaxed patient child's demeanor must dominate. No medical context, no shoelace tying, no reading, no distracting scenery.\nStyle: hand-painted gouache with subtle colored pencil on warm off-white paper, muted natural greens, blue and coral; consistent with garden vocabulary illustrations. Clear composition, generous margins, easily understood in an 80px thumbnail, soft daylight.\nConstraints: no words, letters, numbers, labels, logos, watermark, card UI or unrelated decoration. One independent sense illustration, not a collage of different words.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-c865a4e6-916d-4ae8-a7f0-e833dc233f65.png",
+      "originalLocalPath": "output/imagegen/source/patient-1908.png",
+      "candidatePath": "output/imagegen/review/1908/patient.webp",
+      "intendedSavedPath": "public/images/words/patient.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "17",
+        "primary": "排队买冰淇淋时，男孩不耐烦地等待，女孩平静地等待。直接比较的是两人的等待态度。",
+        "alternatives": [
+          "耐心与不耐烦",
+          "等待轮到自己"
+        ],
+        "confidence": "high",
+        "reason": "同一等待情境中，中央女孩平静放松与男孩催促形成直接的耐心对比；盲审明确识别两种等待态度。",
+        "decision": "accepted"
+      },
+      "savedPath": "public/images/words/patient.webp"
+    },
+    {
+      "word": "horizon",
+      "pos": "n.",
+      "meaning": "地平线",
+      "alt": "平坦的陆地与天空在远处相接成一条清晰的水平地平线，近处的手指正指向这条界线",
+      "scene": "A minimal educational landscape viewed at ground level across a completely flat open plain: pale blue empty sky above and muted green earth below. The dominant feature is a long straight crisp dark green HORIZONTAL boundary exactly where distant land MEETS sky, extending widely across the middle. Subtle ground texture decreases into the distance. A small foreground hand entering from the lower edge points its index finger precisely at the distant land-sky meeting line in the center. The fingertip must not obscure that line. The eye is guided specifically to the far line, not to an object or person. Absolutely no sun, sunset, sea, moon, mountains, clouds, buildings, trees, boats, captions, arrows or text. Horizon itself is the primary subject.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary meaning illustration.\nExact target sense: \"horizon\" / n. / \"地平线\".\nPrimary requirement: convey this exact sense visually with the word and definition hidden. Subject, action, contrast and distinguishing features must communicate the meaning directly, not merely decorate it.\nScene: A minimal educational landscape viewed at ground level across a completely flat open plain: pale blue empty sky above and muted green earth below. The dominant feature is a long straight crisp dark green HORIZONTAL boundary exactly where distant land MEETS sky, extending widely across the middle. Subtle ground texture decreases into the distance. A small foreground hand entering from the lower edge points its index finger precisely at the distant land-sky meeting line in the center. The fingertip must not obscure that line. The eye is guided specifically to the far line, not to an object or person. Absolutely no sun, sunset, sea, moon, mountains, clouds, buildings, trees, boats, captions, arrows or text. Horizon itself is the primary subject.\nStyle: hand-painted gouache with subtle colored pencil on warm off-white paper, muted natural greens, blue and coral; consistent with garden vocabulary illustrations. Clear composition, generous margins, easily understood in an 80px thumbnail, soft daylight.\nConstraints: no words, letters, numbers, labels, logos, watermark, card UI or unrelated decoration. One independent sense illustration, not a collage of different words.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-28cda3a1-335e-4dc8-bd78-f9b857cb8582.png",
+      "originalLocalPath": "output/imagegen/source/horizon-1908.png",
+      "candidatePath": "output/imagegen/review/1908/horizon.webp",
+      "intendedSavedPath": "public/images/words/horizon.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "42",
+        "primary": "一只手指向草原与天空交界的地平线。",
+        "alternatives": [
+          "指向远方",
+          "指示前方"
+        ],
+        "confidence": "high",
+        "reason": "删除日落主体，宽而明确的天地交界线成为指向目标；盲审直接识别地平线。",
+        "decision": "accepted"
+      },
+      "savedPath": "public/images/words/horizon.webp"
+    },
+    {
+      "word": "in",
+      "pos": "prep.",
+      "meaning": "在...之内",
+      "alt": "珊瑚色小球完全位于打开的纸箱内部，纸箱四壁清楚包围小球",
+      "scene": "A simple three-quarter overhead view of ONE open cardboard box with ONE small coral-colored toy ball completely INSIDE its interior. The box front wall is cut down slightly to make the interior base and all four boundaries easily visible; the ball rests on the interior bottom, fully enclosed by the walls, not on the rim, not under or beside the box. Strong contrasting color between ball and box, generous blank area outside. Emphasize the spatial relationship of contained INSIDE, not the box as product. No person, no other balls, no arrows.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary meaning illustration.\nExact target sense: \"in\" / prep. / \"在...之内\".\nPrimary requirement: communicate the exact relationship or sense with the word and definition hidden; no arbitrary decorative substitutes.\nScene: A simple three-quarter overhead view of ONE open cardboard box with ONE small coral-colored toy ball completely INSIDE its interior. The box front wall is cut down slightly to make the interior base and all four boundaries easily visible; the ball rests on the interior bottom, fully enclosed by the walls, not on the rim, not under or beside the box. Strong contrasting color between ball and box, generous blank area outside. Emphasize the spatial relationship of contained INSIDE, not the box as product. No person, no other balls, no arrows.\nStyle: hand-painted gouache with colored-pencil texture on warm off-white paper. Muted green, blue and coral. Clear central composition, clean margins, readable in an 80px thumbnail.\nConstraints: no written words, letters, numbers, labels, logos, watermark, borders or card UI. This is a single independent word-sense illustration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-b38f554e-6f7a-4a21-9a93-bb75ecfdfd87.png",
+      "originalLocalPath": "output/imagegen/source/in-1908.png",
+      "candidatePath": "output/imagegen/review/1908/in.webp",
+      "intendedSavedPath": "public/images/words/in.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "86",
+        "primary": "球在盒子里面，盒子围住球。",
+        "alternatives": [
+          "盒子里有一个球",
+          "装着球的盒子"
+        ],
+        "reason": "球被箱体内部清晰包围，盲审直接识别在里面的位置关系。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "savedPath": "public/images/words/in.webp"
+    },
+    {
+      "word": "have",
+      "pos": "v.",
+      "meaning": "有",
+      "alt": "一个孩子摊开的双手里有一辆玩具车，另一个孩子摊开的双手空空，形成有与没有的对比",
+      "scene": "A tight clear comparison of two children's own outstretched cupped hands shown from chest to hands. The primary child on the left smiles and displays a bright coral toy car resting securely in their OWN palms, held toward the viewer. Secondary child on the right shows visibly empty upturned palms and a mild puzzled shrug. Both face the viewer, no reaching toward each other, no transfer, no exchange, no gift wrapping or money. The direct distinction is ONE HAS A TOY and ONE DOES NOT HAVE ONE. Focus large on filled palms versus empty palms; simple warm-white background.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary meaning illustration.\nExact target sense: \"have\" / v. / \"有\".\nPrimary requirement: communicate the exact relationship or sense with the word and definition hidden; no arbitrary decorative substitutes.\nScene: A tight clear comparison of two children's own outstretched cupped hands shown from chest to hands. The primary child on the left smiles and displays a bright coral toy car resting securely in their OWN palms, held toward the viewer. Secondary child on the right shows visibly empty upturned palms and a mild puzzled shrug. Both face the viewer, no reaching toward each other, no transfer, no exchange, no gift wrapping or money. The direct distinction is ONE HAS A TOY and ONE DOES NOT HAVE ONE. Focus large on filled palms versus empty palms; simple warm-white background.\nStyle: hand-painted gouache with colored-pencil texture on warm off-white paper. Muted green, blue and coral. Clear central composition, clean margins, readable in an 80px thumbnail.\nConstraints: no written words, letters, numbers, labels, logos, watermark, borders or card UI. This is a single independent word-sense illustration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-f6a5fccb-6836-4f8f-b42c-f3dcf2b6dd03.png",
+      "originalLocalPath": "output/imagegen/source/have-1908.png",
+      "candidatePath": "output/imagegen/review/1908/have.webp",
+      "intendedSavedPath": "public/images/words/have.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "29",
+        "primary": "男孩手里有玩具车，女孩双手空空；男孩开心，女孩失落。直接比较的是有东西和没有东西。",
+        "alternatives": [
+          "女孩想要玩具",
+          "两人拥有的东西不一样"
+        ],
+        "reason": "装有玩具的双手与空手对比直接传达有与没有，未表现物品转移。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "savedPath": "public/images/words/have.webp"
+    },
+    {
+      "word": "I",
+      "pos": "pron.",
+      "meaning": "我",
+      "alt": "一个孩子用食指清楚地指向自己的胸口，表示自己",
+      "scene": "One friendly child faces the viewer directly. The child bends their right arm and points the right index finger unmistakably back at the middle of THEIR OWN chest, fingertip actually touching the shirt on the sternum. Their face has a bright matter-of-fact self-identifying expression, eyes meet the viewer. Chest-up close portrait so the self-pointing hand is large and unambiguous. The other hand rests down out of view. No other people, no mirror, no heart, no badge, no speech balloon, no reaching toward camera. The gesture must mean ME / MYSELF, not pointing at someone else or chest pain.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary meaning illustration.\nExact target sense: \"I\" / pron. / \"我\".\nPrimary requirement: communicate the exact relationship or sense with the word and definition hidden; no arbitrary decorative substitutes.\nScene: One friendly child faces the viewer directly. The child bends their right arm and points the right index finger unmistakably back at the middle of THEIR OWN chest, fingertip actually touching the shirt on the sternum. Their face has a bright matter-of-fact self-identifying expression, eyes meet the viewer. Chest-up close portrait so the self-pointing hand is large and unambiguous. The other hand rests down out of view. No other people, no mirror, no heart, no badge, no speech balloon, no reaching toward camera. The gesture must mean ME / MYSELF, not pointing at someone else or chest pain.\nStyle: hand-painted gouache with colored-pencil texture on warm off-white paper. Muted green, blue and coral. Clear central composition, clean margins, readable in an 80px thumbnail.\nConstraints: no written words, letters, numbers, labels, logos, watermark, borders or card UI. This is a single independent word-sense illustration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-4cd54767-543a-41f8-a2f2-f154c494ed48.png",
+      "originalLocalPath": "output/imagegen/source/i-1908.png",
+      "candidatePath": "output/imagegen/review/1908/i.webp",
+      "intendedSavedPath": "public/images/words/i.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "71",
+        "primary": "男孩用手指着自己，表达我／自己。",
+        "alternatives": [
+          "自我介绍",
+          "表示是我"
+        ],
+        "reason": "指尖触及自身胸口，盲审直接识别第一人称我。",
+        "confidence": "high",
+        "decision": "accepted"
+      },
+      "savedPath": "public/images/words/i.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "to",
+      "pos": "prep.",
+      "meaning": "到",
+      "alt": "孩子沿着通往房门的脚印走到门口，迈上最后一级台阶",
+      "scene": "One child carrying a small schoolbag has almost reached the open front doorway of a small home and is taking the final step onto the threshold. A clearly visible short trail of footprints starts far behind the child at the left, along a simple curved path, and ENDS precisely at the home doorway. The child's body and leading foot face the door; their hand reaches for the door frame at the destination. Make the destination and motion TO that destination immediately clear, not walking away. One continuous simple scene, child and destination prominent, no vehicle, no scenery unrelated to the route. A subtle nonverbal directional arrow along the path may reinforce destination direction, no writing.",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary meaning illustration.\nExact target sense: \"to\" / prep. / \"到\".\nPrimary requirement: communicate the exact relationship or sense with the word and definition hidden; no arbitrary decorative substitutes.\nScene: One child carrying a small schoolbag has almost reached the open front doorway of a small home and is taking the final step onto the threshold. A clearly visible short trail of footprints starts far behind the child at the left, along a simple curved path, and ENDS precisely at the home doorway. The child's body and leading foot face the door; their hand reaches for the door frame at the destination. Make the destination and motion TO that destination immediately clear, not walking away. One continuous simple scene, child and destination prominent, no vehicle, no scenery unrelated to the route. A subtle nonverbal directional arrow along the path may reinforce destination direction, no writing.\nStyle: hand-painted gouache with colored-pencil texture on warm off-white paper. Muted green, blue and coral. Clear central composition, clean margins, readable in an 80px thumbnail.\nConstraints: no written words, letters, numbers, labels, logos, watermark, borders or card UI. This is a single independent word-sense illustration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-8f187103-755f-4457-aec5-6c09c30b878a.png",
+      "originalLocalPath": "output/imagegen/source/to-1908.png",
+      "candidatePath": "output/imagegen/review/1908/to.webp",
+      "intendedSavedPath": "public/images/words/to.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "63",
+        "primary": "女孩从室外迈进房子。脚印、箭头和跨门槛的动作共同指向进入。",
+        "alternatives": [
+          "回家",
+          "到达家门口"
+        ],
+        "reason": "主要动作更容易被看作进入，与一般目标介词 到 的关系仍有歧义；暂不发布。",
+        "confidence": "high",
+        "decision": "deferred"
+      }
+    }
+  ],
+  "semanticDeferrals": [
+    {
+      "word": "the",
+      "pos": "art.",
+      "meaning": "那",
+      "senseId": "6c4021b6eb3112f9e40d71825ae2d3f4ac9337cb3c1e0bc56b6d1d03260355e1",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"the\",\"pos\":\"art.\",\"meaning\":\"那\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "特定物体加指向手势容易被看作 that / 指向 / 选择，无法单凭无文字画面稳定表现 art. / 那；本轮先保留待设计，不用任意物体代替定冠词。"
+    },
+    {
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"be\",\"pos\":\"v.\",\"meaning\":\"是\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "人物身份或物体类别画面主要表达身份或具体名词，难以单凭无文字画面确定 v. / 是 的系词关系；本轮保留待设计。"
+    },
+    {
+      "word": "and",
+      "pos": "conj.",
+      "meaning": "和",
+      "senseId": "ec838d083da3774c4d0f1e57a531611ca5ef88c718ba4eb08615609154d38217",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"and\",\"pos\":\"conj.\",\"meaning\":\"和\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "并排两个物体通常只表达这些物体，不能明确区分 和、两个、一组；本轮尚无通过语义审查的场景，保留待设计。"
+    },
+    {
+      "word": "of",
+      "pos": "prep.",
+      "meaning": "的",
+      "senseId": "7b9e239d4c3cda132cb93a56138dd0df5a9c9fc4574b3d5a476c2ce210f02e35",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"of\",\"pos\":\"prep.\",\"meaning\":\"的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "归属或部分整体场景易被读成物主、拥有、部分或具体名词，当前简化释义 的 范围过宽；本轮保留待设计，避免错误替换义项。"
+    }
+  ]
+}

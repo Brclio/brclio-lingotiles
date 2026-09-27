@@ -1,10 +1,24 @@
 [
   {
+    "word": "abroad",
+    "pos": "adv.",
+    "meaning": "在国外",
+    "src": "./images/words/abroad.webp",
+    "alt": "带有中国国旗身份线索的学生在法国校园读书，背后可见法国国旗和埃菲尔铁塔"
+  },
+  {
     "word": "apple",
     "pos": "n.",
     "meaning": "苹果",
     "src": "./images/words/apple.webp",
     "alt": "一颗带绿叶的红苹果"
+  },
+  {
+    "word": "brave",
+    "pos": "adj.",
+    "meaning": "勇敢的",
+    "src": "./images/words/brave.webp",
+    "alt": "消防员顶着烟火向前迈步，冒险去救被困在窗边的小猫"
   },
   {
     "word": "bridge",
@@ -77,6 +91,13 @@
     "alt": "孩子刚掀开平石，惊喜地指向原先藏在下面的螺旋化石"
   },
   {
+    "word": "distant",
+    "pos": "adj.",
+    "meaning": "遥远的",
+    "src": "./images/words/distant.webp",
+    "alt": "近处人物和树木清晰巨大，远方山峰隔着长长山谷与层层云雾显得很小很淡"
+  },
+  {
     "word": "explore",
     "pos": "v.",
     "meaning": "探索",
@@ -96,6 +117,13 @@
     "meaning": "跟随",
     "src": "./images/words/follow.webp",
     "alt": "一个人回头引路，另一个人紧跟在身后"
+  },
+  {
+    "word": "forward",
+    "pos": "adv.",
+    "meaning": "向前",
+    "src": "./images/words/forward.webp",
+    "alt": "侧身朝右的人向自己面朝的方向迈步，身后留下同向脚印"
   },
   {
     "word": "fresh",
@@ -131,6 +159,13 @@
     "meaning": "习惯",
     "src": "./images/words/habit.webp",
     "alt": "孩子每晚睡前在床上阅读，表现固定的阅读习惯"
+  },
+  {
+    "word": "horizon",
+    "pos": "n.",
+    "meaning": "地平线",
+    "src": "./images/words/horizon.webp",
+    "alt": "平坦的陆地与天空在远处相接成一条清晰的水平地平线，近处的手指正指向这条界线"
   },
   {
     "word": "idea",
@@ -194,6 +229,20 @@
     "meaning": "经常",
     "src": "./images/words/often.webp",
     "alt": "家人在厨房做饭，旁边无字周历的大多数格子重复出现小锅图案，表示经常做饭"
+  },
+  {
+    "word": "patient",
+    "pos": "adj.",
+    "meaning": "有耐心的",
+    "src": "./images/words/patient.webp",
+    "alt": "缓慢长队里，一位孩子放松地安静等候，旁边的孩子焦躁地催促；对比有耐心与不耐烦"
+  },
+  {
+    "word": "peaceful",
+    "pos": "adj.",
+    "meaning": "宁静的",
+    "src": "./images/words/peaceful.webp",
+    "alt": "清晨湖面如镜，倒映安静的树木与小船，水边没有喧闹活动"
   },
   {
     "word": "prepare",
