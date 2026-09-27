@@ -1,0 +1,165 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-2047-root",
+  "assets": [
+    {
+      "word": "and",
+      "pos": "conj.",
+      "meaning": "和",
+      "alt": "两只手同时指向同一盘中的苹果和梨，加号表示两个对象都包括在内",
+      "scene": "A simple illustrated educational addition of TWO different objects considered together: one large red apple at left AND one large green pear at right, equally prominent, side by side on the same plate. Above them, two human hands simultaneously gently indicate both fruits, one finger pointing to the apple, the other to the pear, inclusive rather than choosing either. A small clear hand-painted plus symbol BETWEEN the fruits reinforces joining A AND B; it is a visual relation mark, not written language. Both fruits whole and separate, no blending, cutting, juice, exchange, alternatives or other fruit. One single coherent composition about including both objects together.",
+      "prompt": "Use case: scientific-educational\nAsset type: independent square vocabulary meaning illustration.\nExact target: \"and\" / conj. / \"和\".\nRequirement: depict the current meaning so a learner can understand the relation or action with all words and definitions hidden. Avoid alternate senses or decorative associations.\nScene: A simple illustrated educational addition of TWO different objects considered together: one large red apple at left AND one large green pear at right, equally prominent, side by side on the same plate. Above them, two human hands simultaneously gently indicate both fruits, one finger pointing to the apple, the other to the pear, inclusive rather than choosing either. A small clear hand-painted plus symbol BETWEEN the fruits reinforces joining A AND B; it is a visual relation mark, not written language. Both fruits whole and separate, no blending, cutting, juice, exchange, alternatives or other fruit. One single coherent composition about including both objects together.\nStyle: warm off-white paper with hand-painted gouache and subtle colored-pencil texture, soft daylight, muted greens blues and coral. Clear centered composition legible at 80px, uncluttered margin.\nConstraints: no written words, letters, numbers, captions, logos, watermark, border or card UI. One independent word sense, not a sprite atlas.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-5caf07d4-975e-47b1-b23b-90760298f677.png",
+      "originalLocalPath": "output/imagegen/source/and-2047.png",
+      "candidatePath": "output/imagegen/review/2047/and.webp",
+      "intendedSavedPath": "public/images/words/and.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "31",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "苹果和梨并列放着，两只手分别指向它们",
+        "alternatives": [
+          "两种水果",
+          "苹果加梨"
+        ],
+        "reason": "两个对象都被同时指示，加号明确并列包含两个对象，直接传达苹果和梨的连接关系。"
+      },
+      "savedPath": "public/images/words/and.webp"
+    },
+    {
+      "word": "on",
+      "pos": "prep.",
+      "meaning": "在...之上",
+      "alt": "一个红球放在小木凳的上表面，凳面下方清楚留空",
+      "scene": "ONE coral red ball rests directly ON TOP OF a small blue wooden stool. Clear side three-quarter view shows the entire ball ABOVE the flat horizontal top, visibly in contact with the TOP SURFACE, and all four legs below with empty space beneath. The ball must not be inside a box, under the stool, floating over it or beside it. Strong simple spatial relationship with generous blank background. No person, no extra objects, no arrows.",
+      "prompt": "Use case: scientific-educational\nAsset type: independent square vocabulary meaning illustration.\nExact target: \"on\" / prep. / \"在...之上\".\nRequirement: depict the current meaning so a learner can understand the relation or action with all words and definitions hidden. Avoid alternate senses or decorative associations.\nScene: ONE coral red ball rests directly ON TOP OF a small blue wooden stool. Clear side three-quarter view shows the entire ball ABOVE the flat horizontal top, visibly in contact with the TOP SURFACE, and all four legs below with empty space beneath. The ball must not be inside a box, under the stool, floating over it or beside it. Strong simple spatial relationship with generous blank background. No person, no extra objects, no arrows.\nStyle: warm off-white paper with hand-painted gouache and subtle colored-pencil texture, soft daylight, muted greens blues and coral. Clear centered composition legible at 80px, uncluttered margin.\nConstraints: no written words, letters, numbers, captions, logos, watermark, border or card UI. One independent word sense, not a sprite atlas.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-a1ab8695-0961-4a93-ad31-e2ff531616d9.png",
+      "originalLocalPath": "output/imagegen/source/on-2047.png",
+      "candidatePath": "output/imagegen/review/2047/on.webp",
+      "intendedSavedPath": "public/images/words/on.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "56",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "球放在凳子上",
+        "alternatives": [
+          "在上面",
+          "凳子托着球"
+        ],
+        "reason": "球与凳子上表面接触且下方留空，准确呈现在……之上的位置关系。"
+      },
+      "savedPath": "public/images/words/on.webp"
+    },
+    {
+      "word": "say",
+      "pos": "v.",
+      "meaning": "说",
+      "alt": "一个孩子张嘴对同伴说话，另一人面对他认真听",
+      "scene": "Two children facing each other, shown waist-up at conversational distance. The primary child at left is clearly SPEAKING: mouth open naturally mid-speech, one small expressive hand gesture, three small curved sound-wave strokes emerging from their mouth toward the other child. The child at right faces the speaker and listens attentively with closed mouth. Neutral relaxed conversation, no pointing elsewhere, no singing, no microphone, no reading, no shouting, no speech bubble or written words. Focus on speaking rather than vague friendship.",
+      "prompt": "Use case: scientific-educational\nAsset type: independent square vocabulary meaning illustration.\nExact target: \"say\" / v. / \"说\".\nRequirement: depict the current meaning so a learner can understand the relation or action with all words and definitions hidden. Avoid alternate senses or decorative associations.\nScene: Two children facing each other, shown waist-up at conversational distance. The primary child at left is clearly SPEAKING: mouth open naturally mid-speech, one small expressive hand gesture, three small curved sound-wave strokes emerging from their mouth toward the other child. The child at right faces the speaker and listens attentively with closed mouth. Neutral relaxed conversation, no pointing elsewhere, no singing, no microphone, no reading, no shouting, no speech bubble or written words. Focus on speaking rather than vague friendship.\nStyle: warm off-white paper with hand-painted gouache and subtle colored-pencil texture, soft daylight, muted greens blues and coral. Clear centered composition legible at 80px, uncluttered margin.\nConstraints: no written words, letters, numbers, captions, logos, watermark, border or card UI. One independent word sense, not a sprite atlas.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-917db431-c224-4546-82df-034bbc4d722f.png",
+      "originalLocalPath": "output/imagegen/source/say-2047.png",
+      "candidatePath": "output/imagegen/review/2047/say.webp",
+      "intendedSavedPath": "public/images/words/say.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "12",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "男孩对女孩说话，女孩听着",
+        "alternatives": [
+          "交谈",
+          "讲述"
+        ],
+        "reason": "说者口型、发声线与听者姿态共同明确说话动作，非阅读或歌唱。"
+      },
+      "savedPath": "public/images/words/say.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "finally",
+      "pos": "adv.",
+      "meaning": "最后",
+      "alt": "赛跑中其他孩子都已过终点等待，最后一名孩子正在跨过终点线",
+      "scene": "Show the FINAL runner finishing AFTER every other runner. A small friendly school race viewed clearly from the side: a wide unlettered white finish line crosses the ground. Four children have already crossed and now stand well beyond the finish line at the right, relaxed, waiting and gently encouraging the one remaining runner. ONE last child at left is just crossing that line, tired but happy. The entire visible track behind this last child is empty. The group has all finished first; this child finishes LAST, closing the sequence. No race winner celebration, no first-place podium, no trophy, no medals, no rankings, no numbers, no ribbon. This should clearly mean 'and finally, the last one finishes', not fastest victory. Compact related scene, all characters and finish line fully visible.",
+      "prompt": "Use case: scientific-educational\nAsset type: independent square vocabulary meaning illustration.\nExact target: \"finally\" / adv. / \"最后\".\nRequirement: depict the current meaning so a learner can understand the relation or action with all words and definitions hidden. Avoid alternate senses or decorative associations.\nScene: Show the FINAL runner finishing AFTER every other runner. A small friendly school race viewed clearly from the side: a wide unlettered white finish line crosses the ground. Four children have already crossed and now stand well beyond the finish line at the right, relaxed, waiting and gently encouraging the one remaining runner. ONE last child at left is just crossing that line, tired but happy. The entire visible track behind this last child is empty. The group has all finished first; this child finishes LAST, closing the sequence. No race winner celebration, no first-place podium, no trophy, no medals, no rankings, no numbers, no ribbon. This should clearly mean 'and finally, the last one finishes', not fastest victory. Compact related scene, all characters and finish line fully visible.\nStyle: warm off-white paper with hand-painted gouache and subtle colored-pencil texture, soft daylight, muted greens blues and coral. Clear centered composition legible at 80px, uncluttered margin.\nConstraints: no written words, letters, numbers, captions, logos, watermark, border or card UI. One independent word sense, not a sprite atlas.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-51a7970d-d9e9-4726-aadc-41b52dfb8711.png",
+      "originalLocalPath": "output/imagegen/source/finally-2047.png",
+      "candidatePath": "output/imagegen/review/2047/finally.webp",
+      "intendedSavedPath": "public/images/words/finally.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "78",
+        "confidence": "high",
+        "decision": "deferred",
+        "primary": "孩子跑过跑道横线，同伴在旁欢呼",
+        "alternatives": [
+          "跑步",
+          "冲过终点"
+        ],
+        "reason": "同伴更像场边观众，无法判断已完成的先后顺序，最后的义项不够明确。"
+      }
+    }
+  ],
+  "semanticDeferrals": [
+    {
+      "word": "the",
+      "pos": "art.",
+      "meaning": "那",
+      "senseId": "6c4021b6eb3112f9e40d71825ae2d3f4ac9337cb3c1e0bc56b6d1d03260355e1",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"the\",\"pos\":\"art.\",\"meaning\":\"那\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "承接1908语义设计审核：特定物体加指向手势难以区分定冠词与指示词，本轮继续待设计，未生成。"
+    },
+    {
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"be\",\"pos\":\"v.\",\"meaning\":\"是\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "身份或类别图主要表达具体名词，无法清楚表现当前 是 的系词关系，本轮待设计，未生成。"
+    },
+    {
+      "word": "of",
+      "pos": "prep.",
+      "meaning": "的",
+      "senseId": "7b9e239d4c3cda132cb93a56138dd0df5a9c9fc4574b3d5a476c2ce210f02e35",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"of\",\"pos\":\"prep.\",\"meaning\":\"的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "当前简化释义 的 范围宽，部分整体或归属容易被误认具体名词/拥有，本轮待设计，未生成。"
+    },
+    {
+      "word": "do",
+      "pos": "v.",
+      "meaning": "做",
+      "senseId": "3085d553c8725125a628a298f9f4eee924cc6acc79fbeeffeff14d8caf459454",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"do\",\"pos\":\"v.\",\"meaning\":\"做\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "做 为高度一般化动作，具体操作通常先表达该动作词而非当前泛义，本轮待设计，未生成。"
+    }
+  ]
+}

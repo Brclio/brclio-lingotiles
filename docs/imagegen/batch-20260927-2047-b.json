@@ -1,0 +1,114 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "that",
+      "pos": "adj.",
+      "meaning": "那",
+      "alt": "孩子越过脚边的蓝球，伸手指向远处的红球。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon. Square canvas.\nExact target sense: {\"word\":\"that\",\"pos\":\"adj.\",\"meaning\":\"那\"}.\nSemantic scene: A child at lower left, seen in three-quarter profile, stretches one arm with a clearly extended index finger and looks toward one specific coral-red ball on the ground far away at upper right. The fingertip is aimed unmistakably at the distant red ball. A second blue ball sits right beside the child's feet in the foreground but is clearly ignored. Use a simple continuous patch of ground in perspective to show a large empty spatial gap between the child and the far target. The red ball is smaller through distance but still clearly readable. Keep the child's arm and finger separate from their torso and oriented across the gap toward the far ball. The defining idea is indicating THAT faraway object as opposed to this nearby object. No words, no speech bubbles, no arrows, no pointers added as graphics.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a4-2c63-7261-859b-69755f69b43d/exec-a62d8fb3-885e-49a9-94c4-395d473125ab.png",
+      "originalLocalPath": "output/imagegen/source/that-2047.png",
+      "candidatePath": "output/imagegen/review/2047/that.webp",
+      "intendedSavedPath": "public/images/words/that.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "远处红球与近处蓝球形成明确对比；孩子的目光与手势朝向远处目标。草地填充偏满，暖白留白比预期少，需小尺寸盲审。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "83",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "孩子指向远处的红球，脚边还有一个蓝球",
+        "alternatives": [
+          "远处那个球",
+          "指向那里"
+        ],
+        "reason": "近处蓝球与远处红球对照，手势明确指远处特定对象，盲审识别远处那个球。"
+      },
+      "savedPath": "public/images/words/that.webp"
+    },
+    {
+      "word": "not",
+      "pos": "adv.",
+      "meaning": "不",
+      "alt": "一个孩子递来饼干，另一个孩子交叉双臂并转头表示不接受。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon. Square canvas.\nExact target sense: {\"word\":\"not\",\"pos\":\"adv.\",\"meaning\":\"不\"}.\nSemantic scene: A clear everyday refusal. A child on the left offers a single small cookie in an outstretched hand to a child on the right. The receiving child firmly refuses: they lean slightly away, turn their face away from the cookie with mouth closed, and hold both forearms visibly crossed in an X between their chest and the offered cookie, open palms facing outward. Their expression is calm but decisive. The offered cookie remains in the giver's hand, visibly separated from the receiver; the receiver does not touch or eat it. Frame both children from waist up, with both faces, hands, crossed arms, and cookie fully visible. The refusal body language is the primary focal point, larger than the cookie. Readable as NOT accepting, a direct visual negation. No graphic prohibition signs, no speech bubbles, no words.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a4-2c63-7261-859b-69755f69b43d/exec-c12e885c-c583-47e4-babc-773e963c1778.png",
+      "originalLocalPath": "output/imagegen/source/not-2047.png",
+      "candidatePath": "output/imagegen/review/2047/not.webp",
+      "intendedSavedPath": "public/images/words/not.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "递饼干、转脸与交叉双臂的否定动作清楚；最直接读法为不要或不接受，需盲审是否足以代表否定副词不。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "19",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "女孩拒绝男孩递来的饼干",
+        "alternatives": [
+          "不要",
+          "不接受"
+        ],
+        "reason": "转脸和交叉双臂直接否定接受饼干，明确表达不；拒绝原因不影响当前否定义项。"
+      },
+      "savedPath": "public/images/words/not.webp"
+    },
+    {
+      "word": "you",
+      "pos": "pron.",
+      "meaning": "你",
+      "alt": "孩子直视观察者，伸出食指朝画面外的观察者指去。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon. Square canvas.\nExact target sense: {\"word\":\"you\",\"pos\":\"pron.\",\"meaning\":\"你\"}.\nSemantic scene: A friendly child faces directly toward the viewer, making unmistakable eye contact with the viewer. The child extends one arm straight toward the viewer and points their index finger directly outward at the viewer, with clear foreshortening: the pointing fingertip is in the foreground and the child's face behind it, other fingers naturally curled. The pointing action is friendly direct address, not aggressive. The other hand stays relaxed by the body, never touching or pointing to their own chest. Waist-up composition centered with the entire pointing hand and both eyes plainly visible. The gesture, gaze and foreshortened arm must unmistakably address YOU, the person looking at the picture. It is an interaction with the observer, not a generic portrait. No additional people, no hearts, no words, no speech bubbles.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a4-2c63-7261-859b-69755f69b43d/exec-406c7199-ff1e-472f-b851-a9b68533681b.png",
+      "originalLocalPath": "output/imagegen/source/you-2047.png",
+      "candidatePath": "output/imagegen/review/2047/you.webp",
+      "intendedSavedPath": "public/images/words/you.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "正面目光与透视手指直接指向观察者，指代关系比普通肖像明确；须盲审确认可读为你。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "67",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "女孩朝观看者伸手指过来",
+        "alternatives": [
+          "指向你",
+          "选中你"
+        ],
+        "reason": "直视观者且手指透视指向观者，第二人称你明确，区别自指我。"
+      },
+      "savedPath": "public/images/words/you.webp"
+    },
+    {
+      "word": "with",
+      "pos": "prep.",
+      "meaning": "和...在一起",
+      "alt": "两个孩子牵着手、望着彼此，并肩一起向前走。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon. Square canvas.\nExact target sense: {\"word\":\"with\",\"pos\":\"prep.\",\"meaning\":\"和...在一起\"}.\nSemantic scene: Two clearly distinct children, one in muted blue and one in muted coral, are walking together side by side in the same direction. They stay shoulder-close, gently hold their adjacent hands, and smile at one another while walking, showing companionship and accompanying each other. Both full bodies and their joined hands are clearly visible, legs taking coordinated walking steps on one short simple patch of ground. They form one cohesive pair with no gap between them. The main meaning is one person being WITH another, together and accompanied; no one is isolated. Their equal scale and active social connection are important. No destination, no sports, no pets, no extra objects, no words, no speech bubbles.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a4-2c63-7261-859b-69755f69b43d/exec-494dbd4b-f471-414a-9b96-782073b398d1.png",
+      "originalLocalPath": "output/imagegen/source/with-2047.png",
+      "candidatePath": "output/imagegen/review/2047/with.webp",
+      "intendedSavedPath": "public/images/words/with.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "两人牵手并肩同行与相互注视构成清楚的相伴关系；仍可能先被描述为朋友或牵手，需盲审判断是否足以呈现和某人在一起。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "34",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "两个孩子牵着手一起走路",
+        "alternatives": [
+          "同行",
+          "牵手"
+        ],
+        "reason": "并肩同行、牵手且互相注视直接表现和对方在一起，不依赖亲属或朋友身份。"
+      },
+      "savedPath": "public/images/words/with.webp"
+    }
+  ],
+  "candidates": []
+}

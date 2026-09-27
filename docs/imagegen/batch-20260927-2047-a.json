@@ -1,0 +1,114 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "to",
+      "pos": "prep.",
+      "meaning": "到",
+      "alt": "孩子沿着脚印路径来到大树旁，方向箭头在树根处结束",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only the exact specified part of speech and Chinese meaning. The relationship must remain understandable when no word or translation is visible.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching gentle garden vocabulary illustrations.\nComposition: one tightly related everyday scene centered within the middle 70 percent, generous warm white empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral.\nConstraints: absolutely no letters, words, numbers, written labels, logos, watermarks, borders or card UI. No unrelated objects; no generic stock icon. The target word and translation are instructions only, never print them in the image.\n\nExact target sense: {\"word\":\"to\",\"pos\":\"prep.\",\"meaning\":\"到\"}.\nScene: a small backpacked child has followed a gently curved outdoor footpath from a tiny cottage at the back left TO a single large leafy tree at the front right. The child is taking the last step and has just reached the tree, with one hand touching its trunk. Visible footprints trace the completed journey along the path. A single soft coral hand-painted directional arrow lies along the path and ends exactly at the tree roots, emphasizing the destination endpoint. The large tree is the destination, the cottage only the origin. The endpoint and arriving child are dominant. Depict arrival at an outdoor destination, with no doorway, threshold, crossing into an enclosure, vehicle or gifts. This is the directional preposition meaning 到, not a portrait or a simple walking action.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a3-301f-79b3-82fd-65ddbbd58dab/exec-aefb0b8c-6f9e-4cec-bd0c-4f2e72efd48f.png",
+      "originalLocalPath": "output/imagegen/source/to-2047.png",
+      "candidatePath": "output/imagegen/review/2047/to.webp",
+      "intendedSavedPath": "public/images/words/to.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReview": "路径、脚印和箭头明确抵达大树；仍可能读作走向、到达或触摸树，需盲审确认。树冠贴边，场景留白少于理想值。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "94",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "孩子沿小路从房子方向走到大树旁",
+        "alternatives": [
+          "走向大树",
+          "到达树旁"
+        ],
+        "reason": "脚印与箭头从起点通向树，孩子已触及目标，目的地关系明确且没有进入室内的混淆。"
+      },
+      "savedPath": "public/images/words/to.webp"
+    },
+    {
+      "word": "he",
+      "pos": "pron.",
+      "meaning": "他",
+      "alt": "女孩向同伴指称站在一旁的男孩，气泡中的人物与男孩相对应",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only the exact specified part of speech and Chinese meaning. The relationship must remain understandable when no word or translation is visible.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching gentle garden vocabulary illustrations.\nComposition: one tightly related everyday scene centered within the middle 70 percent, generous warm white empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral.\nConstraints: absolutely no letters, words, numbers, written labels, logos, watermarks, borders or card UI. No unrelated objects; no generic stock icon. The target word and translation are instructions only, never print them in the image.\n\nExact target sense: {\"word\":\"he\",\"pos\":\"pron.\",\"meaning\":\"他\"}.\nScene: illustrate third-person reference to one male person outside a conversation. Two small girls stand at the left facing one another. The speaking girl looks at her listener while pointing sideways with an extended index finger toward a single boy standing separately at the right. The boy has short dark hair, a plain blue shirt and green shorts, and is calmly facing forward with both arms relaxed. Above the speaking girl is one simple hand-painted wordless speech bubble containing a small recognizable drawing of the exact same boy with the same short dark hair, blue shirt and green shorts. The actual boy and the repeated likeness unmistakably match. The listener follows the reference with her gaze toward the boy. Make the referred-to boy larger and clearer than the supporting speakers. This should communicate talking about him as a third person, with no self-pointing and no direct conversation between the speaker and the boy. No sports equipment, toys, ownership objects or letters. Not merely a male portrait.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a3-301f-79b3-82fd-65ddbbd58dab/exec-125fefcc-6e1e-492c-b824-fab398a80023.png",
+      "originalLocalPath": "output/imagegen/source/he-2047.png",
+      "candidatePath": "output/imagegen/review/2047/he.webp",
+      "intendedSavedPath": "public/images/words/he.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReview": "女孩正向同伴谈及右侧男孩，指尖与气泡中的同一人物加强第三人称关系；可能被读作男孩或介绍他，是否足够直观需匿名盲审。无文字，人物及指尖无明显生成缺陷。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "62",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "女孩指着右侧男孩，向另一女孩谈论他",
+        "alternatives": [
+          "介绍男孩",
+          "指认他"
+        ],
+        "reason": "交谈双方与被谈论男孩分开，气泡人物和指向手势对应同一第三人，盲审明确识别他。"
+      },
+      "savedPath": "public/images/words/he.webp"
+    },
+    {
+      "word": "for",
+      "pos": "prep.",
+      "meaning": "为",
+      "alt": "大人正为等在餐桌旁的孩子盛汤，餐具只为孩子摆好",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only the exact specified part of speech and Chinese meaning. The relationship must remain understandable when no word or translation is visible.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching gentle garden vocabulary illustrations.\nComposition: one tightly related everyday scene centered within the middle 70 percent, generous warm white empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral.\nConstraints: absolutely no letters, words, numbers, written labels, logos, watermarks, borders or card UI. No unrelated objects; no generic stock icon. The target word and translation are instructions only, never print them in the image.\n\nExact target sense: {\"word\":\"for\",\"pos\":\"prep.\",\"meaning\":\"为\"}.\nScene: a caring adult is actively preparing a warm meal FOR a small child seated waiting at a small table. The adult stands at the table corner, uses one hand to ladle soup from a small cooking pot into a single bowl and the other hand to steady the bowl directly in front of the child. A folded napkin and spoon are already arranged at the child's place. The child sits at that same place, looks happily at the bowl being prepared for them, and holds an empty bib ready at their chest. There is no place setting or bowl for the adult. Emphasize the connection from the adult's useful work to the child's benefit: the meal is being prepared specifically for this waiting recipient. Keep adult, ladle, bowl and child readable as one connected action. Not a gift handoff, no wrapped boxes or presents, not merely a cook alone, not a restaurant counter.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a3-301f-79b3-82fd-65ddbbd58dab/exec-f56f182e-21bf-4faf-9f81-2ec29bf33881.png",
+      "originalLocalPath": "output/imagegen/source/for-2047.png",
+      "candidatePath": "output/imagegen/review/2047/for.webp",
+      "intendedSavedPath": "public/images/words/for.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReview": "成人正在为孩子盛汤，唯一餐位和期待的孩子呈现受益对象，非送礼；直观读法仍可能是盛汤、妈妈或照顾，需盲审判断为的关系能否独立成立。无文字及明显手部异常。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "45",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "女人给孩子盛汤",
+        "alternatives": [
+          "盛饭",
+          "照顾孩子"
+        ],
+        "reason": "成人把汤盛入孩子面前唯一的碗，动作明确是为对方准备，受益对象直接可见。"
+      },
+      "savedPath": "public/images/words/for.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "it",
+      "pos": "pron.",
+      "meaning": "它",
+      "alt": "一个孩子向同伴指称旁边的猫，气泡中的猫与实际的猫相对应",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nPrimary request: depict only the exact specified part of speech and Chinese meaning. The relationship must remain understandable when no word or translation is visible.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching gentle garden vocabulary illustrations.\nComposition: one tightly related everyday scene centered within the middle 70 percent, generous warm white empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral.\nConstraints: absolutely no letters, words, numbers, written labels, logos, watermarks, borders or card UI. No unrelated objects; no generic stock icon. The target word and translation are instructions only, never print them in the image.\n\nExact target sense: {\"word\":\"it\",\"pos\":\"pron.\",\"meaning\":\"它\"}.\nScene: illustrate third-person reference to one nonhuman animal. Two small children at the left are facing one another in conversation. One child is looking at the other child and clearly pointing sideways toward a single larger orange cat sitting separately at the right. The cat has a distinctive white chest and a plain blue collar. Above the speaking child's head is one simple hand-painted wordless speech bubble containing a small unmistakable drawing of this exact same orange cat with white chest and blue collar. The actual cat and its repeated likeness clearly match, and the pointing gesture joins them. The listener is following the reference with their gaze toward the actual cat. Both children are supporting participants and the referred-to cat is the visual focus. Keep all three beings clearly separated, no other animals. The image must show someone referring to it, not merely a cat portrait, petting or feeding.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4a3-301f-79b3-82fd-65ddbbd58dab/exec-497ec200-1c64-46fe-b6b1-08e020b5d4e1.png",
+      "originalLocalPath": "output/imagegen/source/it-2047.png",
+      "candidatePath": "output/imagegen/review/2047/it.webp",
+      "intendedSavedPath": "public/images/words/it.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReview": "气泡小猫与右侧真实猫一致，构成非人对象的指代关系；男孩手指被听者遮挡，可能先读作猫、介绍猫或指着猫，不能仅凭自检确认它义项通过。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "27",
+        "confidence": "medium",
+        "decision": "deferred",
+        "primary": "男孩向女孩谈论右侧的猫",
+        "alternatives": [
+          "指认猫",
+          "让同伴看猫"
+        ],
+        "reason": "手指紧邻女孩肩颈，指代对象方向不够清楚，主要读成谈论猫而非清晰的它；待重做。"
+      }
+    }
+  ]
+}
