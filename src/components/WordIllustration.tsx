@@ -5,10 +5,11 @@ import './word-illustration.css';
 type Props = {
   word: { word: string; pos: string; meaning: string };
   className?: string;
+  loading?: 'eager' | 'lazy';
 };
 
 /** Only reviewed, meaning-specific assets are eligible for a word card. */
-export default function WordIllustration({ word, className = '' }: Props) {
+export default function WordIllustration({ word, className = '', loading = 'eager' }: Props) {
   const illustration = getWordIllustration(word);
   const [failedSource, setFailedSource] = useState<string | null>(null);
   const [loadedSource, setLoadedSource] = useState<string | null>(null);
@@ -23,6 +24,7 @@ export default function WordIllustration({ word, className = '' }: Props) {
       width={512}
       height={512}
       decoding="async"
+      loading={loading}
       draggable={false}
       hidden={failed}
       onLoad={() => setLoadedSource(illustration.src)}

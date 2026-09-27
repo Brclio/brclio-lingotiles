@@ -52,7 +52,7 @@ JSON.stringify([
 2. 检视实际输出，确认词性、词义、画面内容及小尺寸可读性；未审核或不准确的结果不进入可用配图。
 3. 将审核通过的成品等比缩小并编码为 WebP，保存到仓库 `public/images/words/` 内，可使用任务的 `desiredAssetPath`。原始生成源可以保留在本地，不要把全部原图复制进任务计划。
 4. 在 `docs/imagegen/*.json` 添加来源记录，每条资产包含精确 `word / pos / meaning`、实际 `prompt`、生成结果 `source`、仓库相对 `savedPath` 和 **`reviewed: true`**。文件顶层声明 `mode: "built-in image_gen"`，或 `mode: "builtin", tool: "image_gen"`。
-5. 运行 `npm run illustrations:sync` 生成前端 seed 与按需分片索引，验证记忆词卡、合成词卡与收获区能读取它，再运行 `npm run illustrations:plan` 和 `npm run illustrations:check`。
+5. 运行 `npm run illustrations:sync` 生成前端 seed 与按需分片索引，验证记忆词卡、合成词卡、收获区与单词本能读取它，再运行 `npm run illustrations:plan` 和 `npm run illustrations:check`。单词本复用同一精确义项索引，按当前页加载；后续批次同步并发布后，刷新页面即可显示新增配图，无需在单词本中另行注册。
 
 本地目录只有同时满足以下条件时才计为 `ready`：精确义项存在于实际游戏词库；有内置 imagegen 来源及实际提示词；明确 `reviewed: true`；目标文件真实存在于项目图片目录内；文件具有受支持图片格式的文件签名和有效字节。WebP 另校验 RIFF 声明长度。未保存、未审核、错误词义、重复冲突、越界路径或缺失来源都会保留为待完成，并记入 `metadataIssues`。
 

@@ -34,7 +34,13 @@
 .dictionary-controls select { min-height: 39px; padding: 6px 9px; background: var(--surface); border: 1px solid var(--line); border-radius: 7px; color: var(--ink); font-size: 12px; }
 .dictionary-status { margin: -8px 0 13px; }
 .notebook-list.is-loading { opacity: .45; pointer-events: none; }
-.notebook-row { grid-template-columns: minmax(160px, .9fr) minmax(120px,.65fr) minmax(0,1.75fr) 34px; }
+.notebook-row { grid-template-columns: minmax(160px, .9fr) minmax(120px,.65fr) minmax(0,1.75fr) 34px; grid-template-areas: "word meaning context save"; }
+.notebook-row.has-illustration { grid-template-columns: 104px minmax(140px, .9fr) minmax(120px,.65fr) minmax(0,1.75fr) 34px; grid-template-areas: "image word meaning context save"; }
+.notebook-row > div.notebook-identity { grid-area: word; min-width: 0; }
+.notebook-row > .notebook-image { grid-area: image; width: 104px; height: 104px; }
+.notebook-row > .notebook-meaning { grid-area: meaning; }
+.notebook-row > .word-context { grid-area: context; }
+.notebook-row > .save-button { grid-area: save; }
 .notebook-word { min-width: 0; }
 .notebook-word strong { overflow-wrap: anywhere; }
 .notebook-meaning { overflow-wrap: anywhere; align-items: flex-start; }
@@ -77,6 +83,8 @@
 @media (max-width: 1100px) {
   .memory-card.has-illustration { gap: 10px; }
   .memory-image { width: 80px; height: 80px; }
+  .notebook-row.has-illustration { grid-template-columns: 80px minmax(140px, .9fr) minmax(100px,.65fr) minmax(0,1.75fr) 34px; gap: 14px; }
+  .notebook-row > .notebook-image { width: 80px; height: 80px; }
 }
 @media (min-width: 721px) and (max-width: 900px), (max-width: 600px) {
   .memory-grid { grid-template-columns: minmax(0, 1fr); }
@@ -107,10 +115,12 @@
   .dictionary-controls select { width: 98px; flex-shrink: 0; }
   .filter-tabs { width: 100%; gap: 0; }
   .filter-tabs button { font-size: 11px; padding: 8px 10px; }
-  .notebook-row { grid-template-columns: minmax(0,1fr) minmax(70px, .65fr) 30px; gap: 8px; }
+  .notebook-row { grid-template-columns: minmax(0,1fr) 30px; grid-template-areas: "word save" "meaning meaning" "context context"; gap: 8px; }
+  .notebook-row.has-illustration { grid-template-columns: 80px minmax(0,1fr) 30px; grid-template-areas: "image word save" "image meaning meaning" "context context context"; gap: 8px 12px; }
+  .notebook-row > .notebook-image { align-self: start; }
+  .notebook-row > .save-button { align-self: start; }
   .notebook-word strong { font-size: 20px; }
   .notebook-meaning { font-size: 12px; gap: 6px; flex-wrap: wrap; }
-  .word-context { grid-row: 2; grid-column: 1 / 4; }
   .dictionary-pagination { gap: 10px; }
   .dictionary-pagination .secondary-button { padding: 9px 11px; font-size: 12px; }
   .dictionary-pagination > span { font-size: 12px; }
