@@ -1,0 +1,122 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-1738-root",
+  "assets": [
+    {
+      "word": "improve",
+      "pos": "v.",
+      "meaning": "改善",
+      "alt": "练习者把早期歪斜的花朵画逐步画得更准确，展示绘画水平的改善",
+      "scene": "A single art desk in a three-quarter overhead view. Three sheets show the SAME red flower becoming visibly better through practice: the earliest sheet has clumsy uncertain lines and uneven petals, the middle sheet is more accurate, and the newest sheet under the artist's actively working hand is a confident beautifully proportioned drawing. The person is currently improving the same drawing, with the earlier attempts tucked slightly behind it. One continuous coherent work scene, no panels, numbers, arrows, captions. The change from rough to much better quality must be immediate and obvious; not simply three different flowers.",
+      "context": "A little practice can improve your drawing. 稍加练习就能改善你的绘画水平。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square meaning illustration for an English vocabulary memory card.\nExact target sense: \"improve\" / v. / \"改善\".\nSense context for reference only, never written in the image: A little practice can improve your drawing. 稍加练习就能改善你的绘画水平。\nPrimary requirement: the learner should understand this sense from the picture alone with the word and definition hidden. Prioritize unambiguous visual meaning over decoration. Do not rely on a written explanation or a weak metaphor.\nScene: A single art desk in a three-quarter overhead view. Three sheets show the SAME red flower becoming visibly better through practice: the earliest sheet has clumsy uncertain lines and uneven petals, the middle sheet is more accurate, and the newest sheet under the artist's actively working hand is a confident beautifully proportioned drawing. The person is currently improving the same drawing, with the earlier attempts tucked slightly behind it. One continuous coherent work scene, no panels, numbers, arrows, captions. The change from rough to much better quality must be immediate and obvious; not simply three different flowers.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; muted natural green, blue and coral; soft light, matching existing garden vocabulary illustrations.\nComposition: one clear meaningful scene or tightly related comparison, central subjects fully visible, simple enough at small thumbnail size, generous empty margins.\nConstraints: no words, letters, numbers, labels, logos, watermarks, borders, card UI or unrelated decorative objects. This is exactly one vocabulary sense, not an atlas or sprite sheet.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-1abf55a6-7a9f-4465-b229-0e52889be897.png",
+      "originalLocalPath": "output/imagegen/source/improve.png",
+      "candidatePath": "output/imagegen/review/1738/improve.webp",
+      "intendedSavedPath": "public/images/words/improve.webp",
+      "reviewed": true,
+      "status": "ready",
+      "savedPath": "public/images/words/improve.webp",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "03",
+        "primary": "画画水平逐渐进步",
+        "alternatives": [
+          "练习绘画",
+          "越画越好"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "三张同一花朵画的质量递进明显，直观呈现改善过程。"
+      },
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    },
+    {
+      "word": "useful",
+      "pos": "adj.",
+      "meaning": "有用的",
+      "alt": "开罐器帮助人轻松打开徒手难以打开的罐头，突出工具的实际用处",
+      "scene": "A tightly related visual comparison on a single kitchen counter conveys that a simple hand-operated can opener is useful. At one end, a person's bare hands unsuccessfully try to lift the sealed smooth metal lid of an unlabeled food tin, with a small frustrated face. At the other end, the same person easily opens an identical tin using the clearly visible can opener and smiles with relief; the neatly lifted lid and accessible food show the successful result. The useful tool and its practical benefit are central. This is one educational composition of the same task, not unrelated objects, no inset frames, no arrows or captions. Keep the tool operation mechanically plausible and safe, hands away from sharp rim.",
+      "context": "This notebook is useful for collecting ideas. 这个笔记本很适合用来收集想法。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square meaning illustration for an English vocabulary memory card.\nExact target sense: \"useful\" / adj. / \"有用的\".\nSense context for reference only, never written in the image: This notebook is useful for collecting ideas. 这个笔记本很适合用来收集想法。\nPrimary requirement: the learner should understand this sense from the picture alone with the word and definition hidden. Prioritize unambiguous visual meaning over decoration. Do not rely on a written explanation or a weak metaphor.\nScene: A tightly related visual comparison on a single kitchen counter conveys that a simple hand-operated can opener is useful. At one end, a person's bare hands unsuccessfully try to lift the sealed smooth metal lid of an unlabeled food tin, with a small frustrated face. At the other end, the same person easily opens an identical tin using the clearly visible can opener and smiles with relief; the neatly lifted lid and accessible food show the successful result. The useful tool and its practical benefit are central. This is one educational composition of the same task, not unrelated objects, no inset frames, no arrows or captions. Keep the tool operation mechanically plausible and safe, hands away from sharp rim.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; muted natural green, blue and coral; soft light, matching existing garden vocabulary illustrations.\nComposition: one clear meaningful scene or tightly related comparison, central subjects fully visible, simple enough at small thumbnail size, generous empty margins.\nConstraints: no words, letters, numbers, labels, logos, watermarks, borders, card UI or unrelated decorative objects. This is exactly one vocabulary sense, not an atlas or sprite sheet.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-62b38e2d-6840-4491-b253-f1352feae611.png",
+      "originalLocalPath": "output/imagegen/source/useful.png",
+      "candidatePath": "output/imagegen/review/1738/useful.webp",
+      "intendedSavedPath": "public/images/words/useful.webp",
+      "reviewed": true,
+      "status": "ready",
+      "savedPath": "public/images/words/useful.webp",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "01",
+        "primary": "用开罐器打开罐头更省力",
+        "alternatives": [
+          "解决困难",
+          "工具有用"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "同一任务的徒手失败与工具成功对比直接体现工具有用，实际益处可见。"
+      },
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    },
+    {
+      "word": "unique",
+      "pos": "adj.",
+      "meaning": "独特的",
+      "alt": "一群外形相同的白色小鸟中，只有一只具有独特彩色羽毛",
+      "scene": "Seven small birds perch closely together on a single horizontal branch. Six have exactly the same plain white plumage and simple silhouette; just ONE central bird has unmistakably distinctive colorful blue coral and green plumage with a beautifully different feather pattern. The one-of-a-kind bird is otherwise the same species and scale, harmoniously accepted by the flock, not isolated or mocked. The clear visual distinction of one unique individual among otherwise identical birds must be understood instantly. No unrelated scenery or symbols.",
+      "context": "Every artist has a unique style. 每位艺术家都有独特的风格。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square meaning illustration for an English vocabulary memory card.\nExact target sense: \"unique\" / adj. / \"独特的\".\nSense context for reference only, never written in the image: Every artist has a unique style. 每位艺术家都有独特的风格。\nPrimary requirement: the learner should understand this sense from the picture alone with the word and definition hidden. Prioritize unambiguous visual meaning over decoration. Do not rely on a written explanation or a weak metaphor.\nScene: Seven small birds perch closely together on a single horizontal branch. Six have exactly the same plain white plumage and simple silhouette; just ONE central bird has unmistakably distinctive colorful blue coral and green plumage with a beautifully different feather pattern. The one-of-a-kind bird is otherwise the same species and scale, harmoniously accepted by the flock, not isolated or mocked. The clear visual distinction of one unique individual among otherwise identical birds must be understood instantly. No unrelated scenery or symbols.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; muted natural green, blue and coral; soft light, matching existing garden vocabulary illustrations.\nComposition: one clear meaningful scene or tightly related comparison, central subjects fully visible, simple enough at small thumbnail size, generous empty margins.\nConstraints: no words, letters, numbers, labels, logos, watermarks, borders, card UI or unrelated decorative objects. This is exactly one vocabulary sense, not an atlas or sprite sheet.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-9fcfda93-7373-499c-b6f0-6a45a17630bd.png",
+      "originalLocalPath": "output/imagegen/source/unique.png",
+      "candidatePath": "output/imagegen/review/1738/unique.webp",
+      "intendedSavedPath": "public/images/words/unique.webp",
+      "reviewed": true,
+      "status": "ready",
+      "savedPath": "public/images/words/unique.webp",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "04",
+        "primary": "与众不同",
+        "alternatives": [
+          "独特",
+          "显眼"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "中央彩鸟与其余相同白鸟形成明确差异。"
+      },
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "patient",
+      "pos": "adj.",
+      "meaning": "有耐心的",
+      "alt": "大人安静耐心地陪孩子反复学习系鞋带，没有催促",
+      "scene": "A gentle adult sits calmly at a child's level while the child slowly struggles to tie a shoelace, having to start the knot again. The adult's open relaxed hands rest on their own knees; they watch with an unhurried encouraging soft smile and completely relaxed posture, giving the child time instead of doing it for them. The child concentrates on the partly tangled laces. Make the adult's patient waiting the main emphasis. Close enough to read facial expressions and the delicate knot. No medical setting, no doctor, no clock or writing.",
+      "context": "Be patient when you learn a new skill. 学习新技能时要有耐心。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square meaning illustration for an English vocabulary memory card.\nExact target sense: \"patient\" / adj. / \"有耐心的\".\nSense context for reference only, never written in the image: Be patient when you learn a new skill. 学习新技能时要有耐心。\nPrimary requirement: the learner should understand this sense from the picture alone with the word and definition hidden. Prioritize unambiguous visual meaning over decoration. Do not rely on a written explanation or a weak metaphor.\nScene: A gentle adult sits calmly at a child's level while the child slowly struggles to tie a shoelace, having to start the knot again. The adult's open relaxed hands rest on their own knees; they watch with an unhurried encouraging soft smile and completely relaxed posture, giving the child time instead of doing it for them. The child concentrates on the partly tangled laces. Make the adult's patient waiting the main emphasis. Close enough to read facial expressions and the delicate knot. No medical setting, no doctor, no clock or writing.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; muted natural green, blue and coral; soft light, matching existing garden vocabulary illustrations.\nComposition: one clear meaningful scene or tightly related comparison, central subjects fully visible, simple enough at small thumbnail size, generous empty margins.\nConstraints: no words, letters, numbers, labels, logos, watermarks, borders, card UI or unrelated decorative objects. This is exactly one vocabulary sense, not an atlas or sprite sheet.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-25226d38-4c7a-40bd-b0af-a5d3b7c53b62.png",
+      "originalLocalPath": "output/imagegen/source/patient.png",
+      "candidatePath": "output/imagegen/review/1738/patient.webp",
+      "intendedSavedPath": "public/images/words/patient.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "02",
+        "primary": "孩子自己系鞋带",
+        "alternatives": [
+          "学习系鞋带",
+          "母亲陪伴"
+        ],
+        "confidence": "high",
+        "decision": "deferred",
+        "reason": "主要画面是系鞋带和陪伴，耐心只是容易猜到的多种抽象解释之一，不能明确传达当前义项。"
+      }
+    }
+  ]
+}

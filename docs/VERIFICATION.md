@@ -2,6 +2,14 @@
 
 2026-09-27，本地开发环境。
 
+## 配图批次 20260927-1738（北京时间 9 月 28 日完成）
+
+- 内置 imagegen 各调用一次，生成 12 张独立候选图，另由未获知目标词和释义的审核者看匿名图片判断含义。improve、useful、unique、clearly、carefully、journey、island、discover、protect、wonder 共 10 张通过；patient 更容易被看成孩子系鞋带与家长陪伴，horizon 更容易被看成海上日落，这 2 张保留待重做，未发布或计入完成数。
+- 三份 `docs/imagegen/batch-20260927-1738-{root,a,b}.json` 保存完整提示词、内置来源和盲看判断。通过图片位于 `assets`；待重做图片位于 `candidates`，明确 `reviewed: false`，原图和候选 WebP 保存在本地忽略目录。十张发布图均为独立 640×640 WebP，解码检查通过，合计 570,628 字节。
+- 发布索引与全量目录均为 `ready: 46 / pending: 99954`，102 片全量目录和 43 片发布索引检查通过，元数据问题为 0。69 项测试、TypeScript 与生产构建通过。
+- 生产浏览器逐一确认本批 10 张图片在对应记忆词卡和单词本中正确加载；patient 与 horizon 在两个入口均没有图片，保留完整文字。桌面灵感工作室为 9 / 10 张图，手机探索远方为 5 / 12 张图，320px 页面没有横向溢出。
+- 初始合成开关仍关闭；开启后实际配对 clearly，640px 图片进入完整合成词卡并飞入收获区，展开后可回看同一张图。截图位于 `output/playwright/batch-1738-*`。首页按实际审核结果显示 46 / 100,000、待补齐 99,954。
+
 ## 配图批次 20260927-1514（北京时间 9 月 28 日完成）
 
 - 通过内置 imagegen 独立生成 straight、joy、courage、trust、worry、proud、calm、curious、grateful、sketch、focus、create，共 12 张；逐张核对词性和游戏义项，保留完整提示词与原始来源到 `docs/imagegen/batch-20260927-1514-{root,a,b}.json`。全部为独立 640×640 WebP，解码检查通过，合计 638,892 字节。

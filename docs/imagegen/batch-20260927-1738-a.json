@@ -1,0 +1,108 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "batch-20260927-1738-a",
+  "generatedAt": "2026-09-28",
+  "assets": [
+    {
+      "word": "carefully",
+      "pos": "adv.",
+      "meaning": "仔细地",
+      "senseId": "aae03d8334f21a8726d4b78d615fd44aebbc3fb4d4d894330fb3b92394d2a840",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"carefully\",\"pos\":\"adv.\",\"meaning\":\"仔细地\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): Read the instructions carefully before you begin. 开始之前请仔细阅读说明。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A close-up of an adult carefully threading a needle above a clean sewing table: their concentrated eyes follow the tiny needle eye, one steady hand holds the blunt sewing needle upright and the other delicately guides the fine thread tip exactly toward its opening. Hands are close together and poised precisely, showing meticulous careful manner rather than speed or broad activity. Needle eye must be large enough in the close composition to read, thread visibly approaching it. A small piece of fabric is the only supporting object. Safe ordinary hand sewing, no sharp injury or blood. Keep the exact precise action and attentive gaze central, natural correct anatomy.",
+      "alt": "人物眯眼看准针孔，用指尖稳稳捏住细线，小心仔细地穿针",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-c6d4dada-2498-4be9-8f61-6a822f262c11.png",
+      "originalLocalPath": "output/imagegen/source/carefully.png",
+      "savedPath": "public/images/words/carefully.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "06",
+        "primary": "穿针引线",
+        "alternatives": [
+          "专心",
+          "细心"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "复核动作方式：盯着针眼，指尖捏住针线，把线头仔细对准针眼；画面直接呈现细致的动作。"
+      }
+    },
+    {
+      "word": "journey",
+      "pos": "n.",
+      "meaning": "旅程",
+      "senseId": "89d7fed486cb6a0cb82d05c917f7777062c39e1299662904d6ec9ff49795d9ef",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"journey\",\"pos\":\"n.\",\"meaning\":\"旅程\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): Our journey began on a rainy morning. 我们的旅程从一个雨天的早晨开始。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A clear long JOURNEY visualized as one coherent elevated landscape: a traveler with a packed backpack and small travel bag sets out on a long winding route. The route visibly passes several distinct locations in sequence: a nearby home village, a bridge over a river, a green mountain pass, and a faraway little city. The traveler is near the start and looks ahead at the whole long route, making distance and going from place to place central. Sparse simplified landscape, destination and starting place both visible, not merely a close-up hiker or nature scene. No dotted-map lines, arrows, labels, travel stickers, calendar or text. One image, not a panel collage.",
+      "alt": "背着旅行包的人沿长路出发，道路经过村庄、桥梁与山谷，通往远方城市",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-8bd1f34d-e156-4ae2-a9c0-aafb837857dd.png",
+      "originalLocalPath": "output/imagegen/source/journey.png",
+      "savedPath": "public/images/words/journey.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "08",
+        "primary": "旅行",
+        "alternatives": [
+          "徒步",
+          "长途旅程"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "带行囊的人与跨村庄、桥梁、山谷的连贯长路线直接表达旅程。"
+      }
+    },
+    {
+      "word": "island",
+      "pos": "n.",
+      "meaning": "岛屿",
+      "senseId": "242a85ee82c8021cb04cf10db94be5efdd98b78109ba90eeda0da2aac5e849dc",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"island\",\"pos\":\"n.\",\"meaning\":\"岛屿\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): We took a boat to a small island. 我们乘船去了一座小岛。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: One unmistakable small ISLAND viewed from an elevated three-quarter aerial angle. Its entire oval sandy shoreline is fully visible and continuous, with a cluster of green trees on the small landmass. Wide unbroken blue seawater surrounds ALL FOUR SIDES of the island. No bridge, causeway, peninsula, mainland, cropped coast or horizon cutting off the water ring. One tiny rowboat floating offshore provides scale. The landmass and complete surrounding water ring must be the bold readable central subject, with quiet warm paper at the far outer image margins.",
+      "alt": "俯视的小岛四周完全环绕蓝色海水，沙滩与树木位于岛中央",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-0a8f77a7-c029-4672-a15b-4efbaa013d32.png",
+      "originalLocalPath": "output/imagegen/source/island.png",
+      "savedPath": "public/images/words/island.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "10",
+        "primary": "岛屿",
+        "alternatives": [
+          "热带小岛",
+          "海岛"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "整圈水域围住陆地，典型外形明确。"
+      }
+    },
+    {
+      "word": "clearly",
+      "pos": "adv.",
+      "meaning": "清楚地",
+      "senseId": "af85ded8ea79dd041d36b6fa6b051d11b49a862d16e231ae6af6ee59315a86b3",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"clearly\",\"pos\":\"adv.\",\"meaning\":\"清楚地\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): Please explain your idea clearly. 请清楚地说明你的想法。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A close first-person view of one pair of eyeglasses held in front of a garden bird on a branch. THROUGH THE LENSES the bird is sharply resolved with distinct eye, beak, wing feathers and branch edges; the same surrounding garden outside the lenses is visibly blurred and indistinct. Strong visual contrast between seeing vaguely and seeing CLEARLY is the entire message; the glasses are a visual aid, no cleaning action, no magnification enlargement, no person, no text. The bird remains the same natural size and aligns across the lens edge. Central lenses and sharp bird must be very easy to read in a small image.",
+      "alt": "透过眼镜能清楚地看见小鸟，而镜片外的花园模糊不清",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-889d4d5b-82e0-410c-815a-7f73fa83eb8c.png",
+      "originalLocalPath": "output/imagegen/source/clearly.png",
+      "savedPath": "public/images/words/clearly.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "12",
+        "primary": "看清楚",
+        "alternatives": [
+          "清晰",
+          "眼镜改善视力"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "镜片内外清晰度对比明显，直接表现看清楚。"
+      }
+    }
+  ],
+  "candidates": []
+}

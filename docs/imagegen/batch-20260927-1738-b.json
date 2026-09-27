@@ -1,0 +1,102 @@
+{
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "assets": [
+    {
+      "word": "discover",
+      "pos": "v.",
+      "meaning": "发现",
+      "alt": "孩子刚掀开平石，惊喜地指向原先藏在下面的螺旋化石",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"discover\" / v. / \"发现\".\nSense context from lesson (not image text): We discovered a quiet beach near the village. 我们在村子附近发现了一片安静的海滩。\nPrimary request: communicate only this exact meaning clearly even when the English and Chinese caption are hidden. Choose a concrete visual relationship, not a generic decorative scene.\nScene: A child crouching outdoors has JUST lifted a broad flat stone with one hand, unmistakably uncovering an unexpected beautiful spiral ammonite fossil in the exposed earth beneath it. The lifted stone is held aside above the newly exposed space. The child's other hand points directly at the fossil, eyes widen with delighted realization and mouth slightly opens at the instant of discovery. Main visual chain must be clear: formerly hidden object, covering stone just moved, new object now revealed, instant finding reaction. Keep everything close together. No magnifying glass or map, no searching in progress, no simply looking at scenery.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered in a square, generous empty paper margins, important subjects fully visible, clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-4c0950cd-124c-4b50-9225-deb8fb01b363.png",
+      "savedPath": "public/images/words/discover.webp",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "11",
+        "primary": "发现化石",
+        "alternatives": [
+          "寻找化石",
+          "惊喜"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "刚掀开的石头露出原本隐藏物，人物指向它且惊喜，清楚表现发现动作。"
+      }
+    },
+    {
+      "word": "protect",
+      "pos": "v.",
+      "meaning": "保护",
+      "alt": "人用一把伞替小鸟挡住风雨，伞外雨点落下而小鸟所在处保持干燥",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"protect\" / v. / \"保护\".\nSense context from lesson (not image text): We must protect the animals that live here. 我们必须保护生活在这里的动物。\nPrimary request: communicate only this exact meaning clearly even when the English and Chinese caption are hidden. Choose a concrete visual relationship, not a generic decorative scene.\nScene: A caring person's arm holds a sturdy small open umbrella directly above a tiny bird sitting in a low nest. Show a clear sheet of slanting rain and a few harmless windblown leaves hitting the OUTSIDE top of the umbrella and visibly deflecting away, while the bird and nest UNDERNEATH remain completely dry and sheltered. The umbrella forms an obvious barrier BETWEEN the incoming bad weather and the vulnerable bird. The hand actively holds it steady. The bird is calm and unharmed. Tight crop around umbrella, hand, rain and bird only, clearly about shielding from a threat rather than watering or holding a pet.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered in a square, generous empty paper margins, important subjects fully visible, clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-3ce97808-20fe-4405-8ab1-e0f4e71393d6.png",
+      "savedPath": "public/images/words/protect.webp",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "05",
+        "primary": "保护小鸟",
+        "alternatives": [
+          "为小鸟遮雨",
+          "照顾"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "手持伞替巢中小鸟挡住大雨，保护动作明确。"
+      }
+    },
+    {
+      "word": "wonder",
+      "pos": "v.",
+      "meaning": "想知道",
+      "alt": "孩子看着紧闭的不透明盒子托腮思索，脑海中分别浮现球和玩具熊两种可能",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"wonder\" / v. / \"想知道\".\nSense context from lesson (not image text): I wonder what lies beyond those mountains. 我想知道那些山的另一边有什么。\nPrimary request: communicate only this exact meaning clearly even when the English and Chinese caption are hidden. Choose a concrete visual relationship, not a generic decorative scene.\nScene: A thoughtful child gazes intently at an UNOPENED opaque lidded wooden box, with one finger at chin and a gently raised questioning eyebrow, clearly wanting to know what is hidden inside. Above the child are TWO small soft-edged wordless thought clouds connected to their head: one imagined possibility is a small ball, the other is a teddy bear. The real box remains fully CLOSED and opaque, so neither possibility is known. The two tentative imagined possibilities plus the child's questioning thoughtful expression must communicate 'I wonder what is inside'. It is a quiet inquiry, NOT amazement, fear, daydreaming about owning toys or opening/discovering the contents. No question marks, punctuation or written text.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered in a square, generous empty paper margins, important subjects fully visible, clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-fdb57a77-f661-4b6a-b402-e044d9d8618b.png",
+      "savedPath": "public/images/words/wonder.webp",
+      "reviewed": true,
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "07",
+        "primary": "猜盒子里有什么",
+        "alternatives": [
+          "好奇",
+          "思考"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "未打开的盒子、疑问表情和两种想象内容共同表现想知道未知内容；实际物件未摆成选择项。"
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "word": "horizon",
+      "pos": "n.",
+      "meaning": "地平线",
+      "alt": "平静海面与浅色天空相接成一条清晰笔直的地平线，落日被这条线遮住一半",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"horizon\" / n. / \"地平线\".\nSense context from lesson (not image text): The sun disappeared below the horizon. 太阳消失在了地平线下。\nPrimary request: communicate only this exact meaning clearly even when the English and Chinese caption are hidden. Choose a concrete visual relationship, not a generic decorative scene.\nScene: A minimal open-sea view emphasizing ONE perfectly clear far horizontal boundary where the blue sea meets a pale warm sky. This boundary is the primary subject, visually crisp and stretching straight across nearly the entire central vignette, darker than the gentle sea below. A modest coral setting sun is exactly half hidden below this far boundary, reinforcing the line's meaning without dominating. No shore, people, boats, mountains, trees or foreground objects. Calm water texture below and nearly empty pale sky above make the far meeting line unmistakable.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural lighting, muted green, blue and coral palette, matching gentle garden vocabulary illustrations.\nComposition: one coherent scene centered in a square, generous empty paper margins, important subjects fully visible, clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows or card UI. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-d0dd4c6d-dec7-463d-ba54-2cf8d7b32145.png",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/review/1738/horizon.webp",
+      "intendedSavedPath": "public/images/words/horizon.webp",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "09",
+        "primary": "海上日落",
+        "alternatives": [
+          "夕阳",
+          "海平面"
+        ],
+        "confidence": "medium",
+        "decision": "deferred",
+        "reason": "第一眼关注太阳和日落，海天交界线没有成为可独立识别的目标；保留待重做。"
+      }
+    }
+  ]
+}

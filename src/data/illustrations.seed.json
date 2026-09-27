@@ -21,6 +21,20 @@
     "alt": "面试中的女子神情平静，肩膀放松，双手自然放在膝上"
   },
   {
+    "word": "carefully",
+    "pos": "adv.",
+    "meaning": "仔细地",
+    "src": "./images/words/carefully.webp",
+    "alt": "人物眯眼看准针孔，用指尖稳稳捏住细线，小心仔细地穿针"
+  },
+  {
+    "word": "clearly",
+    "pos": "adv.",
+    "meaning": "清楚地",
+    "src": "./images/words/clearly.webp",
+    "alt": "透过眼镜能清楚地看见小鸟，而镜片外的花园模糊不清"
+  },
+  {
     "word": "corner",
     "pos": "n.",
     "meaning": "拐角",
@@ -54,6 +68,13 @@
     "meaning": "好奇的",
     "src": "./images/words/curious.webp",
     "alt": "孩子睁大好奇的眼睛望向星空，身旁架着一台小望远镜"
+  },
+  {
+    "word": "discover",
+    "pos": "v.",
+    "meaning": "发现",
+    "src": "./images/words/discover.webp",
+    "alt": "孩子刚掀开平石，惊喜地指向原先藏在下面的螺旋化石"
   },
   {
     "word": "explore",
@@ -119,6 +140,27 @@
     "alt": "创作者想到新点子，脑海中浮现纸飞机构想"
   },
   {
+    "word": "improve",
+    "pos": "v.",
+    "meaning": "改善",
+    "src": "./images/words/improve.webp",
+    "alt": "练习者把早期歪斜的花朵画逐步画得更准确，展示绘画水平的改善"
+  },
+  {
+    "word": "island",
+    "pos": "n.",
+    "meaning": "岛屿",
+    "src": "./images/words/island.webp",
+    "alt": "俯视的小岛四周完全环绕蓝色海水，沙滩与树木位于岛中央"
+  },
+  {
+    "word": "journey",
+    "pos": "n.",
+    "meaning": "旅程",
+    "src": "./images/words/journey.webp",
+    "alt": "背着旅行包的人沿长路出发，道路经过村庄、桥梁与山谷，通往远方城市"
+  },
+  {
     "word": "joy",
     "pos": "n.",
     "meaning": "喜悦",
@@ -159,6 +201,13 @@
     "meaning": "准备",
     "src": "./images/words/prepare.webp",
     "alt": "人物在厨房摆放食材与碗勺，准备午饭"
+  },
+  {
+    "word": "protect",
+    "pos": "v.",
+    "meaning": "保护",
+    "src": "./images/words/protect.webp",
+    "alt": "人用一把伞替小鸟挡住风雨，伞外雨点落下而小鸟所在处保持干燥"
   },
   {
     "word": "proud",
@@ -238,11 +287,32 @@
     "alt": "一个人放心地闭眼微微后倾，信任身后的朋友稳稳扶住自己"
   },
   {
+    "word": "unique",
+    "pos": "adj.",
+    "meaning": "独特的",
+    "src": "./images/words/unique.webp",
+    "alt": "一群外形相同的白色小鸟中，只有一只具有独特彩色羽毛"
+  },
+  {
+    "word": "useful",
+    "pos": "adj.",
+    "meaning": "有用的",
+    "src": "./images/words/useful.webp",
+    "alt": "开罐器帮助人轻松打开徒手难以打开的罐头，突出工具的实际用处"
+  },
+  {
     "word": "water",
     "pos": "n.",
     "meaning": "水",
     "src": "./images/words/water.webp",
     "alt": "清水倒入透明玻璃杯"
+  },
+  {
+    "word": "wonder",
+    "pos": "v.",
+    "meaning": "想知道",
+    "src": "./images/words/wonder.webp",
+    "alt": "孩子看着紧闭的不透明盒子托腮思索，脑海中分别浮现球和玩具熊两种可能"
   },
   {
     "word": "worry",
