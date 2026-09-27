@@ -1,0 +1,113 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "from",
+      "pos": "prep.",
+      "meaning": "从",
+      "alt": "孩子从房屋敞开的门口走出，脚印和蓝色箭头从门内向外延伸",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"from\",\"pos\":\"prep.\",\"meaning\":\"从\"}.\nPrimary request: clearly illustrate a point of origin: a child coming FROM a house, with the source emphasized.\nScene: a small simple muted-coral house with an open front doorway occupies the left center. A child has just departed that doorway and is walking away to the right, facing right. A short continuous trail of footprints begins unambiguously INSIDE the doorway, crosses its threshold and ends immediately behind the child's feet. One broad hand-painted curved blue directional arrow starts at the doorway and points outward toward the child; its tail must touch the source doorway and its arrowhead must point away from the house. The door and first footprints are the strongest focal detail. The space ahead of the child is empty off-white paper: there is no destination, target, second building, or receiving person. Make the source-to-person relationship instantly understandable.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral.\nComposition: square 1:1, single tightly related scene centered in the middle 70 percent, generous clean margins, fully visible child and house, very readable at small card size.\nConstraints: no text, letters, numbers, labels, punctuation, speech bubbles, logos, watermarks, borders or card UI. No elaborate landscape. The arrow must never point toward the house.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dd-88fe-7c33-b583-c95a663799d5/exec-da14ccbb-74dd-4065-956a-bf126e50db5e.png",
+      "originalLocalPath": "output/imagegen/source/from-2147.png",
+      "candidatePath": "output/imagegen/review/2147/from.webp",
+      "intendedSavedPath": "public/images/words/from.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "箭尾与脚印均从门内开始，箭头和孩子朝远离房子的方向，没有目的地，来源线索明确。可能被读为离开、出门或走路，需盲审判断来源关系是否足够突出。房屋偏大、配景略多，无文字。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "19",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "男孩从房子里走出来并离开",
+        "alternatives": [
+          "出门",
+          "离开房子"
+        ],
+        "reason": "脚印与箭尾均由门内开始，运动远离来源且无目的地，盲审明确识别从房子里出发。"
+      },
+      "savedPath": "public/images/words/from.webp"
+    },
+    {
+      "word": "which",
+      "pos": "pron.",
+      "meaning": "哪一个",
+      "alt": "男孩摊手询问，女孩思考应在三顶不同颜色的帽子中选哪一顶",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"which\",\"pos\":\"pron.\",\"meaning\":\"哪一个\"}.\nPrimary request: show someone ASKING WHICH ONE out of a visible small set, with no choice made yet.\nScene: a low wooden bench displays three clearly separate sunhats of the same simple shape: a coral hat, a blue hat, and a green hat. A child stands behind the bench with distinctly raised questioning eyebrows and a gently puzzled expression. One of the child's hands gestures open-palmed over the entire row of hats, asking a second child to identify one. The second child stands at the side, with a thoughtful finger against their cheek, looking from hat to hat without touching or selecting any. All three hats are equally accessible and equally prominent; none is worn or held, and none is selected. The open questioning gesture plus the small visible set is the whole scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; soft daylight and muted natural colors.\nComposition: square 1:1, centered middle 70 percent, generous empty margins, clear faces and expressive hands, simplified small-card-readable forms.\nConstraints: absolutely no text, letters, numbers, written labels, punctuation marks including question marks, speech bubbles, logos, watermark, border or card UI. No arrows, ticks, crosses, or extra objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dd-88fe-7c33-b583-c95a663799d5/exec-78a79b98-718b-44ea-b527-c0d27f126a49.png",
+      "originalLocalPath": "output/imagegen/source/which-2147.png",
+      "candidatePath": "output/imagegen/review/2147/which.webp",
+      "intendedSavedPath": "public/images/words/which.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "三顶同类帽子构成有限候选，男孩疑问表情与女孩思考姿势呈现询问哪一个，尚未选中任何一个。仍可能读为犹豫、选择或不知道；需盲审判断疑问指代是否足够直观。无文字及问号。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "68",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "面对三顶帽子，孩子在犹豫选哪一顶",
+        "alternatives": [
+          "做选择",
+          "拿不定主意"
+        ],
+        "reason": "同类有限候选与提问摊手、思考表情共同体现哪一个，尚未选中任何对象，盲审直接读出选哪一顶。"
+      },
+      "savedPath": "public/images/words/which.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "his",
+      "pos": "pron.",
+      "meaning": "他的",
+      "alt": "女孩指向男孩背在身上的蓝色书包，男孩握着自己的书包肩带",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"his\",\"pos\":\"pron.\",\"meaning\":\"他的\"}.\nPrimary request: show clear third-person male ownership, visually meaning that the backpack belongs to that boy.\nScene: a friendly young boy with short dark hair stands on the right wearing his muted blue backpack with both shoulder straps securely on his shoulders. He turns enough that the backpack is fully visible. At the left, a young girl looks toward the viewer and points directly to the backpack on the boy's back with an extended index finger. The boy rests one hand possessively on his backpack strap and smiles. The girl's pointing identifies the boy's own object to somebody else; the boy is not pointing at himself. The backpack must clearly remain attached to the boy, never to the girl. Only these two children and the single backpack.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, gentle natural muted blue, green and coral.\nComposition: square 1:1, simple tight readable vignette centered in the middle 70 percent, fully visible figures and backpack, generous empty margin; small-card readability, no environment clutter.\nConstraints: absolutely no text, letters, numbers, written labels, punctuation, speech bubbles, logos, watermarks, borders or card UI. No arrows, no generic decorative symbols. Anatomically clear hands. No extra objects or people.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dd-88fe-7c33-b583-c95a663799d5/exec-21625be8-6d02-44b8-bf60-5139bd6d5811.png",
+      "originalLocalPath": "output/imagegen/source/his-2147.png",
+      "candidatePath": "output/imagegen/review/2147/his.webp",
+      "intendedSavedPath": "public/images/words/his.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "男孩拥有并背着书包，女孩指向包而非男孩身体，第三人称物主关系较清楚。仍可能被优先读为书包、背书包或指认男孩；尚未经独立盲审。人物占幅偏大但四肢完整，无文字。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "47",
+        "confidence": "high",
+        "decision": "deferred",
+        "primary": "女孩指着男孩背上的书包",
+        "alternatives": [
+          "书包",
+          "背着书包"
+        ],
+        "reason": "只能直接看到男孩正在使用书包，归属关系缺乏额外可见线索，可能仅理解背包或书包，暂不审核通过。"
+      }
+    },
+    {
+      "word": "or",
+      "pos": "conj.",
+      "meaning": "或",
+      "alt": "孩子在苹果与梨之间只伸手接受苹果，同时抬掌婉拒梨，面前只有一个盘子",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"or\",\"pos\":\"conj.\",\"meaning\":\"或\"}.\nPrimary request: unmistakable everyday EITHER-ONE-OR-THE-OTHER choice between exactly two alternatives, with only one accepted.\nScene: an adult offers two different fruits separately, a red apple on one open palm and a yellow pear on the other, hands held apart. A child between the two alternatives reaches with one hand to take only the red apple. The child's other hand makes a clear gentle open-palm refusal gesture facing the yellow pear, keeping it away. A small single-serving plate directly in front of the child has space for just one fruit, making the one-or-the-other decision concrete. The offered pear stays entirely in the adult's palm. Make the acceptance of one fruit and refusal of the other obvious, never two fruits gathered together. Exactly two offered fruits in the whole image. Friendly expressions, no force or conflict.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural daylight, muted red, yellow, blue and green.\nComposition: square 1:1, single tightly grouped scene centered within the middle 70 percent with generous clean empty margin; simple readable hands and fruit at small card size.\nConstraints: no text, letters, numbers, written labels, punctuation, speech bubbles, mathematical or logical symbols, logos, watermark, border or card UI. No arrows, no additional fruit, no fruit bowl, no extra choices. Never show the child holding or receiving both fruits.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dd-88fe-7c33-b583-c95a663799d5/exec-d548666e-9133-4968-ab5d-ebe25fc09ab6.png",
+      "originalLocalPath": "output/imagegen/source/or-2147.png",
+      "candidatePath": "output/imagegen/review/2147/or.webp",
+      "intendedSavedPath": "public/images/words/or.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "画面确有且仅有两种水果，孩子伸手接苹果同时抬掌拒绝梨，未同时拿取两者。生图将一位成人分成了左右两位成人，且人物边缘裁切；语义可能更像选择、偏好或拒绝，必须独立盲审，不应凭二选一构图直接通过。无文字。",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "32",
+        "confidence": "high",
+        "decision": "deferred",
+        "primary": "男孩选择苹果，同时拒绝梨",
+        "alternatives": [
+          "更想要苹果",
+          "不要梨"
+        ],
+        "reason": "画面重心是已经接受苹果并拒绝梨，容易表达偏好或不要，作为或的备选关系不够明确；保留待重做。"
+      }
+    }
+  ]
+}

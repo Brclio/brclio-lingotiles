@@ -1,0 +1,176 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-2147-root",
+  "assets": [
+    {
+      "word": "finally",
+      "pos": "adv.",
+      "meaning": "最后",
+      "alt": "同一孩子制作三明治的顺序由箭头连接，最右侧最后一步吃三明治被明显突出",
+      "scene": "One coherent educational sequence showing a single child making and eating a sandwich. THREE equally-sized small moments laid out clearly from LEFT TO RIGHT with two plain hand-painted arrows between them. At left the child places bread slices on a plate; in the middle the SAME child adds lettuce and closes the sandwich; at right the SAME child FINALLY takes the first bite of the fully finished sandwich. The final rightmost action is in full warm coral and blue color with a subtle warm oval spotlight, while the first two preceding moments are pale muted gray-green. No further moment or arrow after the eating step. All three views same scale, same tabletop height, same child and clothing, same sandwich, same plate. Clearly emphasize the LAST action in a completed chronological process, not three different children or sizes. Each moment is simple and legible, no frames, no numbers, no words. This is ONE sense illustration about the final step, not assets for multiple words.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary meaning illustration.\nExact target sense: \"finally\" / adv. / \"最后\".\nRequirement: clearly depict this precise current sense using visible action, relationship, direction and context. The image must remain understandable without seeing the word or definition.\nScene: One coherent educational sequence showing a single child making and eating a sandwich. THREE equally-sized small moments laid out clearly from LEFT TO RIGHT with two plain hand-painted arrows between them. At left the child places bread slices on a plate; in the middle the SAME child adds lettuce and closes the sandwich; at right the SAME child FINALLY takes the first bite of the fully finished sandwich. The final rightmost action is in full warm coral and blue color with a subtle warm oval spotlight, while the first two preceding moments are pale muted gray-green. No further moment or arrow after the eating step. All three views same scale, same tabletop height, same child and clothing, same sandwich, same plate. Clearly emphasize the LAST action in a completed chronological process, not three different children or sizes. Each moment is simple and legible, no frames, no numbers, no words. This is ONE sense illustration about the final step, not assets for multiple words.\nStyle: gentle hand-painted gouache with colored-pencil texture on warm off-white paper, muted blue green coral, soft natural light, clear central composition, uncluttered margins, suitable for an 80px thumbnail.\nConstraints: no written words, letters, numbers, captions, logos, watermark, card UI. Generate only this independent vocabulary sense, never use one image to stand for several senses.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-894c3db3-e5cd-4f8a-a37d-209b1c739d2c.png",
+      "originalLocalPath": "output/imagegen/source/finally-2147.png",
+      "candidatePath": "output/imagegen/review/2147/finally.webp",
+      "intendedSavedPath": "public/images/words/finally.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "39",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "男孩制作三明治，然后吃三明治",
+        "alternatives": [
+          "做饭",
+          "吃三明治"
+        ],
+        "reason": "三个同尺度时刻由箭头依次连接，最后的吃东西阶段有鲜明着色与光圈；盲审明确确认顺序清楚且视觉重点是最后阶段。"
+      },
+      "savedPath": "public/images/words/finally.webp"
+    },
+    {
+      "word": "it",
+      "pos": "pron.",
+      "meaning": "它",
+      "alt": "说话者向同伴指向一只小猫，气泡中的猫与实际小猫完全一致，指向无遮挡",
+      "scene": "A simple third-person NON-HUMAN reference scene. At far LEFT, a girl listens just BEHIND a boy speaking in front of her. Both people's bodies stay entirely in the left third. The boy extends one arm across the empty CENTRAL gap, and his unobstructed index finger points clearly toward one orange cat at far RIGHT. The finger does NOT touch or point at the listener, who is behind the speaker. A speech balloon from the boy contains only a small portrait of the SAME orange cat with blue collar, matching the real cat exactly; no writing. The boy looks at his listener while referring to the cat as IT, while the cat remains separate from both conversation partners. Strong clear object-reference connection, empty space around the gesture, no other animals, toys or ownership signals.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary meaning illustration.\nExact target sense: \"it\" / pron. / \"它\".\nRequirement: clearly depict this precise current sense using visible action, relationship, direction and context. The image must remain understandable without seeing the word or definition.\nScene: A simple third-person NON-HUMAN reference scene. At far LEFT, a girl listens just BEHIND a boy speaking in front of her. Both people's bodies stay entirely in the left third. The boy extends one arm across the empty CENTRAL gap, and his unobstructed index finger points clearly toward one orange cat at far RIGHT. The finger does NOT touch or point at the listener, who is behind the speaker. A speech balloon from the boy contains only a small portrait of the SAME orange cat with blue collar, matching the real cat exactly; no writing. The boy looks at his listener while referring to the cat as IT, while the cat remains separate from both conversation partners. Strong clear object-reference connection, empty space around the gesture, no other animals, toys or ownership signals.\nStyle: gentle hand-painted gouache with colored-pencil texture on warm off-white paper, muted blue green coral, soft natural light, clear central composition, uncluttered margins, suitable for an 80px thumbnail.\nConstraints: no written words, letters, numbers, captions, logos, watermark, card UI. Generate only this independent vocabulary sense, never use one image to stand for several senses.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-613cad64-b333-40eb-8f2b-d37362134bc9.png",
+      "originalLocalPath": "output/imagegen/source/it-2147.png",
+      "candidatePath": "output/imagegen/review/2147/it.webp",
+      "intendedSavedPath": "public/images/words/it.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "72",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "男孩向同伴指示右边远处的猫",
+        "alternatives": [
+          "指着猫",
+          "谈论那只猫"
+        ],
+        "reason": "气泡中的猫与独立对象一致，指向无遮挡；盲审确认谈论对象明确，非人第三人称指代可见。"
+      },
+      "savedPath": "public/images/words/it.webp"
+    },
+    {
+      "word": "we",
+      "pos": "pron.",
+      "meaning": "我们",
+      "alt": "说话者一手指自己，一手搂住身旁同伴，两人朝向观看者，气泡中包含他们自己",
+      "scene": "A clear FIRST-PERSON PLURAL self-reference. TWO children stand closely side by side facing the viewer. The child speaking at left points one hand unmistakably inward at their OWN chest while the other arm gently goes around the companion's shoulder, including both of them. A simple speech bubble from the speaker contains a miniature picture of BOTH these same children together, with the exact same clothing colors and hairstyles. Their expressions are friendly and matter-of-fact: WE, including me and my companion. No third separate group, no distant people, no pointing away toward somebody else, no text, no heart symbols. Both figures and the inclusive self-pointing gesture fully visible.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary meaning illustration.\nExact target sense: \"we\" / pron. / \"我们\".\nRequirement: clearly depict this precise current sense using visible action, relationship, direction and context. The image must remain understandable without seeing the word or definition.\nScene: A clear FIRST-PERSON PLURAL self-reference. TWO children stand closely side by side facing the viewer. The child speaking at left points one hand unmistakably inward at their OWN chest while the other arm gently goes around the companion's shoulder, including both of them. A simple speech bubble from the speaker contains a miniature picture of BOTH these same children together, with the exact same clothing colors and hairstyles. Their expressions are friendly and matter-of-fact: WE, including me and my companion. No third separate group, no distant people, no pointing away toward somebody else, no text, no heart symbols. Both figures and the inclusive self-pointing gesture fully visible.\nStyle: gentle hand-painted gouache with colored-pencil texture on warm off-white paper, muted blue green coral, soft natural light, clear central composition, uncluttered margins, suitable for an 80px thumbnail.\nConstraints: no written words, letters, numbers, captions, logos, watermark, card UI. Generate only this independent vocabulary sense, never use one image to stand for several senses.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-70385053-4591-4d17-8bcc-019305474313.png",
+      "originalLocalPath": "output/imagegen/source/we-2147.png",
+      "candidatePath": "output/imagegen/review/2147/we.webp",
+      "intendedSavedPath": "public/images/words/we.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "86",
+        "confidence": "medium",
+        "decision": "accepted",
+        "primary": "男孩指着自己，同时搂着身旁女孩，两人一起出现在气泡里",
+        "alternatives": [
+          "亲近的两个孩子",
+          "两个人的合照"
+        ],
+        "reason": "自指动作包含说话者，搂住同伴及气泡重复二人共同明确包含我和同伴，区别于谈论远处他们；不需要推断亲属身份。"
+      },
+      "savedPath": "public/images/words/we.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "they",
+      "pos": "pron.",
+      "meaning": "他们",
+      "alt": "两人交谈，其中一人指向远处与交谈双方分开的三个人，气泡重复这组三人",
+      "scene": "A clear THIRD-PERSON PLURAL reference scene. Two children stand together at the far left having a conversation. One speaker looks toward the listening companion while openly pointing with their free hand to a distinct small group of THREE people at the right, separated by a visible empty gap. A speech bubble from the speaker contains a miniature matching portrait of exactly those three people in the same colored clothes. The speaker and listener are NOT included in that pictured group. All three referred people are standing together, plainly the plural THEY being talked about, not the speaker's own WE. No written language, no family badges, no gender or role labels, no extra groups.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary meaning illustration.\nExact target sense: \"they\" / pron. / \"他们\".\nRequirement: clearly depict this precise current sense using visible action, relationship, direction and context. The image must remain understandable without seeing the word or definition.\nScene: A clear THIRD-PERSON PLURAL reference scene. Two children stand together at the far left having a conversation. One speaker looks toward the listening companion while openly pointing with their free hand to a distinct small group of THREE people at the right, separated by a visible empty gap. A speech bubble from the speaker contains a miniature matching portrait of exactly those three people in the same colored clothes. The speaker and listener are NOT included in that pictured group. All three referred people are standing together, plainly the plural THEY being talked about, not the speaker's own WE. No written language, no family badges, no gender or role labels, no extra groups.\nStyle: gentle hand-painted gouache with colored-pencil texture on warm off-white paper, muted blue green coral, soft natural light, clear central composition, uncluttered margins, suitable for an 80px thumbnail.\nConstraints: no written words, letters, numbers, captions, logos, watermark, card UI. Generate only this independent vocabulary sense, never use one image to stand for several senses.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-3e5ff6d6-00f6-4573-a1dd-1c047ee7df30.png",
+      "originalLocalPath": "output/imagegen/source/they-2147.png",
+      "candidatePath": "output/imagegen/review/2147/they.webp",
+      "intendedSavedPath": "public/images/words/they.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "14",
+        "confidence": "medium",
+        "decision": "deferred",
+        "primary": "女孩向身旁男孩谈到右后方的三个人",
+        "alternatives": [
+          "介绍一群孩子",
+          "指向远处的人"
+        ],
+        "reason": "伸出的手贴着听者肩颈，指向对象有歧义；与气泡重复三人的线索不够一致，待重做。"
+      }
+    }
+  ],
+  "semanticDeferrals": [
+    {
+      "word": "the",
+      "pos": "art.",
+      "meaning": "那",
+      "senseId": "6c4021b6eb3112f9e40d71825ae2d3f4ac9337cb3c1e0bc56b6d1d03260355e1",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"the\",\"pos\":\"art.\",\"meaning\":\"那\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "延续前批审核：无文字指向特定物体难以表现定冠词而非指示词，保留待设计。"
+    },
+    {
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"be\",\"pos\":\"v.\",\"meaning\":\"是\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "具体身份和类别画面容易表达名词而非系词 是，保留待设计。"
+    },
+    {
+      "word": "of",
+      "pos": "prep.",
+      "meaning": "的",
+      "senseId": "7b9e239d4c3cda132cb93a56138dd0df5a9c9fc4574b3d5a476c2ce210f02e35",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"of\",\"pos\":\"prep.\",\"meaning\":\"的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "简化释义 的 缺少明确的单一关系，所有权或部分整体方案仍易混淆，保留待设计。"
+    },
+    {
+      "word": "do",
+      "pos": "v.",
+      "meaning": "做",
+      "senseId": "3085d553c8725125a628a298f9f4eee924cc6acc79fbeeffeff14d8caf459454",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"do\",\"pos\":\"v.\",\"meaning\":\"做\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "具体劳动动作常被读成该动作而非泛义 做，保留待设计。"
+    },
+    {
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "senseId": "47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645",
+      "plannedPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"by\",\"pos\":\"prep.\",\"meaning\":\"被\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "status": "pending_semantic_design",
+      "generated": false,
+      "reviewed": false,
+      "reason": "被 表示被动施事关系，纯动作场景无法清楚区分主被动句法，保留待设计。"
+    }
+  ]
+}

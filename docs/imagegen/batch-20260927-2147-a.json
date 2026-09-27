@@ -1,0 +1,114 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "this",
+      "pos": "pron.",
+      "meaning": "这",
+      "alt": "孩子指着紧挨自己手边的红苹果，远处的小苹果未被指向，气泡中出现所指红苹果。",
+      "selfReviewNotes": "已查看生成原图和640像素候选。近处红苹果被指尖直接触及，远处浅色苹果构成距离对照，无文字气泡重复近处目标；主要线索符合身边的这个。画面桌子和腿被边缘裁切，留白少于提示目标；仍可能先读成苹果或指认，留待独立盲审。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: this, pronoun, 这 — the single object immediately near the speaker.\nPrimary request: make the demonstrative relationship visually clear without any writing. A friendly child is seated at a very small table, leaning toward and directly pointing down with one index finger at a bright coral-red apple immediately beside the child's own body, within a hand's reach. The fingertip is almost touching that apple. The child's gaze follows the finger to this nearby apple. Across a clear empty gap, at the far end of the same table, a second much smaller pale apple is distant and unselected. The near apple and pointing hand dominate; the distant apple exists only as a subdued proximity contrast. A small wordless speech balloon from the child contains only a tiny painted duplicate of the selected nearby red apple, making the child visibly refer to it.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle picture-book realism.\nComposition/framing: square, one simple integrated scene centered within the middle 70 percent, generous empty paper space, the child, hand, near apple, and distant apple fully visible, clear at small card size.\nLighting/mood: soft daylight, friendly and neutral.\nColor palette: muted green and blue clothing, coral-red selected apple, natural wood, warm white.\nConstraints: exactly one child and two apples, clear near-versus-far perspective, unambiguous hand pointing at the NEAR apple; no text, letters, numbers, written labels, logos, watermarks, borders, card UI, decorative symbols, or unrelated objects. Do not print the vocabulary word.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dc-0f78-76d3-95c4-8d8e23918937/exec-4227919e-d004-4883-903f-bf8cacae88db.png",
+      "originalLocalPath": "output/imagegen/source/this-2147.png",
+      "candidatePath": "output/imagegen/review/2147/this.webp",
+      "intendedSavedPath": "public/images/words/this.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "51",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "男孩指着面前的大红苹果",
+        "alternatives": [
+          "这个苹果",
+          "大苹果"
+        ],
+        "reason": "指尖触及面前物体、目光和气泡对应同一近处对象，另一端物体未被指向，直接呈现这个。"
+      },
+      "savedPath": "public/images/words/this.webp"
+    },
+    {
+      "word": "at",
+      "pos": "prep.",
+      "meaning": "在",
+      "alt": "女孩静坐在公交站长椅上，站亭上方的位置标记强调她所在的地点。",
+      "selfReviewNotes": "已查看生成原图和640像素候选。人物静止坐在完整公交站场景内，无移动线索，上方定位符强化在某地点。公交图形标牌无字母数字。存在被优先理解为公交站或等待的风险，需独立盲审判断地点关系是否足够直接。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: at, preposition, 在 — a person situated at an identifiable place.\nPrimary request: show a child unmistakably AT a bus stop. One child in a muted coral jacket sits still on the bench of a small blue-green bus-stop shelter, feet resting on the pavement. The bus-stop shelter, bench and child form one compact group. Beside the shelter stands a pole with a simple blue bus silhouette pictogram on a cream sign, with absolutely no letters or numbers. A subtle hand-drawn coral map-location pin floats above the shelter, with its point descending toward the exact place occupied by the child and shelter; it supplements the concrete scene to emphasize being at this location. The child looks relaxed and stationary, not leaving or arriving. No bus vehicle.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, friendly picture-book realism, tactile paper and softly imperfect brushwork.\nComposition/framing: square, full shelter and full child centered within the middle 70 percent, generous warm-white empty space. Readable as a person at a specific place even at thumbnail size. Keep the location pin small and secondary; the real person and shelter are the main scene.\nLighting/mood: soft daylight, neutral everyday location.\nColor palette: muted blue, green, coral, cream and natural wood.\nConstraints: one child, one shelter, one pictogram sign; stationary pose, feet visibly touching the shelter pavement; no arrows, movement trails, luggage, busy street or unrelated objects. No text, letters, numbers, logos, watermarks, borders or card UI. Do not print the vocabulary word.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dc-0f78-76d3-95c4-8d8e23918937/exec-858c406d-6b60-4981-a3e7-e37dce8c11ed.png",
+      "originalLocalPath": "output/imagegen/source/at-2147.png",
+      "candidatePath": "output/imagegen/review/2147/at.webp",
+      "intendedSavedPath": "public/images/words/at.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "63",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "女孩坐在公交车站等车",
+        "alternatives": [
+          "公交车站",
+          "在车站"
+        ],
+        "reason": "人物静止处于明确车站内，上方定位记号突出所在地点，直接表示在某处，未表现到达或离开。"
+      },
+      "savedPath": "public/images/words/at.webp"
+    },
+    {
+      "word": "but",
+      "pos": "prep.",
+      "meaning": "除了",
+      "alt": "同一组六个孩子中，五个孩子举起双臂，只有被圈出的一个孩子双臂自然垂下。",
+      "selfReviewNotes": "已查看生成原图和640像素候选。六人同一组，五人举双臂，仅一人双臂垂下且被细圈标出，清楚展示除了一个之外其余全参与，没有转折场景。全员神态自然，无文字。待独立盲审确认例外含义。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: but, PREPOSITION, 除了, meaning EXCEPT. This is the exceptive sense, never the conjunction meaning however or contrast.\nPrimary request: show the concept \"everyone except one\" in one compact group exercise scene. Exactly six children form a shallow semicircle, all equally belonging to the same group on the same small grass patch. Five children are actively doing the identical stretch exercise, both arms raised straight high above their heads, clearly matching one another. The sixth child, positioned near the middle of the group rather than outside it, alone has both arms hanging relaxed straight down beside the body and is not doing the stretch. The five active children are in muted blue and green clothing; the single exception wears a muted coral shirt so it is immediately easy to pick out. Put a thin, subtle hand-drawn coral oval around only the nonparticipating child's whole body, to emphasize that single exception within the complete group. All faces are relaxed and friendly, no sadness, bullying or rejection. All five other children must visibly participate in the same raised-arms action; exactly one child is excepted.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, friendly picture-book realism.\nComposition/framing: square, all six children fully visible from heads to shoes, one shared grass patch, centered scene, generous empty paper around it, simple uncluttered silhouettes and no overlapping arms. The matching five actions and the one exception must be countable and immediately readable at small card size. No before/after split and no panels.\nLighting and color: soft daylight, natural muted blue, green and coral.\nConstraints: no text, letters, numbers, labels, logos, watermarks, borders or card UI; no symbolic equations or mathematical marks. No opposing weather, broken object, angry disagreement, obstacle, or generic contrast. The meaning is every member participates except a single clearly identified member. Do not print the vocabulary word.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dc-0f78-76d3-95c4-8d8e23918937/exec-c8084f69-2570-4870-96e5-a65ed8f42fa9.png",
+      "originalLocalPath": "output/imagegen/source/but-2147.png",
+      "candidatePath": "output/imagegen/review/2147/but.webp",
+      "intendedSavedPath": "public/images/words/but.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "95",
+        "confidence": "high",
+        "decision": "accepted",
+        "primary": "一群孩子中，只有被圈出的女孩没有举手",
+        "alternatives": [
+          "一个与其他人不同",
+          "没有举手"
+        ],
+        "reason": "除了圈中一个人，其余五人均举手，清楚呈现全组中的例外，符合介词除了而非转折但是。"
+      },
+      "savedPath": "public/images/words/but.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "she",
+      "pos": "pron.",
+      "meaning": "她",
+      "alt": "两个男孩面对面谈话，气泡中是旁边正在浇花的女孩头像，女孩与谈话双方分开。",
+      "selfReviewNotes": "已查看生成原图和640像素候选。两个男孩面对面讲话，独立女孩的头像出现在说话者气泡中，同款发夹与衣服可对应第三人称女性对象。实际手指方向更接近听者而非女孩，指向线索不足，但肖像气泡与分开的女孩建立指代；待独立盲审。",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: she, pronoun, 她 — the girl being spoken about, distinct from both speaker and listener.\nPrimary request: depict a clear third-person reference in a single wordless scene. On the left, two children converse facing one another, shown as small waist-up figures: a boy in muted blue speaks to a listening boy in muted green. Their eyes remain oriented toward each other, making them the conversation pair. The speaker turns just one open pointing hand toward a separate girl standing on the right, across a visible gap. The girl is the main, slightly larger full-body subject, with a coral dress, dark bob haircut and tiny blue hair clip; she is calmly watering one small plant and is not talking to the boys. From the speaking boy draw one simple wordless speech bubble containing only a small portrait of that same girl, faithfully matching her dark bob, blue hair clip and coral dress. His pointing hand and the portrait bubble must unambiguously identify her. Exactly three real children; the bubble portrait is clearly only a representation.\nStyle/medium: hand-painted gouache and subtle colored-pencil grain on warm off-white paper, friendly picture-book realism.\nComposition: square, simple conversational pair on the left and referred-to girl on the right; substantial visual gap separating the girl from the two speakers, generous empty paper around the scene, all subjects fully visible and legible at small card size. No panels.\nLighting and palette: soft daylight, natural muted blue, green and coral.\nConstraints: focus on third-person feminine reference; no written language, text, letters, numbers, logos, watermarks, borders, card UI, gender-symbol icons, or unrelated objects. The girl must not point at herself. Do not make the girl the listener or the speaker. Do not print the vocabulary word.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e4dc-0f78-76d3-95c4-8d8e23918937/exec-3bd8c112-927e-437f-83d5-87a05275ec68.png",
+      "originalLocalPath": "output/imagegen/source/she-2147.png",
+      "candidatePath": "output/imagegen/review/2147/she.webp",
+      "intendedSavedPath": "public/images/words/she.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "28",
+        "confidence": "medium",
+        "decision": "deferred",
+        "primary": "一个男孩向同伴谈论正在浇植物的女孩",
+        "alternatives": [
+          "女孩浇水",
+          "谈论那个女孩"
+        ],
+        "reason": "手指直接朝听者的脸而非被谈论女孩，浇水动作又过于显著，指代线索不一致，待重做。"
+      }
+    }
+  ]
+}
