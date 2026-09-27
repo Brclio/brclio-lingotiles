@@ -55,10 +55,71 @@ test('all six ordering permutations of word, POS and meaning match', () => {
   }
 })
 
-test('word and meaning must belong to the same lexeme', () => {
+test('word and meaning must have the corresponding visible meaning', () => {
   const game = select(flatGame(), 'apple:word', 'apple:pos', 'forest:meaning')
   assert.equal(game.tray.length, 3)
   assert.equal(game.matchedWordIds.length, 0)
+})
+
+const synonyms: Word[] = [
+  { id: 'forest', word: 'forest', pos: 'n.', meaning: '森林' },
+  { id: 'woodland', word: 'woodland', pos: 'n.', meaning: '森林' },
+  { id: 'protect', word: 'protect', pos: 'v.', meaning: '保护' },
+  { id: 'protection', word: 'protection', pos: 'n.', meaning: '保护' },
+]
+
+test('identical Chinese meaning cards can be exchanged without hidden identity constraints', () => {
+  let game = select(flatGame(synonyms.slice(0, 2)), 'forest:word', 'woodland:meaning', 'forest:pos')
+  assert.deepEqual(game.matchedWordIds, ['forest'])
+  assert.equal(game.tray.length, 0)
+  game = select(game, 'woodland:word', 'forest:meaning', 'woodland:pos')
+  assert.equal(game.status, 'won')
+  assert.deepEqual(game.matchedWordIds, ['forest', 'woodland'])
+})
+
+test('exchanged meaning cards still require the selected word\'s correct part of speech', () => {
+  let game = select(flatGame(synonyms.slice(2)), 'protect:word', 'protection:meaning', 'protection:pos')
+  assert.equal(game.tray.length, 3)
+  assert.deepEqual(game.matchedWordIds, [])
+  game = select(game, 'protect:pos')
+  assert.deepEqual(game.matchedWordIds, ['protect'])
+  assert.deepEqual(game.tray.map((tile) => tile.id), ['protection:pos'])
+  game = select(game, 'protection:word', 'protect:meaning')
+  assert.equal(game.status, 'won')
+})
+
+test('hints accept an available synonym meaning when the original meaning is covered', () => {
+  let game = flatGame(synonyms)
+  // Forest's own meaning is under another card; the visible woodland meaning is equivalent.
+  game = { ...game, tiles: game.tiles.map((tile) => tile.id === 'forest:meaning' ? { ...tile, x: 0, layer: 0 } : tile.id === 'protect:word' ? { ...tile, x: 0, layer: 1 } : { ...tile, x: tile.x + 2 }) }
+  game = select(game, 'forest:word', 'forest:pos')
+  assert.equal(isTileAvailable(game.tiles.find((tile) => tile.id === 'forest:meaning')!, game.tiles), false)
+  assert.deepEqual(getHint(game), ['woodland:meaning'])
+  game = select(game, ...getHint(game))
+  assert.deepEqual(game.matchedWordIds, ['forest'])
+})
+
+test('shuffle remains solvable after synonym meanings and POS cards have been borrowed', () => {
+  let game = select(flatGame(synonyms), 'forest:word', 'woodland:meaning', 'protection:pos')
+  game = select(game, 'woodland:word', 'protect:word', 'protection:meaning')
+  for (let seed = 0; seed < 60; seed++) replay(shuffleBoard(game, seed))
+})
+
+test('synonym-rich boards remain solvable after varied selections and reshuffles', () => {
+  const vocabulary = [...synonyms, ...words.filter((word) => word.id !== 'forest')]
+  let recovered = 0
+  for (let seed = 0; seed < 150; seed++) {
+    const random = seededRandom(seed)
+    let game = createGame(vocabulary, seed, seed % 2 === 0)
+    for (let move = 0; move < 12 && game.status === 'playing'; move++) {
+      const available = getAvailableTiles(game)
+      game = selectTile(game, available[Math.floor(random() * available.length)].id)
+    }
+    if (game.status !== 'playing') continue
+    const shuffled = shuffleBoard(game, seed + 900)
+    if (shuffled.solution.length) { replay(shuffled); recovered++ }
+  }
+  assert.ok(recovered > 10)
 })
 
 test('a POS tile is reusable across lexemes with that POS, but not across different POS', () => {

@@ -1,11 +1,15 @@
 export type Word = {
   id: string;
   word: string;
-  pos: 'n.' | 'v.' | 'adj.' | 'adv.';
+  pos: string;
   meaning: string;
   phonetic: string;
   example: string;
   exampleZh: string;
+  definition?: string;
+  stageId?: string;
+  tags?: string[];
+  rank?: number;
 };
 
 export type Level = {

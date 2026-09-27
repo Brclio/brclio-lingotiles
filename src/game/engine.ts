@@ -144,11 +144,16 @@ export function createGame(words: readonly Word[], seed = Date.now(), compact = 
   }
 }
 
-/** Word and meaning identify a lexeme; a part-of-speech card is shared by its text. */
-function findMatch(tray: readonly Tile[]): Tile[] | undefined {
+/** Identical visible meaning cards are interchangeable, just like POS cards. */
+function matchingMeaning(pool: readonly Tile[], word: Tile, words: readonly Word[]): Tile | undefined {
+  const meaning = words.find((candidate) => candidate.id === word.wordId)?.meaning
+  return meaning === undefined ? undefined : pool.find((tile) => tile.kind === 'meaning' && tile.text === meaning)
+}
+
+function findMatch(tray: readonly Tile[], words: readonly Word[]): Tile[] | undefined {
   for (const word of tray) {
     if (word.kind !== 'word') continue
-    const meaning = tray.find((tile) => tile.kind === 'meaning' && tile.wordId === word.wordId)
+    const meaning = matchingMeaning(tray, word, words)
     const pos = tray.find((tile) => tile.kind === 'pos' && tile.text === word.pos)
     if (meaning && pos) return [word, pos, meaning]
   }
@@ -162,13 +167,13 @@ export function selectTile(state: GameState, tileId: string): GameState {
   let tray = [...state.tray, tile]
   const matchedWordIds = [...state.matchedWordIds]
   let lastMatch: string | null = null
-  let match = findMatch(tray)
+  let match = findMatch(tray, state.words)
   while (match) {
     const ids = new Set(match.map((candidate) => candidate.id))
     lastMatch = match[0].wordId
     matchedWordIds.push(lastMatch)
     tray = tray.filter((candidate) => !ids.has(candidate.id))
-    match = findMatch(tray)
+    match = findMatch(tray, state.words)
   }
   // Resolve matches before checking capacity: the seventh tile may complete a set.
   const status: GameStatus = !tiles.length && !tray.length ? 'won' : tray.length >= TRAY_CAPACITY ? 'lost' : 'playing'
@@ -197,8 +202,8 @@ function planRemainingSets(state: GameState, random: Random): Tile[] | null {
   while (remaining.length || tray.length) {
     const pool = [...tray, ...remaining]
     const groups = shuffled(pool.filter((tile) => tile.kind === 'word'), random).flatMap((word) => {
-      const meaning = pool.find((tile) => tile.kind === 'meaning' && tile.wordId === word.wordId)
-      // Looking in the tray first ensures existing generic POS cards get consumed first.
+      const meaning = matchingMeaning(pool, word, state.words)
+      // Looking in the tray first consumes existing generic meaning and POS cards first.
       const pos = pool.find((tile) => tile.kind === 'pos' && tile.text === word.pos)
       if (!meaning || !pos) return []
       const group = [word, meaning, pos]
@@ -235,7 +240,7 @@ export function getHint(state: GameState): string[] {
   const available = getAvailableTiles(state)
   const pool = [...state.tray, ...available]
   const candidates = pool.filter((tile) => tile.kind === 'word').flatMap((word) => {
-    const meaning = pool.find((tile) => tile.kind === 'meaning' && tile.wordId === word.wordId)
+    const meaning = matchingMeaning(pool, word, state.words)
     const pos = pool.find((tile) => tile.kind === 'pos' && tile.text === word.pos)
     if (!meaning || !pos) return []
     const needed = [word, pos, meaning].filter((tile) => available.some((candidate) => candidate.id === tile.id))

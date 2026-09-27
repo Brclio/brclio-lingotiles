@@ -7,11 +7,13 @@ export type Progress = {
   sessions: number;
   lastPlayed: string | null;
   streak: number;
+  lastResultId?: string;
 };
 
 export type StorageLike = Pick<Storage, 'getItem' | 'setItem'>;
 export type GameResult = {
-  levelId: number;
+  id?: string;
+  levelId: number | string;
   stars: number;
   score: number;
   timeSeconds: number;
@@ -31,6 +33,21 @@ export const EMPTY_PROGRESS: Progress = {
 
 const validWordIds = new Set(LEVELS.flatMap((level) => level.words.map((word) => word.id)));
 const validLevelIds = new Set(LEVELS.map((level) => String(level.id)));
+
+function validLevelId(id: string): boolean {
+  if (validLevelIds.has(id)) return true;
+  const value = Number(id);
+  return /^\d+$/.test(id) && Number.isSafeInteger(value) && value >= 100001 && value <= 160000;
+}
+
+/** External entries remain valid before their dictionary chunk is loaded. */
+function validWordId(id: string): boolean {
+  return validWordIds.has(id) || (id.length <= 200 && /^dict:[\p{L}\p{M}\p{N}][\p{L}\p{M}\p{N} .,'’()&/+_-]*$/u.test(id));
+}
+
+function validResultId(id: unknown): id is string {
+  return typeof id === 'string' && id.length > 0 && id.length <= 200 && !/[\u0000-\u001f\u007f]/.test(id);
+}
 const MAX_COUNT = 1_000_000;
 
 function isRecord(value: unknown): value is Record<string, unknown> {
@@ -45,7 +62,7 @@ function boundedNumber(value: unknown, fallback = 0, maximum = MAX_COUNT): numbe
 
 function cleanWordIds(value: unknown): string[] {
   return Array.isArray(value)
-    ? [...new Set(value.filter((id): id is string => typeof id === 'string' && validWordIds.has(id)))]
+    ? [...new Set(value.filter((id): id is string => typeof id === 'string' && validWordId(id)))]
     : [];
 }
 
@@ -60,7 +77,7 @@ function cleanProgress(value: unknown): Progress {
   const completed: Progress['completed'] = {};
   if (isRecord(source.completed)) {
     for (const [id, result] of Object.entries(source.completed)) {
-      if (!validLevelIds.has(id) || !isRecord(result)) continue;
+      if (!validLevelId(id) || !isRecord(result)) continue;
       if (!['stars', 'bestScore', 'bestTime'].every((key) => typeof result[key] === 'number' && Number.isFinite(result[key]) && result[key] >= 0)) continue;
       const stars = boundedNumber(result.stars, 0, 3);
       if (stars < 1) continue;
@@ -79,6 +96,7 @@ function cleanProgress(value: unknown): Progress {
     sessions: boundedNumber(source.sessions),
     lastPlayed,
     streak: lastPlayed === null ? 0 : boundedNumber(source.streak),
+    ...(validResultId(source.lastResultId) ? { lastResultId: source.lastResultId } : {}),
   };
 }
 
@@ -113,7 +131,7 @@ export function saveProgress(progress: Progress, storage: StorageLike | null = b
 
 export function toggleSaved(progress: Progress, wordId: string): Progress {
   const next = cleanProgress(progress);
-  if (!validWordIds.has(wordId)) return next;
+  if (!validWordId(wordId)) return next;
   next.saved = next.saved.includes(wordId)
     ? next.saved.filter((id) => id !== wordId)
     : [...next.saved, wordId];
@@ -144,7 +162,8 @@ export function getCurrentStreak(progress: Progress, now = new Date()): number {
 export function recordResult(progress: Progress, result: GameResult): Progress {
   const next = cleanProgress(progress);
   const levelId = String(result.levelId);
-  if (!validLevelIds.has(levelId) || result.stars < 1 || !Number.isFinite(result.stars) || !Number.isFinite(result.score) || result.score < 0 || !Number.isFinite(result.timeSeconds) || result.timeSeconds < 0) return next;
+  if (validResultId(result.id) && next.lastResultId === result.id) return next;
+  if (!validLevelId(levelId) || result.stars < 1 || !Number.isFinite(result.stars) || !Number.isFinite(result.score) || result.score < 0 || !Number.isFinite(result.timeSeconds) || result.timeSeconds < 0) return next;
 
   const stars = boundedNumber(result.stars, 0, 3);
   const score = boundedNumber(result.score);
@@ -168,5 +187,6 @@ export function recordResult(progress: Progress, result: GameResult): Progress {
     next.streak = 1;
   }
   next.lastPlayed = today;
+  if (validResultId(result.id)) next.lastResultId = result.id;
   return next;
 }

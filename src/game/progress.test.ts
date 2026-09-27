@@ -127,3 +127,44 @@ test('invalid results cannot manufacture completions or corrupt statistics', () 
     assert.deepEqual(recordResult(EMPTY_PROGRESS, { ...valid, ...patch }), EMPTY_PROGRESS);
   }
 });
+
+test('v1 progress preserves every legacy theme score and adds curriculum results', () => {
+  const original = {
+    completed: Object.fromEntries(LEVELS.map(level => [level.id, { stars: 3, bestScore: 500, bestTime: 61 }])),
+    seen: LEVELS.flatMap(level => level.words.map(word => word.id)),
+    saved: ['apple', 'future'], sessions: 23, lastPlayed: '2026-09-27', streak: 4,
+  };
+  const storage = memoryStorage(JSON.stringify(original));
+  const loaded = loadProgress(storage);
+  assert.equal(loaded.seen.length, 54);
+  assert.equal(Object.keys(loaded.completed).length, 6);
+  const next = recordResult(loaded, { id: 'new-round', levelId: 100001, stars: 3, score: 600, timeSeconds: 47, wordIds: ['dict:abandon'], playedAt: new Date(2026, 8, 27, 12) });
+  assert.deepEqual(next.completed['1'], loaded.completed['1']);
+  assert.deepEqual(next.completed['100001'], { stars: 3, bestScore: 600, bestTime: 47 });
+  assert.equal(next.sessions, 24);
+  assert.equal(next.seen.at(-1), 'dict:abandon');
+  assert.equal(saveProgress(next, storage), true);
+  assert.deepEqual(loadProgress(storage), next);
+});
+
+test('all 100000 external learned and saved ids survive without dictionary chunks loaded or truncation', () => {
+  const ids = Array.from({ length: 100000 }, (_, i) => `dict:word-${i}`);
+  const progress = { ...EMPTY_PROGRESS, seen: ids, saved: ids };
+  const storage = memoryStorage();
+  assert.equal(saveProgress(progress, storage), true);
+  const loaded = loadProgress(storage);
+  assert.deepEqual(loaded.seen, ids);
+  assert.deepEqual(loaded.saved, ids);
+  assert.equal(markSeen(loaded, ['dict:additional']).seen.length, 100001);
+});
+
+test('external ids are validated and optional per-round ids prevent duplicate summary increments', () => {
+  const progress = markSeen(EMPTY_PROGRESS, ['dict:well-being', "dict:one's", 'dict:café', 'dict:', 'dict:<script>', 'dict:a\n', `dict:${'a'.repeat(201)}`]);
+  assert.deepEqual(progress.seen, ['dict:well-being', "dict:one's", 'dict:café']);
+  assert.deepEqual(toggleSaved(progress, 'dict:abandon').saved, ['dict:abandon']);
+  const result = { id: 'unique-completed-round', levelId: 150002, stars: 2, score: 800, timeSeconds: 125, wordIds: ['dict:abandon'] };
+  const first = recordResult(progress, result);
+  assert.deepEqual(recordResult(first, result), first);
+  const replay = recordResult(first, { ...result, id: 'different-round' });
+  assert.equal(replay.sessions, 2);
+});
