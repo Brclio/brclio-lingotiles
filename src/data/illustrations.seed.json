@@ -7,6 +7,41 @@
     "alt": "一颗带绿叶的红苹果"
   },
   {
+    "word": "bridge",
+    "pos": "n.",
+    "meaning": "桥梁",
+    "src": "./images/words/bridge.webp",
+    "alt": "石拱桥连接小溪两岸，两个人正在桥上走过"
+  },
+  {
+    "word": "corner",
+    "pos": "n.",
+    "meaning": "拐角",
+    "src": "./images/words/corner.webp",
+    "alt": "书店位于街道转弯的拐角，两面街道清晰可见"
+  },
+  {
+    "word": "crowded",
+    "pos": "adj.",
+    "meaning": "拥挤的",
+    "src": "./images/words/crowded.webp",
+    "alt": "公交车内乘客肩挨肩站立，几乎没有空位"
+  },
+  {
+    "word": "explore",
+    "pos": "v.",
+    "meaning": "探索",
+    "src": "./images/words/explore.webp",
+    "alt": "旅行者查看无字地图并好奇探索老城的小巷"
+  },
+  {
+    "word": "follow",
+    "pos": "v.",
+    "meaning": "跟随",
+    "src": "./images/words/follow.webp",
+    "alt": "一个人回头引路，另一个人紧跟在身后"
+  },
+  {
     "word": "fresh",
     "pos": "adj.",
     "meaning": "新鲜的",
@@ -56,11 +91,39 @@
     "alt": "清晨阳光照进窗户，孩子起床伸懒腰"
   },
   {
+    "word": "nearby",
+    "pos": "adv.",
+    "meaning": "在附近",
+    "src": "./images/words/nearby.webp",
+    "alt": "两位邻居从相邻的小屋门口挥手，之间只有一小段路"
+  },
+  {
+    "word": "often",
+    "pos": "adv.",
+    "meaning": "经常",
+    "src": "./images/words/often.webp",
+    "alt": "家人在厨房做饭，旁边无字周历的大多数格子重复出现小锅图案，表示经常做饭"
+  },
+  {
     "word": "prepare",
     "pos": "v.",
     "meaning": "准备",
     "src": "./images/words/prepare.webp",
     "alt": "人物在厨房摆放食材与碗勺，准备午饭"
+  },
+  {
+    "word": "share",
+    "pos": "v.",
+    "meaning": "分享",
+    "src": "./images/words/share.webp",
+    "alt": "孩子把一篮草莓中的一半递给朋友，表现分享的动作"
+  },
+  {
+    "word": "simple",
+    "pos": "adj.",
+    "meaning": "简单的",
+    "src": "./images/words/simple.webp",
+    "alt": "只有两块大木片的拼图轻松合拢，表现结构简单、容易完成"
   },
   {
     "word": "slowly",
@@ -70,11 +133,32 @@
     "alt": "一只蜗牛缓慢地爬过花园小路"
   },
   {
+    "word": "station",
+    "pos": "n.",
+    "meaning": "车站",
+    "src": "./images/words/station.webp",
+    "alt": "一列火车停靠在有雨棚和长椅的小车站"
+  },
+  {
     "word": "suddenly",
     "pos": "adv.",
     "meaning": "突然",
     "src": "./images/words/suddenly.webp",
     "alt": "安静阅读的人突然因跳出的猫而惊讶大笑"
+  },
+  {
+    "word": "tidy",
+    "pos": "adj.",
+    "meaning": "整洁的",
+    "src": "./images/words/tidy.webp",
+    "alt": "厨房台面干净空整，盘子、杯子和餐具整齐归位"
+  },
+  {
+    "word": "together",
+    "pos": "adv.",
+    "meaning": "一起",
+    "src": "./images/words/together.webp",
+    "alt": "一家四口围坐餐桌一起吃晚饭"
   },
   {
     "word": "water",

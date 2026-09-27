@@ -1,0 +1,50 @@
+{
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "assets": [
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning": "探索",
+      "alt": "旅行者查看无字地图并好奇探索老城的小巷",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"explore\" / v. / \"探索\".\nSense context (not image text): We spent the afternoon exploring the old town. 我们花了一下午探索这座老城。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: One curious traveler actively explores an old town on foot: holding a small folded map with only simple street lines and no writing, leaning to look around the next corner of a charming narrow stone lane. Their head turns attentively toward an unfamiliar arched passage. A few simple old buildings suggest several places left to investigate, but the traveler and active looking are central. This is investigating an unfamiliar place, not simply commuting.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-cdc1500f-a3b8-422d-9670-e7d9a61c8232.png",
+      "savedPath": "public/images/words/explore.webp",
+      "reviewed": true
+    },
+    {
+      "word": "follow",
+      "pos": "v.",
+      "meaning": "跟随",
+      "alt": "一个人回头引路，另一个人紧跟在身后",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"follow\" / v. / \"跟随\".\nSense context (not image text): Follow me to the new café. 跟我去那家新咖啡馆吧。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: Two adult friends walk in single file along the same narrow garden path toward a small cafe terrace recognizable by a single outdoor table and coffee cup, with no signs. The person in front looks back and gently beckons; the second person is a few steps directly behind, looking at the leader and following the exact same route. Their bodies and footsteps move in the same direction. Make the leader-follower relation obvious, not two people walking side by side.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-7f42247a-296b-4945-992c-4f2e1e5a171b.png",
+      "savedPath": "public/images/words/follow.webp",
+      "reviewed": true
+    },
+    {
+      "word": "crowded",
+      "pos": "adj.",
+      "meaning": "拥挤的",
+      "alt": "公交车内乘客肩挨肩站立，几乎没有空位",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"crowded\" / adj. / \"拥挤的\".\nSense context (not image text): The bus was crowded this evening. 今天傍晚公交车上很拥挤。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: A compact cutaway view inside a city bus filled with passengers: all seats occupied and several people standing shoulder to shoulder holding overhead loops. Very little empty space between them, conveying crowded. Show varied ordinary adult passengers with calm everyday expressions, readable human shapes and natural anatomy. A visible bus window and vertical handrail establish the setting; no text, route numbers or signs.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-a8520e4b-a428-4800-a431-8e10daa95d80.png",
+      "savedPath": "public/images/words/crowded.webp",
+      "reviewed": true
+    },
+    {
+      "word": "nearby",
+      "pos": "adv.",
+      "meaning": "在附近",
+      "alt": "两位邻居从相邻的小屋门口挥手，之间只有一小段路",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: \"nearby\" / adv. / \"在附近\".\nSense context (not image text): My best friend lives nearby. 我最好的朋友住在附近。\nPrimary request: depict only this exact sense in a concrete readable scene.\nScene: Two neighboring small cottages sit close together, with only a short connecting garden path between their front doors. One friend stands at each doorway and they cheerfully wave to each other across the very short distance. Include the whole scene so both houses and the small gap are obvious. Illustrate the friend living nearby, not distant travel or a generic house. No fences blocking the connection, no labels or road signs.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, matching gentle garden vocabulary illustrations.\nComposition: one coherent tightly related scene centered within the middle 70 percent, generous empty paper margins, main subjects entirely visible and clear at small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders, arrows, card UI or generic stock icons. No unrelated objects.",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-90033eb9-e9a9-4d6d-ba81-b25190841c8b.png",
+      "savedPath": "public/images/words/nearby.webp",
+      "reviewed": true
+    }
+  ]
+}

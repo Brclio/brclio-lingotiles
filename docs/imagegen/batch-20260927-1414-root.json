@@ -1,0 +1,62 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-1414-root",
+  "assets": [
+    {
+      "word": "share",
+      "pos": "v.",
+      "meaning": "分享",
+      "alt": "孩子把一篮草莓中的一半递给朋友，表现分享的动作",
+      "scene": "Two children seated at a small garden table. One child has a small basket of ripe strawberries and is actively offering a portion into the other child's open hands, while keeping some strawberries for themself. Clearly show the generous act of sharing something they have. Natural relaxed smiles, hands and fruit easy to read, no money or gift wrapping.",
+      "prompt": "Use case: scientific-educational\nAsset type: a single square meaning-specific illustration for an English vocabulary memory card.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, matching a gentle garden vocabulary game. Muted natural green, blue, coral and ochre where appropriate. Soft natural light, generous quiet margins, clear central subject, fully visible and readable at a small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders or card UI. Depict only the exact requested word, part of speech and Chinese meaning. Do not include any other vocabulary asset.\nExact target sense: share / v. / 分享.\nScene: Two children seated at a small garden table. One child has a small basket of ripe strawberries and is actively offering a portion into the other child's open hands, while keeping some strawberries for themself. Clearly show the generous act of sharing something they have. Natural relaxed smiles, hands and fruit easy to read, no money or gift wrapping.",
+      "savedPath": "public/images/words/share.webp",
+      "originalLocalPath": "output/imagegen/source/share.png",
+      "status": "ready",
+      "reviewed": true,
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-580f9331-be8d-46a8-b851-d17b2561c855.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "tidy",
+      "pos": "adj.",
+      "meaning": "整洁的",
+      "alt": "厨房台面干净空整，盘子、杯子和餐具整齐归位",
+      "scene": "A small cozy kitchen in a visibly tidy state: clear clean countertop, plates stacked neatly, cups aligned, utensils in one orderly container, one folded towel. No person doing chores, no scattered objects. The defining subject is the calm orderly arrangement and uncluttered surfaces, not the action of cleaning.",
+      "prompt": "Use case: scientific-educational\nAsset type: a single square meaning-specific illustration for an English vocabulary memory card.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, matching a gentle garden vocabulary game. Muted natural green, blue, coral and ochre where appropriate. Soft natural light, generous quiet margins, clear central subject, fully visible and readable at a small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders or card UI. Depict only the exact requested word, part of speech and Chinese meaning. Do not include any other vocabulary asset.\nExact target sense: tidy / adj. / 整洁的.\nScene: A small cozy kitchen in a visibly tidy state: clear clean countertop, plates stacked neatly, cups aligned, utensils in one orderly container, one folded towel. No person doing chores, no scattered objects. The defining subject is the calm orderly arrangement and uncluttered surfaces, not the action of cleaning.",
+      "savedPath": "public/images/words/tidy.webp",
+      "originalLocalPath": "output/imagegen/source/tidy.png",
+      "status": "ready",
+      "reviewed": true,
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-772d624a-da3c-4c7a-923a-cc9f5cb3b57e.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "simple",
+      "pos": "adj.",
+      "meaning": "简单的",
+      "alt": "只有两块大木片的拼图轻松合拢，表现结构简单、容易完成",
+      "scene": "Close view of a child's hands effortlessly joining a very simple wooden puzzle consisting of exactly two large pieces that form one smooth oval, one clear interlocking joint. The child looks relaxed and confident. Plain tabletop and almost no other objects. Make the task visibly easy and uncomplicated, not a complex jigsaw puzzle.",
+      "prompt": "Use case: scientific-educational\nAsset type: a single square meaning-specific illustration for an English vocabulary memory card.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, matching a gentle garden vocabulary game. Muted natural green, blue, coral and ochre where appropriate. Soft natural light, generous quiet margins, clear central subject, fully visible and readable at a small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders or card UI. Depict only the exact requested word, part of speech and Chinese meaning. Do not include any other vocabulary asset.\nExact target sense: simple / adj. / 简单的.\nScene: Close view of a child's hands effortlessly joining a very simple wooden puzzle consisting of exactly two large pieces that form one smooth oval, one clear interlocking joint. The child looks relaxed and confident. Plain tabletop and almost no other objects. Make the task visibly easy and uncomplicated, not a complex jigsaw puzzle.",
+      "savedPath": "public/images/words/simple.webp",
+      "originalLocalPath": "output/imagegen/source/simple.png",
+      "status": "ready",
+      "reviewed": true,
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-0fe89722-28eb-4341-b764-9e28d0340c80.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    },
+    {
+      "word": "often",
+      "pos": "adv.",
+      "meaning": "经常",
+      "alt": "家人在厨房做饭，旁边无字周历的大多数格子重复出现小锅图案，表示经常做饭",
+      "scene": "A family cooking at home in a simple cozy kitchen. A prominent small wall calendar beside them has a single row of seven large blank day squares, with a tiny cooking-pot picture in six squares and one square empty; no words, numbers, ticks or letters anywhere. The repeated pot pictograms make frequent home cooking visually clear. Main kitchen scene occupies the center; calendar is clear and readable, with no panel collage or unrelated activities.",
+      "prompt": "Use case: scientific-educational\nAsset type: a single square meaning-specific illustration for an English vocabulary memory card.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, matching a gentle garden vocabulary game. Muted natural green, blue, coral and ochre where appropriate. Soft natural light, generous quiet margins, clear central subject, fully visible and readable at a small card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, borders or card UI. Depict only the exact requested word, part of speech and Chinese meaning. Do not include any other vocabulary asset.\nExact target sense: often / adv. / 经常.\nScene: A family cooking at home in a simple cozy kitchen. A prominent small wall calendar beside them has a single row of seven large blank day squares, with a tiny cooking-pot picture in six squares and one square empty; no words, numbers, ticks or letters anywhere. The repeated pot pictograms make frequent home cooking visually clear. Main kitchen scene occupies the center; calendar is clear and readable, with no panel collage or unrelated activities.",
+      "savedPath": "public/images/words/often.webp",
+      "originalLocalPath": "output/imagegen/source/often.png",
+      "status": "ready",
+      "reviewed": true,
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-93cf4464-8316-4653-86dd-493c4a51b147.png",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "batch-20260927-1414-a",
+  "generatedAt": "2026-09-27",
+  "assets": [
+    {
+      "word": "together",
+      "pos": "adv.",
+      "meaning": "一起",
+      "senseId": "21c44a97c62d5f83a17f4dd25c04ba6423e5b6243da806d9de3d130457e78412",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"together\",\"pos\":\"adv.\",\"meaning\":\"一起\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): The whole family had dinner together. 全家人一起吃了晚饭。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A family of four sitting around ONE shared dinner table together, smiling at one another while eating the same meal. All four clearly participate simultaneously, warm family connection, simple meal bowls, sparse setting. Emphasize togetherness rather than a lone portrait.",
+      "alt": "一家四口围坐餐桌一起吃晚饭",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-041acef0-07a9-4345-9ef9-59abd800346b.png",
+      "originalLocalPath": "output/imagegen/source/together.png",
+      "savedPath": "public/images/words/together.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "station",
+      "pos": "n.",
+      "meaning": "车站",
+      "senseId": "aab5c6f5f812accaff1e963277555476d3711f9fde5dcf4753499560e570e7de",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"station\",\"pos\":\"n.\",\"meaning\":\"车站\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): Meet me outside the train station. 在火车站外面和我见面吧。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A compact train STATION: train stopped alongside a clearly visible platform, a small station building and canopy with a waiting bench. The whole station is the central readable subject, including part of the train and tracks. No signage, clocks, numbers or lettering. No oversized unrelated scenery.",
+      "alt": "一列火车停靠在有雨棚和长椅的小车站",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-d388583c-af54-42ca-b16e-0d64de6f38bd.png",
+      "originalLocalPath": "output/imagegen/source/station.png",
+      "savedPath": "public/images/words/station.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "bridge",
+      "pos": "n.",
+      "meaning": "桥梁",
+      "senseId": "cc1f67890a45787fe3c909482df9d7b5aef53d8f04d66caa28c121ec98e31b39",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"bridge\",\"pos\":\"n.\",\"meaning\":\"桥梁\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): We crossed the bridge before sunset. 我们在日落前过了桥。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: An unmistakable stone arch BRIDGE joining the two banks of a gentle blue stream. Bridge dominates the central scene, arch and flowing water beneath clearly visible, two tiny people crossing safely along its top. Soft late afternoon light, sparse reeds, no other buildings.",
+      "alt": "石拱桥连接小溪两岸，两个人正在桥上走过",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-ac0f6101-edc5-401a-a13d-942a3e9e0dc4.png",
+      "originalLocalPath": "output/imagegen/source/bridge.png",
+      "savedPath": "public/images/words/bridge.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "corner",
+      "pos": "n.",
+      "meaning": "拐角",
+      "senseId": "c1262d0927b0d249ae5f8bc2ddfd5e50f8a5c6cf72800f2aac4074ec84691384",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"corner\",\"pos\":\"n.\",\"meaning\":\"拐角\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSense context (not image text): There is a bookshop on the corner. 拐角处有一家书店。\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A small bookshop located on the CORNER where two streets meet in a clear right angle. Show both building facades and the unmistakably turning sidewalk with a rounded curb. Simple high three-quarter view. A few blank-cover books visible through the window identify the bookshop. No shop signs or lettering.",
+      "alt": "书店位于街道转弯的拐角，两面街道清晰可见",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-5091c1a1-cfb8-4443-b8b5-64b57bb002ac.png",
+      "originalLocalPath": "output/imagegen/source/corner.png",
+      "savedPath": "public/images/words/corner.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    }
+  ]
+}
