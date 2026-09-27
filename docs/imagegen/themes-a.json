@@ -1,0 +1,43 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "original-themes-a",
+  "generatedAt": "2026-09-27",
+  "assets": [
+    {
+      "word": "morning",
+      "pos": "n.",
+      "meaning": "早晨",
+      "alt": "清晨阳光照进窗户，孩子起床伸懒腰",
+      "prompt": "Use case: illustration-story\nAsset type: meaning-specific English vocabulary learning card for a gentle garden game.\nStyle/medium: hand-painted gouache and colored-pencil texture on warm off-white paper; natural muted green, blue and coral; friendly storybook illustration with simple readable shapes.\nComposition: square frame, central subject inside center 75 percent, sparse quiet background, image must read well on a small card. Soft daylight unless bedtime specified.\nConstraints: no letters, numbers, labels, logos, watermark, border, card UI, speech bubbles or explanatory text. Depict only the requested meaning.\nPrimary request: illustrate \"morning\" (n.) meaning \"早晨\".\nSubject/scene: A soft golden sunrise seen through an open bedroom window, a child stretching after waking in bed, a small breakfast tray nearby; unmistakably early morning rather than evening.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-cdf73caa-022d-427e-9cc2-1ee4707b1c5e.png",
+      "originalLocalPath": "output/imagegen/source/morning.png",
+      "savedPath": "public/images/words/morning.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "habit",
+      "pos": "n.",
+      "meaning": "习惯",
+      "alt": "孩子每晚睡前在床上阅读，表现固定的阅读习惯",
+      "prompt": "Use case: illustration-story\nAsset type: meaning-specific English vocabulary learning card for a gentle garden game.\nStyle/medium: hand-painted gouache and colored-pencil texture on warm off-white paper; natural muted green, blue and coral; friendly storybook illustration with simple readable shapes.\nComposition: square frame, central subject inside center 75 percent, sparse quiet background, image must read well on a small card. Soft daylight unless bedtime specified.\nConstraints: no letters, numbers, labels, logos, watermark, border, card UI, speech bubbles or explanatory text. Depict only the requested meaning.\nPrimary request: illustrate \"habit\" (n.) meaning \"习惯\".\nSubject/scene: The same child calmly reading a book in bed at bedtime, recurring nightly routine implied by three small moonlit windows in a soft background sequence; one main clear bedside reading scene, no diagram or symbols.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-e297ffff-15ef-4004-8037-209da38624cd.png",
+      "originalLocalPath": "output/imagegen/source/habit.png",
+      "savedPath": "public/images/words/habit.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    },
+    {
+      "word": "prepare",
+      "pos": "v.",
+      "meaning": "准备",
+      "alt": "人物在厨房摆放食材与碗勺，准备午饭",
+      "prompt": "Use case: illustration-story\nAsset type: meaning-specific English vocabulary learning card for a gentle garden game.\nStyle/medium: hand-painted gouache and colored-pencil texture on warm off-white paper; natural muted green, blue and coral; friendly storybook illustration with simple readable shapes.\nComposition: square frame, central subject inside center 75 percent, sparse quiet background, image must read well on a small card. Soft daylight unless bedtime specified.\nConstraints: no letters, numbers, labels, logos, watermark, border, card UI, speech bubbles or explanatory text. Depict only the requested meaning.\nPrimary request: illustrate \"prepare\" (v.) meaning \"准备\".\nSubject/scene: A person preparing lunch by laying fresh vegetables, a bowl, and a spoon neatly on a kitchen worktop; visibly arranging ingredients before cooking, no finished meal.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-6e340ce8-e9fb-48d7-a81a-39b705da66a4.png",
+      "originalLocalPath": "output/imagegen/source/prepare.png",
+      "savedPath": "public/images/words/prepare.webp",
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true
+    }
+  ]
+}

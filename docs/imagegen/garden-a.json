@@ -11,7 +11,9 @@
       "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-7932863b-cd38-4040-87d1-a0b79f89951a.png",
       "savedPath": "public/images/words/apple.webp",
       "originalLocalPath": "output/imagegen/source/apple.png",
-      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "alt": "一颗带绿叶的红苹果"
     },
     {
       "word": "water",
@@ -21,7 +23,9 @@
       "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-0a106dfb-96aa-4f3c-944d-383583657444.png",
       "savedPath": "public/images/words/water.webp",
       "originalLocalPath": "output/imagegen/source/water.png",
-      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "alt": "清水倒入透明玻璃杯"
     },
     {
       "word": "slowly",
@@ -31,7 +35,9 @@
       "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-72bc-7652-8a38-55f33bfc62bf/exec-a9d352d2-bbc6-4095-8789-3bcbd3c14212.png",
       "savedPath": "public/images/words/slowly.webp",
       "originalLocalPath": "output/imagegen/source/slowly.png",
-      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit"
+      "optimization": "cwebp -q 82 -resize 640 0; no crop or content edit",
+      "reviewed": true,
+      "alt": "一只蜗牛缓慢地爬过花园小路"
     }
   ]
 }

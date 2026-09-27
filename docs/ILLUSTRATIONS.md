@@ -1,26 +1,42 @@
 # 词义插图
 
-用户选择按实际游玩的关卡分批补图。本批覆盖「词汇花园」的 6 个义项：apple / 苹果、leaf / 叶子、water / 水、grow / 生长、fresh / 新鲜的、slowly / 缓慢地。覆盖范围为这 6 个词义，尚未覆盖其余词库；未配图的词卡继续显示完整文字。
+当前目标已扩展为全部 100,000 个游戏词义，并由用户明确限定只用内置 imagegen 分批生成。真实内置数量以 `public/images/words/index/manifest.json` 的 `ready` 为准；`pending` 是尚未完成的词义。全量任务清单不代表图片已经生成。未完成词卡仍保留完整文字。
 
 ## 生成与资源
 
-使用 imagegen 技能的**内置 image_gen 工具**分别生成，未使用 CLI、付费 API 接口或运行时图片服务。每张图对应独立提示词，完整提示词及生成来源记录在 [garden-a.json](imagegen/garden-a.json) 和 [garden-b.json](imagegen/garden-b.json)。
+使用 imagegen 技能的**内置 image_gen 工具**分别生成，未使用 CLI、付费 API 接口或运行时图片服务。每张图对应独立提示词，完整提示词及生成来源分批记录在 `docs/imagegen/*.json`；原首关来源见 [garden-a.json](imagegen/garden-a.json) 和 [garden-b.json](imagegen/garden-b.json)。
 
 共同提示词要求：用于英语词义学习的方形插图；水粉和轻微彩铅质感，暖色纸面，主体集中且背景简洁，小尺寸仍可辨认；没有文字、数字、标志、水印或词卡界面。具体场景分别是红苹果、绿色叶片、清水入杯、植物萌芽长大、带露珠的新鲜蔬菜和缓慢爬行的蜗牛。
 
-游戏使用的最终资源位于 `public/images/words/`，文件名为 `apple.webp`、`leaf.webp`、`water.webp`、`grow.webp`、`fresh.webp`、`slowly.webp`。原图仅做 WebP 编码和等比缩小以降低页面流量，不裁剪或修改图像内容。
+游戏使用的最终 WebP 资源位于 `public/images/words/`。前 54 个主题词使用易读文件名，大词库后续批次可使用全量任务中的稳定词义哈希路径。原图仅做 WebP 编码和等比缩小以降低页面流量，不裁剪或修改图像内容。
 
 ## 匹配与显示
 
-`src/game/wordIllustrations.ts` 是经过检查的词义—图片清单。必须同时匹配英文拼写、词性和完整中文释义；只忽略英文大小写、首尾空白和 Unicode 规范化差异。不能通过英文单词相同或中文关键词部分命中复用图片，例如 water / v. / 浇水不使用 water / n. / 水的图片。
+`src/game/wordIllustrations.ts` 根据经过检查的词义—图片索引提供查询。原主题的小型 seed 随应用加载，其他词只按本关所需分片读取。必须同时匹配英文拼写、词性和完整中文释义；只忽略英文大小写、首尾空白和 Unicode 规范化差异。不能通过英文单词相同或中文关键词部分命中复用图片，例如 water / v. / 浇水不使用 water / n. / 水的图片。
 
 图片显示在开始游戏前的记忆词表、合成后的完整词卡、收获区最近一词与展开回看的词卡里，同一个词义始终使用同一幅 imagegen 插图。记忆词表默认显示已有配图，不受合成动画开关影响；合成动画仍默认关闭。进入关卡时只预加载当前关卡已配图的资源，不遍历或下载整个词库的图片。图片读取失败时保留词卡文本，游戏不会等待网络请求；配图不改变配对判定、积分或有效通关用时。
 
-## 继续按游玩补图
+## 全量生成与内置
+
+全部 100,000 项已建立可续接本地清单，详细操作见 [illustration-catalog.md](illustration-catalog.md)。只用内置 imagegen，每次生成、检查一批后运行：
+
+```sh
+npm run illustrations:sync
+npm run illustrations:plan
+npm run illustrations:check
+npm test
+npm run build
+```
+
+同步脚本仅发布真实存在、有生成来源且 `reviewed: true` 的词义图片；拒绝不精确的义项、重复文件、越界路径和未完成状态。全量提示词保存在被 Git 忽略的 `output/illustration-plan/`，不会打包到网页或推送为图片。索引分为最多 256 个小桶，只有当前关卡需要的桶被读取；预加载最多保留 32 个图像对象。失败请求限时返回，后续进入关卡可重试，已有文字学习功能继续可用。
+
+Codex 已创建每小时跟进本任务的分批工作，使用内置工具生成、视觉检查、内置并同步已验证产物。调度依赖 Codex 的执行环境和可用额度，不保证固定时间内完成全部图片；不会改用 API。网页本身没有生图服务。
+
+## 玩家待配图词单
 
 1. 用户在任意关卡真正配对成功后，尚未有图片的词义记录到当前浏览器的待配图词单。每个英文 + 词性 + 中文义项只保留一条及首次配对时间；仅浏览或选择关卡不会添加。
 2. 在「本关收获」展开词卡，可导出待配图 JSON，包含之前累积的待配图词义。导出不删除清单。可将词单交给 Codex，继续调用 imagegen 分批制作。
-3. 按各词的确切词义生成独立插图，检查含义和缩小后的辨识度，将资源存入 `public/images/words/`，再扩展 `WORD_ILLUSTRATIONS`。
+3. 按各词的确切词义生成独立插图，检查含义和缩小后的辨识度，将资源存入 `public/images/words/`，写入对应 imagegen 元数据并运行 `npm run illustrations:sync`。
 4. 已有图片的义项会自动从后续导出的待配图词单中排除。不同词性或不同释义仍独立等待配图。
 
 清单保存在 `localStorage` 的 `lingotiles.illustrations.pending.v1`，没有云同步。浏览器拒绝存储或容量不足时保留本页临时清单并提示及时导出；刷新可能丢失临时清单。网站不会在玩家游戏期间自动调用 imagegen，也不内置 API 密钥。后续图片需在开发会话生成、检查并随站点发布。

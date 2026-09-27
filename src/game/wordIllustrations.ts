@@ -1,23 +1,59 @@
-/** Illustrations are approved for an exact spelling + part of speech + meaning. */
-export type IllustratedSense = { word: string; pos: string; meaning: string };
+import seed from '../data/illustrations.seed.json' with { type: 'json' };
+import { illustrationBucket, illustrationSenseKey, type IllustrationEntry, type IllustrationManifest, type IllustratedSense } from '../data/illustrationSchema.ts';
+export type { IllustratedSense } from '../data/illustrationSchema.ts';
 export type WordIllustration = { src: string; alt: string };
 
-export const WORD_ILLUSTRATIONS: ReadonlyArray<IllustratedSense & WordIllustration> = [
-  { word: 'apple', pos: 'n.', meaning: '苹果', src: './images/words/apple.webp', alt: '一颗带绿叶的红苹果' },
-  { word: 'leaf', pos: 'n.', meaning: '叶子', src: './images/words/leaf.webp', alt: '一片叶脉清晰的绿色叶子' },
-  { word: 'water', pos: 'n.', meaning: '水', src: './images/words/water.webp', alt: '清水倒入透明玻璃杯' },
-  { word: 'grow', pos: 'v.', meaning: '生长', src: './images/words/grow.webp', alt: '植物从萌芽逐渐长成枝叶茂盛的小苗' },
-  { word: 'fresh', pos: 'adj.', meaning: '新鲜的', src: './images/words/fresh.webp', alt: '带着露珠的刚采摘的蔬菜' },
-  { word: 'slowly', pos: 'adv.', meaning: '缓慢地', src: './images/words/slowly.webp', alt: '一只蜗牛缓慢地爬过花园小路' },
-];
-
-function senseKey(sense: IllustratedSense): string {
-  return JSON.stringify([sense.word.trim().toLowerCase(), sense.pos.trim().toLowerCase(), sense.meaning.normalize('NFC').trim()]);
-}
+/** Only the original themes are bundled; the full-library index loads by small buckets. */
+export const WORD_ILLUSTRATIONS: ReadonlyArray<IllustrationEntry> = seed;
+const senseKey = illustrationSenseKey;
 const illustrations = new Map(WORD_ILLUSTRATIONS.map(item => [senseKey(item), item]));
 
 export function getWordIllustration(word: IllustratedSense): WordIllustration | null {
   return illustrations.get(senseKey(word)) ?? null;
+}
+
+let manifestPromise: Promise<IllustrationManifest> | undefined;
+const buckets = new Map<string, Promise<void>>();
+export function loadIllustrationManifest(): Promise<IllustrationManifest> {
+  if (!manifestPromise) manifestPromise = fetch('./images/words/index/manifest.json', { signal: AbortSignal.timeout(5000) }).then(async response => {
+    if (!response.ok) throw Error('配图索引暂不可用');
+    const value = await response.json() as IllustrationManifest;
+    if (value.version !== 1 || value.total !== 100000 || !Number.isInteger(value.ready) || value.ready < 0 || value.ready > value.total || value.pending !== value.total - value.ready || !value.buckets || typeof value.buckets !== 'object' || Array.isArray(value.buckets) || typeof value.revision !== 'string') throw Error('配图索引格式异常');
+    const parts = Object.entries(value.buckets);
+    if (!parts.every(([bucket, part]) => /^[a-f0-9]{2}$/.test(bucket) && part && part.path === `images/words/index/${bucket}.json` && Number.isInteger(part.count) && part.count > 0)
+      || parts.reduce((sum, [, part]) => sum + part.count, 0) !== value.ready) throw Error('配图索引数量异常');
+    return value;
+  }).catch(error => { manifestPromise = undefined; throw error; });
+  return manifestPromise;
+}
+
+/** Missing or failed indexes keep a round playable and retry on a later visit. */
+export async function loadWordIllustrations(words: IllustratedSense[]): Promise<void> {
+  const missing = words.filter(word => !getWordIllustration(word));
+  if (!missing.length) return;
+  try {
+    const manifest = await loadIllustrationManifest();
+    const required = new Set(missing.map(illustrationBucket));
+    await Promise.allSettled([...required].map(bucket => {
+      const part = manifest.buckets[bucket];
+      if (!part) return;
+      if (!buckets.has(bucket)) {
+        const loading = (async () => {
+          if (part.path !== `images/words/index/${bucket}.json`) throw Error('配图分片路径异常');
+          const response = await fetch(`./${part.path}?v=${manifest.revision}`, { signal: AbortSignal.timeout(5000) });
+          if (!response.ok) throw Error('配图分片暂不可用');
+          const entries: unknown = await response.json();
+          if (!Array.isArray(entries) || entries.length !== part.count) throw Error('配图分片不完整');
+          const valid = entries.every((entry: IllustrationEntry) => entry && ['word', 'pos', 'meaning', 'src', 'alt'].every(key => typeof entry[key as keyof IllustrationEntry] === 'string' && entry[key as keyof IllustrationEntry].length > 0)
+            && /^\.\/images\/words\/[a-zA-Z0-9/_-]+\.webp$/.test(entry.src) && illustrationBucket(entry) === bucket);
+          if (!valid) throw Error('配图分片格式异常');
+          for (const entry of entries as IllustrationEntry[]) illustrations.set(senseKey(entry), entry);
+        })().catch(error => { buckets.delete(bucket); throw error; });
+        buckets.set(bucket, loading);
+      }
+      return buckets.get(bucket);
+    }));
+  } catch { /* Images complement vocabulary; an unavailable picture must not block learning. */ }
 }
 
 const preloaded = new Map<string, HTMLImageElement>();
@@ -29,7 +65,8 @@ export function preloadWordIllustrations(words: IllustratedSense[]): void {
     if (!image || preloaded.has(image.src)) continue;
     const element = new Image();
     preloaded.set(image.src, element);
-    element.onerror = () => { preloaded.delete(image.src); };
+    if (preloaded.size > 32) preloaded.delete(preloaded.keys().next().value!);
+    element.onerror = () => { if (preloaded.get(image.src) === element) preloaded.delete(image.src); };
     element.src = image.src;
   }
 }

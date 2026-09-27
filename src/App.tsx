@@ -11,7 +11,8 @@ import WordHarvest from './components/WordHarvest';
 import WordIllustration from './components/WordIllustration';
 import { loadMatchAnimation, saveMatchAnimation } from './game/preferences';
 import { getMatchedTiles } from './game/matchPresentation';
-import { getWordIllustration, preloadWordIllustrations, recordIllustrationPractice } from './game/wordIllustrations';
+import { getWordIllustration, loadIllustrationManifest, loadWordIllustrations, preloadWordIllustrations, recordIllustrationPractice } from './game/wordIllustrations';
+import type { IllustrationManifest } from './data/illustrationSchema';
 import { appendCompletion } from './game/history';
 import { loadCourseLevel, loadManifest, stageProfile, STAGE_PROFILES, type CourseLevel, type StageId, type VocabularyManifest } from './data/library';
 import { getCurrentStreak, loadProgress, markSeen, recordResult, saveProgress, toggleSaved } from './game/progress';
@@ -52,6 +53,7 @@ export default function App() {
   const [courseRound, setCourseRound] = useState(1);
   const [courseLevel, setCourseLevel] = useState<CourseLevel | null>(null);
   const [manifest, setManifest] = useState<VocabularyManifest | null>(null);
+  const [pictureCoverage, setPictureCoverage] = useState<IllustrationManifest | null>(null);
   const [courseLoading, setCourseLoading] = useState(false);
   const [courseError, setCourseError] = useState('');
   const courseRequest = useRef(0);
@@ -115,6 +117,7 @@ export default function App() {
   };
 
   useEffect(() => { loadManifest().then(setManifest).catch(() => {}); }, []);
+  useEffect(() => { loadIllustrationManifest().then(setPictureCoverage).catch(() => {}); }, []);
   useEffect(() => {
     if (view === 'game') preloadWordIllustrations(level.words);
   }, [view, level.words]);
@@ -278,6 +281,7 @@ export default function App() {
     setCourseLoading(true); setCourseError(''); setPhase('ready'); setGame(null); setPaused(false);
     try {
       const [info, next] = await Promise.all([loadManifest(), loadCourseLevel(stageId, round)]);
+      await loadWordIllustrations(next.words);
       if (request !== courseRequest.current) return;
       setManifest(info); setCourseLevel(next); setMemoryDuration(next.memorySeconds);
     } catch (failure) {
@@ -380,6 +384,7 @@ export default function App() {
       {view === 'history' ? <HistoryPanel refreshKey={historyRevision} legacySessions={progress.sessions} onBack={() => goView('game')} /> : view === 'notebook' ? <VocabularyNotebook progress={progress} onSave={id => setProgress(current => toggleSaved(current, id))} speak={speak} /> : <>
         <div className="page-heading"><div><h1>{phase === 'ready' ? '玩一小局，记住一点新世界。' : phase === 'memory' ? '先记住，让单词在脑海里碰个面。' : phase === 'playing' ? '把刚刚记住的，连在一起。' : won ? '你又收获了一小片新世界。' : '没关系，再给记忆一次机会。'}</h1><p>{phase === 'ready' ? '先记忆，再消除。让每一次配对，都成为一次真正的记住。' : phase === 'memory' ? '这一关的所有单词都在这里。倒计时结束后，自动进入消除。' : phase === 'playing' ? '单词 + 对应词性 + 中文含义，三张一组，顺序不限。' : won ? '回顾一下刚刚学到的单词，再出发。' : '记住已经完成的配对，剩下的慢慢来。'}</p></div><span className="date-note"><Sprout size={16} />小小积累，也会生长</span></div>
         <div className="learning-options"><div className="learning-mode" aria-label="选择关卡模式"><button className={mode === 'theme' ? 'active' : ''} aria-pressed={mode === 'theme'} onClick={() => chooseLevel(levelIndex)}><Sprout size={16} />经典主题<span>保留原 6 关</span></button><button className={mode === 'curriculum' ? 'active' : ''} aria-pressed={mode === 'curriculum'} onClick={() => chooseCourse(courseStage, courseRound)}><GraduationCap size={17} />分级闯关<span>小学 → 大学 · 10 万词</span></button></div><div className="fusion-setting"><div className="fusion-setting-copy"><strong><Sparkles size={14} />配对合成动画</strong><p id="fusion-setting-description">三牌合成后飞入收获区 · 展示不计入用时</p></div><button type="button" role="switch" className="fusion-toggle" aria-label="配对合成动画" aria-checked={matchAnimation} aria-describedby="fusion-setting-description" onClick={toggleMatchAnimation}><span className="fusion-switch-track" aria-hidden="true"><span /></span><span aria-hidden="true">{matchAnimation ? '开启' : '关闭'}</span></button></div></div>
+        {phase === 'ready' && pictureCoverage && <p className="illustration-coverage">词义配图：已内置 <strong>{pictureCoverage.ready.toLocaleString('zh-CN')}</strong> / {pictureCoverage.total.toLocaleString('zh-CN')} 词<span>待补齐 {pictureCoverage.pending.toLocaleString('zh-CN')} 词</span></p>}
         {mode === 'curriculum' && phase === 'ready' && <CurriculumPicker manifest={manifest} stageId={courseStage} round={courseRound} loading={courseLoading} error={courseError} progress={progress} onSelect={chooseCourse} onRetry={() => { void prepareCourse(courseStage, courseRound); }} />}
         {(mode === 'theme' || courseLevel) && <div className={`game-layout ${phase}`}>
           <section className="arena" aria-label="关卡游戏区">

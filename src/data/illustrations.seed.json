@@ -1,0 +1,86 @@
+[
+  {
+    "word": "apple",
+    "pos": "n.",
+    "meaning": "苹果",
+    "src": "./images/words/apple.webp",
+    "alt": "一颗带绿叶的红苹果"
+  },
+  {
+    "word": "fresh",
+    "pos": "adj.",
+    "meaning": "新鲜的",
+    "src": "./images/words/fresh.webp",
+    "alt": "带着露珠的刚采摘的蔬菜"
+  },
+  {
+    "word": "gently",
+    "pos": "adv.",
+    "meaning": "温柔地",
+    "src": "./images/words/gently.webp",
+    "alt": "成年人俯身温柔安抚受惊的孩子"
+  },
+  {
+    "word": "grow",
+    "pos": "v.",
+    "meaning": "生长",
+    "src": "./images/words/grow.webp",
+    "alt": "植物从萌芽逐渐长成枝叶茂盛的小苗"
+  },
+  {
+    "word": "habit",
+    "pos": "n.",
+    "meaning": "习惯",
+    "src": "./images/words/habit.webp",
+    "alt": "孩子每晚睡前在床上阅读，表现固定的阅读习惯"
+  },
+  {
+    "word": "idea",
+    "pos": "n.",
+    "meaning": "想法",
+    "src": "./images/words/idea.webp",
+    "alt": "创作者想到新点子，脑海中浮现纸飞机构想"
+  },
+  {
+    "word": "leaf",
+    "pos": "n.",
+    "meaning": "叶子",
+    "src": "./images/words/leaf.webp",
+    "alt": "一片叶脉清晰的绿色叶子"
+  },
+  {
+    "word": "morning",
+    "pos": "n.",
+    "meaning": "早晨",
+    "src": "./images/words/morning.webp",
+    "alt": "清晨阳光照进窗户，孩子起床伸懒腰"
+  },
+  {
+    "word": "prepare",
+    "pos": "v.",
+    "meaning": "准备",
+    "src": "./images/words/prepare.webp",
+    "alt": "人物在厨房摆放食材与碗勺，准备午饭"
+  },
+  {
+    "word": "slowly",
+    "pos": "adv.",
+    "meaning": "缓慢地",
+    "src": "./images/words/slowly.webp",
+    "alt": "一只蜗牛缓慢地爬过花园小路"
+  },
+  {
+    "word": "suddenly",
+    "pos": "adv.",
+    "meaning": "突然",
+    "src": "./images/words/suddenly.webp",
+    "alt": "安静阅读的人突然因跳出的猫而惊讶大笑"
+  },
+  {
+    "word": "water",
+    "pos": "n.",
+    "meaning": "水",
+    "src": "./images/words/water.webp",
+    "alt": "清水倒入透明玻璃杯"
+  }
+]

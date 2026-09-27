@@ -1,0 +1,42 @@
+{
+  "mode": "builtin",
+  "tool": "image_gen",
+  "assets": [
+    {
+      "word": "gently",
+      "pos": "adv.",
+      "meaning": "温柔地",
+      "alt": "成年人俯身温柔安抚受惊的孩子",
+      "scene": "An adult kneels beside a frightened small child, speaking softly with a compassionate relaxed face and gently resting one open hand on the child's shoulder. Focus on the tender, delicate manner of comforting: soft gestures, eye-level attention and the child's gradually relieved face. This illustrates doing something gently, not merely a family portrait.",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration for a gentle garden-themed matching game.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted greens, blues, coral and ochre; clear bold central subject.\nComposition/framing: square image, whole subject visible, generous sparse margins, scene immediately readable at small vocabulary-card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, arrows or card UI. One coherent scene, never a collage of unrelated words.\nPrimary request: illustrate the exact English adv. word \"gently\", Chinese meaning \"温柔地\".\nScene: An adult kneels beside a frightened small child, speaking softly with a compassionate relaxed face and gently resting one open hand on the child's shoulder. Focus on the tender, delicate manner of comforting: soft gestures, eye-level attention and the child's gradually relieved face. This illustrates doing something gently, not merely a family portrait.",
+      "mode": "builtin",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-c61aa3e3-42d5-46e3-95f8-fbbd9b6322a0.png",
+      "savedPath": "public/images/words/gently.webp",
+      "reviewed": true
+    },
+    {
+      "word": "suddenly",
+      "pos": "adv.",
+      "meaning": "突然",
+      "alt": "安静阅读的人突然因跳出的猫而惊讶大笑",
+      "scene": "A person peacefully reading on a garden bench has just been surprised by a playful cat popping up from behind the bench and suddenly bursts into laughter, eyes widened, book lifted slightly in an involuntary quick reaction. A few small painterly movement strokes convey the abrupt unexpected moment. Show harmless surprise, no injury or danger.",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration for a gentle garden-themed matching game.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted greens, blues, coral and ochre; clear bold central subject.\nComposition/framing: square image, whole subject visible, generous sparse margins, scene immediately readable at small vocabulary-card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, arrows or card UI. One coherent scene, never a collage of unrelated words.\nPrimary request: illustrate the exact English adv. word \"suddenly\", Chinese meaning \"突然\".\nScene: A person peacefully reading on a garden bench has just been surprised by a playful cat popping up from behind the bench and suddenly bursts into laughter, eyes widened, book lifted slightly in an involuntary quick reaction. A few small painterly movement strokes convey the abrupt unexpected moment. Show harmless surprise, no injury or danger.",
+      "mode": "builtin",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-48923907-56f9-4db2-9529-226f098bfd8c.png",
+      "savedPath": "public/images/words/suddenly.webp",
+      "reviewed": true
+    },
+    {
+      "word": "idea",
+      "pos": "n.",
+      "meaning": "想法",
+      "alt": "创作者想到新点子，脑海中浮现纸飞机构想",
+      "scene": "A young adult creator at a simple desk pauses with pencil raised and a delighted thoughtful expression; above their head a small soft-edged imagined paper airplane visually represents the new concept they have just thought of. On the desk a plain unmarked sheet of paper. Focus on having an idea; no lightbulb icon, no written text.",
+      "prompt": "Use case: illustration-story\nAsset type: English vocabulary learning card illustration for a gentle garden-themed matching game.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted greens, blues, coral and ochre; clear bold central subject.\nComposition/framing: square image, whole subject visible, generous sparse margins, scene immediately readable at small vocabulary-card size.\nConstraints: no written words, letters, numbers, labels, logos, watermarks, arrows or card UI. One coherent scene, never a collage of unrelated words.\nPrimary request: illustrate the exact English n. word \"idea\", Chinese meaning \"想法\".\nScene: A young adult creator at a simple desk pauses with pencil raised and a delighted thoughtful expression; above their head a small soft-edged imagined paper airplane visually represents the new concept they have just thought of. On the desk a plain unmarked sheet of paper. Focus on having an idea; no lightbulb icon, no written text.",
+      "mode": "builtin",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e2aa-acc3-75c2-b02b-0eff53c32e8f/exec-77740e99-02d2-4416-ad3a-fe40c15b66d3.png",
+      "savedPath": "public/images/words/idea.webp",
+      "reviewed": true
+    }
+  ]
+}
