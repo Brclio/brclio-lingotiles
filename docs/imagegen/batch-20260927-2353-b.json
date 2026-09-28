@@ -1,0 +1,118 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "see",
+      "pos": "v.",
+      "meaning": "看见",
+      "alt": "孩子睁开的眼睛正目视前方蝴蝶，淡淡视线连接眼睛与目标。",
+      "selfReviewNotes": "已查看原图、640px候选和80px缩略图。侧脸的开放眼睛朝向蝴蝶，未出现指方向的手势；无文字、数字或水印。80px保留了眼睛与蝴蝶的空间关系，但细视线很淡；可能被描述为看着或观察，与看见接近，仍待独立盲审。",
+      "prompt": "Use case: scientific-educational. Asset type: square vocabulary learning illustration, clear at 80px. Primary request: illustrate the verb 'see', to perceive something with the eyes. Scene: close side-profile of a child's face on the left, with one large open eye visibly focused directly on a coral butterfly in the right half of the image, at exactly eye height. The butterfly is fully visible and large enough to recognize. Two very faint short colored-pencil sight lines between the open eye and butterfly make the visual relation unmistakable, without arrowheads or labels. A tiny soft green leaf under the butterfly provides a natural setting; otherwise spacious warm-white background. Show only the child's face and neck: no hands, pointing, binoculars, or other actions. Composition: eye and butterfly are the two main focal points, almost filling the central area, clear side profile and strong readable silhouettes. Style/medium: delicate hand-painted gouache and colored pencil on warm-white textured paper, muted green, blue, and coral accents, natural soft light. No words, letters, numbers, labels, speech bubbles, logos, watermarks, or card UI. The exact idea is seeing a visible object through the eyes.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e550-0cab-77d0-9f11-2d4e6a6c64a3/exec-a1ee790f-7fcb-46c8-85c4-2c1bd5924a5e.png",
+      "originalLocalPath": "output/imagegen/source/see-2353.png",
+      "candidatePath": "output/imagegen/review/2353/see.webp",
+      "intendedSavedPath": "public/images/words/see.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "11",
+        "primary": "看／观察蝴蝶",
+        "alternatives": [
+          "看见蝴蝶",
+          "盯着蝴蝶"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "特写眼睛与清楚视线连接蝴蝶，没有手指或其他动作分散焦点，视觉感知关系直接可见。"
+      },
+      "savedPath": "public/images/words/see.webp"
+    },
+    {
+      "word": "up",
+      "pos": "adj.",
+      "meaning": "向上的",
+      "alt": "一支蓝色箭杆、珊瑚红箭头的木制箭头笔直朝向上方。",
+      "selfReviewNotes": "已查看原图、640px候选和80px缩略图。向上箭头轮廓在80px仍明确，底部水平线辅助上下方向辨认；没有爬梯、高楼等易混淆场景，也无文字、数字或水印。以方向符号表达向上的，无法单靠图像证明形容词词性，待独立盲审。",
+      "prompt": "Use case: scientific-educational. Asset type: square vocabulary learning illustration, unmistakable at 80px. Primary request: illustrate 'up', adjective meaning upward or pointing toward the top. Subject: one large thick hand-painted wooden direction arrow, with a long vertical muted-blue shaft and a very clear broad triangular coral arrowhead pointing straight upward toward the top edge of the page. It stands just above a short muted-green horizontal ground/reference line near the bottom, making the upward orientation clear. The arrow points up in the plane of the image, not into the distance. Composition: centered single arrow fills most of the square, easy high-contrast silhouette, generous warm-white paper margins, no other arrows or objects. Style/medium: charming gouache and colored-pencil educational illustration, natural pigment and subtle wooden texture, warm-white textured paper, soft natural daylight and light grounding shadow, muted blue/green/coral palette. Avoid people, hands, stairs, ladders, mountains, tall buildings, clocks, rising charts, compass icons, and additional scenery. Convey the upward direction itself. No words, letters, numbers, labels, logos, watermarks, or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e550-0cab-77d0-9f11-2d4e6a6c64a3/exec-df0194f3-a42e-4a64-a0d6-ec6c92f7d53b.png",
+      "originalLocalPath": "output/imagegen/source/up-2353.png",
+      "candidatePath": "output/imagegen/review/2353/up.webp",
+      "intendedSavedPath": "public/images/words/up.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "08",
+        "primary": "向上",
+        "alternatives": [
+          "上升",
+          "向上的箭头"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "箭头从下方基线垂直指向上方，方向直接可读；当前形容词义项不要求表现运动主体。"
+      },
+      "savedPath": "public/images/words/up.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "know",
+      "pos": "v.",
+      "meaning": "知道",
+      "alt": "孩子明确指出藏球的绿色杯子，思考气泡展示其已知的杯下小球。",
+      "selfReviewNotes": "已查看原图、640px候选和80px缩略图。孩子触碰绿色杯子，思考气泡中的相同杯子和红球表达具体知识；无文字、数字或水印。80px时孩子、两杯及思考气泡仍可分辨，但球和指尖细节较小；单凭画面仍可能读成猜杯游戏、猜测或想象，是否足够表达知道需独立盲审。",
+      "prompt": "Use case: scientific-educational. Asset type: square vocabulary learning illustration for a small 80px tile. Primary request: visually explain the verb 'know', meaning to have knowledge of a fact. Scene: a confident child at a simple table knows exactly which of two upside-down cups conceals a small coral-red ball. The child gently touches the correct muted-green cup with one finger and has a calm certain expression. One large pictorial thought bubble above the child's head clearly shows that same green cup with the little red ball underneath, revealing the specific fact already known. A second muted-blue cup sits farther away on the table, unopened. Keep the actual ball hidden under the real cup; the thought bubble is the evidence of the child's knowledge. Composition: one child, two cups, one simple thought bubble, all large and centered, clear silhouettes and generous warm-white negative space. Style/medium: hand-painted gouache and colored pencil on warm-white paper with visible subtle paper texture, natural soft light, muted green, blue, and coral palette. Avoid a generic brain or lightbulb, reading, writing, searching, surprised discovery, magic, many tiny details. No words, letters, numbers, labels, logos, watermarks, or card UI. The visual must convey knowing a specific hidden fact, not merely pointing at an object.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e550-0cab-77d0-9f11-2d4e6a6c64a3/exec-3908c039-0ea3-4322-baca-eaaa6e8d84b3.png",
+      "originalLocalPath": "output/imagegen/source/know-2353.png",
+      "candidatePath": "output/imagegen/review/2353/know.webp",
+      "intendedSavedPath": "public/images/words/know.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "06",
+        "primary": "猜球藏在哪个杯子下面",
+        "alternatives": [
+          "知道球的位置",
+          "选择绿色杯子"
+        ],
+        "confidence": "medium",
+        "decision": "deferred",
+        "reason": "思想气泡只能显示猜想，不能证明已掌握位置；盲审主要读为猜测，保留重做。"
+      }
+    },
+    {
+      "word": "time",
+      "pos": "n.",
+      "meaning": "时间",
+      "alt": "正在流沙的沙漏，上方剩余沙量和下方已落沙量清晰可见。",
+      "selfReviewNotes": "已查看原图、640px候选和80px缩略图。单一沙漏主体清晰，原图和640px可见持续下落沙流，上下沙量表示剩余与已过；无文字、数字或水印。80px中间沙流较细但沙漏及两端沙量可辨；图像首先可被识别为沙漏，抽象时间需按教育语境独立判断。",
+      "prompt": "Use case: scientific-educational. Asset type: square vocabulary illustration for an 80px learning tile. Primary request: illustrate the noun 'time', passage of time, with one large classic hourglass visibly running. Scene: a transparent glass hourglass with a simple muted blue wooden frame stands upright in the center on warm-white paper. A clear substantial amount of warm coral-gold sand remains in the upper glass bulb; a narrow continuous falling sand stream passes through the narrow neck; a broad sand pile has accumulated in the lower bulb. Both the elapsed portion below and remaining portion above must be easily visible, with about half the sand already fallen. The running flow is the focal point. Composition: single large unmistakable hourglass occupies most of the image, front view with a slight natural three-quarter angle, balanced negative space, soft grounding shadow. Style/medium: hand-painted gouache and colored pencil, subtle textured warm-white paper, muted blue and coral-gold with a small muted-green frame accent, soft natural light. Avoid clocks, clock faces, calendar sheets, numbers, hands, people, extra objects, decorative sparkles, arrows, and tiny clutter. No words, letters, numerals, labels, logos, watermarks, or UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e550-0cab-77d0-9f11-2d4e6a6c64a3/exec-ab993794-2bf2-415d-bb4c-670afaaa49e3.png",
+      "originalLocalPath": "output/imagegen/source/time-2353.png",
+      "candidatePath": "output/imagegen/review/2353/time.webp",
+      "intendedSavedPath": "public/images/words/time.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "03",
+        "primary": "沙漏",
+        "alternatives": [
+          "计时",
+          "时间流逝"
+        ],
+        "confidence": "high",
+        "decision": "deferred",
+        "reason": "盲审首先识别具体沙漏；孤立计时器仍需象征性推断，未提供足够明确的时间经过场景，保留重做。"
+      }
+    }
+  ],
+  "batch": "20260927-2353-b"
+}

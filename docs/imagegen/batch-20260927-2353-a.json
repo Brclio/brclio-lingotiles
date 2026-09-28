@@ -1,0 +1,116 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "make",
+      "pos": "v.",
+      "meaning": "制造",
+      "alt": "木匠用新木料和木槌组装一把木椅。",
+      "prompt": "Use case: scientific-educational.\nAsset type: a square vocabulary learning illustration, legible as an 80-pixel thumbnail.\nPrimary request: illustrate the verb “make”, precisely the sense manufacture / create a physical product (制造).\nScene: a simple carpentry scene isolated on warm white paper. An adult craftsperson is actively making a brand-new small wooden chair from lumber. In the center, the clearly recognizable nearly finished bare-wood chair has a seat, back, and legs; the craftsperson is fitting the final new wooden crossbar into its frame with one hand and a small wooden mallet in the other. A small neat stack of matching raw wood boards and a few curled wood shavings nearby make the raw-material-to-new-product process visible. All timber is clean, newly cut and unpainted; no broken or old furniture.\nComposition: one compact dominant scene, chair and hands largest, the construction action immediately readable, full subjects contained with generous outer margin, uncluttered.\nStyle/medium: hand-painted gouache and colored pencil on warm white textured paper, simple rounded realistic forms, natural soft light, muted sage green clothing, blue and coral accents, warm wood.\nConstraints: show manufacturing rather than merely holding a chair or repairing something. No text, letters, numbers, written labels, arrows, logo, watermark, border, panels, UI, decorative objects, or busy background.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e54e-dd46-7ac1-9fe4-04ebee8ab5da/exec-9f0b105d-b76a-4eb4-8a77-4ae4822002b0.png",
+      "originalLocalPath": "output/imagegen/source/make-2353.png",
+      "candidatePath": "output/imagegen/review/2353/make.webp",
+      "intendedSavedPath": "public/images/words/make.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：新木材、木屑、木槌及装配动作清晰，支持制造义项；前景竖直木件可能被看成多余椅腿，需独立审核确认。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "04",
+        "primary": "制作／组装木椅",
+        "alternatives": [
+          "修理椅子",
+          "木匠做木工"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "正在装配的木条、木槌和旁边原料木屑共同显示把木材制成产品的动作，盲审直接读为制作或组装。"
+      },
+      "savedPath": "public/images/words/make.webp"
+    },
+    {
+      "word": "my",
+      "pos": "pron.",
+      "meaning": "我的",
+      "alt": "女孩指着自己，抱着带有本人头像图案的书包。",
+      "prompt": "Use case: scientific-educational.\nAsset type: square vocabulary learning illustration, clear at an 80-pixel thumbnail.\nPrimary request: show the first-person possessive “my”, exact meaning 我的. The picture's person is the speaker addressing the viewer and explicitly claiming their own belonging.\nSubject/action: one young girl facing the viewer, mouth gently open as if speaking, making warm eye contact. Her right index finger unmistakably points to the center of her own chest. Her left arm hugs her own large blue school backpack against her body. The front of the backpack carries a large simple picture-only round portrait badge showing the same girl, matching her distinct two short dark pigtails and coral hair ties. The girl wears a muted coral top. Her self-pointing hand and the personally identified backpack are the dominant visual clues. No second person, no handing over or giving.\nComposition: waist-up close view, centered single person and backpack occupy most of the square, all edges visible and modest warm white margin. Large simple silhouettes and easy-to-read gesture.\nStyle/medium: hand-painted gouache and colored pencil on warm white textured paper, soft natural light, restrained muted coral, sage and blue palette.\nConstraints: communicate “my own”, the speaking character's ownership; do not show an outside observer pointing at somebody else's things. No text, words, letters, numbers, written labels, logo, watermark, speech bubble, frame, arrows, UI, extra props or background scene. The portrait badge is solely a drawing with no writing.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e54e-dd46-7ac1-9fe4-04ebee8ab5da/exec-724542a8-33c1-47e4-8d23-3a693592481c.png",
+      "originalLocalPath": "output/imagegen/source/my-2353.png",
+      "candidatePath": "output/imagegen/review/2353/my.webp",
+      "intendedSavedPath": "public/images/words/my.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：女孩面对观者说话并指向本人胸口，另一只手抱着带同一女孩头像的书包；自指和本人拥有的物品双线索明确。仍需独立盲审第一人称所有关系。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "12",
+        "primary": "我的书包／女孩表示书包是自己的",
+        "alternatives": [
+          "指着自己说我",
+          "自我介绍"
+        ],
+        "confidence": "medium",
+        "decision": "accepted",
+        "reason": "自指手势与紧抱的书包、本人照片标签共同表示说话者自己的物品，区别于旁人介绍她的。"
+      },
+      "savedPath": "public/images/words/my.webp"
+    },
+    {
+      "word": "about",
+      "pos": "prep.",
+      "meaning": "在...周围",
+      "alt": "六个孩子站在一棵小树四周，形成完整的圆环。",
+      "prompt": "Use case: scientific-educational.\nAsset type: square vocabulary learning illustration, spatial relation clearly legible at 80 pixels.\nPrimary request: illustrate the preposition “about”, exactly the locative sense 在...周围, meaning situated all around a central thing.\nScene/subject: one small leafy tree at the exact center and six young children standing in a complete evenly spaced ring around the tree, at roughly equal distance from its trunk. Children occupy every side of the tree: foreground, left, right, and behind. They stand still, face inward toward the tree, with relaxed hands by their sides. The placement of the children themselves makes the whole ring obvious.\nComposition: high three-quarter overhead view, almost a bird's-eye view, revealing the entire closed circular arrangement. The central tree is small and narrow with a modest sparse canopy so the children behind it remain fully visible. Each child is a clearly separated full figure. Show open pale paper between tree and figures. The ring occupies most of the square with a clean outer margin.\nStyle/medium: warm white textured paper, hand-painted gouache and colored-pencil contours, rounded natural forms, soft natural light, muted sage green, blue and coral.\nConstraints: this is a stationary positional relationship, all around the tree. No path, winding road, footprints, circular arrow, motion streaks, hands joined, dance, playground, extra people, additional trees, lettering, numbers, labels, captions, watermark, frame or UI. No directional symbol. Plain isolated scene on warm white paper.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e54e-dd46-7ac1-9fe4-04ebee8ab5da/exec-26bd5bc4-1008-45c5-9e93-5870b6ead166.png",
+      "originalLocalPath": "output/imagegen/source/about-2353.png",
+      "candidatePath": "output/imagegen/review/2353/about.webp",
+      "intendedSavedPath": "public/images/words/about.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：六位孩子在中央小树前后左右完整围成一圈，静止位置关系明确，无路径或箭头。环形和中央对象在缩小时仍有清晰轮廓，待独立盲审。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "01",
+        "primary": "孩子们围着一棵树／在树周围",
+        "alternatives": [
+          "围成一圈",
+          "观察树"
+        ],
+        "confidence": "high",
+        "decision": "accepted",
+        "reason": "六个孩子均匀分布在中心树的各个方向，高视角直接呈现位于周围的静态空间关系，符合介词当前义项。"
+      },
+      "savedPath": "public/images/words/about.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "one",
+      "pos": "num.",
+      "meaning": "一",
+      "alt": "空白纸面中央只有一个完整的红苹果。",
+      "prompt": "Use case: scientific-educational.\nAsset type: a square counting vocabulary illustration that remains completely clear at an 80-pixel thumbnail.\nPrimary request: depict the number-word “one”, exact numerical meaning 一, entirely without drawing any numeral or writing.\nSubject: exactly one whole red apple, a single ordinary typical apple, upright and centered, with its natural short brown stem attached. The apple is the sole discrete object in the entire picture. No leaf.\nComposition: the one apple occupies about two thirds of the frame width, with generous empty warm white paper all around. One soft diffuse contact shadow beneath it may ground it, but no reflection.\nStyle/medium: softly hand-painted gouache and colored pencil on warm white subtly textured paper, simple clean recognizable silhouette, soft natural light, muted coral-red skin with a natural lighter highlight and short warm brown stem.\nConstraints: exactly one complete apple and nothing else to count. No other fruit, sliced pieces, detached leaves, seeds, decorative dots, sparkles, plate, basket, hand, border, icons, panels, UI, text, letters, numbers, number 1, labels, logo or watermark. The background must stay blank.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e54e-dd46-7ac1-9fe4-04ebee8ab5da/exec-732965ec-b0d9-4c5a-8c5e-4e71b068fc8b.png",
+      "originalLocalPath": "output/imagegen/source/one-2353.png",
+      "candidatePath": "output/imagegen/review/2353/one.webp",
+      "intendedSavedPath": "public/images/words/one.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：画面仅一个完整红苹果，无叶子、数字或其他可计数装饰物；数量一准确。单物体仍可能被读成苹果名词，待独立语义审核。",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "09",
+        "primary": "苹果",
+        "alternatives": [],
+        "confidence": "high",
+        "decision": "deferred",
+        "reason": "单一苹果仍首先且仅被读为水果，没有强调数量一的计数线索，保留重做。"
+      }
+    }
+  ],
+  "batch": "20260927-2353-a"
+}

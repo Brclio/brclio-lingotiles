@@ -1,0 +1,210 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260927-2353-root",
+  "assets": [
+    {
+      "word": "their",
+      "pos": "pron.",
+      "meaning": "他们的",
+      "alt": "三名孩子共同扶着箱子，箱子上的合照标签与这三人一致，表现属于他们的物品",
+      "scene": "Unambiguous THIRD-PERSON PLURAL OWNERSHIP. Three children stand together on the RIGHT, jointly holding or resting their hands on one shared toy chest at waist height. The chest has a LARGE picture-only ownership tag showing the exact same THREE children together (same faces, hairstyles and clothing colors blue, yellow, coral), no words. A separate narrator child at LEFT looks toward the viewer and points across a clear gap precisely at their shared chest, not at a listener. No other objects held by narrator. The owning group and narrator are visibly separate; the narrator is not included on the chest's picture tag. The visible meaning is this chest belongs to THOSE CHILDREN, THEIR chest. Clear plural group-to-object ownership, not giving, receiving, carrying off or looking for toys. The chest and ownership picture are prominent enough for a small card.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary sense illustration.\nExact target sense: \"their\" / pron. / \"他们的\".\nPrimary requirement: show the precise meaning clearly through visible people, actions or relationships, without any written word, caption or definition. No generic decoration.\nScene: Unambiguous THIRD-PERSON PLURAL OWNERSHIP. Three children stand together on the RIGHT, jointly holding or resting their hands on one shared toy chest at waist height. The chest has a LARGE picture-only ownership tag showing the exact same THREE children together (same faces, hairstyles and clothing colors blue, yellow, coral), no words. A separate narrator child at LEFT looks toward the viewer and points across a clear gap precisely at their shared chest, not at a listener. No other objects held by narrator. The owning group and narrator are visibly separate; the narrator is not included on the chest's picture tag. The visible meaning is this chest belongs to THOSE CHILDREN, THEIR chest. Clear plural group-to-object ownership, not giving, receiving, carrying off or looking for toys. The chest and ownership picture are prominent enough for a small card.\nStyle: hand-painted gouache with subtle colored-pencil texture, warm off-white paper background, natural soft light, muted green blue coral, clean generous margins. Main visual clues must be legible on an 80px vocabulary card.\nConstraints: no text, letters, numbers, written labels, punctuation, watermark, logos or card border/UI. One independent image for this one sense.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-3d0be41d-fcf2-44e8-bd89-ca1d55f19f42.png",
+      "originalLocalPath": "output/imagegen/source/their-2353.png",
+      "candidatePath": "output/imagegen/review/2353/their.webp",
+      "intendedSavedPath": "public/images/words/their.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "10",
+        "primary": "箱子属于那三个孩子／他们的箱子",
+        "alternatives": [
+          "指着那群孩子",
+          "孩子们共同拥有箱子"
+        ],
+        "confidence": "medium",
+        "decision": "accepted",
+        "reason": "箱子由三人共同扶持，标签重复同一组三人，另一个指示者与物主群体分开，第三方复数归属关系成立。"
+      },
+      "savedPath": "public/images/words/their.webp"
+    },
+    {
+      "word": "her",
+      "pos": "pron.",
+      "meaning": "她的",
+      "alt": "女孩紧抱自己的蓝色书包，书包照片标签与女孩一致，旁人指向书包表现属于她",
+      "scene": "Clear THIRD-PERSON FEMALE OWNERSHIP, HER personal possession. At right one girl with dark pigtails, a coral shirt and a blue flower hairclip holds her own blue schoolbag closely with both hands. On the FRONT of the bag is a large picture-only personal ownership tag showing this SAME GIRL'S face, pigtails, coral shirt and blue flower clip. At left a separate boy points unobstructed across a gap precisely at the tagged bag, while looking toward the viewer as if identifying its female owner. The tag must match the girl clearly and be big enough to identify at thumbnail size. The bag is already securely hers, no exchange, no gift, no loan. No writing on the tag, no other bags, no extra figures. The female owner-to-bag relationship is the focus.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary sense illustration.\nExact target sense: \"her\" / pron. / \"她的\".\nPrimary requirement: show the precise meaning clearly through visible people, actions or relationships, without any written word, caption or definition. No generic decoration.\nScene: Clear THIRD-PERSON FEMALE OWNERSHIP, HER personal possession. At right one girl with dark pigtails, a coral shirt and a blue flower hairclip holds her own blue schoolbag closely with both hands. On the FRONT of the bag is a large picture-only personal ownership tag showing this SAME GIRL'S face, pigtails, coral shirt and blue flower clip. At left a separate boy points unobstructed across a gap precisely at the tagged bag, while looking toward the viewer as if identifying its female owner. The tag must match the girl clearly and be big enough to identify at thumbnail size. The bag is already securely hers, no exchange, no gift, no loan. No writing on the tag, no other bags, no extra figures. The female owner-to-bag relationship is the focus.\nStyle: hand-painted gouache with subtle colored-pencil texture, warm off-white paper background, natural soft light, muted green blue coral, clean generous margins. Main visual clues must be legible on an 80px vocabulary card.\nConstraints: no text, letters, numbers, written labels, punctuation, watermark, logos or card border/UI. One independent image for this one sense.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-6c52c27b-82d9-444b-a0b1-3311df4e2ec8.png",
+      "originalLocalPath": "output/imagegen/source/her-2353.png",
+      "candidatePath": "output/imagegen/review/2353/her.webp",
+      "intendedSavedPath": "public/images/words/her.webp",
+      "reviewed": true,
+      "status": "ready",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "05",
+        "primary": "书包是女孩的／她的书包",
+        "alternatives": [
+          "男孩指着书包",
+          "女孩展示书包"
+        ],
+        "confidence": "medium",
+        "decision": "accepted",
+        "reason": "女生本人和书包上匹配的肖像标签共同明确女性物主，旁观者指示该物品而非递送，归属关系清楚。"
+      },
+      "savedPath": "public/images/words/her.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "as",
+      "pos": "adv.",
+      "meaning": "同样地",
+      "alt": "女孩看着男孩并以相同手势折出相同纸船，两人的动作方式由箭头相连",
+      "scene": "Clearly show ONE person doing an action IN THE SAME WAY as a model person. At left a boy demonstrates a precise paper-folding step, holding a half-folded blue paper boat between his thumbs and index fingers at a small plain table. At right a girl carefully watches the boy's hands while holding her own half-folded coral paper boat in the exact same orientation and folds, with her fingers in the exact same positions, following his method. A small curved hand-painted arrow from his hands to her hands connects the copied technique. Both half-folded boats should be recognizable as the same stage and same shape, differing only in color. Place one simple completed paper boat behind the boy's hands as the example result, not decorative objects. The girl's gaze and copying gesture make SAME MANNER the focus, not merely two people working together. Hands large and visible, simple close framing, no excess craft supplies.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary sense illustration.\nExact target sense: \"as\" / adv. / \"同样地\".\nPrimary requirement: show the precise meaning clearly through visible people, actions or relationships, without any written word, caption or definition. No generic decoration.\nScene: Clearly show ONE person doing an action IN THE SAME WAY as a model person. At left a boy demonstrates a precise paper-folding step, holding a half-folded blue paper boat between his thumbs and index fingers at a small plain table. At right a girl carefully watches the boy's hands while holding her own half-folded coral paper boat in the exact same orientation and folds, with her fingers in the exact same positions, following his method. A small curved hand-painted arrow from his hands to her hands connects the copied technique. Both half-folded boats should be recognizable as the same stage and same shape, differing only in color. Place one simple completed paper boat behind the boy's hands as the example result, not decorative objects. The girl's gaze and copying gesture make SAME MANNER the focus, not merely two people working together. Hands large and visible, simple close framing, no excess craft supplies.\nStyle: hand-painted gouache with subtle colored-pencil texture, warm off-white paper background, natural soft light, muted green blue coral, clean generous margins. Main visual clues must be legible on an 80px vocabulary card.\nConstraints: no text, letters, numbers, written labels, punctuation, watermark, logos or card border/UI. One independent image for this one sense.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-8e90982a-bf1d-49eb-8320-e16ff4386a6a.png",
+      "originalLocalPath": "output/imagegen/source/as-2353.png",
+      "candidatePath": "output/imagegen/review/2353/as.webp",
+      "intendedSavedPath": "public/images/words/as.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "07",
+        "primary": "跟着别人学折纸船",
+        "alternatives": [
+          "男孩教女孩折纸",
+          "模仿别人的做法"
+        ],
+        "confidence": "medium",
+        "decision": "deferred",
+        "reason": "相同成品与箭头更像教学和模仿，方式相同并非足够明确的画面重点，保留重做。"
+      }
+    },
+    {
+      "word": "who",
+      "pos": "pron.",
+      "meaning": "谁",
+      "alt": "孩子向身后同伴摊手发问，另一只手越过空白处明确指向独立的陌生人，询问人物身份",
+      "scene": "An unmistakable wordless question about a PERSON'S IDENTITY. At FAR LEFT two children: the QUESTIONER is in front and to the RIGHT of the listening child, so the listener is BEHIND and LEFT of the questioner. The questioner turns their face back to the listener, with a sharply raised questioning eyebrow, puzzled open mouth, head tilted, and LEFT palm up in a questioning shrug. Their RIGHT arm points unobstructed across a wide blank central gap DIRECTLY to one separate adult man at FAR RIGHT, with fingertip aligned to the man's face. The arm must not touch or cross the listener. The listener looks at the separate man thoughtfully. The man stands neutrally in plain green shirt, holding nothing, doing no activity, and is the sole object of the question. The clear relation is asking the companion WHO is that man, not greeting him or confidently introducing him. One simple human vignette, no setting or distracting props, no question marks or text.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary sense illustration.\nExact target sense: \"who\" / pron. / \"谁\".\nPrimary requirement: show the precise meaning clearly through visible people, actions or relationships, without any written word, caption or definition. No generic decoration.\nScene: An unmistakable wordless question about a PERSON'S IDENTITY. At FAR LEFT two children: the QUESTIONER is in front and to the RIGHT of the listening child, so the listener is BEHIND and LEFT of the questioner. The questioner turns their face back to the listener, with a sharply raised questioning eyebrow, puzzled open mouth, head tilted, and LEFT palm up in a questioning shrug. Their RIGHT arm points unobstructed across a wide blank central gap DIRECTLY to one separate adult man at FAR RIGHT, with fingertip aligned to the man's face. The arm must not touch or cross the listener. The listener looks at the separate man thoughtfully. The man stands neutrally in plain green shirt, holding nothing, doing no activity, and is the sole object of the question. The clear relation is asking the companion WHO is that man, not greeting him or confidently introducing him. One simple human vignette, no setting or distracting props, no question marks or text.\nStyle: hand-painted gouache with subtle colored-pencil texture, warm off-white paper background, natural soft light, muted green blue coral, clean generous margins. Main visual clues must be legible on an 80px vocabulary card.\nConstraints: no text, letters, numbers, written labels, punctuation, watermark, logos or card border/UI. One independent image for this one sense.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-4c2e4b80-1160-48d7-81cf-35f35c7c8792.png",
+      "originalLocalPath": "output/imagegen/source/who-2353.png",
+      "candidatePath": "output/imagegen/review/2353/who.webp",
+      "intendedSavedPath": "public/images/words/who.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "optimization": "cwebp -q 82 -m 6 -resize 640 640",
+      "visualReview": {
+        "method": "Independent visual review without target word or definition",
+        "blindId": "02",
+        "primary": "女孩指着一名男子，和男孩谈论他",
+        "alternatives": [
+          "询问他是谁",
+          "介绍那个人"
+        ],
+        "confidence": "medium",
+        "decision": "deferred",
+        "reason": "手指已无遮挡，但盲审仍不能区分询问身份与介绍人物，疑问姿态未形成足够明确的身份提问；保留重做。"
+      }
+    }
+  ],
+  "semanticDeferrals": [
+    {
+      "word": "the",
+      "pos": "art.",
+      "meaning": "那",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "尚未确定可区别定冠词与普通指示对象的无文字场景。"
+    },
+    {
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "判断关系尚无直接可读的场景，不能用任意名词图代替。"
+    },
+    {
+      "word": "of",
+      "pos": "prep.",
+      "meaning": "的",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "关系宽泛，需继续明确具体语义设计。"
+    },
+    {
+      "word": "do",
+      "pos": "v.",
+      "meaning": "做",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "需区别泛指做与特定动作本身。"
+    },
+    {
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "普通动作图无法区别当前被动关系。"
+    },
+    {
+      "word": "an",
+      "pos": "art.",
+      "meaning": "一",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "需要明确数量及冠词语境，不能只画单一物体。"
+    },
+    {
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "未来动作需要清楚时间关系，尚未完成设计。"
+    },
+    {
+      "word": "would",
+      "pos": "v.",
+      "meaning": "将",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "当前词义需明确未来关系，不能使用任意动作插图。"
+    },
+    {
+      "word": "if",
+      "pos": "conj.",
+      "meaning": "如果",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "需要条件与结果的可读联系，仍待设计。"
+    },
+    {
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "程度或方式语境不明确，保留待设计。"
+    }
+  ]
+}

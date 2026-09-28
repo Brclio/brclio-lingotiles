@@ -1,10 +1,15 @@
 {
   "version": 1,
   "total": 100000,
-  "ready": 84,
-  "pending": 99916,
-  "revision": "2b364574e42550a8",
+  "ready": 91,
+  "pending": 99909,
+  "revision": "37b9fb941e0cacd2",
   "buckets": {
+    "12": {
+      "path": "images/words/index/12.json",
+      "count": 1,
+      "sha256": "8585fb3dfa00b4aae3af578223e5fb1026bd23b12d16033f14bed781a6724840"
+    },
     "15": {
       "path": "images/words/index/15.json",
       "count": 1,
@@ -155,6 +160,11 @@
       "count": 1,
       "sha256": "bf0b3867562df895390c7ae45b4a793bd3799b5e18850395ef6ec6d8c737de08"
     },
+    "07": {
+      "path": "images/words/index/07.json",
+      "count": 1,
+      "sha256": "38c3495f490ed6a488cb53cff6ee3733bebbac33c308e6f06bd1247980fd4b93"
+    },
     "08": {
       "path": "images/words/index/08.json",
       "count": 1,
@@ -189,6 +199,11 @@
       "path": "images/words/index/3c.json",
       "count": 1,
       "sha256": "05a251837fe31ec3bea51dd83a9aed05454e864c3098f8a16f1a6eeed3485a33"
+    },
+    "3d": {
+      "path": "images/words/index/3d.json",
+      "count": 1,
+      "sha256": "797932d6cfc016056737d63041d9354a25044b5264d268cfe5ce57d92e1f4fb4"
     },
     "3e": {
       "path": "images/words/index/3e.json",
@@ -232,8 +247,8 @@
     },
     "8c": {
       "path": "images/words/index/8c.json",
-      "count": 1,
-      "sha256": "4f45a23234eed9c96e72ca24e296299a5c0a4343248d39bef162381936fe1bf3"
+      "count": 2,
+      "sha256": "af8006f788fb69a6f0152b437c15fc12290e46093561db54ed2109032aa1bdf1"
     },
     "8d": {
       "path": "images/words/index/8d.json",
@@ -247,8 +262,8 @@
     },
     "9a": {
       "path": "images/words/index/9a.json",
-      "count": 1,
-      "sha256": "6c6617b52bb68361f1089a3507b80557876a2d78e47f7f13c4f2d62f00e1fde0"
+      "count": 2,
+      "sha256": "c4f871beed89c90919c7a4fb416c9a8f36fb5c3db0b0445ef2bd80b6f46a9eb3"
     },
     "9d": {
       "path": "images/words/index/9d.json",
@@ -277,8 +292,8 @@
     },
     "b4": {
       "path": "images/words/index/b4.json",
-      "count": 1,
-      "sha256": "045d0e710a299e15036702a4b0342b05084510262f68a7854c23e711d98a4d4e"
+      "count": 2,
+      "sha256": "51d348ec6d375a71df17c1a5b623ae6491880479367058dd742a2e2e9b2dc142"
     },
     "cf": {
       "path": "images/words/index/cf.json",
@@ -324,6 +339,11 @@
       "path": "images/words/index/df.json",
       "count": 1,
       "sha256": "b2f58b76d09186441c088f1f76506db5afa554fab3ae5bf9ad411111f205b54a"
+    },
+    "e1": {
+      "path": "images/words/index/e1.json",
+      "count": 1,
+      "sha256": "4d2a5e94245ce4d64681859ee0a161a5eab8eb72ddf68a44897b16e6b010442f"
     },
     "e4": {
       "path": "images/words/index/e4.json",
