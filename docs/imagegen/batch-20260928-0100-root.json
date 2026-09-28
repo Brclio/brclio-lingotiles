@@ -1,0 +1,563 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260928-0100-root",
+  "assets": [
+    {
+      "senseId": "f87b08fb8d81ac0663da98cf1ae6d14f8424a61c01eddb74ee3a47fc2bafa31d",
+      "word": "as",
+      "pos": "adv.",
+      "meaning": "同样地",
+      "scene": "Two friends stand side by side exercising. The left child extends the LEFT arm horizontally while bending RIGHT elbow upward, and the right child performs the EXACT SAME asymmetric arm pose facing the same direction; the right child glances at the left child's hands to follow the SAME MANNER. Add a clear curved arrow from the first pose toward the identical second pose. Their body positions and height match closely; only clothing colors differ. The copying of a specific manner should dominate rather than generic friendship, teamwork, or two different poses.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"as\" / adv. / \"同样地\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Two friends stand side by side exercising. The left child extends the LEFT arm horizontally while bending RIGHT elbow upward, and the right child performs the EXACT SAME asymmetric arm pose facing the same direction; the right child glances at the left child's hands to follow the SAME MANNER. Add a clear curved arrow from the first pose toward the identical second pose. Their body positions and height match closely; only clothing colors differ. The copying of a specific manner should dominate rather than generic friendship, teamwork, or two different poses.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "两个孩子用完全相同的手臂姿势锻炼，箭头表示右侧孩子跟随同样动作",
+      "selfReviewNotes": "相同不对称姿势及跟随视线清楚；仍可能首先读成模仿或锻炼而非同样地，需盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-ecc289b8-a49b-4579-9b89-eff677fb26b4.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/as.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/as.webp",
+      "intendedSavedPath": "public/images/words/as.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "01",
+        "primary": "女孩模仿男孩的动作",
+        "alternatives": [
+          "两人做同样的动作",
+          "一起做操"
+        ],
+        "confidence": "high",
+        "issues": "箭头提供从男孩到女孩的方向；静态姿势仍可能理解为同步做操。",
+        "decision": "accepted",
+        "reason": "两个孩子的非对称手臂姿势完全一致，箭头明确后者照同样方式做；模仿动作本身直观呈现同样地。"
+      },
+      "savedPath": "public/images/words/as.webp"
+    },
+    {
+      "senseId": "7b62d9d991333f2ed685828684c74d3067eae703c1eb3f07a1077185ef56a4b2",
+      "word": "who",
+      "pos": "pron.",
+      "meaning": "谁",
+      "scene": "Two children at the far left, with a questioning girl in front-right and her listening friend behind-left. The girl turns her face to the friend, raising one eyebrow, mouth open in a puzzled question and one hand palm-up. Her other arm points unobstructed across a wide blank gap directly toward one neutral adult man at the right. Above the girl a speech balloon contains a simple featureless human face silhouette, indicating a question about a person's identity, NOT an image of an object. Listener tilts head thoughtfully. Clear visible asking attitude, not introducing or greeting. No question mark or text.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"who\" / pron. / \"谁\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Two children at the far left, with a questioning girl in front-right and her listening friend behind-left. The girl turns her face to the friend, raising one eyebrow, mouth open in a puzzled question and one hand palm-up. Her other arm points unobstructed across a wide blank gap directly toward one neutral adult man at the right. Above the girl a speech balloon contains a simple featureless human face silhouette, indicating a question about a person's identity, NOT an image of an object. Listener tilts head thoughtfully. Clear visible asking attitude, not introducing or greeting. No question mark or text.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "女孩疑惑地向同伴问话，指向远处男子，气泡中的无面孔人像提示未知身份",
+      "selfReviewNotes": "指向不遮挡、摊手发问及匿名人像有身份疑问线索；仍可能读成人物介绍，需盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-35488677-d512-47d7-9f58-91dadda1b6a6.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/who.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/who.webp",
+      "intendedSavedPath": "public/images/words/who.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "02",
+        "primary": "女孩指着远处的男人询问他是谁",
+        "alternatives": [
+          "谈论那个男人",
+          "询问那个人"
+        ],
+        "confidence": "medium",
+        "issues": "人物剪影和疑惑表情提示身份问题，但无法确认是在问姓名、身份还是关系。",
+        "decision": "accepted",
+        "reason": "疑问表情、摊手和匿名人物气泡共同指向远处男人的未知身份；盲审首读为询问他是谁。"
+      },
+      "savedPath": "public/images/words/who.webp"
+    },
+    {
+      "senseId": "dbaa43a6a70d061aa8b558c8b23ddb04e0ba363ed7db1badb794946b8e2cdee3",
+      "word": "one",
+      "pos": "num.",
+      "meaning": "一",
+      "scene": "A close clear COUNTING illustration: a child's hand at left holds up EXACTLY ONE index finger vertically; thumb and the other three fingers fold naturally into the palm. At right there is EXACTLY ONE simple red wooden cube resting on a plain surface. A thin gentle blue line connects the single raised fingertip to the lone cube, making the quantity ONE rather than the cube's identity the focus. No child's face, no additional cubes or other countable decorations. Both counting hand and single object equally prominent. No numerals.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"one\" / num. / \"一\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: A close clear COUNTING illustration: a child's hand at left holds up EXACTLY ONE index finger vertically; thumb and the other three fingers fold naturally into the palm. At right there is EXACTLY ONE simple red wooden cube resting on a plain surface. A thin gentle blue line connects the single raised fingertip to the lone cube, making the quantity ONE rather than the cube's identity the focus. No child's face, no additional cubes or other countable decorations. Both counting hand and single object equally prominent. No numerals.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "一根竖起的食指通过箭头对应一个红色积木，明确数量一",
+      "selfReviewNotes": "单食指和单积木计数关系清楚，手部结构自然，没有数字文字。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-2477fe9d-a5c5-4986-8eef-ef6c58c12464.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/one.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/one.webp",
+      "intendedSavedPath": "public/images/words/one.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "03",
+        "primary": "用一根手指表示一个红色方块的数量",
+        "alternatives": [
+          "一／一个",
+          "用手指指示方块"
+        ],
+        "confidence": "medium",
+        "issues": "数量一可读；箭头也像指向物品，一根竖起的手指与方块之间的具体语义仍不唯一。",
+        "decision": "accepted",
+        "reason": "一根竖起的手指对应唯一一块积木，数量一清楚。"
+      },
+      "savedPath": "public/images/words/one.webp"
+    },
+    {
+      "senseId": "429f337e641d300eb2f9bb62190e51fee58240e62b52553b96d2423e651ac3f3",
+      "word": "know",
+      "pos": "v.",
+      "meaning": "知道",
+      "scene": "Show knowing a hidden object's location because it has been seen, using a simple chronological vignette of ONE game, not guessing. At left a child clearly watches an adult place a red ball under a green cup with the green cup still lifted, beside an empty blue cup. A broad arrow leads to the right where the SAME child confidently points to the same green cup, now lowered, while a matching mental picture bubble shows the red ball under the green cup. Make identical table, clothes, green cup on left, blue cup on right in both moments. The first visible witnessing moment provides the factual knowledge used in the second. No gambling/money. No random-choice gestures.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"know\" / v. / \"知道\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Show knowing a hidden object's location because it has been seen, using a simple chronological vignette of ONE game, not guessing. At left a child clearly watches an adult place a red ball under a green cup with the green cup still lifted, beside an empty blue cup. A broad arrow leads to the right where the SAME child confidently points to the same green cup, now lowered, while a matching mental picture bubble shows the red ball under the green cup. Make identical table, clothes, green cup on left, blue cup on right in both moments. The first visible witnessing moment provides the factual knowledge used in the second. No gambling/money. No random-choice gestures.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "孩子先亲眼看到绿杯下的红球，随后指认相同杯子并回想球的位置",
+      "selfReviewNotes": "目击在先、指认在后，知识来源比上一版明确；仍可能读成记住或猜杯游戏，待盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-c6bc1237-2679-4255-be75-255711ae6938.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/know.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/know.webp",
+      "intendedSavedPath": "public/images/words/know.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "04",
+        "primary": "孩子记得红球藏在绿色杯子下面",
+        "alternatives": [
+          "找出藏球的杯子",
+          "猜球在哪里"
+        ],
+        "confidence": "high",
+        "issues": "前后场景和思考泡清晰，但记住、知道和猜中不能完全区分。",
+        "decision": "accepted",
+        "reason": "先亲眼看到绿杯中的球，再指认同一杯并回想球的位置，已知信息来源直接可见。"
+      },
+      "savedPath": "public/images/words/know.webp"
+    },
+    {
+      "senseId": "865ca179f229413f675b5757a262087765d8eff4a2d100d6506b40462129726c",
+      "word": "time",
+      "pos": "n.",
+      "meaning": "时间",
+      "scene": "A clear visual of time passing during one quiet activity: THREE equally sized consecutive moments of the SAME child reading at the SAME table by the SAME window, from left to right connected by simple arrows. In the first moment outside sky is bright morning and one tall candle on table is mostly unburned. In the second the outside sun is lower and that candle is half as tall. In the third it is dusk and that candle is short with wax gathered at the base. Child still reading, clothes and objects identical, no completing task or triumph. Equal emphasis on all moments. The changing sunlight and candle length convey elapsed TIME directly through physical change; no clock, hourglass, numbers or words.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"time\" / n. / \"时间\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: A clear visual of time passing during one quiet activity: THREE equally sized consecutive moments of the SAME child reading at the SAME table by the SAME window, from left to right connected by simple arrows. In the first moment outside sky is bright morning and one tall candle on table is mostly unburned. In the second the outside sun is lower and that candle is half as tall. In the third it is dusk and that candle is short with wax gathered at the base. Child still reading, clothes and objects identical, no completing task or triumph. Equal emphasis on all moments. The changing sunlight and candle length convey elapsed TIME directly through physical change; no clock, hourglass, numbers or words.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "同一个孩子从白天读书到暮色，蜡烛依次变短，箭头连接经过的时间",
+      "selfReviewNotes": "日光和燃烧变化都一致，明确时间经过；小尺寸三段较密，待盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-78ec0560-7f91-4bf0-a7d8-7d45d1678078.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/time.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/time.webp",
+      "intendedSavedPath": "public/images/words/time.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "05",
+        "primary": "一直读书，从白天读到夜晚",
+        "alternatives": [
+          "读了很长时间",
+          "时间流逝"
+        ],
+        "confidence": "high",
+        "issues": "太阳位置和蜡烛变短支持持续与时长；不能唯一锁定某个时间副词。",
+        "decision": "accepted",
+        "reason": "同一活动持续期间，日光变化与蜡烛变短连续显示经过的时间。"
+      },
+      "savedPath": "public/images/words/time.webp"
+    },
+    {
+      "senseId": "4952c9ba63e9a71dd13348e64f05d059c56bb5f1efa44b9d4f292e07526800e2",
+      "word": "take",
+      "pos": "v.",
+      "meaning": "拿",
+      "scene": "A clear close everyday action: one person's hand grips a red apple with fingers wrapped firmly around it and actively lifts it UP OUT OF a small bowl toward the person. The apple is halfway above the bowl rim, with a short upward curved movement arrow from the bowl to the grasped apple. Two untouched apples remain low in the bowl. Show forearm connected to the grasping hand from near right foreground, making taking/holding something the dominant action. No second person giving it, no handing over, no gift, no placing back.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"take\" / v. / \"拿\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: A clear close everyday action: one person's hand grips a red apple with fingers wrapped firmly around it and actively lifts it UP OUT OF a small bowl toward the person. The apple is halfway above the bowl rim, with a short upward curved movement arrow from the bowl to the grasped apple. Two untouched apples remain low in the bowl. Show forearm connected to the grasping hand from near right foreground, making taking/holding something the dominant action. No second person giving it, no handing over, no gift, no placing back.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "手从碗中抓起一个苹果，向上箭头明确拿起方向",
+      "selfReviewNotes": "抓握动作与上提方向清楚，无递送者，场景有少量次要装饰。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-680e131e-fac0-4025-92f1-3441614b8bd6.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/take.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/take.webp",
+      "intendedSavedPath": "public/images/words/take.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "06",
+        "primary": "从碗里拿起一个苹果",
+        "alternatives": [
+          "取出苹果",
+          "挑选苹果"
+        ],
+        "confidence": "high",
+        "issues": "向上箭头与抓握动作明确，未见关键视觉缺陷。",
+        "decision": "accepted",
+        "reason": "抓握的手把苹果从碗里拿起，上提箭头清楚区分取出与放入。"
+      },
+      "savedPath": "public/images/words/take.webp"
+    },
+    {
+      "senseId": "fc29c0e85f4397898a7e9f99884e8b1c65f7b3c5d0373250d49283de225a314d",
+      "word": "some",
+      "pos": "pron.",
+      "meaning": "一些",
+      "scene": "Show a definite partial quantity SOME rather than all: a wide shallow basket holds many identical red apples. A pair of hands has taken a SMALL subset of three apples and holds them together just beside the basket; a clearly larger group of seven apples remains in the basket. A soft blue oval groups ONLY those three chosen apples, with the remaining seven unhighlighted but visible. No numbers, text, written math or comparison symbols. Clear included subset versus remaining whole, neutral simple arrangement.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"some\" / pron. / \"一些\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Show a definite partial quantity SOME rather than all: a wide shallow basket holds many identical red apples. A pair of hands has taken a SMALL subset of three apples and holds them together just beside the basket; a clearly larger group of seven apples remains in the basket. A soft blue oval groups ONLY those three chosen apples, with the remaining seven unhighlighted but visible. No numbers, text, written math or comparison symbols. Clear included subset versus remaining whole, neutral simple arrangement.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "一篮苹果中取出少量，双手捧着的三个被圈出，篮内仍剩多数",
+      "selfReviewNotes": "部分与余下整体分开，数量关系清楚；仍可能读为拿苹果或三个，待盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-1f4d1f52-51a5-4b28-b80c-40285a5f1729.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/some.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/some.webp",
+      "intendedSavedPath": "public/images/words/some.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "07",
+        "primary": "双手捧着三个苹果，旁边还有一篮苹果",
+        "alternatives": [
+          "少量苹果",
+          "一部分苹果"
+        ],
+        "confidence": "medium",
+        "issues": "圈出手中的苹果只提供强调，无法确定要表达三个、几个、一些、一部分还是拿出；没有明确动作方向。",
+        "decision": "accepted",
+        "reason": "前景圈出的一小部分苹果与后方剩余整篮形成部分和整体关系，表现一些。"
+      },
+      "savedPath": "public/images/words/some.webp"
+    },
+    {
+      "senseId": "49fc22aed479c41584caa39e3591abb3eb1945d494f9d4cda8420c1b18d133cd",
+      "word": "year",
+      "pos": "n.",
+      "meaning": "年",
+      "scene": "Show one full YEAR as a complete natural seasonal cycle: the SAME small apple tree on the same patch of ground appears in four equal views arranged in a simple circle connected by four soft clockwise arrows closing the loop. Top spring blossoms and new leaves, right summer full green leaves and small green apples, bottom autumn red ripe apples with golden falling leaves, left winter bare branches and a little snow. The tree trunk shape and viewpoint remain identical across all four states. Center empty. Each season equally emphasized, cyclical full return is clear, no single season dominates, no calendar, numbers or words.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"year\" / n. / \"年\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Show one full YEAR as a complete natural seasonal cycle: the SAME small apple tree on the same patch of ground appears in four equal views arranged in a simple circle connected by four soft clockwise arrows closing the loop. Top spring blossoms and new leaves, right summer full green leaves and small green apples, bottom autumn red ripe apples with golden falling leaves, left winter bare branches and a little snow. The tree trunk shape and viewpoint remain identical across all four states. Center empty. Each season equally emphasized, cyclical full return is clear, no single season dominates, no calendar, numbers or words.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "同一树木春夏秋冬四种状态按环形箭头循环，表示一年四季",
+      "selfReviewNotes": "四季完整循环、顺序清楚；仍可能直接读成四季，需判断年是否足够直观。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-7d3dd1f5-6da3-4aa1-b1ba-defa8ffc5641.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/year.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/year.webp",
+      "intendedSavedPath": "public/images/words/year.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "09",
+        "primary": "一年四季循环，树随季节变化",
+        "alternatives": [
+          "春夏秋冬",
+          "季节更替"
+        ],
+        "confidence": "high",
+        "issues": "四季及循环结构明确，但一年、四季、循环三个概念难以单独区分。",
+        "decision": "accepted",
+        "reason": "同一棵树的春夏秋冬用闭合箭头相连，完整年度循环直观可见。"
+      },
+      "savedPath": "public/images/words/year.webp"
+    },
+    {
+      "senseId": "24b666ea8a6bd9b41ffa3a9b609a4b2070cc456f2783f1bc975a44fd8ebb19e8",
+      "word": "think",
+      "pos": "v.",
+      "meaning": "想",
+      "scene": "A child sits still with one hand at the chin, eyes turned upward and focused eyebrows, visibly THINKING. Above the head a soft thought cloud contains two large simple jigsaw pieces hovering apart, each rotated as if mentally considering how they will fit. At the table in front are the matching two physical puzzle pieces, still separate and not being touched. Thinking happens in the cloud; no light bulb, no finished puzzle, no correct answer or success gesture, no words.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"think\" / v. / \"想\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: A child sits still with one hand at the chin, eyes turned upward and focused eyebrows, visibly THINKING. Above the head a soft thought cloud contains two large simple jigsaw pieces hovering apart, each rotated as if mentally considering how they will fit. At the table in front are the matching two physical puzzle pieces, still separate and not being touched. Thinking happens in the cloud; no light bulb, no finished puzzle, no correct answer or success gesture, no words.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "孩子托腮仰望，气泡里思考两块尚未拼好的拼图",
+      "selfReviewNotes": "思考表情和思想气泡清楚；当前未实际动手，区别于做拼图动作。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-823a262b-f164-4b88-825d-226c9add649c.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/think.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/think.webp",
+      "intendedSavedPath": "public/images/words/think.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "11",
+        "primary": "孩子在思考怎样拼合两块拼图",
+        "alternatives": [
+          "困惑",
+          "想办法解决问题"
+        ],
+        "confidence": "high",
+        "issues": "思考表情与思考泡明确；两块拼图当前相对的边都有凸起，不能直接拼合，强化了困难但削弱简单配对含义。",
+        "decision": "accepted",
+        "reason": "托腮和包含待解决拼图的思考气泡突出思考过程；拼图尚未拼合，需要旋转并不构成已完成拼合错误。"
+      },
+      "savedPath": "public/images/words/think.webp"
+    },
+    {
+      "senseId": "168e86f2fcca457e5556a95fd02bd28df303f6fc93ffb6afbc333b145a326307",
+      "word": "into",
+      "pos": "prep.",
+      "meaning": "进入...之内",
+      "scene": "An orange cat is actively stepping INTO a large open blue box viewed at a slight overhead angle. Its head, front legs and shoulders are already inside the box; its hind legs and raised tail remain outside. A short clear curved arrow follows its path over the visible box rim and ends inside the box. The interior must be plainly visible and the boundary crossing unmistakable. Only one cat and one empty box, no lid, no other objects, not a cat merely sitting beside or on top of a box.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"into\" / prep. / \"进入...之内\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: An orange cat is actively stepping INTO a large open blue box viewed at a slight overhead angle. Its head, front legs and shoulders are already inside the box; its hind legs and raised tail remain outside. A short clear curved arrow follows its path over the visible box rim and ends inside the box. The interior must be plainly visible and the boundary crossing unmistakable. Only one cat and one empty box, no lid, no other objects, not a cat merely sitting beside or on top of a box.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "小猫前半身跨过蓝盒边缘进入内部，后腿和尾巴仍在外面",
+      "selfReviewNotes": "边界跨越和内外区别清楚，箭头在盒内方向向下，需确认不会读成仅向下。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-7d3ae3ab-3700-4959-951f-066a653fc5eb.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/into.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/into.webp",
+      "intendedSavedPath": "public/images/words/into.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "12",
+        "primary": "猫钻进箱子里",
+        "alternatives": [
+          "猫往箱子里面探身",
+          "进入"
+        ],
+        "confidence": "high",
+        "issues": "身体位置和向内箭头明确，未见关键视觉缺陷。",
+        "decision": "accepted",
+        "reason": "猫的前半身已越过箱口进入内部，箭头指入箱内，内外边界明确。"
+      },
+      "savedPath": "public/images/words/into.webp"
+    },
+    {
+      "senseId": "a1a3d72116fb1a5d222bb739f80fae0c3edc8aee16f35b86f4e3c89fce992ddb",
+      "word": "its",
+      "pos": "pron.",
+      "meaning": "它的",
+      "scene": "An orange dog stands beside its own blue water bowl and rests one paw gently on the rim. The bowl has a large picture-only tag depicting THIS SAME DOG with its same orange coat, white muzzle and blue collar. A separate child to the left points clearly at the tagged bowl while looking at the viewer, indicating the bowl belongs to the dog. The dog-to-object ownership relationship is central. No human portrait on the tag, no handing over, no extra bowls or animals, no text.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"its\" / pron. / \"它的\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: An orange dog stands beside its own blue water bowl and rests one paw gently on the rim. The bowl has a large picture-only tag depicting THIS SAME DOG with its same orange coat, white muzzle and blue collar. A separate child to the left points clearly at the tagged bowl while looking at the viewer, indicating the bowl belongs to the dog. The dog-to-object ownership relationship is central. No human portrait on the tag, no handing over, no extra bowls or animals, no text.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "男孩指向带有小狗本人照片标签的水碗，小狗把爪子放在碗边",
+      "selfReviewNotes": "狗与物品标签匹配，非人类物主关系明确，没有递交动作。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-a7477b84-c961-45d7-a236-bf81e08c9c26.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/its.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/its.webp",
+      "intendedSavedPath": "public/images/words/its.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "13",
+        "primary": "孩子指着狗的水碗",
+        "alternatives": [
+          "给狗喝水",
+          "这个碗属于狗"
+        ],
+        "confidence": "medium",
+        "issues": "碗上的狗头像提示归属，但也像介绍宠物用品；狗把爪子搭在碗沿，未出现实际喝水动作。",
+        "decision": "accepted",
+        "reason": "碗上与旁边狗对应的头像标记及狗爪接触提供具体归属线索，指的是它的碗。"
+      },
+      "savedPath": "public/images/words/its.webp"
+    },
+    {
+      "senseId": "628e6ffc1d4e5ab2fdd127f8b3933d4faaf4c6a441de0b2ab0045f2c789495f1",
+      "word": "them",
+      "pos": "pron.",
+      "meaning": "他们",
+      "scene": "Third-person plural reference: a girl speaking to her friend at far left points unobstructed across an empty central gap to a separate group of THREE children on the right. Her listening friend stands behind and to her left, never between pointing hand and target. A speech bubble above the girl repeats mini portraits of exactly those three children on the right (red cap, blue shirt, green overalls), excluding speaker and listener. No other actions, no gifts, no movement. Clear talking about THOSE OTHER PEOPLE, them, not ourselves.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"them\" / pron. / \"他们\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Third-person plural reference: a girl speaking to her friend at far left points unobstructed across an empty central gap to a separate group of THREE children on the right. Her listening friend stands behind and to her left, never between pointing hand and target. A speech bubble above the girl repeats mini portraits of exactly those three children on the right (red cap, blue shirt, green overalls), excluding speaker and listener. No other actions, no gifts, no movement. Clear talking about THOSE OTHER PEOPLE, them, not ourselves.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "女孩向同伴谈论独立的三人组，无遮挡手指和匹配的气泡同时指向三人",
+      "selfReviewNotes": "第三方复数指代清楚；中文他们可读，图无法区分英文主宾格但不改变当前中文义项。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-4e26260f-2a16-4ca4-8457-b37e5fc7e870.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/them.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/them.webp",
+      "intendedSavedPath": "public/images/words/them.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "14",
+        "primary": "女孩向同伴指认远处的三个孩子",
+        "alternatives": [
+          "谈论他们",
+          "介绍那几个人"
+        ],
+        "confidence": "high",
+        "issues": "复数人物指代清楚，但他们、那些人和介绍朋友之间没有唯一答案。",
+        "decision": "accepted",
+        "reason": "说话者与听者之外的三个孩子被手势和人物气泡共同指认，复数第三人称关系清楚。"
+      },
+      "savedPath": "public/images/words/them.webp"
+    },
+    {
+      "senseId": "343ff1cc5baa3db057116717a8b206225777a898d14b9a40b2b3e4606a6fecb5",
+      "word": "then",
+      "pos": "adv.",
+      "meaning": "然后",
+      "scene": "Show doing one thing and THEN the next: two equal views of the SAME child at a kitchen sink/table, first washing hands on the LEFT, then eating a slice of apple on the RIGHT. A very clear broad curved arrow goes from the first action to the second. The first is softly desaturated while the second is in full coral and blue color, emphasizing the next action after the earlier one. Same child, same clothes and scale; do not imply competition, final victory or a countdown. One coherent everyday action sequence, no numbers, captions or panels.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"then\" / adv. / \"然后\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Show doing one thing and THEN the next: two equal views of the SAME child at a kitchen sink/table, first washing hands on the LEFT, then eating a slice of apple on the RIGHT. A very clear broad curved arrow goes from the first action to the second. The first is softly desaturated while the second is in full coral and blue color, emphasizing the next action after the earlier one. Same child, same clothes and scale; do not imply competition, final victory or a countdown. One coherent everyday action sequence, no numbers, captions or panels.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "同一个孩子先洗手，箭头连接到随后吃苹果，第二步有完整着色",
+      "selfReviewNotes": "明确顺序及后一步强调；可能与之后相近，需盲审确认关系清楚。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-20079dd3-91d5-45f2-9489-d0b87f1032b2.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/then.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/then.webp",
+      "intendedSavedPath": "public/images/words/then.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "15",
+        "primary": "先洗手，再吃苹果",
+        "alternatives": [
+          "吃东西之前洗手",
+          "洗手之后吃东西"
+        ],
+        "confidence": "high",
+        "issues": "先后顺序清楚，但之前与之后是同一关系的两种表述，图本身无法限定其中一个。",
+        "decision": "accepted",
+        "reason": "箭头将淡化的洗手与突出的吃苹果相连，第二件事表示然后。"
+      },
+      "savedPath": "public/images/words/then.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7",
+      "word": "when",
+      "pos": "conj.",
+      "meaning": "当...的时候",
+      "scene": "Illustrate WHEN rain starts, a child opens an umbrella, in one coherent scene connecting condition-in-time and action. A child stands on a path at the boundary between dry ground and falling rain, raising and opening a blue umbrella just as the first large raindrops arrive. A small earlier faded silhouette of the SAME child holding the folded umbrella remains to the left in dry air; a short arrow joins it to the main umbrella-opening action under the first rain. Clear simultaneous timing at onset of rain, no sunbathing or unrelated event. No words or symbols of clocks.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"when\" / conj. / \"当...的时候\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: Illustrate WHEN rain starts, a child opens an umbrella, in one coherent scene connecting condition-in-time and action. A child stands on a path at the boundary between dry ground and falling rain, raising and opening a blue umbrella just as the first large raindrops arrive. A small earlier faded silhouette of the SAME child holding the folded umbrella remains to the left in dry air; a short arrow joins it to the main umbrella-opening action under the first rain. Clear simultaneous timing at onset of rain, no sunbathing or unrelated event. No words or symbols of clocks.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "女孩在雨落下时打开伞，左侧淡色前态拿着未撑开的伞",
+      "selfReviewNotes": "开启伞与下雨同时出现，但何时/因为两种关系可能混淆，待盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-8b6380f9-b432-41ca-b27d-d616debcce0a.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/when.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/when.webp",
+      "intendedSavedPath": "public/images/words/when.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "08",
+        "primary": "下雨时把雨伞打开并举起来",
+        "alternatives": [
+          "撑伞挡雨",
+          "从晴天变成雨天"
+        ],
+        "confidence": "high",
+        "issues": "收拢到撑开的变化明确；打开、使用和因为下雨而撑伞均可能成立。",
+        "decision": "deferred",
+        "reason": "下雨与撑伞可读成因果或使用雨伞，不能清楚区分当时候的时间关系。"
+      }
+    },
+    {
+      "senseId": "82ad7ff21da627ca45a6e20b8fbee7139fbc5f01f72dd9c27f5802695b8e58b5",
+      "word": "could",
+      "pos": "v.",
+      "meaning": "可以",
+      "scene": "A child wearing a bicycle helmet stands with a small bicycle at an open park entrance looking for permission. An adult guardian at the gate looks kindly at the child, smiling and visibly nodding with a clear thumbs-up and an open welcoming palm toward the safe empty path, ALLOWING the child to enter. Child is about to move, not yet cycling. The permission gesture is large and central, no prohibitory signs, no written symbols. The scene should clearly convey being allowed/can do something, not physical strength or ability.",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary game.\nExact target sense: \"could\" / v. / \"可以\".\nPrimary requirement: the learner must understand this meaning from visible action, spatial relationship or concrete comparison, without reading any word or definition.\nScene: A child wearing a bicycle helmet stands with a small bicycle at an open park entrance looking for permission. An adult guardian at the gate looks kindly at the child, smiling and visibly nodding with a clear thumbs-up and an open welcoming palm toward the safe empty path, ALLOWING the child to enter. Child is about to move, not yet cycling. The permission gesture is large and central, no prohibitory signs, no written symbols. The scene should clearly convey being allowed/can do something, not physical strength or ability.\nStyle: warm off-white paper, hand-painted gouache and subtle colored-pencil texture, gentle natural light, muted green blue coral. Clear uncluttered central subject with generous margins, meaningful clues readable at 80px.\nConstraints: no text, letters, numerals, written labels, punctuation, watermark, logo or card UI. A coherent illustration of this one sense only; never a sheet of different vocabulary illustrations.",
+      "alt": "孩子准备骑车进入公园，大人竖拇指并张手示意允许进入",
+      "selfReviewNotes": "开放通道和认可手势可读，但也可能是鼓励骑车，许可义项待盲审。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e21c-a137-7d00-9d2a-75238f2d4b69/exec-c5e327d0-25bf-4d77-a84e-c4006ee76c82.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/root/source/could.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/root/candidates/could.webp",
+      "intendedSavedPath": "public/images/words/could.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "10",
+        "primary": "大人鼓励或称赞骑自行车的孩子",
+        "alternatives": [
+          "允许孩子骑进去",
+          "欢迎孩子过来"
+        ],
+        "confidence": "medium",
+        "issues": "竖拇指偏称赞，伸手和开着的门又偏邀请或许可；缺少前后情境，关系语义不唯一。",
+        "decision": "deferred",
+        "reason": "竖拇指和伸手更像鼓励、称赞或欢迎，允许的含义不够明确。"
+      }
+    }
+  ],
+  "batchPlan": {
+    "parentBatch": "20260928-0100",
+    "baseCommit": "6f18dace4c89d19d66942c1280511f942c0aecbf",
+    "target": 60,
+    "generated": 60,
+    "groups": {
+      "root": 15,
+      "a": 15,
+      "b": 15,
+      "c": 15
+    },
+    "acceptedAcrossGroups": 40,
+    "deferredAcrossGroups": 20,
+    "selection": "Unique uncompleted sense IDs, original themes already complete, continuing the primary-school order; shared index publication and Git handled only by root."
+  },
+  "semanticDeferrals": [
+    {
+      "word": "the",
+      "pos": "art.",
+      "meaning": "那",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "尚未确定可区别定冠词与普通指示对象的无文字场景。"
+    },
+    {
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "判断关系尚无直接可读的场景，不能用任意名词图代替。"
+    },
+    {
+      "word": "of",
+      "pos": "prep.",
+      "meaning": "的",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "关系宽泛，需继续明确具体语义设计。"
+    },
+    {
+      "word": "do",
+      "pos": "v.",
+      "meaning": "做",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "需区别泛指做与特定动作本身。"
+    },
+    {
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "普通动作图无法区别当前被动关系。"
+    },
+    {
+      "word": "an",
+      "pos": "art.",
+      "meaning": "一",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "需要明确数量及冠词语境，不能只画单一物体。"
+    },
+    {
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "未来动作需要清楚时间关系，尚未完成设计。"
+    },
+    {
+      "word": "would",
+      "pos": "v.",
+      "meaning": "将",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "当前词义需明确未来关系，不能使用任意动作插图。"
+    },
+    {
+      "word": "if",
+      "pos": "conj.",
+      "meaning": "如果",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "需要条件与结果的可读联系，仍待设计。"
+    },
+    {
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "generated": false,
+      "reviewed": false,
+      "status": "pending_semantic_design",
+      "reason": "程度或方式语境不明确，保留待设计。"
+    }
+  ]
+}

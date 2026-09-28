@@ -1,0 +1,441 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "senseId": "bc41ca6a7675287b4c2fa04a6e68e72b71610a5ec2a5e72859a0d13dce39c31f",
+      "word": "day",
+      "pos": "n.",
+      "meaning": "天",
+      "alt": "同一片山丘上，太阳由日出经过中天到日落，呈现一天的流逝。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: day / n. / 天.\nDepict one whole bright daytime interval in a single simple landscape: low sunrise glow at the left horizon, a prominent warm yellow midday sun high in the center, and soft late-afternoon golden light at the right, over the same small green hill and house. The three sun positions trace one gentle faint curved path across the sky, showing one day's passage from morning to evening. Keep the scene coherent and simple; avoid moon, night, calendar, clock, numbers, or writing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-1e13ce94-1b2d-4677-b6db-5b334e99761d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/day.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/day.webp",
+      "intendedSavedPath": "public/images/words/day.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：日出、正午、日落及弧线路径明确，无文字数字，纸面水粉风格一致。疑点：80px下可读作太阳运行或白天，天作为一日时段仍需盲审；保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "47",
+        "primary": "太阳从升起到落下的一天",
+        "alternatives": [
+          "白天",
+          "太阳运行"
+        ],
+        "confidence": "medium",
+        "issues": "三个太阳及虚线弧线暗示时间变化，但没有方向箭头；也可能被理解为晴天风景。",
+        "decision": "accepted",
+        "reason": "同一景物上方依次展示日出、正午、日落，清楚表达一天的白昼进程。"
+      },
+      "savedPath": "public/images/words/day.webp"
+    },
+    {
+      "senseId": "bf01ac734b861b0ac1003b83aa52329ab1172206482fc3321e37dcf06e8a8754",
+      "word": "man",
+      "pos": "n.",
+      "meaning": "男人",
+      "alt": "一位穿蓝绿色衬衫的成年男子自然站立。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: man / n. / 男人.\nDepict one recognizable adult man standing naturally, full body, front three-quarter view. He has mature adult proportions, a gently squared face, short dark hair, subtle beard stubble, casual muted teal shirt, sand trousers, simple shoes, and a relaxed friendly expression. No other people or occupations, no props. Clearly an adult man rather than a boy.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-f3a989bb-b78b-4d3a-ae8f-a0dcb9dd8217.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/man.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/man.webp",
+      "intendedSavedPath": "public/images/words/man.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：成人比例、短胡须与成熟面貌清楚，主体完整居中，无文字、无多余道具。风格比其他儿童场景偏写实，语义直观，80px需确认脸部成熟特征仍明显；待统一盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "48",
+        "primary": "一名成年男子",
+        "alternatives": [
+          "男人",
+          "站立"
+        ],
+        "confidence": "high",
+        "issues": "人物身份类别清楚，没有其他动作或关系线索。",
+        "decision": "accepted",
+        "reason": "单独成年男性全身主体清楚，年龄体态与面部线索符合男人。"
+      },
+      "savedPath": "public/images/words/man.webp"
+    },
+    {
+      "senseId": "5575c98c4328c26d4f34c8c1170c90600258b96eefb9baafabdf695c884dc32a",
+      "word": "find",
+      "pos": "v.",
+      "meaning": "发现",
+      "alt": "孩子掀开沙发坐垫，惊喜地指向刚发现的红色小球。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: find / v. / 发现.\nDepict the exact instant a child discovers their missing small coral-red toy ball under an overturned sofa cushion. The child kneels by a very simple low sofa, lifts a cushion with one hand, and points directly to the newly revealed ball with the other hand, eyes focused on it and face bright with surprised recognition. The ball is prominent and clearly visible in the open hiding place. This is discovery rather than general searching; no question marks or symbols.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-41894c47-aed4-4c59-aa91-f89593df2854.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/find.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/find.webp",
+      "intendedSavedPath": "public/images/words/find.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：揭开隐藏处、红球显露、目光及指向与惊喜表情共同表达发现；无文字，主体明确。疑点较小；80px时指向动作及红球应仍可见，需统一盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "49",
+        "primary": "男孩掀开沙发坐垫，发现一个球",
+        "alternatives": [
+          "找到东西",
+          "球在坐垫下面"
+        ],
+        "confidence": "high",
+        "issues": "发现和位置关系都成立，无法唯一确定画面强调哪一个。",
+        "decision": "accepted",
+        "reason": "掀起坐垫后发现原先被遮住的球，惊喜表情与指认动作直接呈现发现。"
+      },
+      "savedPath": "public/images/words/find.webp"
+    },
+    {
+      "senseId": "6f109b3a6d6974290f6ad67ec69152a063d8b7926a2bb6d5c02664613cae7f16",
+      "word": "after",
+      "pos": "prep.",
+      "meaning": "在...之后",
+      "alt": "同一孩子先洗手，再吃饭，向右的连接箭头显示吃饭在洗手之后。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: after / prep. / 在...之后.\nShow a clear left-to-right temporal sequence in one unified pictorial illustration: on the left, a child in a coral shirt finishes washing their hands at a tiny sink, with wet hands and running water; on the right the same child with the same clothes is now sitting and eating a simple meal with clean dry hands. A single subtle blue curved directional arrow connects the completed handwashing scene to the eating scene, making eating AFTER washing unambiguous. The two phases serve only this one temporal relation, have no frames, and remain large and simple. No clocks or labels.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-096aaab5-edec-4c02-9524-6efc4b3fb882.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/after.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/after.webp",
+      "intendedSavedPath": "public/images/words/after.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：同一人物、左洗手右吃饭、明确向右连接箭头，先后顺序明显。不是多词拼图，两个阶段只表达after单一时间关系；无文字数字。疑点：也可说before或then，盲审需判断右侧后续动作是否足以突出after，保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "50",
+        "primary": "先洗手，再吃饭",
+        "alternatives": [
+          "饭前洗手",
+          "洗手后吃饭"
+        ],
+        "confidence": "high",
+        "issues": "箭头清楚表达顺序，但同一画面可对应前、后两个时间关系。",
+        "decision": "accepted",
+        "reason": "箭头把洗手指向吃饭，后一个场景强调洗手之后的事件，先后关系清楚。"
+      },
+      "savedPath": "public/images/words/after.webp"
+    },
+    {
+      "senseId": "abbb51018ad7d61c541717da59b740b846c79415600cc550f75e512dad44300d",
+      "word": "here",
+      "pos": "adv.",
+      "meaning": "在这里",
+      "alt": "孩子面向观者，手指自己脚边的地垫，表示就在这里。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: here / adv. / 在这里.\nA friendly child stands on a small coral-colored circular picnic mat immediately beneath their own feet and points straight down beside their shoes, looking toward the viewer as if saying 'right here where I am'. Show the entire body, the pointing hand, and the mat close together. Strong emphasis on the location at the speaker's own feet, no distant subjects, no map pins, no arrows, no writing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-8b0c11b8-6430-4cea-9abc-4e3ce157b5bf.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/here.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/here.webp",
+      "intendedSavedPath": "public/images/words/here.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：脚下红垫和向自己脚边的指示动作清楚，主体居中无文字。疑点：可能读作站立或向下，小图指头较细，here需依赖说话者自身位置这一线索；保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "51",
+        "primary": "男孩站在圆垫上，指着脚边",
+        "alternatives": [
+          "这里",
+          "下面"
+        ],
+        "confidence": "medium",
+        "issues": "手指向下，但没有明确指向物；难以区分地点指示、向下方向或单纯站立。",
+        "decision": "accepted",
+        "reason": "孩子站在明确圆形位置标记上并指向自己脚边，表达在这里。"
+      },
+      "savedPath": "public/images/words/here.webp"
+    },
+    {
+      "senseId": "7b772fa4a43e540c93c3e5d0b3e357e874660199d0887e9f2010649500b81180",
+      "word": "between",
+      "pos": "prep.",
+      "meaning": "在...之间",
+      "alt": "小橘猫坐在两把蓝色椅子之间。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: between / prep. / 在...之间.\nA small orange kitten sits in the exact middle of two matching blue chairs. All three subjects form a single simple horizontal row, with one chair clearly on the kitten's left and one on its right, equal empty gaps, same ground line, front view. The kitten is fully visible and distinctly BETWEEN the two chairs. Keep both chairs the same size, with no additional objects.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-e09e0fa9-ccd3-4131-afd5-cdad30305a10.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/between.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/between.webp",
+      "intendedSavedPath": "public/images/words/between.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：两把同样的椅子分居左右，猫在正中央，三者同一地面且分离清楚；无文字，空间关系明确。小图两侧框架及中央猫轮廓应清楚，待统一盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "52",
+        "primary": "猫坐在两把椅子中间",
+        "alternatives": [
+          "在两者之间",
+          "小猫"
+        ],
+        "confidence": "high",
+        "issues": "两侧物体对称，空间关系明确。",
+        "decision": "accepted",
+        "reason": "猫处在左右两把椅子之间，两侧参照物和中间位置清楚。"
+      },
+      "savedPath": "public/images/words/between.webp"
+    },
+    {
+      "senseId": "aad1f6405066076f71220d7d0b3498c69bbccf7934bc13a357bdc12866426392",
+      "word": "many",
+      "pos": "adj.",
+      "meaning": "许多的",
+      "alt": "一大篮苹果装得满满，周围还堆着许多苹果。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: many / adj. / 许多的.\nDepict a shallow wicker basket overflowing with a conspicuously large quantity of small red and green apples, with many additional apples gathered immediately around its base. At least twenty individually discernible apples in a dense but orderly cluster convey abundance. Use strong simple apple silhouettes and a clear mass that reads as MANY objects even as a tiny thumbnail. No people, numerals, counting text, or unrelated objects.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-40add60b-1ed7-4230-8e2b-1f2916686f5f.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/many.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/many.webp",
+      "intendedSavedPath": "public/images/words/many.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：30余个苹果形成大量感，各自轮廓可辨，无文字数字。疑点：无数量对比，盲看可能优先读作苹果/一篮水果；many的形容性质仍需盲审，保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "53",
+        "primary": "很多苹果堆在篮子里和周围",
+        "alternatives": [
+          "一篮苹果",
+          "许多"
+        ],
+        "confidence": "high",
+        "issues": "数量多很直观，但没有对照，不能确定重点是苹果还是数量概念。",
+        "decision": "accepted",
+        "reason": "大量苹果堆满篮子并延伸到篮外，数量多是画面的突出特征。"
+      },
+      "savedPath": "public/images/words/many.webp"
+    },
+    {
+      "senseId": "272af550cb0f428eb31712247e3732780067020faf79af554885f0b40c3688da",
+      "word": "down",
+      "pos": "adj.",
+      "meaning": "向下的",
+      "alt": "孩子站在高处，指向一段通往较低地面的向下楼梯。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: down / adj. / 向下的.\nDepict a short staircase that clearly slopes downward from a small high platform at upper left to the ground at lower right. At the high platform a child stands still and points a hand downward along the staircase toward the visibly lower landing. Show a side view so the downward slope and change in height are unmistakable. Emphasize the downward direction/property of the stairway, not a person falling or feeling sad. One simple concrete scene, no written labels, no arrow symbols.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-20a144da-b0b9-49f1-b99c-8922af56f5eb.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/down.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/down.webp",
+      "intendedSavedPath": "public/images/words/down.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：孩子站定，楼梯从左高向右低，手指朝低处，强调方向性质而非跌落。无文字数字。疑点：adj词性在静态图中不易和向下副词区分，也可能先识别为楼梯；保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "55",
+        "primary": "男孩站在台阶顶端，指向下面的台阶",
+        "alternatives": [
+          "向下",
+          "下楼梯"
+        ],
+        "confidence": "medium",
+        "issues": "下降方向可理解，但人物双脚停在顶端，没有实际下楼动作。",
+        "decision": "accepted",
+        "reason": "孩子在楼梯高处指向逐级降低的台阶，向下方向明确；当前义项是形容词，无需下楼动作。"
+      },
+      "savedPath": "public/images/words/down.webp"
+    },
+    {
+      "senseId": "dde0b98e110e5416b0b5ebfc4f265cf20ee2213e65e34bb736aa3c1941ee8c10",
+      "word": "tell",
+      "pos": "v.",
+      "meaning": "告诉",
+      "alt": "一个孩子靠近同伴，张口告诉她事情，同伴侧耳倾听。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: tell / v. / 告诉.\nTwo friendly children face each other at close range. The left child is actively telling the other some information: open speaking mouth, one hand lightly cupped alongside their mouth toward the listener's ear, other hand gesturing naturally. The right child leans in attentively, ear toward the speaker, focused listening expression. Clearly a person telling another person something, not singing, yelling, or an isolated mouth. Upper bodies and both faces large, no speech bubbles or writing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-b97495fd-9c95-4300-aa07-e06d9f5bd325.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/tell.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/tell.webp",
+      "intendedSavedPath": "public/images/words/tell.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：左侧张口传达，右侧侧耳接收，两人互动关系明显，无文字气泡。疑点：捂嘴动作容易更具体地读成悄悄话/耳语，仍包含告诉义；需盲审是否过度偏义，保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "56",
+        "primary": "男孩凑近女孩说悄悄话，女孩侧耳听",
+        "alternatives": [
+          "说话",
+          "倾听"
+        ],
+        "confidence": "high",
+        "issues": "说者与听者都突出，无法唯一确定应关注哪个动作。",
+        "decision": "accepted",
+        "reason": "男孩朝女孩说话，女孩侧耳接收，具体的告诉某人这一交流关系清楚。"
+      },
+      "savedPath": "public/images/words/tell.webp"
+    },
+    {
+      "senseId": "f9b98c981af4af4b97b0c85f244870946f979b1495c767aa11aa19a1d41268e5",
+      "word": "yeah",
+      "pos": "adv.",
+      "meaning": "是",
+      "alt": "年轻人面向同伴微笑点头并竖起拇指，作出肯定回应。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: yeah / adv. / 是.\nA friendly young adult responds affirmatively to someone just at the edge of the scene: they smile warmly, give a clear thumbs-up with one large visible hand, and nod their head slightly forward with two subtle curved motion strokes indicating a nod. The person being answered is only a small simple shoulder silhouette at the lower corner, so this reads as a conversational 'yes'. The affirmative responder is the dominant subject. No checkmarks, words, letters, speech bubbles, or numbers.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-53ab8db3-3cd1-4a89-bfdb-523944fd3887.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/yeah.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/yeah.webp",
+      "intendedSavedPath": "public/images/words/yeah.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：对话双方、拇指肯定手势及头旁点头动作线均可见，无文字。疑点：动作线可能被看成侧摇头，拇指也可能表达赞许而非是，肯定回答需盲审；保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "57",
+        "primary": "男子微笑着向对方竖起拇指",
+        "alternatives": [
+          "赞同",
+          "夸奖"
+        ],
+        "confidence": "high",
+        "issues": "肯定态度明确，但同意、称赞和鼓励无法区分；脸旁曲线也可能表示说话或点头。",
+        "decision": "accepted",
+        "reason": "面对同伴点头并竖拇指，肯定回应清楚，符合是的义项。"
+      },
+      "savedPath": "public/images/words/yeah.webp"
+    },
+    {
+      "senseId": "d31d3d3b63d18b3e4bbadbf74d162b325a7ad61452eb531ba2bfe363d75701f5",
+      "word": "three",
+      "pos": "num.",
+      "meaning": "三",
+      "alt": "一只手清楚伸出三根手指，下方整齐排着三个橙子。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: three / num. / 三.\nShow a large unmistakable human counting hand, palm facing the viewer, with EXACTLY THREE fingers extended upright: index, middle, and ring fingers. The thumb and little finger are visibly folded inward. Beneath the hand, exactly THREE large orange fruits sit separately in one evenly spaced horizontal row. The counting hand dominates and agrees perfectly with the three objects; no other fruit, extra hands, fingers, leaves that resemble objects, numerals or written text. Anatomically coherent hand with five total digits, only three raised.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-ec1bd071-88b1-4853-8985-0e1208578477.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/three.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/three.webp",
+      "intendedSavedPath": "public/images/words/three.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：恰好三根伸直手指，拇指压住弯曲小指，手部五指结构合理；下方恰好三个分开的橙子，数量对应且无数字文字。大轮廓80px应能识别，待统一盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "58",
+        "primary": "数字三：三根手指和三个橘子",
+        "alternatives": [
+          "三个",
+          "数数"
+        ],
+        "confidence": "high",
+        "issues": "手势与实物数量相互印证，含义明确。",
+        "decision": "accepted",
+        "reason": "三根伸直手指与三个橙子对应，数量三清楚。"
+      },
+      "savedPath": "public/images/words/three.webp"
+    },
+    {
+      "senseId": "dc4ba1ce4c00c21c981c4d1446cbfc058cbc8e7cd8b0caa2de7f0f770141bb16",
+      "word": "back",
+      "pos": "adj.",
+      "meaning": "后面的",
+      "alt": "火车头朝右，孩子指向位于队尾、后面的红色车厢。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: back / adj. / 后面的.\nDepict a simple three-car toy-style passenger train facing right, with a clear locomotive at the far right showing smokestack and front headlight, a pale beige middle carriage, and a vivid coral-red LAST carriage at the far left. The two forward parts are softly muted and the BACK carriage is prominent in saturated red. A small child beside the train points specifically at this rearmost red carriage, indicating the back/rear one. Side view, all cars connected on one ground line. This is the adjective meaning rear/back, not a person's back or backward motion. No arrows or written labels.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-47448bff-b2b2-4c80-945f-e57a3cc87306.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/back.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/back.webp",
+      "intendedSavedPath": "public/images/words/back.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：右侧机车前向明确，左侧末节红车厢被指认，对应adj后面的而非身体背部。无文字数字。疑点：水平构图留白较大，80px下指头不明显；可能先读作火车或最后一节，保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "59",
+        "primary": "男孩指着火车尾部的红色车厢",
+        "alternatives": [
+          "火车",
+          "最后一节车厢"
+        ],
+        "confidence": "medium",
+        "issues": "火车容易识别，但缺少行驶方向或强调标记；难以确定是否要表达尾部、最后或单纯指物。",
+        "decision": "accepted",
+        "reason": "火车头明确朝右，孩子指向最末车厢，后面的参照方向由车头确定。"
+      },
+      "savedPath": "public/images/words/back.webp"
+    },
+    {
+      "senseId": "11de2cd316597ec787eb89a029e7d1ad79ac7b3919b0116eb5705753588774fb",
+      "word": "over",
+      "pos": "adv.",
+      "meaning": "结束",
+      "alt": "演出已结束，演员在渐合的幕布前谢幕，观众起身离场。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: over / adv. / 结束.\nDepict a small theater performance that has clearly ended: two actors stand still at center stage holding hands and taking a final bow, the heavy coral stage curtains are nearly drawn closed from both sides, and two audience members in the foreground have stood from their seats and are walking toward the exit edge. A few empty seats are visible. The combination of final bow, closing curtain, and departing audience must convey that the show is OVER, finished. Very simple coherent scene, large readable figures, no exit sign or writing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-626af4b5-5fdf-4e21-b4f3-0248de772024.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/over.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/over.webp",
+      "intendedSavedPath": "public/images/words/over.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "自查：演员牵手鞠躬、两侧幕布收拢、空座位和观众离场共同指向演出结束，符合over结束义而非空间上方。无文字数字。疑点：幕布仍较敞开，小图可能读作戏剧/谢幕，需盲审结束线索是否足够；保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "60",
+        "primary": "演员在舞台上鞠躬谢幕，观众正在离场",
+        "alternatives": [
+          "演出结束",
+          "谢幕"
+        ],
+        "confidence": "high",
+        "issues": "结束的场景线索较充分，但也能被理解为演员致谢或观众离开，抽象概念不唯一。",
+        "decision": "accepted",
+        "reason": "演员鞠躬谢幕且观众离席，结束状态由多个一致线索共同体现。"
+      },
+      "savedPath": "public/images/words/over.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "bc7c2d67f53f9044ee6d0f93babeb807a87b23d994da9e7cf97b4ac5a185e496",
+      "word": "because",
+      "pos": "conj.",
+      "meaning": "因为",
+      "alt": "孩子因为下雨而撑起伞，伞外雨水与伞下遮挡形成因果线索。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: because / conj. / 因为.\nDepict a clear everyday cause-and-effect scene: a child outside is holding an open blue umbrella directly over their head BECAUSE heavy rain is falling from a small gray rain cloud immediately above. Water visibly splashes on the umbrella and drips off its edges; puddles show rain striking the uncovered ground, while the child and patch of ground below the umbrella remain dry. The child glances upward toward the rain as the obvious reason for opening the umbrella. Single integrated scene emphasizing the relationship between rain as cause and umbrella use as response, not a decorative umbrella icon.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-962c1577-d387-435a-a4cf-149f379f3aad.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/because.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/because.webp",
+      "intendedSavedPath": "public/images/words/because.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "自查：下雨、雨滴击打伞面和儿童撑伞回应的线索清楚，暖白纸水粉风格，无文字。疑点：遮住词义仍可能先读作雨天或雨伞，因果关系需盲审，保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "46",
+        "primary": "孩子在雨中撑伞",
+        "alternatives": [
+          "下雨",
+          "雨天"
+        ],
+        "confidence": "high",
+        "issues": "雨滴、乌云和积水清楚；无法单凭画面确定重点是天气还是撑伞动作。",
+        "decision": "deferred",
+        "reason": "画面主要呈现下雨与撑伞，缺少突出因果关系的结构。"
+      }
+    },
+    {
+      "senseId": "e36cb63f48dc7dc2454c5aa87b4dc6134476f68b7a15c68c03509eeca3577666",
+      "word": "those",
+      "pos": "pron.",
+      "meaning": "那些",
+      "alt": "近处的孩子指向河对岸远处的三丛蓝花，表示那些物体。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration, final use 640px and must be clear at 80px. Exact target: those / pron. / 那些.\nA child close to the viewer in the lower left foreground points across a clearly visible narrow stream toward a group of three blue flowering bushes on the far bank at upper right, physically distant from the child. The child's extended arm and gaze clearly designate the entire faraway group: THOSE plural things over there. Preserve a visible span of empty ground and water between speaker and target, and make the three far bushes distinct and readable. One coherent outdoor scene, no arrows, map pins, or text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral, simple appealing educational illustration. Composition: one clear tightly related scene centered in the middle 70 percent, generous warm-white empty space; fully visible main subjects, large clear silhouettes. Constraints: no letters, written words, numbers, labels, logos, watermarks, borders, card UI, or unrelated decorative objects. Render one square image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e598-9f4e-7c93-bd07-87ad478d7f02/exec-00feb1f6-99cc-4b8e-b93e-bba8d97e57bb.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/c/source/those.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/c/candidates/those.webp",
+      "intendedSavedPath": "public/images/words/those.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "自查：指示者近、对象群远，中间河流明确分隔，蓝花三丛可辨且为复数。无文字数字。疑点：风景偏多，80px下花丛群与手指会较小，也可能读作那里或指向；需盲审，保持pending。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "54",
+        "primary": "女孩指着河对岸的花丛",
+        "alternatives": [
+          "对岸",
+          "远处"
+        ],
+        "confidence": "medium",
+        "issues": "隔河关系清楚，指尖却较接近水面；也可能被读成指着河流或泛指那里。",
+        "decision": "deferred",
+        "reason": "女孩手指接近河面方向，远处花丛不是清楚的指代目标。"
+      }
+    }
+  ],
+  "batch": "20260928-0100-c"
+}

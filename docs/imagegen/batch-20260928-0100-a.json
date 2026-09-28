@@ -1,0 +1,436 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260928-0100-a",
+  "assets": [
+    {
+      "senseId": "9dcd573f8781522db8c0d3a3008cb8f803389aabda84952b34869c1c7501a352",
+      "word": "two",
+      "pos": "num.",
+      "meaning": "二",
+      "alt": "一只手竖起两根手指，旁边并排放着两个橙色球。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: two / num. / 二. Depict only this precise meaning. Scene: Make quantity TWO immediately unmistakable: one large human hand showing a counting gesture, only the index and middle fingers extended straight upward, the thumb holding the ring and little fingers folded into the palm. Next to the hand exactly two identical orange balls arranged side by side, and no other countable objects. Accurate five-finger hand anatomy. Emphasize the two raised fingers and the matching pair of balls equally; this is counting, no peace-sign party mood. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-c3d376d8-9551-4709-b1c7-7b1ed889081f.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/two.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/two.webp",
+      "intendedSavedPath": "public/images/words/two.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：恰好两根手指与两个球，数字二的计数信息明确；无文字数字。手势兼有胜利手势联想，但成对实物强化数量。待独立盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "16",
+        "primary": "两个；伸出两根手指，旁边有两个橙子",
+        "alternatives": [
+          "数字二",
+          "胜利手势"
+        ],
+        "confidence": "high",
+        "issues": "数量表达清楚；仅看手势也可能理解为胜利。",
+        "decision": "accepted",
+        "reason": "两根伸直手指与两个橙子一致对应，数量二明确。"
+      },
+      "savedPath": "public/images/words/two.webp"
+    },
+    {
+      "senseId": "edaad1b92c3d18252672a84bfab1e416933c999decca476bfc8f66b084fddb60",
+      "word": "me",
+      "pos": "pron.",
+      "meaning": "我",
+      "alt": "孩子面对观看者，用手指指着自己的胸口。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: me / pron. / 我. Depict only this precise meaning. Scene: One friendly child facing the viewer, one hand with its index finger clearly pointing to the center of their own chest, with an attentive mild questioning smile and direct eye contact. Frame waist-up, make the self-directed finger unmistakable, no other people or objects. This demonstrates the speaker referring to themselves: ME. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-1388e639-d1cf-4352-aa2b-6924951abc03.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/me.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/me.webp",
+      "intendedSavedPath": "public/images/words/me.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：明确自指胸口、无文字，主体在小卡上清楚。可表达我或自己，但无法仅凭图片区分 me 与 I；精确代词用法待盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "17",
+        "primary": "男孩指着自己",
+        "alternatives": [
+          "我",
+          "自我介绍"
+        ],
+        "confidence": "high",
+        "issues": "自指动作明确，具体说话内容无法确定。",
+        "decision": "accepted",
+        "reason": "男孩直接指向自己胸口，清楚表达我。"
+      },
+      "savedPath": "public/images/words/me.webp"
+    },
+    {
+      "senseId": "0cc823a18dc83272e5c7a2812e0705f3bf07735b0ccba5b9507ac9a9b43ed6fd",
+      "word": "out",
+      "pos": "adj.",
+      "meaning": "外面的",
+      "alt": "房间外面的草地上放着一把珊瑚红椅子，室内为空。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: out / adj. / 外面的. Depict only this precise meaning. Scene: An open-front miniature room seen in simple three-quarter cutaway, with a visible doorway and a clear floor threshold. A bright coral chair stands fully OUTSIDE the room on the small green ground patch beyond the threshold; the interior is muted and empty. The outside chair is the sole emphasized subject. Communicate the adjective OUTSIDE, no motion or departure action. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-0fc32d65-c5a0-4c87-8dda-a556e10ebbad.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/out.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/out.webp",
+      "intendedSavedPath": "public/images/words/out.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：门槛、室内地板和外部草地形成明确空间对比，椅子完全在室外。可能被直接读作椅子或房间，且室内画面占比较大，outside 形容关系需盲审；无文字。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "18",
+        "primary": "椅子放在房间外面",
+        "alternatives": [
+          "门外",
+          "空房间"
+        ],
+        "confidence": "high",
+        "issues": "内外关系清楚；房间采用剖面画法。",
+        "decision": "accepted",
+        "reason": "椅子位于房间墙体边界之外的草地，外面的空间位置清楚。"
+      },
+      "savedPath": "public/images/words/out.webp"
+    },
+    {
+      "senseId": "d90e04d5cab6c081081809e35951f08e967bf6c5e375be682f8a31e1f3303519",
+      "word": "people",
+      "pos": "n.",
+      "meaning": "人",
+      "alt": "四位不同年龄的人穿着日常衣服站在一起。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: people / n. / 人. Depict only this precise meaning. Scene: Four clearly recognizable ordinary human people of different ages standing together in a loose friendly group, all fully visible: one adult woman, one adult man, an older adult, and a child. Natural varied skin tones, simple everyday clothes, clear human silhouettes. No occupations, special ceremony, props, symbols, animals, or buildings; subject is people themselves. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-c3ce2fd8-7000-4301-b8f3-996823fbff6a.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/people.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/people.webp",
+      "intendedSavedPath": "public/images/words/people.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：四名完整人物，主体直接表达一群人，无文字或职业符号。站姿可能联想到家庭合影，但人这一名词义项直观；人物画风比其它卡片略偏写实，留待统一审查。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "19",
+        "primary": "四个不同年龄的人站在一起合影",
+        "alternatives": [
+          "一家人",
+          "一群人"
+        ],
+        "confidence": "medium",
+        "issues": "可见群体与年龄差异，但亲属关系只能推测。",
+        "decision": "accepted",
+        "reason": "不同年龄的多个完整人物是主体，人的类别清楚，无无关动作干扰。"
+      },
+      "savedPath": "public/images/words/people.webp"
+    },
+    {
+      "senseId": "f107811e1696220ff1abe5956d82e0ce50d86391c203a8e5a26506c2347b0ac2",
+      "word": "come",
+      "pos": "v.",
+      "meaning": "过来",
+      "alt": "一位成人伸手招呼，孩子沿着小路朝她走过来。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: come / v. / 过来. Depict only this precise meaning. Scene: A welcoming adult stands near the lower-left foreground looking back and beckoning gently with an open hand toward a child who is walking from the upper-right background TOWARD the adult and the viewer. Child faces toward the adult with a clear forward step, happy eye contact, a short path with a few footprints behind the child. Make approach toward the person calling unmistakable. Only two people, no text or arrows. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-d690edf2-3e03-4139-a11c-813c03a93610.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/come.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/come.webp",
+      "intendedSavedPath": "public/images/words/come.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：成人招手、孩子面向成人迈步，身后脚印强化接近方向，符合过来。缩小后小路脚印细节会弱化，但人物动作仍明确；无文字。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "20",
+        "primary": "男孩跑向伸手迎接他的女人",
+        "alternatives": [
+          "过来",
+          "迎接孩子"
+        ],
+        "confidence": "high",
+        "issues": "靠近方向清楚；跑步、过来、迎接均可能成为主要理解。",
+        "decision": "accepted",
+        "reason": "男孩朝迎接者靠近，身后脚印和前方伸手共同明确过来的方向。"
+      },
+      "savedPath": "public/images/words/come.webp"
+    },
+    {
+      "senseId": "6f7d59ec8eb95e1cd7aa6ddf10efb50857446dab047c3548879ac01f0599d914",
+      "word": "no",
+      "pos": "n.",
+      "meaning": "不",
+      "alt": "孩子皱眉摇头，双臂在胸前交叉表示拒绝。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: no / n. / 不. Depict only this precise meaning. Scene: A clear polite negative response: a child facing the viewer has crossed both forearms in front of the chest into an emphatic X refusal gesture, and is shaking their head with a firm closed-mouth expression. Small paired curved motion strokes around the head show the refusal. This is a NO answer or refusal as a noun, not a written prohibition sign. No offered object, no lettering or punctuation. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-557e14fb-aa8d-4d4f-a9ea-0a01c4ecafdb.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/no.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/no.webp",
+      "intendedSavedPath": "public/images/words/no.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：摇头和交叉前臂明确否定回答，无文字；表情较生气，可能兼有不要/拒绝的解释。目标元数据将 no 标为 n.不，这一词性本身无法由图确认，按否定回答场景保留待审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "24",
+        "primary": "女孩交叉双臂并摇头，表示拒绝",
+        "alternatives": [
+          "不",
+          "不可以"
+        ],
+        "confidence": "high",
+        "issues": "拒绝与否定明确，也带有生气或不满情绪。",
+        "decision": "accepted",
+        "reason": "摇头线和交叉双臂形成明显否定手势，直接表达不。"
+      },
+      "savedPath": "public/images/words/no.webp"
+    },
+    {
+      "senseId": "0393750eac130ba16f0ae1568dd384b6e31d9e394c10fac34e622fe2898496e7",
+      "word": "than",
+      "pos": "conj.",
+      "meaning": "比",
+      "alt": "较高的孩子分别用双手比划自己和较矮孩子的头顶高度。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: than / conj. / 比. Depict only this precise meaning. Scene: A simple height comparison: two children stand side by side with feet on the same ground line, one clearly taller. The taller child holds one hand horizontally at the top of the shorter child's head and the other hand horizontally at their own head level, visibly comparing the heights. Both look at the hands, calm expressions. Exact sense THAN in taller than, emphasize the relationship between two heights. No ruler, numbers, letters, text, arrows or comparison symbols. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-5849fa11-8490-4072-9057-9efd0ea966ce.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/than.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/than.webp",
+      "intendedSavedPath": "public/images/words/than.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：同一地平面上两人身高比较，手势强化比的关系，无文字数字。语义可能直接落在高/矮/更高而非连词比，需盲审；没有明显多肢，人物轮廓清楚。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "29",
+        "primary": "男孩用手比量自己和女孩的身高，男孩更高",
+        "alternatives": [
+          "高矮比较",
+          "比……高"
+        ],
+        "confidence": "high",
+        "issues": "高度差与比较动作明确。",
+        "decision": "accepted",
+        "reason": "手势分别对照两个孩子头顶高度，清楚表现比高矮的比较关系。"
+      },
+      "savedPath": "public/images/words/than.webp"
+    },
+    {
+      "senseId": "fcb4a3d2bb4dcb4ed1f262a6538a84bebfaa2a3295b11aad287b75ded318135e",
+      "word": "like",
+      "pos": "v.",
+      "meaning": "喜欢",
+      "alt": "女孩开心地把棕色玩具熊抱在怀里，带着喜爱的笑容。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: like / v. / 喜欢. Depict only this precise meaning. Scene: A delighted child hugs a small cuddly brown teddy bear close to their chest with both arms, cheeks gently lifted and a broad warm smile, looking affectionately at the bear. The child's unmistakable joyful expression and close embrace show LIKING the bear. No hearts or symbols, no other objects, waist-up close framing. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-6ff0701a-7539-48a4-8b42-7919d347fce9.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/like.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/like.webp",
+      "intendedSavedPath": "public/images/words/like.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已查看原图：开心微笑与拥抱玩具熊表达喜爱，动作对象清晰，无文字数字。也可解释为爱/拥抱，但与喜欢义项接近；等待独立盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "30",
+        "primary": "女孩微笑着抱紧玩具熊",
+        "alternatives": [
+          "拥抱",
+          "喜爱玩具熊"
+        ],
+        "confidence": "high",
+        "issues": "拥抱动作清楚；喜爱是合理情绪解读，但无法唯一确定抽象情感词。",
+        "decision": "accepted",
+        "reason": "女孩笑着亲密抱住玩具，表情与身体动作共同表达喜欢。"
+      },
+      "savedPath": "public/images/words/like.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "3b0fd922759831386c067f201f8e5b96ee310137cf8f294ed989b703e15e0e99",
+      "word": "your",
+      "pos": "pron.",
+      "meaning": "你的",
+      "alt": "说话者指向背蓝色书包的女孩，女孩摸着胸口并握住自己的书包带。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: your / pron. / 你的. Depict only this precise meaning. Scene: A conversational vignette with two people: on the left a speaker leans slightly toward the other person, their index finger clearly indicating the other person and the blue school backpack that person is already wearing and holding by its strap. On the right the addressed person has the backpack firmly on their own shoulders, makes eye contact with the speaker, and touches their own chest to acknowledge ownership. No object exchange. Emphasize the relation YOUR backpack, ownership of the person being addressed, not giving. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-b41936eb-302a-46e0-b779-ab70c47c5d19.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/your.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/your.webp",
+      "intendedSavedPath": "public/images/words/your.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：对话指向关系和背包归属可见，但说话者手指更直接指向人而非背包；容易被读成你或我，无法可靠区分你的。此项语义疑虑较高，建议盲审严格判断或继续待重做，未标记通过。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "21",
+        "primary": "男孩指着女孩，女孩把手放在自己胸前",
+        "alternatives": [
+          "你",
+          "女孩确认是在说自己"
+        ],
+        "confidence": "medium",
+        "issues": "可见双方指示与回应，但无法唯一确定人称或对话含义。",
+        "decision": "deferred",
+        "reason": "手势主要指向女孩本人，缺少能明确表达物品属于听者的归属线索。"
+      }
+    },
+    {
+      "senseId": "386479292a5a3627a6f6edbdd3fb6b8f98960c0e72e20d9d1feddf75c910ab7d",
+      "word": "now",
+      "pos": "adv.",
+      "meaning": "现在",
+      "alt": "正在给中央幼苗浇水，左右淡化显示种子与长大的植物，旁边有无数字时钟。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: now / adv. / 现在. Depict only this precise meaning. Scene: A single continuous temporal demonstration of NOW: a small unnumbered analog clock beside a bright solid central pair of hands actively pouring water from a green watering can onto a potted seedling. Along the same ground plane a faint translucent small pot with a seed and a faint later tall plant suggest before and after; the current watering action is much larger, fully colored and sharply outlined, while both other moments fade into the warm paper. No panel borders, no timeline line, arrows, text, numbers or labels. Emphasize the active present moment. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-4170be44-fc78-4aa9-b4ff-14cf2c43c09d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/now.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/now.webp",
+      "intendedSavedPath": "public/images/words/now.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：当前浇水阶段清晰，两侧过去/未来植物较淡，时钟无数字。容易被直接解读为浇水或生长过程，now 现在这一时间副词未必直观，语义风险较高；时钟似仅单根重合指针。保持待审，建议未通过盲审时继续待重做。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "22",
+        "primary": "给盆栽浇水，旁边展示种子和长大的植物",
+        "alternatives": [
+          "照料植物",
+          "植物生长"
+        ],
+        "confidence": "high",
+        "issues": "浇水最突出；时钟与不同生长阶段不足以明确某个时间或过程概念。",
+        "decision": "deferred",
+        "reason": "主体是给植物浇水和生长过程，时钟及淡化阶段不足以直观表达现在。"
+      }
+    },
+    {
+      "senseId": "3cb727a1312e958dc0d24196cb7f9a55ed7b78e5e82983c0608290a5800b9feb",
+      "word": "him",
+      "pos": "pron.",
+      "meaning": "他",
+      "alt": "前景两个孩子看向远处穿蓝毛衣的男孩，其中一人伸手指向他。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: him / pron. / 他. Depict only this precise meaning. Scene: A conversational vignette: in the left foreground two children seen mainly from behind look toward a friendly boy standing separately on the right, while one foreground child points their index finger toward that boy. The boy being referred to is fully visible, the largest and most colorful figure, wearing a simple blue sweater; he is not pointing at himself. Show the third-person male referent: HIM. No props or written speech. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-900a5f03-1721-447f-885e-0e1015f3c9ea.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/him.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/him.webp",
+      "intendedSavedPath": "public/images/words/him.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：第三人称男性指代关系有对话者与被指者支持；前景手指朝向可能与另一前景孩子重合，且无法区分 him 与 he。无文字，需独立确认他而非男孩或那个人的识别结果。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "23",
+        "primary": "女孩向身旁同伴指示远处站着的男孩",
+        "alternatives": [
+          "他",
+          "介绍某人"
+        ],
+        "confidence": "medium",
+        "issues": "第三人称指示较容易联想，但手指方向受前景人物遮挡，具体指向略含糊。",
+        "decision": "deferred",
+        "reason": "指向目标男孩的手势受到前景听者遮挡，人物指代不够清楚。"
+      }
+    },
+    {
+      "senseId": "1930b8c30dd00d668dfc0515a1536542a2dc5655f1f98cd4b260bb38e7d10a9b",
+      "word": "other",
+      "pos": "adj.",
+      "meaning": "其他的",
+      "alt": "一只手拿着蓝色连指手套，另一只手指向桌面上的另一只同款手套。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: other / adj. / 其他的. Depict only this precise meaning. Scene: A hand is already holding a plain blue mitten near the left, while the OTHER matching blue mitten lies separately on the right and a second hand distinctly points at that remaining mitten. Both mittens are identical in color and design and clearly separate, with no extra mittens. Focus is the other one of the pair, not color difference or choosing between unrelated objects. One tightly related scene. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-01a4121d-091b-4ab2-abeb-92a5b0c71094.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/other.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/other.webp",
+      "intendedSavedPath": "public/images/words/other.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：拿着一只并指向另一只的关系清楚，可支持other的另一只/其他的。手套被加了无文字花纹和背景盆栽，仍无数字标签；易被读成一双手套或same，且左右手套拇指方向相同，配对细节有疑虑，待盲审。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "25",
+        "primary": "一只手拿着蓝色连指手套，另一只手指向桌上的同款手套",
+        "alternatives": [
+          "一双手套",
+          "另一只"
+        ],
+        "confidence": "medium",
+        "issues": "手套配对清楚，但无法唯一确定是在表达相同、另一只还是一双。",
+        "decision": "deferred",
+        "reason": "两只同款手套更容易表示一双或相同，其他的区分线索不足。"
+      }
+    },
+    {
+      "senseId": "1fb4344fb4850036d8bc600e46580417044e3b4874153be62892e2c905b46449",
+      "word": "only",
+      "pos": "adj.",
+      "meaning": "唯一的",
+      "alt": "分格木盒里只有中央一个红苹果，其余格子全部空着。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: only / adj. / 唯一的. Depict only this precise meaning. Scene: An open shallow wooden display box with several clearly empty compartments and exactly one vivid red apple left in a single compartment near the center. The lone apple is the obvious focus and every other compartment visibly empty. Slightly top-down view, entire box visible. Communicate the ONLY remaining apple, with no other fruit, hands or decorative objects. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-f6ab7a5e-f578-4894-a85c-187bba222ea7.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/only.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/only.webp",
+      "intendedSavedPath": "public/images/words/only.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：唯一苹果对照多个空格，数量与唯一性清楚，没有标签文字。仍可直接被识别为苹果或一个，需判断盲审是否能读出唯一的；主体色彩突出，小尺寸结构简单。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "26",
+        "primary": "苹果位于九宫格盒子的正中央",
+        "alternatives": [
+          "中间",
+          "中心"
+        ],
+        "confidence": "high",
+        "issues": "中心位置明确，没有明显视觉缺陷。",
+        "decision": "deferred",
+        "reason": "苹果位于九格盒中央，盲审主要读成中心或中间，唯一性不明确。"
+      }
+    },
+    {
+      "senseId": "c5a769cbff4c5f46e26efc64154c7634885747bd0d44314d239d14b57ee6678c",
+      "word": "give",
+      "pos": "n.",
+      "meaning": "弹性",
+      "alt": "双手按压一块绿色海绵，海绵受压凹陷并弯曲。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: give / n. / 弹性. Depict only this precise meaning. Scene: A tight close-up of two hands squeezing opposite sides of one thick soft green foam sponge. The sponge visibly compresses inward where the fingertips press, with its unpressed ends gently bulging. Its lightly dotted porous texture and clear compression show the material has GIVE, elastic yielding under pressure. No person giving an item to another person, no transfer, no gifts. One object under mechanical pressure. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-a7f3539c-beb4-4ce4-ac6f-61bbb05230e3.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/give.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/give.webp",
+      "intendedSavedPath": "public/images/words/give.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：海绵可压缩的弹性形变清楚，没有给予/交换场景，符合give名词的可屈让性质。静态图更直接表现柔软、挤压或可压缩，未展示回弹，弹性精确性仍需盲审。无文字数字，主体大且简洁。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "27",
+        "primary": "双手挤压绿色海绵，使它变形",
+        "alternatives": [
+          "柔软",
+          "挤压"
+        ],
+        "confidence": "high",
+        "issues": "挤压和柔软都很直观，单图不能唯一确定强调动作还是材质。",
+        "decision": "deferred",
+        "reason": "只能看到海绵受压，缺少回弹或恢复形状的线索，不能区分弹性与柔软。"
+      }
+    },
+    {
+      "senseId": "b266f8c5808ec6e40bff514f1c45c0694d19e16ea47d4d82030f1b387688c731",
+      "word": "good",
+      "pos": "n.",
+      "meaning": "善行",
+      "alt": "孩子蹲下帮助老人捡回从篮子里散落的橙子。",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target: good / n. / 善行. Depict only this precise meaning. Scene: An everyday good deed: a school-age child kindly helps an elderly woman pick up oranges that spilled from her overturned small grocery basket. The child kneels and places an orange back into the basket while the older woman with a cane smiles in gratitude. Make the voluntary helping action obvious. No praise marks, halo, hearts, words or morality symbols; concrete act of kindness. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral palette. Composition: one coherent scene centered in the middle 75 percent, generous blank margins, bold readable silhouettes suitable at 80 pixels, square image to be saved as 640-pixel WebP. No written words, letters, numbers, labels, logos, watermarks, borders or card UI. No generic stock icons.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e593-419c-72e0-9a59-ee52731c79ca/exec-723545f8-e42e-4ba8-9744-4a21a0c85218.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/a/source/good.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/a/candidates/good.webp",
+      "intendedSavedPath": "public/images/words/good.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看原图：帮助老人捡物符合善行，而非形容词好的。但老人明显出现三只手：胸前一只、拐杖上一只、下垂一只，为严重人体结构错误；当前候选不应发布，建议重做。无文字。",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "28",
+        "primary": "男孩帮老人捡起散落的橙子",
+        "alternatives": [
+          "帮助别人",
+          "捡东西"
+        ],
+        "confidence": "high",
+        "issues": "帮助情境清楚；老人明显出现三只手：胸前一只、握拐杖一只、向下伸出一只，属于严重解剖错误。",
+        "decision": "deferred",
+        "reason": "帮助老人捡水果符合善行情境，但老人明显出现三只手，保留重做。"
+      }
+    }
+  ]
+}

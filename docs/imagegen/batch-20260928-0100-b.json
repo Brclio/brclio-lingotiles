@@ -1,0 +1,433 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "word": "first",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: first, adverb, 首先, the initial step before later steps. Create one coherent wordless sequence of the SAME planting activity, not separate vocabulary objects. Dominant large scene on the left in rich color: a hand is placing a single seed into soil in a small terracotta pot, showing the first thing to do. To its right, a clear thick softly painted right-pointing arrow leads to a smaller, lighter version of the SAME pot being watered. Another clear right-pointing arrow leads to the SAME pot with a tiny sprout. The first seed-placing step is much larger, darker and foremost, while later steps are subdued. Keep three stages lined up simply across the middle, use one identical pot design throughout. Arrows are plain shapes without text, no numbering, no panels, no borders.",
+      "alt": "先把种子放入花盆，再沿箭头浇水并等待发芽，播种这一步突出显示。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-03976e49-cfd8-48af-8601-3ec4310b0f54.png",
+      "selfReviewNotes": "同一盆栽种植过程，先播种再浇水再萌芽，两支箭头方向清楚；首步放大深色突出，80px可辨顺序。可能首先联想到种植流程，但首先义有明确先后线索。",
+      "senseId": "842d784d32453e55e04fd8b36fecac8a87d4528f2174f0e4123741b4d068d560",
+      "pos": "adv.",
+      "meaning": "首先",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/first.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/first.webp",
+      "intendedSavedPath": "public/images/words/first.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "36",
+        "primary": "播种、浇水，种子长出幼苗",
+        "alternatives": [
+          "种植物",
+          "种子发芽"
+        ],
+        "confidence": "high",
+        "issues": "箭头明确表达先后过程；单独的播种、浇水或生长都可能成为画面重点。",
+        "decision": "accepted",
+        "reason": "播种位于顺序起点且明显放大，后续浇水和发芽淡化，箭头显示首先做的步骤。"
+      },
+      "savedPath": "public/images/words/first.webp"
+    },
+    {
+      "word": "very",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: very, adjective, 真正的, real or genuine, NOT the adverb meaning extremely. One clear side-by-side comparison on a tabletop: in the foreground a real ripe red apple freshly cut in half, showing moist pale flesh, natural brown seeds and tiny juice droplets, with a green living leaf on its stem. Behind and to the right is a smaller clearly fake plastic apple toy split into two hollow red shells with visible molded rims and an empty cavity, dull and desaturated. Emphasize the genuine edible apple with realistic natural cut flesh as the main subject; the fake toy is only comparison context. No people or knives needed, no text or checkmarks, no extra fruit, keep contents of real versus hollow fake visually unmistakable.",
+      "alt": "真实苹果露出果肉与种子，旁边塑料仿制苹果打开后是空壳。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-bef85c0a-4b13-43b8-b9c3-84806d9c9796.png",
+      "selfReviewNotes": "真苹果果肉种子与假苹果空壳明显对比，符合真正的义，没有误画程度副词；80px空壳与果肉仍有区分。可能读成真假对比，但精确目标义有支撑。",
+      "senseId": "7be6005a012ac49091906421a5dc7ad4384b6e9940cf56ab699404c2703040e1",
+      "pos": "adj.",
+      "meaning": "真正的",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/very.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/very.webp",
+      "intendedSavedPath": "public/images/words/very.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "38",
+        "primary": "切开的真苹果与空心塑料苹果模型对比",
+        "alternatives": [
+          "真与假",
+          "实心与空心"
+        ],
+        "confidence": "high",
+        "issues": "果肉和塑料壳区别明显；右侧也可能被理解为苹果形容器，比较重点不唯一。",
+        "decision": "accepted",
+        "reason": "前景苹果有真实果肉与种子，后方塑料苹果为空壳，对比突出真正的义项。"
+      },
+      "savedPath": "public/images/words/very.webp"
+    },
+    {
+      "word": "new",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: new, adjective, 新的. A brand-new clean blue sneaker sits prominently on a folded sheet of plain white packing tissue in an open unmarked cardboard shoebox. Beside it, smaller and pushed into the background, is an old faded sneaker of the same design, visibly scuffed, muddy, with a worn sole and loose lace. The pristine blue sneaker must be the clear focus with crisp spotless fabric, straight clean laces and untouched white sole. Simple side-by-side fresh-versus-worn comparison, no logos, no labels, no written symbols or decorative sparkles. Fully show the new shoe.",
+      "alt": "刚从包装盒取出的干净新鞋，旁边是一只磨损的旧鞋。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-f7a71192-6124-4294-98b7-05cc9780a995.png",
+      "selfReviewNotes": "包装盒内干净的新鞋对比旁侧破旧同款鞋，新旧状态清楚；小尺寸仍可见主鞋洁净及背景旧鞋脏污，贴合新的。",
+      "senseId": "a17e402175a79d33436a6b52cb92f111114be05dbf60ef5b44d4d292a1732943",
+      "pos": "adj.",
+      "meaning": "新的",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/new.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/new.webp",
+      "intendedSavedPath": "public/images/words/new.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "39",
+        "primary": "盒中的新鞋与旁边磨旧的脏鞋对比",
+        "alternatives": [
+          "新与旧",
+          "干净与脏"
+        ],
+        "confidence": "high",
+        "issues": "新旧对比明显，但清洁程度同时变化，容易兼读为干净与脏。",
+        "decision": "accepted",
+        "reason": "包装盒中崭新鞋子与后方磨损旧鞋对比，新旧线索清楚。"
+      },
+      "savedPath": "public/images/words/new.webp"
+    },
+    {
+      "word": "look",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: look, noun, 一看, a single brief glance, not appearance and not searching. A close-up vignette of a child taking one quick peek around a half-open wooden door at a small kitten just inside. Only the child's curious head, one hand on door edge and upper shoulder show; both eyes clearly look straight at the kitten. The child's head has just turned into view, capturing a single moment of looking. The kitten sits plainly in the child's direct line of sight. Strong eye-to-object relationship, minimal scene, no magnifying glass, binoculars or abstract eye icon, no motion symbols.",
+      "alt": "孩子从半开的门边探头，朝门内的小猫看了一眼。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-b87ac472-cd43-41be-921f-d6941f7e61d1.png",
+      "selfReviewNotes": "探头看一眼的瞬间和视线对象明确，无外貌义误用；80px门边人脸和猫可辨。仍可能被读作偷看、好奇，静态图难区分一看名词与看动词，应谨慎盲审。",
+      "senseId": "d9703d5d63fd4f78db70b162921adc3dc0a6fa7591cce9c5fee089e10b8b6df9",
+      "pos": "n.",
+      "meaning": "一看",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/look.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/look.webp",
+      "intendedSavedPath": "public/images/words/look.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "40",
+        "primary": "孩子从门后探头看猫",
+        "alternatives": [
+          "偷看",
+          "开门发现小猫"
+        ],
+        "confidence": "high",
+        "issues": "探头和视线清楚；无法确定是在躲藏、观察还是刚开门。",
+        "decision": "accepted",
+        "reason": "孩子探头将视线投向猫，人物眼睛和视线对象清楚表现一看。"
+      },
+      "savedPath": "public/images/words/look.webp"
+    },
+    {
+      "word": "well",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: well, adverb, 很好地, performing an action skillfully and successfully. A young child skillfully pours water from a small pitcher into a narrow clear drinking glass, with a steady controlled stream falling perfectly inside the rim. The glass is nearly full and the tabletop is perfectly dry, with no spills. A nearby adult gives a warm approving thumbs-up while watching the precise pouring. Main focus child hands, pitcher stream and glass; happy concentrated face visible. The clear successful execution of the action should dominate. Close waist-up vignette on a simple tabletop, no additional utensils, no well shaft, no text, no symbolic badges.",
+      "alt": "孩子稳稳地把水倒入杯中，一滴不洒，旁边成人竖起拇指。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-19024831-0834-4b9c-98f8-43542c729759.png",
+      "selfReviewNotes": "水流准确入杯、桌面无洒水、成人肯定手势表达完成得很好，符合副词动作质量；80px倒水和拇指可辨。可能读作倒水或好，需盲审确认。",
+      "senseId": "d2c26b9e45c0aeb53267f8df3b93c227ef80df099d4f8dc78067dd6b581e7dc1",
+      "pos": "adv.",
+      "meaning": "很好地",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/well.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/well.webp",
+      "intendedSavedPath": "public/images/words/well.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "43",
+        "primary": "孩子往杯子里倒水，成人竖起拇指表扬",
+        "alternatives": [
+          "自己倒水",
+          "做得好"
+        ],
+        "confidence": "high",
+        "issues": "倒水和赞许都很清楚，但独立完成、能力与表扬等含义同时存在。",
+        "decision": "accepted",
+        "reason": "孩子稳当地把水倒进杯中且没有洒出，旁边成人赞许，动作完成得很好。"
+      },
+      "savedPath": "public/images/words/well.webp"
+    },
+    {
+      "word": "use",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: use, noun, 使用, the act of using a tool for its practical function. A large close-up of two hands actively using a simple pair of scissors to cut a strip from a blank sheet of blue paper. One hand grips the scissors correctly by the two handle loops, the other steadies the paper. Scissor blades visibly straddle the paper with a clean freshly cut edge and one loose cut strip curling away. Emphasize the tool IN USE and its immediate result, not an isolated pair of scissors. Only hands, scissors, plain paper on a small pale wooden tabletop. Clean obvious action, broad clear forms, no writing, numbers, patterns or symbols.",
+      "alt": "双手正在用剪刀剪开一张蓝色纸，展示工具的实际使用。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-dfe3feb4-dce8-4726-a455-95873ac0da1b.png",
+      "selfReviewNotes": "手持剪刀实际剪纸，工具使用与结果直接清楚，80px可读；仍可能首先被识别为剪或剪刀，使用名词是动作实例，需独立盲审。",
+      "senseId": "0f5e9d1f105f04b7d826e08f2ff92b1236e767de133f0ffa29b0b2762dfeecc7",
+      "pos": "n.",
+      "meaning": "使用",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/use.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/use.webp",
+      "intendedSavedPath": "public/images/words/use.webp",
+      "reviewed": true,
+      "status": "ready",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "45",
+        "primary": "用剪刀把蓝纸剪成纸条",
+        "alternatives": [
+          "剪纸",
+          "剪下一条纸"
+        ],
+        "confidence": "high",
+        "issues": "工具、切口和纸条清楚，没有影响动作理解的明显缺陷。",
+        "decision": "accepted",
+        "reason": "双手实际操作剪刀剪纸，工具与作用对象和结果同时可见，使用关系明确。"
+      },
+      "savedPath": "public/images/words/use.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "word": "more",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: more, noun, 更多. A close-up tabletop scene of a small child's open palm beside a small bowl containing two strawberries. An adult hand is tipping an additional generous portion of bright strawberries from a small cup toward that same bowl; several extra strawberries visibly fall into it. The added portion is clearly the focal subject, with ample fruit compared with the little already in the bowl. Show the idea of an additional quantity, more. Tight simple composition, hands and bowl only, no faces needed.",
+      "alt": "手将更多草莓添入原本只有少量草莓的碗里。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-732a34f6-5872-48dd-a171-a8028d029f0e.png",
+      "selfReviewNotes": "主体清楚，草莓正在追加到碗中，表现额外数量；80px下仍可见添入动作。但也可能先被读作倒草莓，more名词的额外数量含义仍需盲审。",
+      "senseId": "c08e9cdbe4eb9e8ae83aa505414589289cc3cac173df921c113c0992714ed0c1",
+      "pos": "n.",
+      "meaning": "更多",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/more.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/more.webp",
+      "intendedSavedPath": "public/images/words/more.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "31",
+        "primary": "把草莓从容器倒进碗里",
+        "alternatives": [
+          "给别人分草莓"
+        ],
+        "confidence": "high",
+        "issues": "倒入动作清楚；左侧摊开的手可能表示接取、索要或等待，关系不唯一。",
+        "decision": "deferred",
+        "reason": "主要动作是倒草莓，没有明确数量前后对比，更多与倒入容易混淆。"
+      }
+    },
+    {
+      "word": "how",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: how, adverb, 如何, meaning asking about the way to perform something. A seated young child with one untied shoe looks puzzled with a palm turned upward while an adult kneels beside them and slowly demonstrates making a bow with the laces of a second identical shoe. Make the child's inquisitive gaze and the adult's clearly demonstrated lace-tying method the focal point. Close simple scene: two people, two shoes, no other props. The child is asking how to tie a shoe, the adult shows how. No question marks, no diagrams.",
+      "alt": "孩子疑惑地看着鞋带，成人在旁示范如何打结。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-fc13d581-474e-42a0-8b6a-3de0f7291849.png",
+      "selfReviewNotes": "疑惑孩子与成人示范系鞋带的关系清楚，表达询问做法；小尺寸脸部手势和鞋仍可辨。可能被理解为教或学习，how功能词义需盲审。",
+      "senseId": "0fb8a67c5f5e70ef002d7f8664be17fdd572fb8557ab5dba58b5d4ebd7220a6f",
+      "pos": "adv.",
+      "meaning": "如何",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/how.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/how.webp",
+      "intendedSavedPath": "public/images/words/how.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "32",
+        "primary": "大人示范系鞋带，孩子在旁观看",
+        "alternatives": [
+          "教孩子系鞋带",
+          "帮助孩子系鞋带"
+        ],
+        "confidence": "medium",
+        "issues": "鞋带动作清楚，但正在操作的鞋属于谁不明确，教学与直接帮忙难以区分。",
+        "decision": "deferred",
+        "reason": "主要可见成人示范系鞋带，如何的提问或方式焦点不够明确。"
+      }
+    },
+    {
+      "word": "these",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: these, pronoun, 这些, pointing to a plural group near the speaker. One child stands just behind a low table and gestures with an open hand directly over THREE red apples grouped immediately in front of their torso. The same child touches the nearest apple with the other hand. Far behind on a faint small distant side table are two indistinct blue pears, providing a subtle near/far distinction. Main emphasis overwhelmingly on the nearby three apples and the child presenting THIS nearby plural group. Child face, hands and near apples form one tightly composed scene. Do not draw arrows or abstract symbols.",
+      "alt": "孩子指着自己面前紧靠的一组苹果，远处另有水果。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-a101fdcd-38b9-4224-9de3-e78702a23282.png",
+      "selfReviewNotes": "近处三个苹果清楚，孩子触及近物，远处梨形成空间区别；80px近物仍醒目。张开的手朝向偏右，可能误读介绍苹果或那些，代词语义需盲审。",
+      "senseId": "9d6408f6d1915bc89b24e4d4327275a5106d6b1264f5bcb63cdfa427c676d69f",
+      "pos": "pron.",
+      "meaning": "这些",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/these.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/these.webp",
+      "intendedSavedPath": "public/images/words/these.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "33",
+        "primary": "男孩展示桌上的三个苹果",
+        "alternatives": [
+          "三个苹果",
+          "数苹果"
+        ],
+        "confidence": "high",
+        "issues": "数量清楚；没有明确逐个计数动作，也可能只是在介绍或展示水果。",
+        "decision": "deferred",
+        "reason": "盲审主要读成展示或数三个苹果，近处复数指代的线索不充分。"
+      }
+    },
+    {
+      "word": "also",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: also, adverb, 也. A simple friendly scene of two children beside each other. The left child already holds up a ripe red apple. The right child, smiling in recognition, holds up an identical ripe red apple and points briefly to their own chest with the other hand, conveying 'me too / I also have one'. Both apples equally prominent, identical action and object repeated between the two people as the central visual relationship. Waist-up pair only, no table, no extra fruit, no symbols. Warm natural expressions, spacious background.",
+      "alt": "两个孩子都举着苹果，右边孩子示意自己也一样。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-16248ac2-1a84-45a0-a4ce-26ef1deb4990.png",
+      "selfReviewNotes": "两个孩子持相同苹果、右侧指向自己，表达我也有；主体与苹果小尺寸可辨。也可能读作相同或两人，also的补充关系需盲审。",
+      "senseId": "95d1d1135a0ea9762355559ab431c7138922a62b07ef01a36faec86fb001b814",
+      "pos": "adv.",
+      "meaning": "也",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/also.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/also.webp",
+      "intendedSavedPath": "public/images/words/also.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "34",
+        "primary": "两个孩子各拿着一个苹果",
+        "alternatives": [
+          "我也有苹果",
+          "两人拿着相同的水果"
+        ],
+        "confidence": "medium",
+        "issues": "女孩指向自己；可以表达共同拥有或相同，但不能唯一确定具体关系。",
+        "decision": "deferred",
+        "reason": "两个孩子有同款苹果能说明相同，添加另一人的也这一关系仍不够明确。"
+      }
+    },
+    {
+      "word": "any",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: any, adjective, 任何的, freely choose any one. A close-up scene: a friendly adult presents a shallow tray holding three clearly different whole fruits, a red apple, a yellow banana and a green pear, all equally available. The adult's open palm sweeps across the whole selection with an inviting smile, a child's reaching hand hovers centrally above the tray undecided. Show generous permission to take ANY of the options, no fruit singled out, none hidden. Adult waist up and tray with child's hand only. Make equal accessibility of every option visually obvious, no checkmarks, arrows, punctuation or symbols.",
+      "alt": "成人摊手展示苹果、香蕉与梨，让孩子从中任意选择。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-b86744d7-4227-43bd-94bd-5570bda390f7.png",
+      "selfReviewNotes": "三种水果等量开放供选择，呈现任一都可；水果80px仍清晰。但孩子的手较靠近香蕉，可能读作选香蕉或选择，任何的抽象义需盲审。",
+      "senseId": "cee5078d13866f2b3bb36a0547119cceee38cb2e76ab53c7c7294a7f82d5dccb",
+      "pos": "adj.",
+      "meaning": "任何的",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/any.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/any.webp",
+      "intendedSavedPath": "public/images/words/any.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "35",
+        "primary": "从托盘中的几种水果里伸手取香蕉",
+        "alternatives": [
+          "挑选水果",
+          "成人请孩子拿水果"
+        ],
+        "confidence": "medium",
+        "issues": "手伸向香蕉但尚未握住；选择、索取和接受递送都合理。",
+        "decision": "deferred",
+        "reason": "孩子伸手选香蕉只呈现具体选择，无法看出任何一个都可以的不限选择关系。"
+      }
+    },
+    {
+      "word": "our",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: our, pronoun, 我们的, belonging to us together. Two siblings stand side by side holding one large red toy wagon together between them. Both children look outward toward the viewer as if proudly presenting it; each has one hand resting possessively on the wagon and their other hand pointing toward their own chest, showing joint ownership by both speakers. The wagon is one shared object, not a gift exchange or a tug of war. Upper bodies and entire wagon fully visible, hands unobstructed, friendly united expressions, one small unified scene on blank paper.",
+      "alt": "两个孩子一起扶着同一辆玩具车，并指向自己，表示这是他们共同拥有的。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-c3fd4885-b5cb-4e45-aa2c-63f9daad76d7.png",
+      "selfReviewNotes": "两人同时指向自己并接触同一辆车，共同所有的关系线索清楚；80px人物与车可辨，手势较细。也可能读作我们或共有，需核对所有格义。",
+      "senseId": "8960591bad860c428b0c54c34af76133ff023b91c1d6551470590ed0b69ba1c5",
+      "pos": "pron.",
+      "meaning": "我们的",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/our.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/our.webp",
+      "intendedSavedPath": "public/images/words/our.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "37",
+        "primary": "两个孩子指着自己，并扶着同一辆玩具拖车",
+        "alternatives": [
+          "我们",
+          "这是我们的玩具车"
+        ],
+        "confidence": "medium",
+        "issues": "共同指向自己清楚；车的归属只靠姿势推断，无法直接确认所有权。",
+        "decision": "deferred",
+        "reason": "两人指自己并接触小车可表达我们或共同玩耍，归属证据仍不足。"
+      }
+    },
+    {
+      "word": "may",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: may, modal verb, 可以, permission to do something. A child stands beside a simple doorway with a closed umbrella in one hand, looking up expectantly at a nearby parent. The parent warmly nods and extends an open palm through the open doorway toward a small sunny garden beyond, clearly giving the child permission to go outside. The child is starting to step through only after the parent's permission. Keep parent face and clear welcoming hand gesture visible; show an open gate or door as a concrete permission cue. One coherent close scene, no symbols, no question marks, no text.",
+      "alt": "家长点头并摊手示意，允许孩子从开着的门走到外面。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-d8abc64f-7dfc-4e81-9b20-d420342ce7c7.png",
+      "selfReviewNotes": "家长开放手势与孩子望向家长后出门，许可关系有支持；背景较繁复，小尺寸可能主要读作出门或再见。晴天持伞略多余，应谨慎盲审，不可仅凭场景判通过。",
+      "senseId": "f0cbfabdd77cfca932420be03960283d6a496f9f2470870088b9eb1bc9668cf5",
+      "pos": "v.",
+      "meaning": "可以",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/may.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/may.webp",
+      "intendedSavedPath": "public/images/words/may.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "41",
+        "primary": "孩子拿着伞走出家门，成人在门口示意",
+        "alternatives": [
+          "出门",
+          "成人送孩子出门"
+        ],
+        "confidence": "high",
+        "issues": "向外走的方向较清楚；成人手势可能是送行、邀请或允许，不能唯一判断。",
+        "decision": "deferred",
+        "reason": "成人手势和孩子出门更容易被理解为送别或邀请，许可不够清楚。"
+      }
+    },
+    {
+      "word": "want",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: want, noun, 需要的东西, a thing that is needed. One close-up concrete scene of an almost-complete simple wooden jigsaw puzzle with exactly ONE clearly empty puzzle-shaped hole. The single missing piece, matching that hole precisely in shape and color, is large and prominent immediately beside the board in the foreground, and a child's reaching fingertips approach this needed piece. The missing piece is the focal subject: it is what is needed to finish the puzzle. Puzzle has a very simple continuous green tree canopy picture with no writing or numbers; make the hole and matching piece broad obvious silhouettes readable at small size. Only puzzle, missing piece and one hand, minimal setting, no symbols.",
+      "alt": "拼图还缺一块，旁边那块恰好匹配的拼块就是完成它所需要的东西。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-bf0cf131-dd9c-4f9b-97df-0487cd4baa89.png",
+      "selfReviewNotes": "有缺口与所需拼块的具体需求场景，主物明确；但生成的独立拼块凸凹排列似乎与缺口不完全匹配，这是实质疑点。也容易仅被识别为拼图，建议保持pending，不作为已通过资源。",
+      "senseId": "72d03e287d70c3974756cf22812eaece211376862ddbcff2fe492b248650642b",
+      "pos": "n.",
+      "meaning": "需要的东西",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/want.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/want.webp",
+      "intendedSavedPath": "public/images/words/want.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "42",
+        "primary": "拼图缺少一块，手正伸向旁边的拼块",
+        "alternatives": [
+          "补上最后一块拼图",
+          "缺少一块"
+        ],
+        "confidence": "high",
+        "issues": "缺口明确；尚未实际放入，完成动作只是下一步推断。",
+        "decision": "deferred",
+        "reason": "缺失拼图与手中拼图的凸凹轮廓无法对应，不能确认这就是需要的那一块。"
+      }
+    },
+    {
+      "word": "should",
+      "prompt": "Use case: scientific-educational. Asset type: a single square English vocabulary illustration for a small 80px card, finished at 640px. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft daylight, muted natural green blue coral colors, generous blank margins, subject fills middle 70%, clean strong silhouettes. No text, letters, numbers, labels, logos, watermarks, borders, UI or written punctuation. Depict one exact sense, not a vocabulary collage. Exact sense: should, modal verb, 应该, the right or recommended thing to do. A child is seated on a stationary small bicycle ready to ride, but their head is bare. A nearby caring adult presents a bright blue bicycle helmet toward the child with one hand and gently points toward the child's bare head with the other, clearly advising that the helmet should be worn before riding. Child looks thoughtfully at the helmet and reaches to accept it. Helmet and unprotected head are the main clear visual relationship. Calm safe everyday advice, simple ground shadow and blank background, fully visible child and bicycle, no signs, no text, no warning symbols.",
+      "alt": "孩子准备骑车，成人递来头盔并指向孩子的头，提醒应该戴上。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e595-a153-7e10-b9da-cdc9fab2c4e1/exec-e7594bab-c545-45dd-8e88-a0913e6cc818.png",
+      "selfReviewNotes": "头盔、骑车情境和成人指向头部构成应该佩戴的建议，80px仍有明显对象关系。容易读为头盔或提醒，但应做之事有具体支撑，留待盲审。",
+      "senseId": "d238ab773fa6be51c19952ada2aefdaf778d752f2ec460ecaecaf65f7f6ad37e",
+      "pos": "v.",
+      "meaning": "应该",
+      "originalLocalPath": "output/imagegen/batch-20260928-0100/b/source/should.png",
+      "candidatePath": "output/imagegen/batch-20260928-0100/b/candidates/should.webp",
+      "intendedSavedPath": "public/images/words/should.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "visualReview": {
+        "method": "Independent reviewer saw only an anonymously numbered image without word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "44",
+        "primary": "成人拿着头盔，提醒骑车的孩子戴上",
+        "alternatives": [
+          "给孩子头盔",
+          "骑车前戴头盔"
+        ],
+        "confidence": "high",
+        "issues": "指向头部与头盔形成清楚联系；要求、建议或帮助佩戴的语气无法区分。",
+        "decision": "deferred",
+        "reason": "递头盔与指头部可表示帮助或提醒，应该的规范或建议关系尚不清楚。"
+      }
+    }
+  ],
+  "batch": "20260928-0100-b"
+}
