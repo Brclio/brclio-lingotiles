@@ -1,0 +1,448 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260928-0638-c",
+  "assets": [
+    {
+      "senseId": "d815d614f889126e1254da0cf342d818ba79fe28c1011c33b6cef4e4dfea463d",
+      "word": "ask",
+      "pos": "v.",
+      "meaning": "问",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: ask, v., 问 (asking a question). A child facing a friendly adult librarian, open mouth speaking, one palm turned up in an unmistakable questioning gesture, eyebrows lifted. Child holds an open picture book showing a clearly visible unfamiliar striped animal; a small speech bubble contains only that same animal silhouette, no punctuation. Adult leans in listening and gestures thoughtfully toward the picture. Focus on the conversational act of asking, not reading.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/ask.png",
+      "alt": "孩子指着书中的斑马向图书管理员提问",
+      "selfReviewNotes": "已目视原图：张口、摊掌和动物气泡使提问可读；也可能被理解为谈论或学习斑马。无文字数字，手部自然。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/ask.webp",
+      "intendedSavedPath": "public/images/words/ask.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-53f11594-6c10-4c65-a7a1-3965750a4f21.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "52",
+        "primary": "孩子向大人询问书上的斑马",
+        "alternatives": [
+          "讨论书中的斑马",
+          "认读动物图片"
+        ],
+        "confidence": "medium",
+        "issues": "孩子张嘴并摊手，大人指向书中的斑马，但气泡没有问号。 因此也可能是孩子在回答或讲述，不能确定对话方向和两人的具体身份关系。",
+        "decision": "accepted",
+        "reason": "孩子张嘴、疑问神情与摊手同时面向听者，书和气泡明确询问对象，呈现发问场景。"
+      },
+      "savedPath": "public/images/words/ask.webp"
+    },
+    {
+      "senseId": "a1fd51ff15e3a1972276fd0dae60e427bf4bf373e195d3e48cd7215d1d44fdbd",
+      "word": "where",
+      "pos": "adv.",
+      "meaning": "在哪里",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: where, adv., 在哪里 (asking about location). A child cannot find one missing red shoe, holding the matching red shoe, looking puzzled with palm up. A small thought bubble shows the missing red shoe alone. The child's parent points toward the clearly visible matching shoe tucked underneath a low bench on the right. Both gazes and pointing establish the answer is a LOCATION under the bench, not ownership or what the object is. All in one clear domestic scene.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/where.png",
+      "alt": "女孩寻找另一只红鞋，妈妈指出鞋在长凳下面",
+      "selfReviewNotes": "已目视原图：持有一只鞋、疑惑表情和明确指向凳下另一只鞋，位置询问较清楚；也可能读成找鞋或在下面。画面较满，无文字数字。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/where.webp",
+      "intendedSavedPath": "public/images/words/where.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-485c58c5-c093-435d-bc78-0ac7b190afaa.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "38",
+        "primary": "女孩在找另一只鞋，大人指出鞋在凳子下面",
+        "alternatives": [
+          "告诉女孩鞋在哪里",
+          "寻找丢失的鞋"
+        ],
+        "confidence": "high",
+        "issues": "手持一只鞋、鞋子想象框、疑问表情和成人手指共同表意，所指位置清楚；鞋在凳子下面并非藏得看不见。",
+        "decision": "accepted",
+        "reason": "孩子寻找另一只鞋并露出疑问，大人指明凳子下的具体位置，在哪里这一位置问题明确。"
+      },
+      "savedPath": "public/images/words/where.webp"
+    },
+    {
+      "senseId": "8c4b9c37f795a3fba82d7779a3d6f187e18d3b3d38aaaa862af8e63014e32093",
+      "word": "same",
+      "pos": "adj.",
+      "meaning": "相同的",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: same, adj., 相同的. Two identical red knitted mittens, both same hand orientation, each with exactly the same blue cuff and small white stripe, arranged side by side at equal scale and angle on a simple wooden table. An adult's two hands gently place each mitten side by side for comparison. Exact match in color, shape, size and pattern is the dominant idea. No mirror-image pair and no extra differing objects.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/same.png",
+      "alt": "两只大小、方向、颜色和花纹相同的红手套并排放着",
+      "selfReviewNotes": "已目视原图：两手套同向、同色同花纹同大小，符合相同；也可能首读为手套或一对。无文字数字，比较线索强。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/same.webp",
+      "intendedSavedPath": "public/images/words/same.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-32310853-12f1-49c9-bb65-5ae7601a18d9.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "32",
+        "primary": "两只一模一样的红色手套",
+        "alternatives": [
+          "一双手套",
+          "比较两只手套"
+        ],
+        "confidence": "high",
+        "issues": "两只手套并排呈现且拇指都朝左，更像同向的两只相同手套，而非清楚的一左一右配对；双手只是拿住袖口。",
+        "decision": "accepted",
+        "reason": "两只手套大小、颜色、花纹与朝向完全相同，并列比较直接传达相同的。"
+      },
+      "savedPath": "public/images/words/same.webp"
+    },
+    {
+      "senseId": "b0a1828ad3cde7c2428d345ecd0664dbe4717c51a2a8f5dc3b77a5ede0eb2c87",
+      "word": "high",
+      "pos": "n.",
+      "meaning": "高度",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: high, n., 高度 (HEIGHT as a vertical measurement noun, not merely something tall or high). Show a child standing upright barefoot against a wall with a simple unnumbered wooden measuring rod, adult holds a flat set square level across the top of child's head. Next to child, a clear thin blue double-headed vertical arrow extends exactly from floor to top of head with short horizontal endpoint lines. Make the measured vertical span the focal point, not a comparison to another person. No numerals or ruler labels.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/high.png",
+      "alt": "成人测量孩子从地面到头顶的垂直高度",
+      "selfReviewNotes": "已目视原图：测量尺、头顶水平尺和脚底到头顶双向箭头清楚表达高度名词；可能更具体读为身高。无数字文字，箭头端点基本准确。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/high.webp",
+      "intendedSavedPath": "public/images/words/high.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-e22d30a7-c24a-4988-b967-52241a730032.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "40",
+        "primary": "大人在给男孩量身高",
+        "alternatives": [
+          "测量男孩有多高",
+          "男孩的身高"
+        ],
+        "confidence": "high",
+        "issues": "脚底到头顶的双向箭头、墙边尺子和头顶量板表达明确；没有前后对照，不能直接推断长高了。",
+        "decision": "accepted",
+        "reason": "脚底到头顶的测量箭头、量板和尺子共同呈现高度，未误用高处或高的义项。"
+      },
+      "savedPath": "public/images/words/high.webp"
+    },
+    {
+      "senseId": "8a826e14dbf65537cc8b020fa4f1b3dae78049b9f2f163bf2e05717d15c18456",
+      "word": "number",
+      "pos": "n.",
+      "meaning": "数",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: number, n., 数 (number as quantity, without written digits). Three separate shallow trays each contain a clear quantity of identical red wooden counters: one counter, three counters, five counters. Under each tray is a matching group of small blue counting beads showing the same quantity. Clear one-to-one matching of amount to count, clean restrained visual. No digits, letters, mathematical symbols, or numbers written. Do not show a person counting, because target is the noun concept.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/number.png",
+      "alt": "三组红筹码分别有一、三、五个，与下方同样数量的蓝珠对应",
+      "selfReviewNotes": "已目视原图并数过：红筹码和蓝珠数量分别1、3、5且一一对应。数量概念可读，但也可能是配对或计数；无书写数字，noun 数需盲审判断。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/number.webp",
+      "intendedSavedPath": "public/images/words/number.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-ca9fe1e0-1c05-43b1-b6f7-e81f109cb62e.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "31",
+        "primary": "三组物品分别有一、三、五个，上下数量一一对应",
+        "alternatives": [
+          "红圆片和蓝珠一样多",
+          "数量逐渐增加"
+        ],
+        "confidence": "medium",
+        "issues": "同时存在一三五的数列和每组上下等量两种显著关系；没有标记说明应关注等量、递增还是奇数。",
+        "decision": "accepted",
+        "reason": "不同组实物与对应数量珠子建立一、三、五的计数关系，表达抽象的数，不只呈现单个物体。"
+      },
+      "savedPath": "public/images/words/number.webp"
+    },
+    {
+      "senseId": "b981129188b408d0661705da3b57fabcf4a8ee82fc56c238ebe635bb87a8f723",
+      "word": "really",
+      "pos": "adv.",
+      "meaning": "实际上",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: really, adv., 实际上 (actually, in reality; NOT very or intensification). One coherent left-to-right reveal of mistaken appearance versus actual truth: on left a child sees an apparently enormous scary rabbit-shaped shadow on a curtain and looks surprised; on right the same curtain is pulled aside to reveal the actual tiny harmless toy rabbit close to a desk lamp casting that enlarged shadow. Keep toy, lamp beam, curtain and shadow spatially coherent. A small curved arrow connects apparent giant shadow to the tiny real toy. Reality reveal is the essential concept. No text or punctuation.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/really.png",
+      "alt": "孩子以为帘后有巨大兔子，拉开帘子发现实际上只是灯旁的小兔玩具",
+      "selfReviewNotes": "已目视原图：表象巨大影子到真实小玩具的揭示清楚，未改成非常；但也可能首读为影子、发现或原来，副词实际上难唯一。灯位和影子投射物理关系有简化，需重点盲审。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/really.webp",
+      "intendedSavedPath": "public/images/words/really.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-c78467c7-ccaa-47f8-8dc9-bcc948103956.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "44",
+        "primary": "孩子发现巨大的兔子影子原来来自小兔玩偶",
+        "alternatives": [
+          "揭开影子的真相",
+          "被大影子吓到后查看来源"
+        ],
+        "confidence": "high",
+        "issues": "两幅画和箭头明确表现先看到影子、再拉开帘子查看。 左侧表情像惊讶或害怕，无法确定恐惧程度。",
+        "decision": "accepted",
+        "reason": "先看似巨大的兔形影子，再揭开帘子发现实际是小玩偶，表象与真相的对照清楚。"
+      },
+      "savedPath": "public/images/words/really.webp"
+    },
+    {
+      "senseId": "227cb7603c102a6fb015b5c3dbd22c5d1502237a85dfddcf27775394d3d6835d",
+      "word": "most",
+      "pos": "n.",
+      "meaning": "最多",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: most, n., 最多 (the largest quantity among several). Three equal-size shallow bowls side by side, each filled with identical-size red apples: left bowl has two, center bowl has eight piled high, right bowl has four. A child points clearly only to the center bowl which has visibly the greatest amount. Soft blue oval around center bowl reinforces maximum in this comparison. All bowls identical size, no trophy, no size comparison between apples, no numerals or text.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/most.png",
+      "alt": "三个相同碗中的苹果数量不同，孩子指出中间苹果最多的一碗",
+      "selfReviewNotes": "已目视原图：左2、中8、右3，右边未满足prompt的4个，但中间最多的比较关系完全保留。目标是最多，不是大多数。无文字数字，中心圈和手指强化最大数量。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/most.webp",
+      "intendedSavedPath": "public/images/words/most.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-4ede831b-58b5-48b1-9f66-a26051084ab7.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "09",
+        "primary": "中间那碗苹果最多",
+        "alternatives": [
+          "女孩选择苹果最多的一碗",
+          "指着中间的苹果"
+        ],
+        "confidence": "high",
+        "issues": "三碗数量形成对比，手指和蓝圈同时突出中间最多的一碗，指向清楚；也可能是在选这一碗。",
+        "decision": "accepted",
+        "reason": "三碗苹果形成少、中、多比较，手指和圈共同突出数量最多的一碗。"
+      },
+      "savedPath": "public/images/words/most.webp"
+    },
+    {
+      "senseId": "2fc254068ef5dbf98906186a8c4f7d247031634558f258ada7c4d7a32d6db184",
+      "word": "yes",
+      "pos": "adv.",
+      "meaning": "是",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: yes, adv., 是 (affirmative answer). Two people in conversation: an adult holds out a single red apple at child's chest height with an inviting questioning palm. Child looks at adult, smiles and clearly nods head down, with subtle curved up-and-down motion arrows beside head, and extends open hands to accept apple. One concrete scene of affirmative acceptance. No thumbs-up, no check marks, no words or punctuation.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/yes.png",
+      "alt": "孩子点头回应成人递来的苹果，表示肯定和接受",
+      "selfReviewNotes": "已目视原图：微笑、伸手接受与头旁向下箭头表达点头肯定；也可首读接受苹果或想要，肯定答复可能不唯一。无文字数字，手部线条略简化。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/yes.webp",
+      "intendedSavedPath": "public/images/words/yes.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-135301cc-e8a7-4ade-b5f0-785c0283e335.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "12",
+        "primary": "孩子点头接受递来的苹果",
+        "alternatives": [
+          "点头表示愿意",
+          "大人给孩子苹果"
+        ],
+        "confidence": "high",
+        "issues": "头旁的向下箭头和动作线支持点头，孩子摊开双手等待接取；仅凭静态画面不能确定是在同意、道谢，还是单纯接苹果。",
+        "decision": "accepted",
+        "reason": "面向递苹果的人点头，头部箭头和动作线明确肯定回应，符合是。"
+      },
+      "savedPath": "public/images/words/yes.webp"
+    },
+    {
+      "senseId": "22f1272ea1a94dbe304d32a86590f445fc920db945223d79e9f8109241889a8d",
+      "word": "family",
+      "pos": "n.",
+      "meaning": "家庭",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: family, n., 家庭. A close affectionate family group at home, two adults and two children sitting together on a sofa, grandmother beside them in an armchair. One parent gently hugs a child, other child leans against grandmother; warm natural expressions and clear age generations. A small framed portrait behind them shows exactly the same group, reinforcing family relationship. Minimal home setting, no text.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/family.png",
+      "alt": "父母、两个孩子和祖母在家中依偎，墙上挂着同一家庭的合照",
+      "selfReviewNotes": "已目视原图：三代家人及同组人物合照，家庭关系清楚。模型额外加入了睡狗和不少室内装饰，画面边缘留白不足，但不改变词义；无文字数字。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/family.webp",
+      "intendedSavedPath": "public/images/words/family.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-1c72cca2-a67a-4f08-8ef9-88ca6f844cd3.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "11",
+        "primary": "一家人温馨地待在一起",
+        "alternatives": [
+          "家庭",
+          "家人之间的亲密和关爱"
+        ],
+        "confidence": "high",
+        "issues": "儿童、成年人、老人和相同人物的墙上合照共同说明家庭关系；不能仅凭画面确认老人属于祖母还是外祖母。",
+        "decision": "accepted",
+        "reason": "儿童、成年人和老人亲密相处，墙上相同成员的合照进一步明确家庭关系。"
+      },
+      "savedPath": "public/images/words/family.webp"
+    },
+    {
+      "senseId": "f16a04406aad798a18b93234d076bc4ef04fcb668e7edf3a72f433ccdcf7fc9d",
+      "word": "house",
+      "pos": "n.",
+      "meaning": "房子",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: house, n., 房子. One complete recognizable freestanding small house, three-quarter view, visible pitched terracotta roof, front door, windows and solid walls, modest garden path leading to the door. Centered single main object with generous warm white space, no people, no detailed scenery competing with the building.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/house.png",
+      "alt": "一栋有红瓦屋顶、门窗和花园小路的房子",
+      "selfReviewNotes": "已目视原图：单栋完整房屋主体突出，房子名词清楚，方形留白适当。园景较多但未抢主体，无文字数字。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/house.webp",
+      "intendedSavedPath": "public/images/words/house.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-dc8e7993-22e2-403c-9b13-d92c92e60407.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "57",
+        "primary": "一栋带花园的小房子",
+        "alternatives": [
+          "住宅",
+          "家"
+        ],
+        "confidence": "high",
+        "issues": "建筑本身明确；没有人物或归属信息，不能从画面确定是谁的家。",
+        "decision": "accepted",
+        "reason": "独立住宅有清楚屋顶、墙体、门窗与入口，房子主体明确。"
+      },
+      "savedPath": "public/images/words/house.webp"
+    },
+    {
+      "senseId": "329e19bbd4885594b4cb3daf9597c58afda8633317feb1023381453ff4a8dce9",
+      "word": "again",
+      "pos": "adv.",
+      "meaning": "再一次",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: again, adv., 再一次 (one more time, repeating an action). Three compact borderless sequential moments of the SAME child rolling a blue ball down the SAME small wooden ramp: first left child releases ball at ramp top, middle child picks ball up at bottom, right child releases it at top once more. A blue curved return arrow from bottom ball in middle to ramp top at right explicitly shows repeating the identical action. Same child clothes, ball, ramp and viewpoint throughout. No text, no numeral labels.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/again.png",
+      "alt": "孩子让球滚下斜坡，捡起后又从坡顶放球，再做一次",
+      "selfReviewNotes": "已目视原图：放球—捡球—再次放球，首尾重复且回到坡顶箭头明确；也可理解重复玩球，符合再一次。三场景缩图可读，无文字数字。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/again.webp",
+      "intendedSavedPath": "public/images/words/again.webp",
+      "reviewed": true,
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-14604abc-f731-446e-a0a5-9d3376a025e1.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "14",
+        "primary": "捡起球后再让它从斜坡滚下",
+        "alternatives": [
+          "重复同一个动作",
+          "玩斜坡滚球"
+        ],
+        "confidence": "high",
+        "issues": "左、右画面动作相同，中间捡球并有箭头指向右侧，重复过程清楚；三个人物需要读作同一个孩子的连续动作，而不是三个人。",
+        "decision": "accepted",
+        "reason": "相同孩子先放球、捡球，再放球，顺序箭头与重复动作明确再一次。"
+      },
+      "savedPath": "public/images/words/again.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "f6eccc28824bdcd2f6f4edcc9f378d52dfbcb4c037e2bd70e6dadbc107dda8ee",
+      "word": "need",
+      "pos": "n.",
+      "meaning": "需要",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: need, n., 需要 (a need or necessity, not a wish). Show a concrete NEED FOR WATER: a thirsty child after exertion sits beside an empty water glass, visibly dry lips and fatigued expression, hand on throat; a thought bubble contains only a clear glass of drinking water. A faint secondary linked scene to the right shows the same child drinking water and recovering. Focus on essential lack then fulfilment, no gifts or luxury desires.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/need.png",
+      "alt": "口渴的孩子面对空杯，需要水，随后喝水解渴",
+      "selfReviewNotes": "已目视原图：缺水、空杯和补水前后因果清楚，但首读可能是口渴或喝水；名词需要无法仅由图锁定，建议重点盲审。无文字数字。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/need.webp",
+      "intendedSavedPath": "public/images/words/need.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-0e64097a-5a49-4e15-8db6-9eaffb6be23a.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "58",
+        "primary": "男孩口渴，想喝水，随后喝水解渴",
+        "alternatives": [
+          "口渴了",
+          "运动后喝水"
+        ],
+        "confidence": "high",
+        "issues": "出汗、扶喉咙、空杯和想象中的水共同表达口渴，后图明确饮水。 衣着和汗水暗示运动后，但运动过程没有出现。",
+        "decision": "deferred",
+        "reason": "主要直观含义是口渴或喝水，抽象的需要没有清楚独立于具体状态。"
+      }
+    },
+    {
+      "senseId": "4d1463963881c556b0b124f92f827e0cdfe32acf9515ffc953a3c808e13f3721",
+      "word": "never",
+      "pos": "adv.",
+      "meaning": "从不",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: never, adv., 从不 (never, not at any time). Three small sequential borderless scenes arranged horizontally depict the SAME child repeatedly declining the SAME offered cookie. First scene morning sun, second afternoon sunlight, third moon seen through the same window; each time child gently raises a clear stop palm and turns head away, cookie remains untouched on the same plate. A small blue connecting arrow between scenes. The invariant repeated non-action across time must be legible. No prohibition symbol or text.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/never.png",
+      "alt": "同一个孩子从早到晚每次都拒绝饼干，从不吃它",
+      "selfReviewNotes": "已目视原图：三时段重复拒绝可表达从不，但也可能被读为不喜欢或总是拒绝；早晚线索明确，中间只是白天。无文字数字。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/never.webp",
+      "intendedSavedPath": "public/images/words/never.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-c5d9c06a-b32a-4787-8fe1-49665ffcdbc9.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "21",
+        "primary": "女孩从白天到晚上都拒绝吃递来的饼干",
+        "alternatives": [
+          "一直拒绝",
+          "不想吃饼干"
+        ],
+        "confidence": "high",
+        "issues": "三格中的转头和抬掌明确表示拒绝，窗外日夜变化表示时间经过；难以单凭画面区分暂时一直拒绝与从不吃。",
+        "decision": "deferred",
+        "reason": "仅表现一天内多次拒绝饼干，仍可解释为暂时拒绝，未明确从不的持续习惯。"
+      }
+    },
+    {
+      "senseId": "688d693ad547513423bc4c7b92bce7f5618dd6537509e12361901f906415133e",
+      "word": "another",
+      "pos": "adj.",
+      "meaning": "另外的",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: another, adj., 另外的 (a different additional one). Child has one red ceramic mug already sitting directly in front of them, then reaches past it toward a separate blue ceramic mug offered by adult's hand. Both mugs fully visible with identical size but clearly different colors. A subtle curved arrow from child's outstretched hand to the blue mug makes choosing the OTHER mug unmistakable. No drinking or pouring, no duplicate ghost mugs.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/another.png",
+      "alt": "孩子面前已有红杯，又伸手接另外一只蓝杯",
+      "selfReviewNotes": "已目视原图：已有红杯与另外蓝杯的区别明确；仍可能读作接杯子、想要蓝色或换一个，另外的需盲审。无文字数字，手指自然。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/another.webp",
+      "intendedSavedPath": "public/images/words/another.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-4c725755-659d-4d30-a5ea-177c6ec4cf9d.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "24",
+        "primary": "孩子伸手想要大人手里的蓝杯子",
+        "alternatives": [
+          "大人递杯子给孩子",
+          "孩子把杯子递给大人"
+        ],
+        "confidence": "medium",
+        "issues": "孩子伸手、成人托杯，未发生明确交接；箭头朝右侧杯子，既可能是指向想要的物品，也可能表示向右递送，给与拿的方向不完全明确。",
+        "decision": "deferred",
+        "reason": "伸手与箭头更像要杯子或递杯子，已有红杯与另一蓝杯的区别关系未被清楚表达。"
+      }
+    },
+    {
+      "senseId": "908ce1b34042828056319c937510d6a631b802137aed92f181aff233552573b2",
+      "word": "much",
+      "pos": "adj.",
+      "meaning": "很多的",
+      "prompt": "Use case: illustration-story. Create one square vocabulary-card illustration, warm off-white paper background, hand-painted gouache with subtle colored-pencil texture, soft daylight, muted green blue and coral, clear simple concrete scene centered within middle 75%, generous empty margins, readable at small size. No letters, written words, numerals, labels, logos, watermarks, border, UI, or unrelated decoration. Illustrate ONLY the specified meaning; do not place the target word in the art.\nExact target: much, adj., 很多的 (a large amount of an uncountable substance). One large transparent glass jar full almost to the top with abundant golden honey, a small spoon lifting a thick generous ribbon of honey above it; honey forms an ample rounded pool in a shallow bowl nearby. The abundant quantity of one continuous substance is clear. No numbered scale, no labels, no comparison trays, no many countable fruits.",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/c/source/much.png",
+      "alt": "大罐和碗里装着很多蜂蜜，勺中浓稠蜂蜜流下",
+      "selfReviewNotes": "已目视原图：大量连续物质符合many/much区别，但没有强数量对照，首读很可能是蜂蜜而非很多的，建议重点盲审。模型添加了花叶和布装饰；勺柄被顶边裁切，留白少。",
+      "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/much.webp",
+      "intendedSavedPath": "public/images/words/much.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e692-e7e2-73e2-be88-44354d80009b/exec-82f18753-2fc5-402f-85d8-31191b36854d.png",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "33",
+        "primary": "浓稠的蜂蜜从勺子流回罐子",
+        "alternatives": [
+          "蜂蜜"
+        ],
+        "confidence": "high",
+        "issues": "可见流动方向和稠度；没有人物，无法判断是舀起后滴落还是主动往罐里倒。",
+        "decision": "deferred",
+        "reason": "画面主要是蜂蜜和滴落动作，缺少能区别很多与普通一罐蜂蜜的数量线索。"
+      }
+    }
+  ],
+  "pending": [],
+  "generatedCount": 15,
+  "verification": {
+    "candidateCount": 15,
+    "uniqueImageCount": 15,
+    "dimensions": "640x640",
+    "encoding": "cwebp -q 82 -resize 640 640",
+    "allOriginalCopiesByteIdentical": true,
+    "allViewedIndividually": true
+  }
+}

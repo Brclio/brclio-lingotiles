@@ -1,0 +1,441 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260928-0638-a",
+  "assets": [
+    {
+      "senseId": "1fb4344fb4850036d8bc600e46580417044e3b4874153be62892e2c905b46449",
+      "word": "only",
+      "pos": "adj.",
+      "meaning": "唯一的",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: only / adj. / 唯一的.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A broad low wicker fruit basket seen from a clear slightly elevated angle contains exactly ONE red apple tucked off-center near its left side. The large rest of its completely empty interior is fully exposed. Beside it lies the tipped lid, plain and empty. A child's two hands hold the basket edges and tilt it toward the viewer to show that no other fruit remains. The lone apple and the unmistakably empty surrounding container must immediately communicate the sole remaining item. No grid, no central-position emphasis, no additional fruit anywhere.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "孩子倾斜展示空旷的大篮子，篮内左侧只剩一个红苹果。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-10662ddf-1fd3-40bb-9cc8-9d38088f2b92.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/only.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/only.webp",
+      "intendedSavedPath": "public/images/words/only.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：篮内仅一个偏左苹果，其余内部完整空出，没有中央格子干扰；无文字。疑点：仍可能只读成一个苹果或展示篮子；头顶略被画幅裁切，不影响主要数量线索。待盲审。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "08",
+        "primary": "篮子里只有一个苹果",
+        "alternatives": [
+          "女孩展示篮子里的苹果",
+          "几乎空的篮子"
+        ],
+        "confidence": "high",
+        "issues": "篮子开口朝向观看者，一个苹果清楚可见；较大的空余面积也可能用来强调剩得少，不能确认具体数量概念还是容器内的位置。",
+        "decision": "accepted",
+        "reason": "敞开的大篮子里仅有一个苹果且其余空间全部可见，清楚突出唯一的物品，不再强调居中位置。"
+      },
+      "savedPath": "public/images/words/only.webp"
+    },
+    {
+      "senseId": "c5a769cbff4c5f46e26efc64154c7634885747bd0d44314d239d14b57ee6678c",
+      "word": "give",
+      "pos": "n.",
+      "meaning": "弹性",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: give / n. / 弹性.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: Show the ELASTICITY of one green coil spring through two large tightly connected consecutive states on the same uncluttered tabletop. On the left, two fingers press the top of a short compressed green spring downward. On the right, the same spring has been released and has visibly sprung back to its original tall coil shape; the fingers are lifted away above it. A clear curved arrow leads from compressed to restored, with two small upward motion strokes beside the restored spring. Both ends rest on the same table level. Focus on spring-back recovery after pressure, not handing over or softness. Anatomically correct fingers.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "同一绿色弹簧先被手指压缩，再在手指抬起后向上恢复高度，箭头连接两种状态。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-bb88e21a-45dd-400a-a191-385051edbf22.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/give.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/give.webp",
+      "intendedSavedPath": "public/images/words/give.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：压缩和松手回弹的两个状态及向上箭头清楚，明显加入上轮缺少的恢复形状线索，无文字数字。疑点：可能首读为弹簧或压缩回弹动作；两状态的可见线圈数略有差异，需独立盲审。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "49",
+        "primary": "被压缩的弹簧松手后弹回原状",
+        "alternatives": [
+          "弹簧回弹",
+          "松开弹簧"
+        ],
+        "confidence": "high",
+        "issues": "按压、松手及向上箭头一致，过程明确。",
+        "decision": "accepted",
+        "reason": "弹簧从受压缩短到松手恢复长度，回弹动作和方向明确，直接呈现弹性而非仅柔软。"
+      },
+      "savedPath": "public/images/words/give.webp"
+    },
+    {
+      "senseId": "b266f8c5808ec6e40bff514f1c45c0694d19e16ea47d4d82030f1b387688c731",
+      "word": "good",
+      "pos": "n.",
+      "meaning": "善行",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: good / n. / 善行.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A teenage girl performs a clear helpful GOOD DEED by pushing an adult man's wheelchair up a short gentle access ramp into a garden. The man sits comfortably with both hands resting visibly on his own lap; the girl's exactly two hands each firmly hold one rear push handle. Her body leans forward with effort. The wheelchair's wheels touch the slope. The man turns his head back toward her with a grateful smile. Full figures, exactly two arms per person, simple uncluttered ramp, no bystanders or decorations. The helpful act is the focal subject.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "女孩握住轮椅后方推手，帮助坐轮椅的男人上斜坡，男人回头向她微笑。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-4641a74f-0adb-40fe-897a-a773cdff217e.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/good.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/good.webp",
+      "intendedSavedPath": "public/images/words/good.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：女孩用力推轮椅上坡，坐者回头感激微笑，帮助行为清楚；人物各两条手臂，没有上轮三手错误。无文字数字。疑点：可被描述为推轮椅或帮助，善行这一名词概括仍需盲审；轮椅远侧推手被身体遮住。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "41",
+        "primary": "女孩推着坐轮椅的男人上坡",
+        "alternatives": [
+          "帮助坐轮椅的人",
+          "推轮椅"
+        ],
+        "confidence": "high",
+        "issues": "推轮椅和上坡都很清楚；无法仅凭画面确定两人的亲属或照护关系。",
+        "decision": "accepted",
+        "reason": "女孩主动帮助坐轮椅的人上坡，善行通过实际助人动作呈现，人物肢体没有上一版多余手部的问题。"
+      },
+      "savedPath": "public/images/words/good.webp"
+    },
+    {
+      "senseId": "c08e9cdbe4eb9e8ae83aa505414589289cc3cac173df921c113c0992714ed0c1",
+      "word": "more",
+      "pos": "n.",
+      "meaning": "更多",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: more / n. / 更多.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: Show ADDITIONAL QUANTITY using two successive states of the same shallow white bowl on one simple tabletop. The small earlier state at left has only two red strawberries. A single clear arrow points toward the large main state at right, where that same bowl now contains a generous additional heap of strawberries, visibly much more than before. In the main state a hand finishes adding the last strawberry onto the heap. The two original strawberries remain clearly visible in the lower front of the bowl and the added berries pile above them. No receiving palm, no poured liquid, no numerals or plus signs. Emphasize the increase in the amount, not merely pouring.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "左侧碗里只有两颗草莓，箭头指向右侧堆满草莓的碗，一只手还在加入草莓。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-8ca06533-aad0-47ea-86f8-1aa26839310d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/more.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/more.webp",
+      "intendedSavedPath": "public/images/words/more.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：少量与明显更大量的草莓有前后箭头连接，补足上轮缺少的数量对比；无文字数字，手部无明显多指。疑点：也可能理解为少与多或增加，两个碗是否被当作同一容器的连续状态需盲审判断。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "48",
+        "primary": "草莓由少变多，往碗里添加草莓",
+        "alternatives": [
+          "更多的草莓",
+          "装满一碗草莓"
+        ],
+        "confidence": "medium",
+        "issues": "左右两碗和箭头清楚表现数量增加。 拿着草莓的手没有独立运动标记，单看手势也可能是在拿走草莓；两碗可能是数量对比，也可能是前后变化。",
+        "decision": "accepted",
+        "reason": "两碗从少到多的明显数量差异由箭头相连，添加动作进一步支持更多。"
+      },
+      "savedPath": "public/images/words/more.webp"
+    },
+    {
+      "senseId": "0fb8a67c5f5e70ef002d7f8664be17fdd572fb8557ab5dba58b5d4ebd7220a6f",
+      "word": "how",
+      "pos": "adv.",
+      "meaning": "如何",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: how / adv. / 如何.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: An inquisitive child at a desk holds a completely flat blank sheet of paper in one hand and turns their other palm upward toward a friendly adult, visibly asking for the WAY to turn the sheet into a paper airplane. A finished simple paper airplane stands in clear view between them. The adult answers by pointing to a large thought-like demonstration bubble directly above the blank sheet: inside the bubble, the same blank sheet is shown folded lengthwise and then with its two corners folded inward, joined by one small arrow. The child's puzzled raised eyebrows and gaze connecting sheet, airplane and demonstrated fold should emphasize seeking a method. Keep these few elements large. No question mark, writing, speech text or numbered instructions.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "孩子拿着白纸摊手询问，大人指向由纸张变成飞机折法的示意气泡，桌上放着完成的纸飞机。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-a45eff3f-987a-4778-b9c0-912de75b1611.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/how.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/how.webp",
+      "intendedSavedPath": "public/images/words/how.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：孩子疑问表情与摊手、手中白纸、成品飞机及步骤气泡共同呈现询问做法；无文字数字。疑点：首读也可能是教折纸或学习方法；气泡只表示初步折法，尚非完整纸飞机教学。待盲审。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "04",
+        "primary": "大人教孩子折纸",
+        "alternatives": [
+          "解释折纸步骤",
+          "孩子询问怎样折纸"
+        ],
+        "confidence": "high",
+        "issues": "大人指向折纸步骤图，孩子持纸并摊手，教学关系清楚；气泡也可能表示构想，具体纸张最终要折成什么并不完全一致。",
+        "decision": "accepted",
+        "reason": "孩子摊手发问，大人指出连续折纸方法图，询问与解释如何操作的关系具体可见。"
+      },
+      "savedPath": "public/images/words/how.webp"
+    },
+    {
+      "senseId": "cee5078d13866f2b3bb36a0547119cceee38cb2e76ab53c7c7294a7f82d5dccb",
+      "word": "any",
+      "pos": "adj.",
+      "meaning": "任何的",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: any / adj. / 任何的.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A child is invited to freely choose from a low tray containing one apple, one pear and one orange. An adult's open hand sweeps above the ENTIRE tray, offering all choices equally. Above the tray, a single large thought bubble contains three small separate possible reaching hands, each choosing a DIFFERENT fruit, with a small green approval tick beside EVERY choice. The real child's hand is held neutrally above the center and has not selected anything. Show that whichever one is chosen is allowed, all alternatives equally acceptable. The three possibilities belong to this ONE choice scenario. No letters, words, numbers, crossed-out fruit or preferential emphasis.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "成人向孩子展示三种水果，孩子头上的气泡中每一种选择旁都画着绿色对勾，表示任选都可以。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-a79c7909-50b9-47cb-94d2-9cbc7be44063.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/any.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/any.webp",
+      "intendedSavedPath": "public/images/words/any.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：三种选项分别有拿取动作与对勾，等同允许的关系清楚，孩子尚未拿走具体水果；无文字数字。疑点：气泡里的不同袖色可能被读为不同人各选一种，或被理解为所有水果都好；任意性需盲审确认。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "50",
+        "primary": "孩子可以从三种水果中任选一种",
+        "alternatives": [
+          "挑选水果",
+          "三种水果都可以选"
+        ],
+        "confidence": "medium",
+        "issues": "三个带勾的选取画面支持每一种都可选。 孩子的手没有明确落在某一种水果上；没有数量限制符号，因此只能推测是任选一种，也可能只是表示都允许拿。",
+        "decision": "accepted",
+        "reason": "三个备选水果的独立取用画面都带对勾，清楚显示任何一种都可以选，未指定唯一选择。"
+      },
+      "savedPath": "public/images/words/any.webp"
+    },
+    {
+      "senseId": "8960591bad860c428b0c54c34af76133ff023b91c1d6551470590ed0b69ba1c5",
+      "word": "our",
+      "pos": "pron.",
+      "meaning": "我们的",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: our / pron. / 我们的.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: Two siblings stand close together beside their small garden shed. The shed door displays one large simple framed portrait medallion depicting BOTH of their recognizable faces together, identifying joint ownership without letters. Each sibling holds an identical key that fits the single visible lock on that shed; one key is poised close to the lock, the other is held next to it. Both children gesture toward their chests with their free hands and smile at an outside observer. Keep the joint face medallion, two matching keys and shared shed large and clear. Express belonging to both of us, not simply playing together or pointing at ourselves. No written names or house numbers.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "两个孩子指着自己，各拿一把同款钥匙靠近同一把门锁，门上挂着他们两人的合画像。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-c9fd5d5e-3bfe-4d2d-a702-e65817c2d4db.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/our.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/our.webp",
+      "intendedSavedPath": "public/images/words/our.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：共同画像、同款钥匙和同一门锁提供共同归属线索，两人自指清楚，肢体无明显错误，无文字数字。疑点：也可能看成我们的钥匙或共同开门；画像和钥匙在80px下是否仍可辨认需盲审。钥匙只是靠近锁，未插入。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "30",
+        "primary": "这间小屋属于这两个孩子",
+        "alternatives": [
+          "两个孩子共同拥有小屋",
+          "两个人都有小屋的钥匙"
+        ],
+        "confidence": "medium",
+        "issues": "门上双人头像、两人指自己和各持钥匙支持共同归属；也可能只是展示两个人都有钥匙，画面不能排除小屋属于其他人的情况。",
+        "decision": "accepted",
+        "reason": "两个孩子指向自己、持钥匙，小屋门上的双人头像与他们对应，共同归属线索明显。"
+      },
+      "savedPath": "public/images/words/our.webp"
+    },
+    {
+      "senseId": "f0cbfabdd77cfca932420be03960283d6a496f9f2470870088b9eb1bc9668cf5",
+      "word": "may",
+      "pos": "v.",
+      "meaning": "可以",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: may / v. / 可以.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A child stands on one side of a low garden gate with a ball tucked under one arm, waiting to enter a play area. An adult gatekeeper visibly grants PERMISSION: one hand has lifted the horizontal latch and swings the gate open, while the other gives a clear approving thumbs-up toward the waiting child. The child looks to the adult for approval before stepping across the threshold. In a small faint earlier position directly behind the main gate, the same gate is closed and the same child waits; one short arrow connects closed gate to open gate. Show the change from waiting for approval to being allowed in. No farewell waving, invitations from afar, written symbols, text or signs.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "孩子先抱球等在关闭的门外，随后成人抬起门闩开门并竖拇指，孩子准备进入游乐区。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-8dabeb7f-99db-4aa9-aa1c-2b681195346d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/may.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/may.webp",
+      "intendedSavedPath": "public/images/words/may.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：左上等待关门与主体获成人开门同意的前后关系清楚，游乐区方向明确，无送别挥手；无文字数字。疑点：还是可能先读为开门、进入或成人帮助，许可这一抽象关系需盲审；门闩细节在缩略图较小。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "56",
+        "primary": "大人为男孩打开门，示意允许他进去玩",
+        "alternatives": [
+          "开门迎接孩子",
+          "孩子得到进入的许可"
+        ],
+        "confidence": "high",
+        "issues": "关门到开门的前后图、竖拇指和孩子向前走共同支持允许进入。 无法确定男孩之前是否提出过请求，也无法确定两人的身份关系。",
+        "decision": "accepted",
+        "reason": "前图关闭入口、后图管理者开门示意孩子进入，盲审首读为获得许可，比单纯送别更清楚。"
+      },
+      "savedPath": "public/images/words/may.webp"
+    },
+    {
+      "senseId": "72d03e287d70c3974756cf22812eaece211376862ddbcff2fe492b248650642b",
+      "word": "want",
+      "pos": "n.",
+      "meaning": "需要的东西",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: want / n. / 需要的东西.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: The THING THAT IS NEEDED is one large brass key in the foreground. Behind it, a child's closed small wooden treasure chest has a clearly visible simple keyhole. A thought bubble emerging from the child contains the exact same brass key silhouette, matching the key in the foreground. The child holds the chest's locked lid with one hand and reaches toward the actual key with the other, linking a concrete need to the required object. The key and its matching lock are prominent, simple and mechanically plausible. Emphasize the missing necessary tool to open the chest, not greed, receiving gifts or a puzzle piece. No text or symbols.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "孩子扶着锁住的木箱，伸手拿桌上的黄铜钥匙，头顶气泡里想着同款钥匙。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-3667be71-610e-4af2-82ff-9e1f4430315b.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/want.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/want.webp",
+      "intendedSavedPath": "public/images/words/want.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：上锁箱子与显著钥匙、同款钥匙思考气泡共同显示所需工具，避免了拼图凸凹不匹配；无文字数字，手部无明显多指。疑点：可首读为钥匙、想拿钥匙或开箱；前景钥匙透视放大，是否真能配锁不能由外形完全验证。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "26",
+        "primary": "男孩伸手拿钥匙，想打开上锁的箱子",
+        "alternatives": [
+          "想要钥匙",
+          "需要钥匙开箱子"
+        ],
+        "confidence": "high",
+        "issues": "伸手和想象框都指向钥匙，钥匙与箱锁的关系清楚；尚未实际拿起钥匙或开锁。",
+        "decision": "accepted",
+        "reason": "箱子处于锁住状态，孩子伸手向钥匙且气泡重复钥匙，明确显示完成开箱目标所需要的东西。"
+      },
+      "savedPath": "public/images/words/want.webp"
+    },
+    {
+      "senseId": "d238ab773fa6be51c19952ada2aefdaf778d752f2ec460ecaecaf65f7f6ad37e",
+      "word": "should",
+      "pos": "v.",
+      "meaning": "应该",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: should / v. / 应该.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A child riding a small bicycle has stopped before setting off and is about to put on a helmet. A caring adult beside them points upward toward the child's bare head, then clearly toward the protective helmet the child holds. Above the bicycle is a large simple thought vignette: the SAME child already riding with the helmet properly on, surrounded by a green approval tick. The actual child's attentive expression and paused departure show a recommendation about what ought to be done before riding, with the desired safe action depicted clearly. Use exactly two arms per person. Do not show a gift exchange or merely handing over a helmet. No writing, letters, numbers or punctuation.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "成人提醒骑车前的孩子戴头盔，气泡中画出戴好头盔骑行并配绿色对勾的推荐状态。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-ef20c022-1625-4f10-b718-42f714091ae4.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/should.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/should.webp",
+      "intendedSavedPath": "public/images/words/should.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：成人双手分别指向头部与头盔，孩子持自己的头盔，气泡显示戴好后的正确骑行并有对勾，避免递送礼物；人物两臂正常。疑点：主要可能读成戴头盔或安全提醒，应该的建议关系需盲审；车架有微小椭圆装饰，无可读文字。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "51",
+        "primary": "大人提醒孩子骑车要戴头盔",
+        "alternatives": [
+          "戴好头盔再骑车",
+          "教孩子安全骑车"
+        ],
+        "confidence": "high",
+        "issues": "一只手指向孩子头部附近，另一只手指向头盔；气泡中戴头盔骑车并打勾，关系清楚。 不能确定是在提醒、要求，还是解释戴头盔的规则。",
+        "decision": "accepted",
+        "reason": "成人同时指向头部与头盔，气泡展示戴头盔骑行的正确做法，建议或要求的内容具体可见。"
+      },
+      "savedPath": "public/images/words/should.webp"
+    },
+    {
+      "senseId": "bc7c2d67f53f9044ee6d0f93babeb807a87b23d994da9e7cf97b4ac5a185e496",
+      "word": "because",
+      "pos": "conj.",
+      "meaning": "因为",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: because / conj. / 因为.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: Show a direct unmistakable CAUSE AND EFFECT in one integrated garden scene: a boy's foot has just accidentally kicked a small watering can, tipping it over; a continuous stream of water spills from that tilted can onto the ground, forming a puddle exactly where the boy's shoe now lands, making the shoe wet. The boy looks down with a surprised expression and lifts the wet shoe slightly. A short bold curved arrow links the kicked tilted can to the wet shoe, following the visible water trail. The physical chain from kick to spill to wet shoe is clear and connected. Focus on the reason for the wet shoe, not weather or umbrella use. No text, numbers, question marks or unrelated objects.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "倒下的水壶洒出一条连续水流形成水洼，孩子抬起滴水的鞋，箭头从水壶指向湿鞋。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-0f4acefd-764b-4124-91c2-3ff028b4f16f.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/because.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/because.webp",
+      "intendedSavedPath": "public/images/words/because.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：水壶溢水、水路、湿鞋与因果方向箭头构成连续联系，避开上轮雨天撑伞的天气焦点；无文字数字，人体正常。疑点：踢倒水壶的起因没有直接画出；主要可能读成洒水、踩水或鞋湿了，因为的因果概念需盲审。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "47",
+        "primary": "男孩踩到洒出来的水，抬起湿鞋",
+        "alternatives": [
+          "水洒了一地",
+          "踩进水洼"
+        ],
+        "confidence": "high",
+        "issues": "箭头从倒下的洒水壶指向滴水的鞋，强调水与湿鞋的联系。 无法确认男孩踢倒了水壶；画面也没有明确滑倒动作。",
+        "decision": "accepted",
+        "reason": "洒出的水与湿鞋直接相连，因果箭头从倒水壶指向滴水鞋，原因和结果清楚。"
+      },
+      "savedPath": "public/images/words/because.webp"
+    },
+    {
+      "senseId": "e36cb63f48dc7dc2454c5aa87b4dc6134476f68b7a15c68c03509eeca3577666",
+      "word": "those",
+      "pos": "pron.",
+      "meaning": "那些",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: those / pron. / 那些.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A child in the near left foreground points with a fully visible straight extended index finger exactly toward a DISTINCT GROUP of three large red balloons tied together to a post across an open lawn in the far right background. The pointing arm must be unobstructed and its line must intersect the distant balloons themselves, not the ground. A near listener follows the pointing line with their eyes. The far balloons are individually distinct but jointly enclosed by their tied strings, emphasizing a plural group at a distance. Leave a broad empty lawn gap between speaker and balloons. No nearby balloons, no river, no flowers, no speech bubble, no numerals.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "女孩向身旁男孩指示远处木桩上绑着的一组三个红气球，人物与气球之间隔着开阔草地。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-02ab891c-9e98-4745-b5dc-2dd0862ffced.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/those.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/those.webp",
+      "intendedSavedPath": "public/images/words/those.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已逐张查看原图：近处说话者、听者、开阔距离和远处三只气球清楚，指示手臂无遮挡，无文字数字。疑点：手指延长线更接近系绳木桩而非气球球体，精确指向仍未完全达到提示要求；可能首读为远处、气球或那里，必须盲审。人物下半身被画幅裁切。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "53",
+        "primary": "女孩指给男孩看远处的气球",
+        "alternatives": [
+          "那边有气球",
+          "看远处的东西"
+        ],
+        "confidence": "high",
+        "issues": "指向、视线和远处气球一致；无法区分重点是远近位置、指示动作，还是让同伴注意气球。",
+        "decision": "accepted",
+        "reason": "前景两人共同注意远处一组气球，手势无遮挡，复数远指对象清楚，盲审也确认远处气球。"
+      },
+      "savedPath": "public/images/words/those.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "1930b8c30dd00d668dfc0515a1536542a2dc5655f1f98cd4b260bb38e7d10a9b",
+      "word": "other",
+      "pos": "adj.",
+      "meaning": "其他的",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: other / adj. / 其他的.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: A child has clearly SELECTED and lifted one large red wooden toy car in one hand close to their chest. Their other open hand gestures toward a separate low tray holding the REMAINING DIFFERENT toys: a blue boat, a green airplane and a yellow ball, all together and untouched. Make the selected red car and the remaining group visibly separate, with a little clear gap. The remaining group is the main focus. The child is looking at those remaining alternatives. Show the relationship of the other things besides the selected one, not a pair, matching objects, sorting by color, or exchanging gifts.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "男孩抱着已选中的红色玩具车，张开另一只手示意托盘里剩余的船、飞机和球。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-3d13922c-72d2-4739-8a34-c6d065b6ddb0.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/other.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/other.webp",
+      "intendedSavedPath": "public/images/words/other.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看生成原图：选中的红车与托盘内其他不同玩具明显分开，手势朝向剩余组；无文字数字、人物两臂正常。疑点：也可能先读成展示玩具或不同种类，其他的需要盲审确认。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "06",
+        "primary": "孩子在展示一组玩具",
+        "alternatives": [
+          "玩玩具",
+          "几种不同的玩具"
+        ],
+        "confidence": "medium",
+        "issues": "孩子一手拿玩具汽车，另一只手掌朝向托盘；可理解为展示或介绍，也可能只是在选择、玩耍，所有权没有明确证据。",
+        "decision": "deferred",
+        "reason": "主体更像展示玩具或选择玩具，其他的排除已选对象关系不足。"
+      }
+    },
+    {
+      "senseId": "9d6408f6d1915bc89b24e4d4327275a5106d6b1264f5bcb63cdfa427c676d69f",
+      "word": "these",
+      "pos": "pron.",
+      "meaning": "这些",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: these / pron. / 这些.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: Close first-person-like conversational view: a girl stands directly behind a small table edge and touches a close grouped cluster of different fruits directly in front of her with her open hand, fingers spread to indicate the WHOLE NEAR group. Her fingertip visibly contacts the nearest apple while her palm spans the group of apple, pear and banana. Far behind her on a separate distant stand are a few small muted fruit shapes, clearly untouched and out of focus. Her other hand gestures toward a listener at the near edge. Emphasize THIS NEAR PLURAL GROUP by proximity and direct touch, not counting, serving or pointing into the distance. No counting gesture.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "女孩把手张开放在近处一组苹果、梨和香蕉上，向面前的人介绍，远处另有一组模糊水果。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-d92ac75f-425c-4617-9423-9490b06d6bef.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/these.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/these.webp",
+      "intendedSavedPath": "public/images/words/these.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看原图：前景近处水果组大而清楚，手直接触及，背景另有远处水果作距离参照；无文字数字。疑点：触碰集中在苹果上，可能被读为这个苹果、展示水果或请吃水果，近处复数指代仍需盲审。人物头顶略裁切。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "36",
+        "primary": "女孩向对面的人提供桌上的水果",
+        "alternatives": [
+          "请对方挑选水果",
+          "介绍面前的水果"
+        ],
+        "confidence": "medium",
+        "issues": "一手搭苹果、另一手摊开朝对方，像邀请选择或介绍；没有交接动作，无法确认已送出水果，也不清楚是否只推荐苹果。",
+        "decision": "deferred",
+        "reason": "手部接触集中在一个苹果，另一手像邀请或递送，近处复数指代不明确。"
+      }
+    },
+    {
+      "senseId": "95d1d1135a0ea9762355559ab431c7138922a62b07ef01a36faec86fb001b814",
+      "word": "also",
+      "pos": "adv.",
+      "meaning": "也",
+      "prompt": "Use case: scientific-educational.\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: also / adv. / 也.\nPrimary requirement: convey precisely this meaning through visible action, comparison or relationship without reading any word or definition.\nScene: Two children are participating in the same activity, with the addition of the second child made explicit. On the left, a boy is already seated drawing a simple leaf on paper with a pencil. On the right, a girl has just pulled up her chair and is beginning to draw the same leaf on her own paper, raising her free hand slightly to volunteer to join. A faint short curved arrow from her just-arriving position behind the chair to her current seated position indicates that she JOINS the already drawing boy. The boy turns toward her smiling. The second child doing it TOO is the main focus; not merely two matching possessions. No written marks other than simple recognizable leaf drawings.\nStyle/medium: square hand-painted gouache illustration with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral, matching a children's vocabulary garden. Composition: a single coherent concept, large readable subjects centered within the middle 75 percent, generous empty margin, clear silhouette usable at 80px and saved as 640px WebP. Constraints: no written words, letters, numerals, labels, logos, watermarks, borders or card UI. No collage of unrelated vocabulary, no photorealism. Every person has exactly two arms and anatomically correct hands.",
+      "alt": "男孩正在画树叶，女孩从椅后走来加入，也画同样的树叶并举手，淡化前态与箭头表示她的加入。",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66b-c337-7c12-b1ab-fadcd74292ec/exec-612e0434-d6aa-4a84-906b-05030c593d83.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/a/source/also.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/also.webp",
+      "intendedSavedPath": "public/images/words/also.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看原图：男孩已有绘画活动，女孩有从椅后加入的淡化前态和箭头，两人画相同树叶，人物肢体正常，无文字。疑点：仍可能首读为一起画画、举手或模仿，加入之后也参与这一关系依赖连续状态理解。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "35",
+        "primary": "女孩坐下来加入男孩一起画画",
+        "alternatives": [
+          "女孩举手发言",
+          "女孩主动要参加画画"
+        ],
+        "confidence": "medium",
+        "issues": "后方半透明女孩和箭头像表示走来坐下，前景抬手又像举手或招呼；加入、发言与自告奋勇的关系不唯一。",
+        "decision": "deferred",
+        "reason": "举手与半透明来人更像加入活动或发言，也的新增相同行为关系仍有歧义。"
+      }
+    }
+  ],
+  "incomplete": []
+}

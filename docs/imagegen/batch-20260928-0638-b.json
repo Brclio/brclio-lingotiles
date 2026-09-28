@@ -1,0 +1,438 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260928-0638-b",
+  "assets": [
+    {
+      "senseId": "9fd697ace0bf2e5c2bac59dfd4d77e1d8d390f78b788d420d0356b5f45066ea3",
+      "word": "woman",
+      "pos": "n.",
+      "meaning": "女人",
+      "alt": "女人：一位穿蓝色衬衫和绿色长裤的成年女性站立着",
+      "prompt": "Use case: scientific-educational. One square English vocabulary memory-card illustration. Exact target: woman, n., 女人. Depict one unmistakably adult woman about thirty-five years old, full body, standing naturally, welcoming gentle neutral expression, adult facial and body proportions, shoulder-length dark brown hair, simple muted blue blouse and green trousers with ordinary flat shoes. Both hands relaxed at her sides. Focus only on an adult female person; no baby, no family role, no job uniform or tool, no glamour pose, no elderly features, no childlike oversized head. Isolated against warm off-white textured paper with a soft ground shadow. Hand-painted gouache and subtle colored pencil, soft natural daylight, restrained organic palette. Center the single person in the middle 70 percent with generous clear margins, completely visible head to feet, clear at small card size. No text, letters, numerals, labels, logo, watermark, border, speech bubbles or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-923e8f69-6087-4e81-92c0-31357b3a4c25.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/woman.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/woman.png",
+      "intendedSavedPath": "public/images/words/woman.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "成年女性外形、完整身体和日常服装清楚，无其他关系或职业线索；未见文字或明显结构缺陷。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "37",
+        "primary": "一位成年女性站着",
+        "alternatives": [
+          "女人"
+        ],
+        "confidence": "high",
+        "issues": "只是正面全身人物，没有明确动作、职业或人物关系。",
+        "decision": "accepted",
+        "reason": "单个成年女性完整正面形象，年龄和外形符合女人，没有其他活动抢占主体。"
+      },
+      "savedPath": "public/images/words/woman.webp"
+    },
+    {
+      "senseId": "1c60f327ea3f24844df2f4b7e63a2c5b1b4a9774db3b0933aefc1a74aea93eee",
+      "word": "us",
+      "pos": "pron.",
+      "meaning": "我们",
+      "alt": "我们：两个并肩的孩子面向听者，一同用手指向自己",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration, exact sense us, pron., 我们, the speaker and a companion together. A boy and a girl stand very close side by side and face the viewer as a single group. The boy has one arm naturally around the girl's shoulders and uses his other open hand to indicate both himself and the girl together, an inclusive inward gesture across their two chests. The girl lightly touches her own chest and smiles toward the same unseen listener. At the very bottom edge a small partial listener's open hand extends toward BOTH children together, anchoring that they are the addressed group. The visual focus must be the speaker-including pair, not an object they own or a family relationship. No possessions, toys, flags, badges, labels or speech bubbles. Warm off-white paper, hand-painted gouache with subtle colored-pencil texture, soft daylight, natural muted green shirt for boy and coral top for girl. Clear natural hands, normal anatomy, upper bodies fully visible, centered middle 70 percent and generous margins. No text, letters, numbers, logo, watermark, border or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-dcd2236b-8d2b-4d15-abe8-71c00bede817.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/us.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/us.png",
+      "intendedSavedPath": "public/images/words/us.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "两人同时自指并组成一组，能联想到我们；也可读为兄妹、朋友、自我介绍，画面不能明确区分我们与你们或宾格us，保留较强指代歧义。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "07",
+        "primary": "两个亲近的孩子面向观看者",
+        "alternatives": [
+          "两个孩子在介绍自己",
+          "兄妹或朋友合影"
+        ],
+        "confidence": "medium",
+        "issues": "男孩搂着女孩肩膀，两人的另一只手都放在胸前，前景还有第三人的摊开手掌；可能是介绍、问答或示意某些人，具体指代和两人关系不明确。",
+        "decision": "accepted",
+        "reason": "两个并肩人物都指向自己并面对第三人的交流手势，复数自我指代清楚。"
+      },
+      "savedPath": "public/images/words/us.webp"
+    },
+    {
+      "senseId": "1087b54b3f5175a74847d3d913b2d6c646e24dd0fa5f3949a41b2d37a98b4e4c",
+      "word": "child",
+      "pos": "n.",
+      "meaning": "孩子",
+      "alt": "孩子：一个穿绿上衣和蓝短裤的小朋友全身站立",
+      "prompt": "Use case: scientific-educational. One square English vocabulary illustration. Exact target: child, n., 孩子. Depict a single clearly school-age child around six years old, gender-neutral everyday appearance, short tousled brown hair, round youthful face and naturally small child body proportions, cheerful but calm, standing facing the viewer. Simple muted green T-shirt, blue shorts, ankle socks and small sneakers. Full body entirely visible. Hands relaxed and empty, no schoolbag, toy, book, adults or role-specific setting; the subject is a child as an age category, not a baby, teenager or particular activity. Warm off-white paper background with a gentle ground shadow. Hand-painted gouache and subtle colored-pencil texture, soft daylight, clear centered figure in middle 70 percent, generous blank space on all sides. No letters, words, numbers, labels, logos, watermarks, speech bubbles, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-4f44c397-dac7-4191-b1ea-f1e044836c98.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/child.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/child.png",
+      "intendedSavedPath": "public/images/words/child.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "儿童年龄与身体比例清楚，主体完整、无文字和无关道具；外观偏男孩，可能被更具体地读为男孩，但没有偏离孩子义项。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "05",
+        "primary": "一个站着的男孩",
+        "alternatives": [
+          "小男孩",
+          "站立"
+        ],
+        "confidence": "high",
+        "issues": "没有动作、指向或参照物；无法仅凭图像确定是在强调男孩、儿童还是站立。",
+        "decision": "accepted",
+        "reason": "单个幼龄人物的身材比例和面貌清楚表现孩子。"
+      },
+      "savedPath": "public/images/words/child.webp"
+    },
+    {
+      "senseId": "41dd2c151d0fbdf15df0870cc4ffcca07e5dddda597298b6ae8569f4f010af6f",
+      "word": "life",
+      "pos": "n.",
+      "meaning": "生活",
+      "alt": "生活：同一家人吃早餐、照料菜园，并在晚上一起阅读",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration, exact sense life, n., 生活, ordinary daily living rather than biological life or a lifespan. Create a coherent gentle wordless daily-life sequence of the SAME small family in three clearly separated but borderless vignettes on one warm off-white page: upper left, the mother and school-age child eat a modest breakfast together at their kitchen table in morning light; upper right, the same mother tends a small vegetable patch beside home while the same child waters a plant; lower center, the same family sits together on a sofa reading a picture book in warm evening lamplight. Repeat matching faces and clothes to show one family's everyday living. Make all three scenes similarly important, with simple enough detail that eating, household activity, and evening rest are immediately understandable. This illustrates everyday life as a whole, not one isolated meal, gardening tool, or family portrait. Hand-painted gouache, fine colored-pencil texture, natural muted green blue coral, generous unpainted warm-white margins and small gaps between vignettes, soft light. No captions, words, letters, numerals, labels, clocks, arrows, speech bubbles, logos, watermark, drawn panel borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-77c1c316-4841-4f3d-93d9-91290bb8bb9b.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/life.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/life.png",
+      "intendedSavedPath": "public/images/words/life.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "三个相关日常片段体现生活而非生命，场景均清楚；细节较多，缩小时可能先读为家庭、亲子时光或日常活动，生活这一总括概念仍需归纳。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "19",
+        "primary": "家人一起吃饭、种菜和看书",
+        "alternatives": [
+          "陪伴家人",
+          "一家人的日常生活"
+        ],
+        "confidence": "high",
+        "issues": "三幅图都呈现亲子共同活动，关系明确；没有明确的箭头或时间标记，不能确定是一天的顺序、经常如此，还是泛指相处。",
+        "decision": "accepted",
+        "reason": "同一家人吃饭、劳动和阅读的日常场景共同表现生活，未使用寿命或生命的其他义项。"
+      },
+      "savedPath": "public/images/words/life.webp"
+    },
+    {
+      "senseId": "edb7fd905f2918a5f7e0b227595260c1a2eb6324ac5fa6e4ee116a5704c248f0",
+      "word": "too",
+      "pos": "adv.",
+      "meaning": "也",
+      "alt": "也：女孩先喝牛奶，随后旁边的男孩也举杯喝牛奶",
+      "prompt": "Use case: scientific-educational. One square educational illustration for exact vocabulary sense too, adv., 也 (also, in addition), never excessive or too much. Depict two adjacent borderless moments of the SAME simple situation, read left to right. In the first vignette a girl in a coral shirt sits at a table holding a clear glass of milk to her mouth and drinking, while a boy in a green shirt beside her looks at her with empty hands. In the second vignette the same girl continues to drink her same glass of milk, and NOW the same boy also holds his OWN matching glass of milk to his mouth, joining in the same action, looking pleased. Clearly show exactly one glass per drinking child, ordinary amounts. The repeated girl and added boy doing the same thing communicate 'he does it too'. Two uncluttered waist-up scenes, an open warm-white gap between them, same faces, clothing and table in both, no other items. Hand-painted gouache with colored-pencil texture on warm off-white paper, soft daylight, muted green and coral. Square composition with generous margins and easily read hands and glasses. No arrows, no captions, no written text, letters, numerals, labels, bubbles, logos, watermark, panel borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-a760ad6e-5efc-4fc5-9307-4cf32b96bf98.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/too.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/too.png",
+      "intendedSavedPath": "public/images/words/too.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "两段情境中女孩持续喝奶，男孩由观看变为同样喝奶，加入相同行动线索清楚；也可能读为模仿、一起喝奶。左侧人物手臂靠近画面边缘，整体上方留白偏多。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "54",
+        "primary": "男孩看女孩喝牛奶，随后也一起喝",
+        "alternatives": [
+          "跟着别人做同样的事",
+          "两个人都喝牛奶"
+        ],
+        "confidence": "medium",
+        "issues": "左右重复同一对孩子，容易读成先后变化，但没有箭头或分格标记。 可以看出男孩从旁观变成饮用，不能确定是在模仿，还是单纯表示他也喝。",
+        "decision": "accepted",
+        "reason": "同一对孩子前后对照，男孩由旁观女孩喝奶变为也喝奶，新增相同行为直观可见。"
+      },
+      "savedPath": "public/images/words/too.webp"
+    },
+    {
+      "senseId": "bc20ba87737574b590e20a666ac26791f032da5dc22c582690eb2418c3e4ad95",
+      "word": "work",
+      "pos": "n.",
+      "meaning": "工作",
+      "alt": "工作：木匠在职业工作台前刨木板，旁边放着制作的椅子",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration. Exact target work, n., 工作: a person's regular productive occupation and assigned job, not mechanical functioning or a noun meaning artwork. Show an adult carpenter in plain blue work clothes and a muted green apron at a compact professional woodworking bench, concentrating on carefully planing a board that will form a chair. Include one nearly completed wooden chair immediately beside the bench and neatly arranged essential hand tools on a small wall rail; a few curled wood shavings on the bench make the productive work unmistakable. This is an ordinary adult's workplace and work task, not a hobby lesson or construction danger scene. The occupation setting, practical apron, purposeful posture and unfinished-to-finished chair parts should read as 'work' at a glance. No other people, no excessive props. Hand-painted gouache and delicate colored-pencil texture on warm off-white paper, natural daylight, muted wood browns, blue and green. Entire compact scene centered with generous clear margins, no cropping of head or tools. No text, letters, numbers, written plans, labels, logos, watermark, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-9ffc65a2-d34c-46f1-ae9c-5211e80fdac1.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/work.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/work.png",
+      "intendedSavedPath": "public/images/words/work.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "职业工具、围裙、工作台与加工活动共同指向工作，未偏到运转或作品义项；更直接的读法可能是木匠、木工或刨木头，图像本身不区分名词工作与动词工作。场景较满但主体清楚。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "46",
+        "primary": "木匠用刨子刨木板",
+        "alternatives": [
+          "做木工",
+          "制作木制家具"
+        ],
+        "confidence": "high",
+        "issues": "工具、木屑和动作明确；旁边的椅子不足以确定他正在制作这把椅子。",
+        "decision": "accepted",
+        "reason": "成人在配备工具的工作台上刨木板，职业劳动场景清楚表达工作。"
+      },
+      "savedPath": "public/images/words/work.webp"
+    },
+    {
+      "senseId": "645b94f3faf40a4909b70ff0452d8a60964712ec1ae747f3f85fd211bce86296",
+      "word": "world",
+      "pos": "n.",
+      "meaning": "世界",
+      "alt": "世界：完整的蓝色地球，陆地与海洋清晰可见",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for exact target world, n., 世界, the whole geographic world shared by people. Show a large beautiful complete round Earth centered on warm off-white paper, clearly recognizable blue oceans and natural green-brown continents, with Europe and Africa facing the viewer, Asia extending toward the right and the Atlantic at left. Keep the geography recognizable, coastlines natural, no invented continents, no borders or national flags. A few very soft thin white cloud wisps may suggest the real planet but should not obscure the continents. Depict the whole globe by itself, not a classroom globe mounted on a stand, not a flat map, not another planet, and not a solar system. It should communicate the entire world in one instantly legible subject. Hand-painted gouache with subtle colored-pencil texture, soft natural lighting and gentle spherical shading, centered in middle 65 percent with generous warm-white negative space. No text, names, letters, numbers, coordinate lines, labels, signs, logos, watermark, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-b74b99f3-91e7-4a31-8583-f36e52166268.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/world.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/world.png",
+      "intendedSavedPath": "public/images/words/world.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "整体地球形象及海陆清楚，能表达地理意义的世界；更直接读法是地球，不能独立表达社会意义的世界。没有支架、文字、标签或明显地理错位。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "23",
+        "primary": "地球",
+        "alternatives": [
+          "世界"
+        ],
+        "confidence": "high",
+        "issues": "无明显动作或关系歧义。",
+        "decision": "accepted",
+        "reason": "完整地球及主要大陆海洋清楚可认，符合世界的义项。"
+      },
+      "savedPath": "public/images/words/world.webp"
+    },
+    {
+      "senseId": "22af5bc83d6bbdbcec5fdb1471b83e5fb9b5b43429bc41edf99e6106124a4d0a",
+      "word": "school",
+      "pos": "n.",
+      "meaning": "学校",
+      "alt": "学校：背书包的学生走向教学楼，门口有老师，窗内能看到课桌和黑板",
+      "prompt": "Use case: scientific-educational. One square English vocabulary illustration, exact target school, n., 学校. Show a recognizable welcoming primary school campus: a modest two-story school building with many regular classroom windows and a wide central entrance, a small paved schoolyard and one basketball hoop to the side. Several school-age children with clearly visible backpacks walk toward the entrance, and a teacher stands at the doorway greeting them. Through one lower window show just enough rows of small desks and a plain blank dark board to distinguish this building from a house or office. Keep the entire building as the main subject, children small but readable, simple exterior three-quarter view. No written school name, no flag, no clock, no giant book icon or decorative education symbols. Hand-painted gouache with delicate colored-pencil texture on warm off-white paper, soft daylight, natural muted blue-green and warm brick colors. Center the compact campus scene within middle 75 percent with soft fading edges and generous unpainted margins. No text, letters, numerals, labels, logos, watermark, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-1a14e268-1d82-4507-8957-d669d1f75aef.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/school.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/school.png",
+      "intendedSavedPath": "public/images/words/school.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "书包学生、教师、窗内课桌黑板及校园球架共同明确学校，未靠文字招牌；小尺寸时窗内细节减弱，但整体上学场景仍清楚。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "10",
+        "primary": "孩子们去学校上学",
+        "alternatives": [
+          "学校",
+          "学生走进教学楼"
+        ],
+        "confidence": "high",
+        "issues": "书包、教室窗内桌椅、门口成人和篮球架共同支持学校场景；没有明确区分学校建筑本身与上学动作。",
+        "decision": "accepted",
+        "reason": "教学楼内桌椅、背书包的学生、门口老师和操场共同明确学校。"
+      },
+      "savedPath": "public/images/words/school.webp"
+    },
+    {
+      "senseId": "3723d1bd458716f9a4510f45438c0240b6e6e71715198712e2b995d000250bdb",
+      "word": "old",
+      "pos": "n.",
+      "meaning": "以前",
+      "alt": "以前：年轻女子回看童年种树的照片，身后同一庭院的树已经长大",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration. EXACT TARGET old, n., 以前: earlier times / the past. This task explicitly does NOT mean elderly, old-fashioned, worn-out or old as an adjective. Depict a young adult woman in the present holding a large clean color photograph at chest level and looking reflectively at it. In that photograph she appears as a small child in the SAME recognizable garden beside a tiny newly planted sapling and the same curved wooden garden gate. Behind her in the present, show that SAME gate and the tree now tall and leafy, demonstrating that the photograph depicts an earlier time. The photograph must be large enough that its child, small sapling and gate are clear at thumbnail scale, and it is physically held in her hands with normal perspective. Use the photograph-as-past versus present surroundings as the entire semantic cue. Woman is about twenty-five, no wrinkles or grey hair; photo and gate are intact, not yellowed, damaged or antique. No calendar, date, clock, text, written caption, numerals, arrows or temporal labels. Warm off-white paper, hand-painted gouache and subtle colored-pencil texture, soft natural daylight, muted greens, blue and coral. Center the compact scene with generous empty margins, clear distinct foreground photograph and background present.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-20672b60-b456-4013-a773-753a51b40af0.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/old.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/old.png",
+      "intendedSavedPath": "public/images/words/old.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "以童年照片和当前成年人物、大树表达以前，未使用老人或破旧物件代替目标义项；仍可能读为回忆、成长或照片。照片里树苗和现实大树相对门的位置不完全一致，削弱同一地点前后对应。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "15",
+        "primary": "回看小时候种树的照片",
+        "alternatives": [
+          "回忆过去",
+          "人与树都长大了"
+        ],
+        "confidence": "medium",
+        "issues": "女人手持种小树的女孩照片，背景相同院门旁已有大树，支持时间流逝；没有明确证据证明照片中的女孩就是持照的女人，也可能是在看别人的旧照。",
+        "decision": "accepted",
+        "reason": "旧照片中小女孩种幼苗与当前院中大树对照，过去的场景是观看重点，符合以前而非年老。"
+      },
+      "savedPath": "public/images/words/old.webp"
+    },
+    {
+      "senseId": "f7056180bf632ac09f0255c3375433fb0165cd679a3cb9571ce6583f6e4bc73a",
+      "word": "try",
+      "pos": "n.",
+      "meaning": "尝试",
+      "alt": "尝试：孩子套圈未中后思考，再次投出一个圈尝试套中木桩",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration. Exact target try, n., 尝试, an attempt at accomplishing something; not a rugby score, not sampling food, and not a guaranteed success. Show two simple adjacent borderless moments of the same child attempting a ring-toss challenge. At left, the child's first wooden ring has fallen flat just short of a short upright wooden peg; the child looks thoughtfully at the missed ring. At right, the same child with the same green shirt and blue shorts makes a fresh careful attempt: arm extended in a controlled throwing follow-through, a new ring visibly in midair on its way toward the SAME peg, while the missed ring remains on the ground. The second outcome is still undecided, no ring already around the peg, no cheering or reward. The key idea is making another attempt after one did not succeed. Make the challenge, failed previous ring and current earnest attempt clear, with no unrelated toys or people. Hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light, muted green blue and wood colors. Two uncluttered full-body vignettes separated by blank space, generous margins, legible small. No arrows, text, letters, numbers, captions, labels, symbols, speech bubbles, logo, watermark, panel borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-96456dca-81ee-4ed3-9b95-3c688b1b656d.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/try.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/try.png",
+      "intendedSavedPath": "public/images/words/try.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "先失手再进行下一次投圈的连续情境清楚，第二次结果未定，符合尝试含义；也可能读为再试一次、练习、坚持或套圈。图像无法独立区分名词尝试与动词尝试，但未偏到其他词义。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "59",
+        "primary": "男孩套圈没中后再次投掷",
+        "alternatives": [
+          "玩套圈游戏",
+          "再试一次"
+        ],
+        "confidence": "medium",
+        "issues": "左边圈落在柱子旁，男孩思考；右边正在投圈，容易读成失败后再试。 两幅画没有箭头，前后关系并非完全确定；空中的圈尚未落下，不能判断后一次成功或失败。",
+        "decision": "accepted",
+        "reason": "未命中的套圈、思考与新的投掷表现一次尝试，结果尚未确定，没有把成功当作尝试本身。"
+      },
+      "savedPath": "public/images/words/try.webp"
+    },
+    {
+      "senseId": "0a7f623034a1ed5531f5ad573f7d81cfd23856450a3b745c4dc7e382b4436c67",
+      "word": "great",
+      "pos": "adj.",
+      "meaning": "大的",
+      "alt": "大的：一个比普通南瓜大得多的南瓜，旁边的孩子张开双臂比较它的宽度",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration. EXACT target great, adj., 大的: large in physical size, NOT excellent, admirable, important or victorious. Show one very large orange pumpkin dominating the center, nearly as tall as a small child's waist, next to one ordinary small pumpkin of the SAME shape, color and kind on the SAME ground plane. A school-age child stands immediately beside the huge pumpkin, arms opened wide around its breadth without fully reaching around it, providing an unmistakable human scale reference. The child has a quiet neutral interested expression, not cheering or praising. The large pumpkin is the clear focal subject; the small pumpkin exists only to make the physical size contrast explicit. Clear natural proportions, simple ground shadow, no garden clutter. Hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, warm orange pumpkins, muted green shirt and blue trousers, both pumpkins and the child fully visible. Center the compact scene with generous empty margins. No trophy, medals, thumbs-up, stars, text, letters, numbers, written labels, arrows, logos, watermark, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-7418d6b5-f865-4d0e-ae86-c0d6a3874539.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/great.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/great.png",
+      "intendedSavedPath": "public/images/words/great.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "同类南瓜大小对比与孩子尺度明确传达大的，未出现赞扬、伟大或优秀线索；巨型南瓜略夸张但现实可有，孩子部分腿被南瓜遮挡而非缺失。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "02",
+        "primary": "一个特别大的南瓜",
+        "alternatives": [
+          "大南瓜和小南瓜的大小对比",
+          "孩子张开双臂比划南瓜的大小"
+        ],
+        "confidence": "high",
+        "issues": "大小对比很清楚；孩子没有明确指向某一个南瓜，但巨大南瓜明显是视觉主体。",
+        "decision": "accepted",
+        "reason": "巨大南瓜与常规小南瓜、孩子身高形成明确尺寸对比，匹配大的义项。"
+      },
+      "savedPath": "public/images/words/great.webp"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "61c79fe0bc3eea78626b94dbbdbaf7c7807367da3bb23b0edd06c1eb1a878ce1",
+      "word": "must",
+      "pos": "v.",
+      "meaning": "必须",
+      "alt": "必须：下水前先扣好救生衣，成人抬手阻止孩子继续前行",
+      "prompt": "Use case: scientific-educational. Create one square vocabulary illustration for exact sense must, v., 必须 (necessity/obligation). Show a clear necessary safety step: at the edge of a small swimming pool, a child who wants to enter the water is stopped gently by an adult instructor's open palm, while the instructor firmly indicates the bright orange life jacket being fastened around that child's body. The jacket must be fastened before entry; the child is still on dry poolside, one foot directed toward the water. Emphasize the open stop palm, unfastened buckle and hands closing it, and visible pool water, no unrelated people. This is necessity before proceeding, not an optional gift or simple possession of clothing. Warm off-white paper, hand-painted gouache and delicate colored-pencil texture, soft daylight, muted natural blue, green and coral. Clear centered scene within middle 75 percent, generous empty margins, readable at thumbnail scale, fully visible body gestures. No text, letters, numerals, written labels, signs, logos, watermark, speech bubbles, arrows, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-7b41a58c-e16a-41f1-89fc-aae078a9ed6e.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/must.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/must.png",
+      "intendedSavedPath": "public/images/words/must.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "可见救生衣未扣好、成人制止手势与池边环境，必要的前置安全步骤较明确；但仍可能被读成提醒、禁止下水或帮助穿衣，无法单凭姿势唯一表达必须。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "22",
+        "primary": "大人阻止穿救生衣的孩子下泳池",
+        "alternatives": [
+          "提醒孩子注意安全",
+          "给孩子检查救生衣"
+        ],
+        "confidence": "medium",
+        "issues": "大人的抬掌像停止手势，另一只手又在碰救生衣扣；可能是在叫孩子等一下或整理救生衣，不能确定是在永久禁止下水。",
+        "decision": "deferred",
+        "reason": "停止手势和救生衣检查可能表示等一下或帮助整理，必须这一强制条件不明确。"
+      }
+    },
+    {
+      "senseId": "0c4f421d8fdb07a74903d0edc40f8252e6cd31f38f18952c1055a33c40a353fa",
+      "word": "put",
+      "pos": "v.",
+      "meaning": "放",
+      "alt": "放：手把一个红苹果放进浅碗后松开",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration, exact target put, v., 放. Show a child's hand deliberately lowering one red apple onto the center of an empty shallow ceramic bowl on a wooden tabletop. The apple bottom has JUST made contact with the bowl bottom; the fingers are visibly opening and withdrawing upward, releasing their grasp after placing it. Show a small soft contact shadow beneath the apple. The child's other hand lightly steadies the bowl rim. A cropped green sleeve can identify the child but faces and scenery are unnecessary. The focal action is placing an object down into a destination, not picking it up, throwing it, handing it to another person or pouring a collection. Keep exactly one apple and one bowl with no other props. Warm off-white paper, hand-painted gouache, fine colored-pencil texture, soft daylight. Center this close-up of hands, apple and bowl within the middle 70 percent, generous blank margins, anatomically clear fingers. No arrows or motion diagrams, no text, letters, numerals, labels, logo, watermark, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-a86d38ca-1a5b-404f-acf3-51d85ab17a1b.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/put.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/put.png",
+      "intendedSavedPath": "public/images/words/put.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "单个苹果已接触碗底、手指张开，放置动作可读；单帧仍可能被看成准备拿起苹果，运动方向不完全唯一。手、碗与水果轮廓清楚。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "03",
+        "primary": "把苹果放进碗里",
+        "alternatives": [
+          "从碗里拿苹果",
+          "伸手摸碗里的苹果"
+        ],
+        "confidence": "medium",
+        "issues": "苹果已在碗内，一只手扶碗，另一只手悬在苹果上方；没有运动方向信息，无法确认是放入、取出还是触摸。",
+        "decision": "deferred",
+        "reason": "苹果已在碗内，悬停的手既可拿起也可放下，没有方向线索区分。"
+      }
+    },
+    {
+      "senseId": "a2a93f0e4f13ad6058cca275ee9abbc7226abe189aa82f9d4a9fdccfc31636cd",
+      "word": "last",
+      "pos": "adj.",
+      "meaning": "最后的",
+      "alt": "最后的：四个孩子依次进门，珊瑚色上衣的孩子排在队伍末尾",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for exact target last, adj., 最后的. Depict a short orderly line of four children moving leftward through a simple open doorway. The first child is already halfway through the doorway at far left, the middle two follow closely, and the final child stands at the very end on the right with a clearly empty stretch behind them. The final child wears a warm coral sweater and blue trousers and is the clear focal subject, glancing along the queue toward the door; the others have quieter muted blue and green clothes. Show all children facing and walking in the same direction, one unbroken line with visible spacing, nobody behind the coral child. The meaning is the last person in a sequence, not a race winner, youngest child or abandoned child. No bags or furniture or additional adults needed. Hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, friendly normal expressions. Simple side view, full bodies, middle 75 percent with clear empty margins. No arrows, words, letters, numbers, labels, signs, logos, watermark, speech bubbles, border or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-1f98aa6b-b710-4dc8-9288-282d6641e920.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/last.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/last.png",
+      "intendedSavedPath": "public/images/words/last.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "行进方向和完整队尾清楚，末尾女孩衣色突出；没有额外指示时也可仅读为排队、跟随或进门，最后的这一焦点仍靠末尾突出推断。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "39",
+        "primary": "四个孩子排队，一个接一个走过门口",
+        "alternatives": [
+          "跟着前面的人走",
+          "依次出门"
+        ],
+        "confidence": "high",
+        "issues": "行进顺序清楚，但未突出某个特定人物，不能唯一锁定第一、最后或前后中的某一位置；进门与出门的空间方向略依赖对门外景色的理解。",
+        "decision": "deferred",
+        "reason": "四个排队人物都同样显眼，未突出最后一位，不能将整幅排队图当作最后的。"
+      }
+    },
+    {
+      "senseId": "fc8252effc51c3931dda4b853e84e86b13e84ddbb9755de1a786a758b2f5483e",
+      "word": "oh",
+      "pos": "interj.",
+      "meaning": "哦",
+      "alt": "哦：女孩掀起沙发垫发现玩具兔，张圆嘴露出恍然发现的神情",
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration. Exact target oh, interj., 哦: a gentle exclamation of sudden recognition or discovery. Show a school-age girl who has just lifted one sofa cushion and discovered her small missing stuffed rabbit beneath it. Make her face the clear focus: gently raised eyebrows, eyes newly widening toward the rabbit, lips softly rounded in a small spontaneous 'oh' expression, one hand pausing just above her chest while the other holds the cushion up. Her expression is mild understanding and pleasant surprise, not fear, pain, shouting, crying or exaggerated shock. The rabbit must be partly nestled in the newly uncovered spot so the cause of her realization is obvious. Tight uncluttered waist-up vignette with just girl, sofa corner, cushion and rabbit. Warm off-white background, hand-painted gouache with delicate colored-pencil texture, muted blue and coral, soft natural light. Center the face and discovery with generous margins. No speech bubbles, no drawn letters or sounds, no text, numerals, symbols, labels, logos, watermark, borders or card UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e66d-d6ca-7353-b412-fa07c79943f5/exec-9dfd2405-9d0b-43a1-b50d-4fe277e9e68e.png",
+      "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/oh.webp",
+      "originalLocalPath": "output/imagegen/batch-20260928-0638/b/source/oh.png",
+      "intendedSavedPath": "public/images/words/oh.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "发现玩具后的圆口表情和轻微惊讶清楚；图像不能区别哦、啊、惊讶或找到等具体词，感叹词唯一性较弱。画面较近，头顶和身体部分贴边。",
+      "visualReview": {
+        "method": "Independent fresh reviewer saw only anonymously numbered images, without target word, part of speech, definition or prompt; root then compared visible evidence with the exact game sense.",
+        "blindId": "60",
+        "primary": "女孩掀开沙发靠垫，发现藏在下面的兔子玩偶",
+        "alternatives": [
+          "找到兔子玩偶",
+          "发现藏起来的东西"
+        ],
+        "confidence": "high",
+        "issues": "掀起靠垫、注视玩偶和惊讶表情共同表达发现。 没有此前寻找的画面，不能确定玩偶曾经丢失或女孩正在主动寻找。",
+        "decision": "deferred",
+        "reason": "主要被读成发现玩偶或找到东西，惊讶表情不足以清楚表达哦这一感叹。"
+      }
+    }
+  ],
+  "unfinished": []
+}
