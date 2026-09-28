@@ -1,0 +1,578 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260928-1101-c",
+  "parentBatch": "20260928-1101",
+  "assets": [
+    {
+      "senseId": "1930b8c30dd00d668dfc0515a1536542a2dc5655f1f98cd4b260bb38e7d10a9b",
+      "wordId": "dict:other",
+      "sourceId": "dict:other",
+      "word": "other",
+      "pos": "adj.",
+      "meaning": "其他的",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/19/1930b8c30dd00d668dfc0515a1536542a2dc5655f1f98cd4b260bb38e7d10a9b.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: other / adj. / 其他的.\nScene: On a low table, a child has already chosen and is holding one bright red apple in the left hand, close to their chest. Their free hand clearly gestures toward a separated group of three remaining green apples on the right side of the table. Make the already-chosen apple visually isolated from ALL the remaining apples, which are surrounded together by a subtle open hand-drawn oval. Emphasize the remaining other apples, not a toy shop or merely choosing among equivalent options.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-50f31aaf-ccf0-427f-bd29-6d017e1aab9e.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/other.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/other.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：孩子怀抱已经选定的红苹果，空手指向圈在一起的另外三只绿苹果；已选与剩余对象在颜色、位置和圈定上清楚区分，支持其他的关系，交主审。",
+      "generatedAt": "2026-09-28T11:06:51.171377+00:00",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-0638-a.json",
+        "candidatePath": "output/imagegen/batch-20260928-0638/a/candidates/other.webp",
+        "status": "pending_visual_revision",
+        "reason": "主体更像展示玩具或选择玩具，其他的排除已选对象关系不足。"
+      },
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c13",
+        "primary": "孩子抱着一个红苹果，并伸手展示桌上圈出的三个绿苹果。",
+        "alternatives": [
+          "其他的苹果",
+          "剩下的苹果",
+          "红绿两类苹果",
+          "向别人提供绿苹果"
+        ],
+        "confidence": 0.73,
+        "issues": [
+          "孩子的手势可表示展示、指向或赠送；圆圈把绿苹果归组，但与红苹果的关系不唯一。"
+        ],
+        "decision": "accepted",
+        "reason": "怀中已选的红苹果与圈出的其余绿苹果分开，另一只手指向剩余组，其他的排除关系可见。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/19/1930b8c30dd00d668dfc0515a1536542a2dc5655f1f98cd4b260bb38e7d10a9b.webp",
+      "alt": "孩子抱着一个红苹果，并伸手展示桌上圈出的三个绿苹果。"
+    },
+    {
+      "senseId": "0c4f421d8fdb07a74903d0edc40f8252e6cd31f38f18952c1055a33c40a353fa",
+      "wordId": "dict:put",
+      "sourceId": "dict:put",
+      "word": "put",
+      "pos": "v.",
+      "meaning": "放",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/0c/0c4f421d8fdb07a74903d0edc40f8252e6cd31f38f18952c1055a33c40a353fa.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: put / v. / 放.\nScene: Close view of a child actively lowering one blue wooden block from their hand ONTO a wooden tabletop. Show the hand opening to release it just above the surface; two faint translucent earlier positions of the SAME block aligned above it and a small clear downward motion arrow demonstrate downward placement, not picking up. The hand is moving downward. One block only in the final position. Empty table except for the block, no container.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-f11208b4-1941-44c8-9c3e-c1ee60120b8b.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/put.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/put.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：手在上方松开蓝色积木，半透明轨迹与向下箭头落到桌面上的实体积木，明确是把积木放下而非拿起；交主审。",
+      "generatedAt": "2026-09-28T11:09:09.187624+00:00",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-0638-b.json",
+        "candidatePath": "output/imagegen/batch-20260928-0638/b/candidates/put.webp",
+        "status": "pending_visual_revision",
+        "reason": "苹果已在碗内，悬停的手既可拿起也可放下，没有方向线索区分。"
+      },
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c08",
+        "primary": "孩子把手中的方块向下放到桌面。",
+        "alternatives": [
+          "放下积木",
+          "方块下落",
+          "下降"
+        ],
+        "confidence": 0.94,
+        "issues": [
+          "半透明重复方块表示运动过程，也可能被理解为松手让方块落下，不能严格区分放置和掉落。"
+        ],
+        "decision": "accepted",
+        "reason": "手控制方块朝桌面降低，向下箭头与桌面最终位置消除拿起歧义，呈现放下。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/0c/0c4f421d8fdb07a74903d0edc40f8252e6cd31f38f18952c1055a33c40a353fa.webp",
+      "alt": "孩子把手中的方块向下放到桌面。"
+    },
+    {
+      "senseId": "dfb77752372be62ebba409be9d036298fdf28afe3c7ca37b8587f1852e8215da",
+      "wordId": "dict:under",
+      "sourceId": "dict:under",
+      "word": "under",
+      "pos": "prep.",
+      "meaning": "在...之下",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/df/dfb77752372be62ebba409be9d036298fdf28afe3c7ca37b8587f1852e8215da.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: under / prep. / 在...之下.\nScene: A small orange cat sits directly UNDER a simple wooden table. The cat is entirely beneath the tabletop and between its four legs; a visible air gap between its ears and the underside makes the vertical relationship unmistakable. Table and cat only. Side view at cat height, entire table visible, no object atop table.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-8dad420a-cbb7-482c-9189-c5421a5b612d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/under.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/under.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：小猫完整位于桌板正下方、四条桌腿之间，猫耳与桌底有明显间距，关系一眼可辨；交主审。",
+      "generatedAt": "2026-09-28T11:16:12.403756+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c07",
+        "primary": "一只猫坐在桌子下面。",
+        "alternatives": [
+          "在下方",
+          "桌下的小猫"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "decision": "accepted",
+        "reason": "猫完整位于桌面下、桌腿围成的空间内，下方位置明确。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/df/dfb77752372be62ebba409be9d036298fdf28afe3c7ca37b8587f1852e8215da.webp",
+      "alt": "一只猫坐在桌子下面。"
+    },
+    {
+      "senseId": "b27be84ca52880a6b08083f463e059b017858947483ded4598033592ab1f49d0",
+      "wordId": "dict:talk",
+      "sourceId": "dict:talk",
+      "word": "talk",
+      "pos": "n.",
+      "meaning": "谈话",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/b2/b27be84ca52880a6b08083f463e059b017858947483ded4598033592ab1f49d0.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: talk / n. / 谈话.\nScene: Two children face each other at a small cafe table, mouths naturally open in mid-conversation, making gentle hand gestures and eye contact. Two overlapping empty speech bubbles between them make mutual spoken conversation visually clear. No books, phones, food or other distractions. Both listening and speaking, friendly discussion, seated at equal height.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-e44852dd-6d7c-4056-addb-0d96baca001a.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/talk.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/talk.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：两人面对面张口交流并有手势，两个无文字对话气泡相交，谈话情景清楚且没有读书或打电话干扰；交主审。",
+      "generatedAt": "2026-09-28T11:28:53.823989+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c05",
+        "primary": "两个孩子面对面聊天交谈。",
+        "alternatives": [
+          "对话",
+          "讨论",
+          "交流"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "decision": "accepted",
+        "reason": "两人面对面交谈的嘴形、手势和轮流交流关系明确。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/b2/b27be84ca52880a6b08083f463e059b017858947483ded4598033592ab1f49d0.webp",
+      "alt": "两个孩子面对面聊天交谈。"
+    },
+    {
+      "senseId": "fa427889a83f5272fb2185966ab450e4092d6177061c2ca0fbcde52ccd37e69e",
+      "wordId": "dict:off",
+      "sourceId": "dict:off",
+      "word": "off",
+      "pos": "adj.",
+      "meaning": "关着的",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/fa/fa427889a83f5272fb2185966ab450e4092d6177061c2ca0fbcde52ccd37e69e.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: off / adj. / 关着的.\nScene: A single unplugged-looking but visibly connected desk lamp stands beside its power rocker switch in the DOWN position. The bulb is completely dark grey, the shade interior unlit, with absolutely no glow or light rays. A translucent faint ghost of a hand just released the down switch, small downward motion marks. Behind, a tiny secondary comparison lamp glows softly, while the dominant foreground lamp is dark. The dominant meaning is electrically switched off, not broken or merely black.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-298ecf88-203c-4db7-ab7b-36d84b57227d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/off.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/off.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：前景台灯灯泡和灯罩内均不发光，开关旁的淡化手势显示刚关闭；后方较小发光灯作对照，支持关闭状态而非坏灯。背景有少量文具但主灯明显，交主审。",
+      "generatedAt": "2026-09-28T11:42:40.744612+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c06",
+        "primary": "手刚按下台灯开关，前景台灯熄灭。",
+        "alternatives": [
+          "关灯",
+          "关闭电器",
+          "灭着的台灯"
+        ],
+        "confidence": 0.93,
+        "issues": [
+          "半透明手略像残影，前景熄灭与后景亮灯使开关状态对比清楚。"
+        ],
+        "decision": "accepted",
+        "reason": "前景灯已熄灭，与后景亮灯对照，开关及熄灭状态直接呈现关着的。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/fa/fa427889a83f5272fb2185966ab450e4092d6177061c2ca0fbcde52ccd37e69e.webp",
+      "alt": "手刚按下台灯开关，前景台灯熄灭。"
+    },
+    {
+      "senseId": "aab5e2c994f8db3a2678860edcf91df14aac0e4aaa38e68c6d620bb5f5424063",
+      "wordId": "dict:four",
+      "sourceId": "dict:four",
+      "word": "four",
+      "pos": "num.",
+      "meaning": "四",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/aa/aab5e2c994f8db3a2678860edcf91df14aac0e4aaa38e68c6d620bb5f5424063.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: four / num. / 四.\nScene: Exactly FOUR identical ripe red apples, clearly separated and arranged as a simple two-by-two group on empty warm-white paper. All four apples completely visible, no overlap, same scale, no extra fruit, leaves allowed only attached to stems. No numerals or written number. Counting the four subjects must be effortless.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-07526531-fa3f-44fb-99ec-4c880fe47d28.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/four.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/four.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：恰好四个完整红苹果，二乘二排列互不遮挡，数量四直接可数，无数字文字；交主审。",
+      "generatedAt": "2026-09-28T11:54:32.822111+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c10",
+        "primary": "四个红苹果。",
+        "alternatives": [
+          "数量四",
+          "两行各两个苹果"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "decision": "accepted",
+        "reason": "四个苹果可清楚独立计数，无多余对象干扰。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/aa/aab5e2c994f8db3a2678860edcf91df14aac0e4aaa38e68c6d620bb5f5424063.webp",
+      "alt": "四个红苹果。"
+    },
+    {
+      "senseId": "50dae01422c1b2bbbc741c59e6bd645758435bd25188d624a3f0d4edc04e98b1",
+      "wordId": "dict:bring",
+      "sourceId": "dict:bring",
+      "word": "bring",
+      "pos": "v.",
+      "meaning": "带来",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/50/50dae01422c1b2bbbc741c59e6bd645758435bd25188d624a3f0d4edc04e98b1.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: bring / v. / 带来.\nScene: View from inside a home doorway toward a child arriving through the open door while carrying a bouquet toward a waiting grandmother inside. The child steps FROM outside INTO the home and extends the flowers toward grandmother, who reaches to receive them. Footsteps and a subtle inward motion arrow establish movement toward the waiting recipient, distinctly bringing an item to someone rather than taking it away. Door frame, child, grandmother, bouquet only.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-e83056a6-f77c-40d4-ad51-f762eb4c8f7b.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/bring.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/bring.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：孩子携花从门外迈进室内，箭头朝向门内，祖母正伸手接收，明确把东西带到等待者身边，带来方向正确；交主审。",
+      "generatedAt": "2026-09-28T12:07:48.233734+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c15",
+        "primary": "女孩带着花跨进门，老人张开手欢迎她。",
+        "alternatives": [
+          "来访看望老人",
+          "进来",
+          "送花",
+          "欢迎客人"
+        ],
+        "confidence": 0.89,
+        "issues": [
+          "进门方向有箭头提示，但送花、拜访、进入与欢迎都很突出，目标动作不唯一。"
+        ],
+        "decision": "accepted",
+        "reason": "女孩携花朝屋内接收者迈入，携带物、移动方向与到达对象共同表现带来。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/50/50dae01422c1b2bbbc741c59e6bd645758435bd25188d624a3f0d4edc04e98b1.webp",
+      "alt": "女孩带着花跨进门，老人张开手欢迎她。"
+    },
+    {
+      "senseId": "0526e13e56db0c0b8c8a0000856f3bd6336750d3be8a0b59fdf54342f5374542",
+      "wordId": "dict:next",
+      "sourceId": "dict:next",
+      "word": "next",
+      "pos": "n.",
+      "meaning": "下一个",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/05/0526e13e56db0c0b8c8a0000856f3bd6336750d3be8a0b59fdf54342f5374542.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: next / n. / 下一个.\nScene: A simple queue at an ice-cream counter: one child has just received an ice cream and is walking away to the right, while the vendor clearly beckons the FIRST waiting child at the front of the queue with an open palm. Two more children wait behind that first child. Use a small warm spotlight around the first waiting child to identify the person whose turn comes immediately next. Clear front-to-back order. No writing, numbers or ticket labels.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-5b6706a9-094e-4073-b9df-78ab59f6dae1.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/next.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/next.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：已拿到冰淇淋的孩子离开，摊主伸手招呼队首女孩，女孩有温和亮背景且后方两人继续排队，清楚呈现轮到的下一个；交主审。",
+      "generatedAt": "2026-09-28T12:19:40.428697+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c04",
+        "primary": "孩子们排队买冰淇淋，售货员招呼队首女孩。",
+        "alternatives": [
+          "轮到下一个孩子",
+          "等待购买冰淇淋",
+          "依次服务"
+        ],
+        "confidence": 0.88,
+        "issues": [
+          "队首女孩被微弱光晕强调，但画面同时包含排队、等待、购买和轮次，关系有多种读法。"
+        ],
+        "decision": "accepted",
+        "reason": "已获冰淇淋者离开，售货员招呼被突出显示的队首下一位，轮次关系明确。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/05/0526e13e56db0c0b8c8a0000856f3bd6336750d3be8a0b59fdf54342f5374542.webp",
+      "alt": "孩子们排队买冰淇淋，售货员招呼队首女孩。"
+    },
+    {
+      "senseId": "d1d3adf2d4659bc5fdad0066b5f6a0149a70c32b8ea6671e492f00fecd5b8766",
+      "wordId": "dict:five",
+      "sourceId": "dict:five",
+      "word": "five",
+      "pos": "num.",
+      "meaning": "五",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/d1/d1d3adf2d4659bc5fdad0066b5f6a0149a70c32b8ea6671e492f00fecd5b8766.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: five / num. / 五.\nScene: Exactly FIVE identical ripe yellow pears, clearly separated and arranged as three across the top and two centered beneath on empty warm-white paper. All five pears completely visible, no overlap, same scale, no extra fruit. No numerals or written number. Counting the five subjects must be effortless.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-906a5888-3514-4d44-b7e0-9edd7cbd8081.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/five.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/five.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：恰好五只完整黄梨，上三下二排列，彼此分开没有额外果实，数量五直接可数；交主审。",
+      "generatedAt": "2026-09-28T12:33:23.852302+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c11",
+        "primary": "五个黄色梨。",
+        "alternatives": [
+          "数量五",
+          "一组梨"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "decision": "accepted",
+        "reason": "五个梨可清楚独立计数，无多余对象干扰。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/d1/d1d3adf2d4659bc5fdad0066b5f6a0149a70c32b8ea6671e492f00fecd5b8766.webp",
+      "alt": "五个黄色梨。"
+    },
+    {
+      "senseId": "1715e6ef3400703299a66b50183cbb17339b0c2657bcc22cff9a462d0d82a8f6",
+      "wordId": "dict:write",
+      "sourceId": "dict:write",
+      "word": "write",
+      "pos": "v.",
+      "meaning": "书写",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/17/1715e6ef3400703299a66b50183cbb17339b0c2657bcc22cff9a462d0d82a8f6.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: write / v. / 书写.\nScene: Close view of a right hand gripping a fountain pen correctly and actively writing on a lined notebook page. The pen nib touches the page at the end of a neat row of small abstract cursive-like strokes that contain NO recognizable letters or words. Three short rows of these nonlinguistic pen strokes distinguish handwriting from drawing. Other hand steadies paper. Only hands, pen and open notebook. No pictures being drawn, no labels or readable text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-aef72086-f939-4ee4-babd-d23bce37684d.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/write.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/write.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：右手正确握笔，笔尖贴在横线本的笔迹末端，左手压住纸，三行连续非可读书写笔迹明确体现书写动作，不是绘画且无可读词句；交主审。",
+      "generatedAt": "2026-09-28T12:44:27.629777+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c02",
+        "primary": "用钢笔在笔记本上写字。",
+        "alternatives": [
+          "记笔记",
+          "书写"
+        ],
+        "confidence": 0.98,
+        "issues": [
+          "纸上有连续拟字迹笔画，虽没有可读单词，仍属于文字状痕迹。"
+        ],
+        "decision": "accepted",
+        "reason": "手握笔、笔尖接触本子并留下不可读连续笔迹，直接表现书写；无可读单词或说明文字。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/17/1715e6ef3400703299a66b50183cbb17339b0c2657bcc22cff9a462d0d82a8f6.webp",
+      "alt": "用钢笔在笔记本上写字。"
+    },
+    {
+      "senseId": "bc5b3bc66b2efde78f5bc25d975e54012be3e4039620d40686e5f59348f86953",
+      "wordId": "dict:eye",
+      "sourceId": "dict:eye",
+      "word": "eye",
+      "pos": "n.",
+      "meaning": "眼睛",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/bc/bc5b3bc66b2efde78f5bc25d975e54012be3e4039620d40686e5f59348f86953.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: eye / n. / 眼睛.\nScene: Close-up educational illustration of ONE human eye with warm brown iris, black round pupil, white sclera, natural upper and lower eyelids, eyelashes and a small eyebrow above. The eye is comfortably open and anatomically clear. A little surrounding skin fades into warm-white paper, no entire face and no second eye. Friendly, nonclinical, no red irritation, no text or arrows.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-dae1ed53-4c8a-4066-86e9-e985ae61a812.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/eye.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/eye.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：单只人眼特写，棕色虹膜、黑瞳孔、眼白、上下眼睑与睫毛轮廓完整，眼睛主体毫无歧义；交主审。",
+      "generatedAt": "2026-09-28T12:57:34.128890+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c03",
+        "primary": "一只睁开的人眼。",
+        "alternatives": [
+          "眼睛",
+          "棕色虹膜"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "decision": "accepted",
+        "reason": "单只人眼及眼睑、睫毛、虹膜清楚，目标身体部位明确。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/bc/bc5b3bc66b2efde78f5bc25d975e54012be3e4039620d40686e5f59348f86953.webp",
+      "alt": "一只睁开的人眼。"
+    },
+    {
+      "senseId": "d8271cb207b323b7cde00d62b146f7b80f1ed088114007960fe7fc583c340d75",
+      "wordId": "dict:both",
+      "sourceId": "dict:both",
+      "word": "both",
+      "pos": "adj.",
+      "meaning": "两者的",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/d8/d8271cb207b323b7cde00d62b146f7b80f1ed088114007960fe7fc583c340d75.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: both / adj. / 两者的.\nScene: Two children stand side by side, one in a blue shirt and one in a coral shirt. Each child holds up an identical golden star badge in the same hand, with a matching satisfied expression. A teacher in the foreground extends BOTH open hands equally toward the two children, and one simple curved bracket gently embraces the complete pair together. Exactly two recipients, each with the same visible attribute, neither excluded. The scene should communicate that the attribute belongs to both of the pair, not a choice of only one.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-d2f9b70b-45b8-4d86-90ee-3d33850d4123.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/both.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/both.webp",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "已看图：并列两名孩子各持同样的星星，教师双手对称指向两人，上方括线覆盖完整一对，两者均包含且无人排除，支持两者的含义；交主审。",
+      "generatedAt": "2026-09-28T13:19:36.490183+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c01",
+        "primary": "一位成人张开双臂表扬或迎接两个得到星星奖励的孩子。",
+        "alternatives": [
+          "两个孩子都得到奖励",
+          "两人一起或一对孩子"
+        ],
+        "confidence": 0.7,
+        "issues": [
+          "上方括号有意把两人归组，但不能单独确定是赞扬、两者都还是一起。"
+        ],
+        "decision": "accepted",
+        "reason": "恰好两个孩子均持同样奖励，双臂与括号共同覆盖二者，表现两者都获得。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      },
+      "savedPath": "public/images/words/d8/d8271cb207b323b7cde00d62b146f7b80f1ed088114007960fe7fc583c340d75.webp",
+      "alt": "一位成人张开双臂表扬或迎接两个得到星星奖励的孩子。"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c",
+      "wordId": "dict:would",
+      "sourceId": "dict:would",
+      "word": "would",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/7d/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: would / v. / 将.\nScene: A single wordless visual narrative for future-in-the-past: on the left a child looks at a tiny just-planted fruit sapling; a clear rightward curved passage-of-time arrow leads to the SAME child now older standing under the SAME fully grown tree loaded with ripe apples. The earlier child points toward the future tree across time. The progression from earlier moment to an anticipated later event is the whole meaning. Do not use thought bubbles or an artist planning a painting. No labels or calendar numerals. Keep both moments in one coherent narrative illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-19c38cb8-4f32-4ee5-be9d-8785807e0ed3.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/would.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/would.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看图：幼童和幼树沿右箭头变为成人和结果树，时间变化清楚；但单看图仍更容易理解长大、成长或未来，无法精确识别过去将来助动词 would 的将义，保留复核。",
+      "generatedAt": "2026-09-28T11:05:09.453533+00:00",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-0638-root.json",
+        "candidatePath": "output/imagegen/batch-20260928-0638/root/candidates/would.webp",
+        "status": "pending_visual_revision",
+        "reason": "主要表现想象或计划画画，不能明确区分打算、想与当前将义项。"
+      },
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c14",
+        "primary": "小树苗长成结满苹果的大树，孩子也长成了成人。",
+        "alternatives": [
+          "成长",
+          "长大",
+          "经过很长时间",
+          "未来成熟"
+        ],
+        "confidence": 0.94,
+        "issues": [
+          "人物与树同时变化，最明显是成长过程；箭头能表现时间推移但无法固定具体时间关系或语法概念。"
+        ],
+        "decision": "deferred",
+        "reason": "人物与树成长过程比将的时间语法关系更突出，不能独立准确辨认。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      }
+    },
+    {
+      "senseId": "4d1463963881c556b0b124f92f827e0cdfe32acf9515ffc953a3c808e13f3721",
+      "wordId": "dict:never",
+      "sourceId": "dict:never",
+      "word": "never",
+      "pos": "adv.",
+      "meaning": "从不",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/4d/4d1463963881c556b0b124f92f827e0cdfe32acf9515ffc953a3c808e13f3721.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: never / adv. / 从不.\nScene: One wordless narrative of the same person across an entire lifetime, shown as a young child, teenager, adult and grey-haired elder spaced across a softly curving path. At every age an offered cigarette is rejected with a firm open-palm refusal; each cigarette has the same small red prohibition slash. The unchanging repeated refusal across unmistakable life stages conveys that this person never smokes. Healthy calm figures, no cigarette ever in a mouth, no smoke. Single coherent illustration for one meaning, no panel boxes, text or numbers.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-22471f88-0139-4e4f-9613-f566874ff216.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/never.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/never.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看图：沿小路依次呈现儿童、少年、成人、白发老人，四个阶段都举掌拒绝香烟且有禁止符号；比单日拒绝场景增加一生持续的线索，可理解从不吸烟，交主审确认是否足够直观。",
+      "generatedAt": "2026-09-28T11:11:33.853561+00:00",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-0638-c.json",
+        "candidatePath": "output/imagegen/batch-20260928-0638/c/candidates/never.webp",
+        "status": "pending_visual_revision",
+        "reason": "仅表现一天内多次拒绝饼干，仍可解释为暂时拒绝，未明确从不的持续习惯。"
+      },
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c12",
+        "primary": "从儿童到老人，各年龄人物都抬手拒绝旁人递来的细小物品，像是在拒绝香烟。",
+        "alternatives": [
+          "一生拒绝吸烟",
+          "始终说不",
+          "各年龄段都拒绝"
+        ],
+        "confidence": 0.79,
+        "issues": [
+          "被拒绝的细小物品在卡片尺度下难辨；依赖红色禁止符号帮助理解；多个年龄人物可表示一生，也可表示不同年龄的人。"
+        ],
+        "decision": "deferred",
+        "reason": "多个年龄拒绝可读不同人物共同拒绝，未能明确同一人从不的持续习惯，拒绝物也过小。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      }
+    },
+    {
+      "senseId": "b8e8c2cb134d31d53dd538d5bc6dceaa6106a6d210fb50c83c9d0c82fd82725f",
+      "wordId": "dict:country",
+      "sourceId": "dict:country",
+      "word": "country",
+      "pos": "n.",
+      "meaning": "国家",
+      "stageId": "primary",
+      "desiredAssetPath": "public/images/words/b8/b8e8c2cb134d31d53dd538d5bc6dceaa6106a6d210fb50c83c9d0c82fd82725f.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: country / n. / 国家.\nScene: A gently tilted globe with neighboring national territories separated by thin clean borders. One compact mainland country is filled coral red, with its complete border strongly outlined, while adjacent countries are pale blue-green. A tiny plain coral flag on a short pole stands within this highlighted territory. The highlighted country contains a small city and countryside together to convey a whole nation, not only rural land. Show adjacent territories and ocean so it is clearly one country within the world. No lettering, no real national flags or disputed boundary details.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Clear centered composition, generous margins, muted natural green, blue and coral. Legible at small card size.\nConstraints: no readable text, letters, numerals, written labels, logos, watermarks, borders, or card UI. One independent image for this exact sense. Prioritize the visible semantic relationship over decorative beauty.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0e7ae-0769-7bd2-b075-b82942f75166/exec-8a3d6a6e-4618-4a1e-a081-f2f6c3922333.png",
+      "originalLocalPath": "output/imagegen/batch-20260928-1101/c/originals/country.png",
+      "candidatePath": "output/imagegen/batch-20260928-1101/c/candidates/country.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看图：地球上一个红色有界区域、旗帜、城镇和田野可传达国家，但生成了近似真实东亚地图且疆界比例与形状不准确；不能把地理错误教育图直接内置，建议重做虚构小岛国边界或明确不同国家的小地图。",
+      "generatedAt": "2026-09-28T11:21:22.100833+00:00",
+      "visualReview": {
+        "method": "Each image was actually viewed by its generator, then cross-reviewed as a numbered image with target word, definition and prompt hidden; root compared observations with the exact game sense and reinspected ambiguous cases.",
+        "blindId": "c09",
+        "primary": "地球上的中国区域被突出显示。",
+        "alternatives": [
+          "国家或国土",
+          "中国地图",
+          "地理疆域"
+        ],
+        "confidence": 0.87,
+        "issues": [
+          "特定中国轮廓与泛指国家都有可能，地理边界风格化；旗帜仅纯色，无法由旗帜确认国名。"
+        ],
+        "decision": "deferred",
+        "reason": "图片呈现近似真实中国区域但地理边界不准确，保留重做。",
+        "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+      }
+    }
+  ],
+  "pending": [],
+  "updatedAt": "2026-09-28T13:19:36.490473+00:00",
+  "summary": {
+    "assigned": 15,
+    "generated": 15,
+    "accepted": 12,
+    "deferred": 3,
+    "reviewedAt": "2026-09-28T16:39:04.201544+00:00"
+  }
+}
