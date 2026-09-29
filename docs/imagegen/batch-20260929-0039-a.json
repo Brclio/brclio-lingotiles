@@ -1,0 +1,798 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260929-0039-a",
+  "parentBatch": "20260929-0039",
+  "assets": [
+    {
+      "senseId": "737d06f6804701867e40f9d3fa41fa82824afe69476758fb2308e118804f2983",
+      "wordId": "dict:question",
+      "sourceId": "dict:question",
+      "word": "question",
+      "pos": "n.",
+      "meaning": "问题",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"question\",\"pos\":\"n.\",\"meaning\":\"问题\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A curious child with visibly puzzled raised eyebrows, mouth beginning a question and one palm turned upward points with the other hand at an unfamiliar shell held by an attentive adult. The adult listens and has not yet replied. One empty speech bubble from the child contains a small simple drawing of that same shell only, no writing or punctuation. Focus on asking about an unknown thing, not a classroom hand raised or someone answering.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-d2aed361-11ad-4b28-b452-2a3c73ac0fe1.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/question.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/question.webp",
+      "intendedSavedPath": "public/images/words/73/737d06f6804701867e40f9d3fa41fa82824afe69476758fb2308e118804f2983.webp",
+      "generatedAt": "2026-09-29T00:50:41.535899+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：孩子皱眉张口、指向海螺并摊掌，成人倾听，气泡仅有海螺无文字，比举手更明确呈现疑问与提出问题。也可能读为好奇询问，需主审判断名词问题是否足够直观。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-c.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/c/candidates/question.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "c-04",
+          "primary": "学生举手发言",
+          "alternatives": [
+            "回答",
+            "提问",
+            "问题"
+          ],
+          "confidence": "medium",
+          "issues": "无法分辨在提问还是回答老师",
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "学生举手既可以提问也可以回答，问题的目标含义不明确。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "c-06",
+        "primaryMeaning": "小女孩指着大人手里的海螺，张嘴露出疑惑神情，像在询问它。",
+        "alternatives": [
+          "提问",
+          "好奇",
+          "谈论海螺"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "双手和海螺可辨；未见明显解剖异常。",
+          "text": "气泡只有海螺图案，没有文字或数字。",
+          "ambiguity": "疑惑表情支持询问，也可读为谈论、好奇或要求拿海螺。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "疑惑的孩子指海螺、张口询问并摊掌，成人倾听，疑问内容以海螺气泡呈现；符合名词问题而非障碍义。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/73/737d06f6804701867e40f9d3fa41fa82824afe69476758fb2308e118804f2983.webp",
+      "alt": "小女孩指着大人手里的海螺，张嘴露出疑惑神情，像在询问它。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "4504c6486fed4d6806707e253eb41cbf8dcd19043ad08519a6d64ab43b9f556b",
+      "bytes": 63448,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "74df394080108938b123fc256ece15af8f4bdd618f8c8aec8487272ed75d77cb",
+      "wordId": "dict:best",
+      "sourceId": "dict:best",
+      "word": "best",
+      "pos": "adj.",
+      "meaning": "最好的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"best\",\"pos\":\"adj.\",\"meaning\":\"最好的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A produce judge chooses the clearly finest apple among three distinct apples presented side by side on a table: one bruised shrivelled apple, one small uneven apple, and one fresh perfectly shaped bright red apple. The judge decisively holds up the perfect red apple, which wears a plain gold rosette with no letters or numbers; the other two remain below. A comparison and selection at one instant, not a progression over time.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-895e4e90-6343-4697-9c51-c979e4188ae4.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/best.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/best.webp",
+      "intendedSavedPath": "public/images/words/74/74df394080108938b123fc256ece15af8f4bdd618f8c8aec8487272ed75d77cb.webp",
+      "generatedAt": "2026-09-29T01:03:29.470988+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：三枚苹果从腐坏到较普通，再到手中获金色奖花的完整鲜红苹果，比较和选出最好者可直观看出，非时间过程；无文字，手指基本自然。建议进入独立复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-a.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/a/candidates/best.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-03",
+          "primaryMeaning": "陶艺作品从粗糙到精致的改进",
+          "alternatives": [
+            "做陶器",
+            "挑选较好的杯子",
+            "进步"
+          ],
+          "confidence": "medium",
+          "issues": [
+            "无文字；三个杯形陶器由破裂到光滑排列，但时间过程未直接标示，也可读成选择器皿。"
+          ],
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "三个杯子更易读成制作进步过程，最好的最高程度选择不明确。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "c-14",
+        "primaryMeaning": "女子举起一只带奖章的漂亮苹果，桌上另外两只苹果更差，其中一只腐烂。",
+        "alternatives": [
+          "最好的苹果",
+          "优胜",
+          "挑选优质水果"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物握苹果姿势和水果外形自然。",
+          "text": "奖章没有可见文字数字。",
+          "ambiguity": "多件比较和奖章支持最优，也可理解为获奖或挑选。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "三枚苹果由腐烂、普通到被举起授奖的鲜红苹果，最优比较清楚，盲审识别最好的苹果。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/74/74df394080108938b123fc256ece15af8f4bdd618f8c8aec8487272ed75d77cb.webp",
+      "alt": "女子举起一只带奖章的漂亮苹果，桌上另外两只苹果更差，其中一只腐烂。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "050475c68e4103bd1081bf4ece659b3f29b7b661f709e0432f4834cf31fc58f8",
+      "bytes": 52644,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "b82f726bd86978f93e5fb1bfc27294633104d0fb60b1c05f70bfbaeb292b5510",
+      "wordId": "dict:speak",
+      "sourceId": "dict:speak",
+      "word": "speak",
+      "pos": "v.",
+      "meaning": "说",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"speak\",\"pos\":\"v.\",\"meaning\":\"说\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A child clearly speaking to an attentive friend: side-on three-quarter view, speaker's mouth open mid-sentence, one natural expressive hand gesture, small empty speech bubble emerging from the mouth, friend looking and listening with mouth closed. No microphone, no singing, no shouting, no lettering or punctuation.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-253fd823-3c57-4c58-a527-491d9e97675e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/speak.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/speak.webp",
+      "intendedSavedPath": "public/images/words/b8/b82f726bd86978f93e5fb1bfc27294633104d0fb60b1c05f70bfbaeb292b5510.webp",
+      "generatedAt": "2026-09-29T01:11:32.692341+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：男孩张口配空白说话气泡和手势，女孩闭口倾听，说话动作直接可读，无文字、无歌唱器具、无明显畸形。建议进入交叉复核。",
+      "reviewEvidence": {
+        "blindId": "c-08",
+        "primaryMeaning": "男孩张嘴做手势向女孩说话，女孩专心听。",
+        "alternatives": [
+          "说话",
+          "交谈",
+          "讲述"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物面部与手势自然。",
+          "text": "有空白对话气泡，没有文字数字。",
+          "ambiguity": "说话动作清楚，无法判断具体语言或谈话内容。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "男孩张口做手势，空白话泡和另一人的聆听呈现说话动作，无文字。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/b8/b82f726bd86978f93e5fb1bfc27294633104d0fb60b1c05f70bfbaeb292b5510.webp",
+      "alt": "男孩张嘴做手势向女孩说话，女孩专心听。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "27e46d2366ce0610dc43203a17d24a79dbcbbdfa101c41e874172b4103481820",
+      "bytes": 47894,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "15bd7a6982d4efb36c7f88380fabce0a172c40af467047667dc72d4ba6618f89",
+      "wordId": "dict:remember",
+      "sourceId": "dict:remember",
+      "word": "remember",
+      "pos": "v.",
+      "meaning": "记得",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"remember\",\"pos\":\"v.\",\"meaning\":\"记得\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A person at their front door suddenly remembers where they left their keys: they touch their temple with an expression of recognition, and a cloud-shaped recollection bubble shows a distinctive coral keyring resting in a blue bowl on a wooden shelf. The same blue bowl and coral keyring are visible on the shelf behind them, allowing a direct visual match. No writing or lightbulbs; emphasize recovered memory rather than generic thinking.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-a7eea7ad-56b4-418f-8011-80d342bcd85c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/remember.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/remember.webp",
+      "intendedSavedPath": "public/images/words/15/15bd7a6982d4efb36c7f88380fabce0a172c40af467047667dc72d4ba6618f89.webp",
+      "generatedAt": "2026-09-29T01:22:06.967886+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：门口人物指太阳穴露出想起的表情，回忆气泡与现实蓝碗钥匙完全对应，记起钥匙线索直观；无文字，钥匙辨认清楚，仍需独立区分记得与想到。",
+      "reviewEvidence": {
+        "blindId": "c-13",
+        "primaryMeaning": "门口的女子指着额头，想到钥匙放在碗里，露出想起来的表情。",
+        "alternatives": [
+          "记起钥匙位置",
+          "记得带钥匙",
+          "想到",
+          "发现"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物与钥匙碗未见明显结构异常。",
+          "text": "思维气泡内是钥匙，没有文字数字。",
+          "ambiguity": "回忆线索较强，也可能是想到或刚发现；看不到前一刻是否忘记。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "女子指额头想起钥匙，现实钥匙碗与思维气泡一致，盲审清楚识别记起位置。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/15/15bd7a6982d4efb36c7f88380fabce0a172c40af467047667dc72d4ba6618f89.webp",
+      "alt": "门口的女子指着额头，想到钥匙放在碗里，露出想起来的表情。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "c556bc572b26d8c71697c88594c65ce3f8b26d8abdc6d912fda27ecdd8992256",
+      "bytes": 60668,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "35b0dadaf694dec4095b64cb48c5a67efcfb51ff278f5eba72118c4305bc399e",
+      "wordId": "dict:girl",
+      "sourceId": "dict:girl",
+      "word": "girl",
+      "pos": "n.",
+      "meaning": "女孩",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"girl\",\"pos\":\"n.\",\"meaning\":\"女孩\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: One friendly school-age girl, about eight years old, standing naturally with full body visible. Childlike proportions, two simple dark braids, comfortable coral short-sleeved dress and blue sneakers, warm neutral expression, no props or background action. Clearly a young girl rather than an adult woman or baby.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-74cb7361-6cab-49e0-88d9-426317369635.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/girl.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/girl.webp",
+      "intendedSavedPath": "public/images/words/35/35b0dadaf694dec4095b64cb48c5a67efcfb51ff278f5eba72118c4305bc399e.webp",
+      "generatedAt": "2026-09-29T01:48:31.548268+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：单个儿童女孩全身、辫子、自然脸部和儿童比例明确，无文字或干扰元素，女孩含义直观，建议独立复核。",
+      "reviewEvidence": {
+        "blindId": "c-12",
+        "primaryMeaning": "穿红裙、扎双辫的小女孩站着微笑。",
+        "alternatives": [
+          "女孩",
+          "女童",
+          "小孩"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "全身比例自然；双手藏在身后。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "女童主体明确，姿态没有其他明显动作含义。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "单个女童全身和儿童比例明确，动作与背景无干扰。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/35/35b0dadaf694dec4095b64cb48c5a67efcfb51ff278f5eba72118c4305bc399e.webp",
+      "alt": "穿红裙、扎双辫的小女孩站着微笑。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "13353acca7cf179f00c094c5e9402504e13baf6e39809be83a481c61993d62d6",
+      "bytes": 18412,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "b5376c0b21386e9eda54ca8c4cfd4eb5e32c7833805f8c5de09cb91bdf532a79",
+      "wordId": "dict:foot",
+      "sourceId": "dict:foot",
+      "word": "foot",
+      "pos": "n.",
+      "meaning": "脚",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"foot\",\"pos\":\"n.\",\"meaning\":\"脚\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: Close view of one healthy bare human foot resting naturally on a pale surface, three-quarter view with heel, arch, ankle and all five toes clearly visible in correct anatomy. The short lower leg exits naturally at the upper edge. No shoes or socks, no hands, no labels, no injuries; foot is the sole focus.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-802e21b4-6d3d-48eb-9540-03026980b9a5.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/foot.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/foot.webp",
+      "intendedSavedPath": "public/images/words/b5/b5376c0b21386e9eda54ca8c4cfd4eb5e32c7833805f8c5de09cb91bdf532a79.webp",
+      "generatedAt": "2026-09-29T02:05:45.295719+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：裸脚特写，五个脚趾逐个可数，脚踝足跟足背形态正常，没有文字与其他肢体干扰，脚的含义直接明确，建议交叉复核。",
+      "reviewEvidence": {
+        "blindId": "c-11",
+        "primaryMeaning": "一只裸露的人脚，包括脚踝、脚背和五个脚趾。",
+        "alternatives": [
+          "脚",
+          "足部"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "五个脚趾清楚，未见明显结构异常。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "主体明确，歧义很低。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "独立裸脚特写，五个脚趾、足跟与脚踝清晰且结构自然。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/b5/b5376c0b21386e9eda54ca8c4cfd4eb5e32c7833805f8c5de09cb91bdf532a79.webp",
+      "alt": "一只裸露的人脚，包括脚踝、脚背和五个脚趾。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "96d825c28e1a75d7ce7cb221c1b4495bef7d3885d1c99da8c0400eef1f3128fc",
+      "bytes": 19518,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "077329afb36e38bb4f52d0cd36438a4caa077c6ee30676d578c1d109cfd1d6b5",
+      "wordId": "dict:love",
+      "sourceId": "dict:love",
+      "word": "love",
+      "pos": "n.",
+      "meaning": "爱",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"love\",\"pos\":\"n.\",\"meaning\":\"爱\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A loving parent and small child holding each other in a gentle close embrace, smiling softly with eyes closed and cheeks touching. Both arms naturally around each other, warm affectionate body language, no tears, no medical or rescue context, no floating heart symbols. Express mutual affection directly through the human relationship.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-e0d7a180-5c1d-4c68-b641-d05d4b3c4628.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/love.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/love.webp",
+      "intendedSavedPath": "public/images/words/07/077329afb36e38bb4f52d0cd36438a4caa077c6ee30676d578c1d109cfd1d6b5.webp",
+      "generatedAt": "2026-09-29T02:51:52.051754+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：母亲和孩子双向拥抱、贴脸微笑，亲密的爱直接由人物互动呈现，无文字及抽象心形代替，手臂关系自然。可理解为亲情和爱，需主审确认。",
+      "reviewEvidence": {
+        "blindId": "c-15",
+        "primaryMeaning": "母亲与孩子紧紧相拥，贴脸闭眼微笑。",
+        "alternatives": [
+          "拥抱",
+          "亲情",
+          "爱",
+          "亲密"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "手臂重叠可解释为相拥，未见明显异常。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "拥抱动作最直接，也强烈传达亲情与爱；亲子身份根据年龄与姿态推测。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "母子相拥贴脸微笑，亲密互动直接传达亲情与爱，不依赖心形符号。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/07/077329afb36e38bb4f52d0cd36438a4caa077c6ee30676d578c1d109cfd1d6b5.webp",
+      "alt": "母亲与孩子紧紧相拥，贴脸闭眼微笑。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "357ead005cb7460033355a82387a76dbbbba9bae85aa54bcbc3f43f6f5692a8e",
+      "bytes": 53848,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "6eb5839ce0fa2d50989400c85cd3e51742bf8980b672a71b357e7ba27fa0d29f",
+      "wordId": "dict:behind",
+      "sourceId": "dict:behind",
+      "word": "behind",
+      "pos": "adv.",
+      "meaning": "在后地",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"behind\",\"pos\":\"adv.\",\"meaning\":\"在后地\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A little duckling follows directly behind a larger mother duck walking to the right along a short path. Both face the same direction, mother clearly ahead and duckling clearly behind with a small gap, viewed from the side. Two ducks only, consistent scale and feet, no arrows or words; simple spatial relation behind.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-dacff7c5-77f9-4274-9973-f845d2aa574f.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/behind.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/behind.webp",
+      "intendedSavedPath": "public/images/words/6e/6eb5839ce0fa2d50989400c85cd3e51742bf8980b672a71b357e7ba27fa0d29f.webp",
+      "generatedAt": "2026-09-29T04:00:10.520808+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：大鸭朝右走，小鸭同向跟在其身后，前后位置关系清晰无文字，无重叠误认；跟随和在后两种说法都符合画面，需独立判断目标副词。",
+      "reviewEvidence": {
+        "blindId": "c-01",
+        "primaryMeaning": "一只小鸭跟着一只成年鸭向前走。",
+        "alternatives": [
+          "跟随",
+          "鸭妈妈和小鸭",
+          "走路"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "鸭子的外形与脚部自然。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "亲子、跟随和走路均是可能含义，画面没有限定其中一种。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "小鸭与大鸭同向行走且位于大鸭后方，前后位置与跟随关系直观，符合在后地。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/6e/6eb5839ce0fa2d50989400c85cd3e51742bf8980b672a71b357e7ba27fa0d29f.webp",
+      "alt": "一只小鸭跟着一只成年鸭向前走。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "2153794acde53f1f52ca9a3e2d085552fc8b98c36cb7935d8a42d1c72ffc886b",
+      "bytes": 48020,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "0284704b13a7e3d6b0f3b4308286e4774501c6b6ce80f30cf9f51de62e9c7335",
+      "wordId": "dict:hope",
+      "sourceId": "dict:hope",
+      "word": "hope",
+      "pos": "n.",
+      "meaning": "希望",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"hope\",\"pos\":\"n.\",\"meaning\":\"希望\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A child waiting hopefully at a window for a planted seed to sprout: hands gently clasped under chin, bright expectant eyes and slight hopeful smile toward a plain flowerpot with moist soil and the tiniest emerging green shoot. A small cloud-shaped imagined future above the pot shows the same pot with a healthy blooming plant. Emphasize positive expectation for future growth, not praying or watering. No symbols or text.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-dcd51e65-64f8-4500-9d6a-1f461ab36828.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/hope.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/hope.webp",
+      "intendedSavedPath": "public/images/words/02/0284704b13a7e3d6b0f3b4308286e4774501c6b6ce80f30cf9f51de62e9c7335.webp",
+      "generatedAt": "2026-09-29T04:18:44.833771+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：孩子微笑期待新芽长成花，现实幼苗与脑中开花愿景有明确未来差异，无文字；希望和期盼较直观，也可能理解为想象未来，需交叉复核。",
+      "reviewEvidence": {
+        "blindId": "c-05",
+        "primaryMeaning": "女孩双手交握望着幼苗，想着它将长成开花的植物。",
+        "alternatives": [
+          "期待开花",
+          "愿望",
+          "想象未来",
+          "种花"
+        ],
+        "confidence": "medium",
+        "issues": {
+          "anatomy": "人物与植物未见明显结构异常。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "期待、愿望和想象较接近，图像难单独限定其中一个抽象心理状态。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "女孩双手交握期盼幼苗长成花，现实与愿望泡泡形成期待未来的关系，传达希望而非已发生事实。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/02/0284704b13a7e3d6b0f3b4308286e4774501c6b6ce80f30cf9f51de62e9c7335.webp",
+      "alt": "女孩双手交握望着幼苗，想着它将长成开花的植物。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "73aafed1a78d901de60018a3905bc98df6836b0c4b578f396cebeb23ce8aef34",
+      "bytes": 76540,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "5cc6838bae36ceb4666a40fbc5bb777532a7d57d0fa1e36bba618e0cb7971cca",
+      "wordId": "dict:heart",
+      "sourceId": "dict:heart",
+      "word": "heart",
+      "pos": "n.",
+      "meaning": "心",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"heart\",\"pos\":\"n.\",\"meaning\":\"心\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A friendly simplified anatomical human heart, not a valentine icon, shown centered as a clean educational gouache illustration. Clearly recognizable muscular red heart form with a tapering lower tip, rounded upper chambers and distinct large red and blue vessels emerging from the top; subtle blue veins. No labels, no blood or gore, no extra organs, plain cream paper background.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-6f01a95e-1d9d-45d8-ac81-9b06b0d8ff60.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/heart.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/heart.webp",
+      "intendedSavedPath": "public/images/words/5c/5cc6838bae36ceb4666a40fbc5bb777532a7d57d0fa1e36bba618e0cb7971cca.webp",
+      "generatedAt": "2026-09-29T04:44:24.837682+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看：独立解剖心脏图外形、心尖、大血管明确，无文字、无血腥，心脏含义直观。仅作词汇插图，未验证全部医学解剖细节，建议独立复核。",
+      "reviewEvidence": {
+        "blindId": "c-04",
+        "primaryMeaning": "人体心脏的外观及其连接血管。",
+        "alternatives": [
+          "心脏器官",
+          "人体器官"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "心脏和大血管外形可识别；未作医学结构精度鉴定。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "器官指向明确，不像一般的心形符号。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "accepted",
+        "reason": "解剖式心脏主体、大血管及心尖使器官心清楚可认，无文字，不以爱心符号代替。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/5c/5cc6838bae36ceb4666a40fbc5bb777532a7d57d0fa1e36bba618e0cb7971cca.webp",
+      "alt": "人体心脏的外观及其连接血管。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "78bf2e1291e2f1d6968766b7e40eef136f46dc71068de113b96eff86200efe37",
+      "bytes": 44638,
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645",
+      "wordId": "dict:by",
+      "sourceId": "dict:by",
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"by\",\"pos\":\"prep.\",\"meaning\":\"被\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A passive receiver-centered everyday scene: a small seated child with long hair occupies the foreground, relaxed and still, while a clearly separate adult behind gently braids the child's hair. Both adult hands visibly act on the braid and the child's hands rest quietly in their lap. Emphasize the child receiving the action from the adult, both actor and recipient unobscured, no symbols or words.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-0ce2c954-185c-479c-b376-442eb2179d32.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/by.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/by.webp",
+      "intendedSavedPath": "public/images/words/47/47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645.webp",
+      "generatedAt": "2026-09-29T00:45:07.010036+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看：母亲为女孩编辫子清楚、无文字；遮住词义只能读成编辫子或照料，被动施受关系虽存在但被并不能独立辨识，建议保留待修订，不能视为通过。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-a.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/a/candidates/by.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-04",
+          "primaryMeaning": "母亲给孩子梳头发",
+          "alternatives": [
+            "梳头",
+            "照料孩子",
+            "母女"
+          ],
+          "confidence": "high",
+          "issues": [
+            "无文字；梳头动作与母女亲密关系都清晰，未见明显解剖问题。"
+          ],
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "梳头和照料清楚，未能独立表达被的被动关系。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "c-03",
+        "primaryMeaning": "一位成年女性给小女孩编辫子。",
+        "alternatives": [
+          "梳头",
+          "照顾孩子",
+          "母女"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "双手握住头发，编发动作可辨；未见明显结构异常。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "可直接理解为编辫子或照料，施受双方关系存在，但未独立限定抽象语法关系。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "deferred",
+        "reason": "只能直观理解编辫子或照顾，被动关系被无法独立辨识。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7",
+      "wordId": "dict:when",
+      "sourceId": "dict:when",
+      "word": "when",
+      "pos": "conj.",
+      "meaning": "当...的时候",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"when\",\"pos\":\"conj.\",\"meaning\":\"当...的时候\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A single simultaneous moment in a bedroom: a mechanical twin-bell alarm clock on the bedside table visibly rings with tiny curved vibration strokes exactly as a child in bed begins to wake and opens their eyes, lifting their head from the pillow. Bright early daylight. Make the ringing and waking causally and temporally connected in the same tight scene, simple clock dial without writing or numbers, not a sequence or collage.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-aa94df31-be8e-4ea7-a729-6380cf795960.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/when.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/when.webp",
+      "intendedSavedPath": "public/images/words/ef/ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7.webp",
+      "generatedAt": "2026-09-29T00:46:48.301989+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看：铃响和孩子醒来同时出现，无文字，动作清楚。但遮住词义主要理解为闹钟叫醒或早晨起床，不能唯一辨识当……的时候，需严格交叉复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-a.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/a/candidates/when.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-15",
+          "primaryMeaning": "孩子在雨天门口打开雨伞准备出门",
+          "alternatives": [
+            "撑伞",
+            "下雨",
+            "被风吹翻的雨伞"
+          ],
+          "confidence": "medium",
+          "issues": [
+            "无文字；雨景明确，伞面呈凹面且露出伞骨，可被理解为开伞途中，也可能误认为雨伞翻折。"
+          ],
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "雨天撑伞动作与时间或因果关系无法区分，伞面形态另有歧义。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "c-09",
+        "primaryMeaning": "闹钟响起，床上的男孩睁眼转向闹钟。",
+        "alternatives": [
+          "被闹钟叫醒",
+          "起床时间",
+          "早晨"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物与钟体未见明显异常。",
+          "text": "钟面只有刻度和指针，没有数字文字。",
+          "ambiguity": "叫醒过程明确，钟响与醒来同时发生也可辨；不能单独限定抽象时间连词。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "deferred",
+        "reason": "闹钟叫醒与早晨起床比时间连词更突出，无法独立传达当...的时候。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd",
+      "wordId": "dict:meet",
+      "sourceId": "dict:meet",
+      "word": "meet",
+      "pos": "n.",
+      "meaning": "会",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"meet\",\"pos\":\"n.\",\"meaning\":\"会\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A small organized meeting: four adults sit around a round table facing one another, attentively discussing a shared simple tabletop model of a community garden; one speaks with an open hand, others listen. One cohesive event scene, no race, handshake, arrival or trophy. No written documents or symbols. Target is noun gathering or meeting 会; precise lexical ambiguity remains for later review.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-875c0833-2919-4673-9302-a21dbc38d14c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/meet.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/meet.webp",
+      "intendedSavedPath": "public/images/words/54/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+      "generatedAt": "2026-09-29T00:56:21.918216+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看：四人围桌交流明确是开会讨论，名词会的场景可理解。然而 meet n. 会 的词典语义本身不充分，普通会议可能应为 meeting，不能仅因画面顺畅就确认，应保留词义复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-c.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/c/candidates/meet.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "c-05",
+          "primary": "跑步比赛冲线获胜",
+          "alternatives": [
+            "田径运动会",
+            "赛跑",
+            "胜利"
+          ],
+          "confidence": "high",
+          "issues": "获胜动作比整个运动会概念更突出",
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "原游戏释义仅为名词会，赛跑获胜场景不足以确认该义项。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "c-07",
+        "primaryMeaning": "四个人围坐桌边，讨论中间的花园模型。",
+        "alternatives": [
+          "开会",
+          "讨论",
+          "规划花园",
+          "交流"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物、手势与坐姿未见明显异常。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "明显是已经聚在一起讨论，不能看出相遇或初次见面的过程。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "deferred",
+        "reason": "画面表现开会，但游戏中 meet / n. / 会 的词性义项仍不充分，不能自行把 meeting 场景认定为正确，保留词义复核。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+      "wordId": "dict:open",
+      "sourceId": "dict:open",
+      "word": "open",
+      "pos": "n.",
+      "meaning": "公开",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"open\",\"pos\":\"n.\",\"meaning\":\"公开\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: An adult makes a previously concealed painting public by drawing aside a plain cloth from a framed landscape painting on an easel before a small audience of several people of different ages, all able to see it clearly together. The painting is visibly revealed for everyone in an open community space, no doorway opening, no book opening, no letters or signs. Target is public disclosure 公开, noun sense, not the physical verb open.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-39f04779-ac58-484e-8b01-832302b760ea.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/open.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/open.webp",
+      "intendedSavedPath": "public/images/words/49/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+      "generatedAt": "2026-09-29T01:34:35.393621+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看：向观众揭幕画作、公众可见的场景清楚，无文字。但容易读为画展或揭幕，open n. 公开 为抽象词义，不能确定仅凭图理解公开，需保留严格复核。",
+      "reviewEvidence": {
+        "blindId": "c-10",
+        "primaryMeaning": "女子揭开盖在画作上的布，观众在旁鼓掌。",
+        "alternatives": [
+          "揭幕",
+          "展示画作",
+          "公开作品",
+          "艺术展览"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物姿势与画架基本自然。",
+          "text": "没有可见文字或数字。",
+          "ambiguity": "揭开与展示清楚，若指向一般打开则场景较专门。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "deferred",
+        "reason": "画面主要是揭幕或画展，对抽象名词公开仍有明显歧义，保留复核。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "72144d9521373283c6515a52fdf2b6cc3c2238aaf4cc029328f13e96dac4aca2",
+      "wordId": "dict:bank",
+      "sourceId": "dict:bank",
+      "word": "bank",
+      "pos": "n.",
+      "meaning": "银行",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"bank\",\"pos\":\"n.\",\"meaning\":\"银行\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A clear small bank interior shown in a simple cutaway: a customer hands a stack of plain banknotes to a teller across a secure counter, and a large heavy circular open vault door with stacked coins visible inside stands immediately behind the teller. Blank banknotes without letters or numerals, no written bank sign. Bank financial institution must be instantly identifiable through teller service and vault, no shop goods.\nOutput: exactly one square standalone image, no collage. Semantic clarity over decoration. Use only the requested scene, no written words, letters, digits or punctuation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea9a-34ab-7300-83d1-f071be7fa722/exec-cf571c30-be75-45fd-9957-7e09134545d1.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/a/source/bank.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/bank.webp",
+      "intendedSavedPath": "public/images/words/72/72144d9521373283c6515a52fdf2b6cc3c2238aaf4cc029328f13e96dac4aca2.webp",
+      "generatedAt": "2026-09-29T03:35:55.444348+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看：柜员、客户交钞和厚重金库门同时清楚，银行机构可以识别；钞票和胸牌无可读文字。现金交接似穿过玻璃挡板且未走下方传递槽，存在场景结构问题，应由主审评估是否需修正。",
+      "reviewEvidence": {
+        "blindId": "c-02",
+        "primaryMeaning": "顾客在银行柜台与柜员交接一叠钞票，后面是打开的金库。",
+        "alternatives": [
+          "银行",
+          "存钱或取钱",
+          "现金交易"
+        ],
+        "confidence": "high",
+        "issues": {
+          "anatomy": "人物和钞票交接姿势基本自然。",
+          "text": "钞票和胸牌没有可辨文字数字。",
+          "ambiguity": "银行场所明确，交钱方向无法确定是存款还是取款。"
+        },
+        "reviewer": "audit_disk",
+        "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+        "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+        "decision": "deferred",
+        "reason": "金库与柜员使银行语义清楚，但现金交接穿过透明玻璃挡板而未经过传递槽，复查确认结构问题。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    }
+  ],
+  "pending": [],
+  "recovery": {
+    "runId": "20260929-0548-recovery",
+    "threadId": "01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9",
+    "recoveredAt": "2026-09-29T05:58:31.305252+00:00",
+    "generatedInPriorRun": true,
+    "candidateCount": 15,
+    "accepted": 10,
+    "deferred": 5
+  }
+}

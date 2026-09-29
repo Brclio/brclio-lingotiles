@@ -1,0 +1,780 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260929-0039-root",
+  "parentBatch": "20260929-0039",
+  "assets": [
+    {
+      "senseId": "c99ebf6c2935f94329962f1e77de7d70dbcd32e8c35650c541157869ecc9fb58",
+      "wordId": "dict:early",
+      "sourceId": "dict:early",
+      "word": "early",
+      "pos": "adj.",
+      "meaning": "早的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: early; adj.; 早的.\nScene: A child arrives at a school classroom very early: most chairs still upside down on desks, cleaner just opening curtains to a low rising morning sun, the child waits with backpack at the doorway, no other students. Explicit morning cues: a rooster outside crowing and sunrise eastern sky. No clocks.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-23f6cc1c-bc6f-440f-9bdf-b361a55b513a.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/early.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/early.webp",
+      "intendedSavedPath": "public/images/words/c9/c99ebf6c2935f94329962f1e77de7d70dbcd32e8c35650c541157869ecc9fb58.webp",
+      "generatedAt": "2026-09-29T00:54:22.566968+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "孩子在公鸡打鸣、日出时到达尚未布置好的空教室，早到线索比上一批更清楚；需盲审排除放学后。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-root.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/root/candidates/early.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-15",
+          "primaryMeaning": "低太阳时分，孩子背着书包站在学校门外，等工作人员开门或关门。",
+          "alternatives": [
+            "到校很早",
+            "等待开门",
+            "迟到或校门关闭",
+            "早晨或傍晚"
+          ],
+          "confidence": "low",
+          "issues": {
+            "anatomy": "人物与校门正常。",
+            "text": "无文字数字。",
+            "ambiguity": "静态画面不能确定开门还是关门，低太阳也可能是日出或日落；因此早到和晚到都有可能。"
+          },
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "校门场景也可能是傍晚关门或迟到，无法明确早。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "a-14",
+        "primaryMeaning": "清晨一个背书包的孩子来到还空着的教室，老师正在拉开窗帘，椅子仍倒放在桌上。",
+        "alternatives": [
+          "很早到校",
+          "第一个到教室",
+          "清晨",
+          "上课前"
+        ],
+        "confidence": 0.95,
+        "issues": [
+          "晨光和公鸡支持清晨读法，空教室支持早到读法，但图像没有明确的到校时间。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "晨光、公鸡、尚未放下的教室椅子与第一个到校的孩子共同表达早到；盲审直接识别很早到校。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/c9/c99ebf6c2935f94329962f1e77de7d70dbcd32e8c35650c541157869ecc9fb58.webp",
+      "alt": "清晨一个背书包的孩子来到还空着的教室，老师正在拉开窗帘，椅子仍倒放在桌上。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "90f456587efe989443a501361117911c92a1de7167d6694d8b43ab69a011e7d9",
+      "bytes": 81334,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "b11d42d7c3c2c6bdf99201e79daa17a32ca7365626034ac175afaa1394cb46ac",
+      "wordId": "dict:stop",
+      "sourceId": "dict:stop",
+      "word": "stop",
+      "pos": "n.",
+      "meaning": "停止",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: stop; n.; 停止.\nScene: A person on a small kick scooter has fully stopped at a curb: foot firmly planted, wheel motion trails behind terminate at the front wheel, both hands squeeze brake, waiting still as another child crosses safely. Focus on motion ending.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-e1d7d3ea-3dd1-4820-8e3d-605776ceeb22.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/stop.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/stop.webp",
+      "intendedSavedPath": "public/images/words/b1/b11d42d7c3c2c6bdf99201e79daa17a32ca7365626034ac175afaa1394cb46ac.webp",
+      "generatedAt": "2026-09-29T01:08:51.201507+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "滑板车在路缘停下，脚落地、尾部运动线终止，等待行人，停止含义清楚。",
+      "reviewEvidence": {
+        "blindId": "a-08",
+        "primaryMeaning": "一个女孩正在走斑马线过马路，骑滑板车的男孩停在路边看着她。",
+        "alternatives": [
+          "过马路",
+          "等待行人通过",
+          "礼让行人",
+          "道路安全"
+        ],
+        "confidence": 0.94,
+        "issues": [
+          "女孩的过街动作和男孩的停车等待同样明显；静止画面难以唯一指定重点是过马路、等待还是礼让。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "滑板车在路边止步，孩子一脚落地、运动线到此终止，正在通过的行人提供停下等待的清楚情境。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/b1/b11d42d7c3c2c6bdf99201e79daa17a32ca7365626034ac175afaa1394cb46ac.webp",
+      "alt": "一个女孩正在走斑马线过马路，骑滑板车的男孩停在路边看着她。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "994be26a8a1904372274cb9addd96e114b6d2a4c4616371877fb49f5d189c6df",
+      "bytes": 70132,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "b66d58a4f68f45b844c801a06583eb35dba618eb055c059cb734f056bbd6f9bf",
+      "wordId": "dict:art",
+      "sourceId": "dict:art",
+      "word": "art",
+      "pos": "n.",
+      "meaning": "艺术",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: art; n.; 艺术.\nScene: A handmade still life painting in an easel, small clay sculpture of a bird, watercolor palette and two brushes on an artists studio table. Painting has visible brush strokes and vibrant expressive color. Make visual art itself central, no people needed.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-b2a6faea-21e2-4a5d-990b-bb568ea391f5.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/art.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/art.webp",
+      "intendedSavedPath": "public/images/words/b6/b66d58a4f68f45b844c801a06583eb35dba618eb055c059cb734f056bbd6f9bf.webp",
+      "generatedAt": "2026-09-29T01:17:56.357578+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "绘画、调色盘和鸟雕塑共同呈现视觉艺术，无文字，画面清晰。",
+      "reviewEvidence": {
+        "blindId": "a-03",
+        "primaryMeaning": "画架上摆着一幅花瓶花卉静物画，旁边有画笔、颜料盘和小雕塑。",
+        "alternatives": [
+          "绘画",
+          "美术",
+          "画室或绘画用品",
+          "静物画"
+        ],
+        "confidence": 0.98,
+        "issues": [
+          "画面同时强调成品画和创作用具，不能唯一确定重点是绘画活动、画作还是更宽泛的美术。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "绘画作品、调色盘画笔和小雕塑共同展示艺术类别，盲审识别美术。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/b6/b66d58a4f68f45b844c801a06583eb35dba618eb055c059cb734f056bbd6f9bf.webp",
+      "alt": "画架上摆着一幅花瓶花卉静物画，旁边有画笔、颜料盘和小雕塑。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "d538e13aff6118627506442eaf479a0eaaa0e08b021bdda4b77488adbf544bd3",
+      "bytes": 94442,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "06f6c9f91c171385afc18bf8f57a5a7ffecae2ab16b08243957c7b51cc57b347",
+      "wordId": "dict:buy",
+      "sourceId": "dict:buy",
+      "word": "buy",
+      "pos": "v.",
+      "meaning": "买",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: buy; v.; 买.\nScene: A customer hands several plain gold coins to a shopkeeper and simultaneously receives a loaf of bread across a simple shop counter. Customer hand and purchased bread foreground, clear exchange of money for goods, no signs or prices.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-f9e89f56-15ca-4608-aaba-0edf1aabd2e7.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/buy.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/buy.webp",
+      "intendedSavedPath": "public/images/words/06/06f6c9f91c171385afc18bf8f57a5a7ffecae2ab16b08243957c7b51cc57b347.webp",
+      "generatedAt": "2026-09-29T01:28:10.647922+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "顾客付金币接过面包，交易动作清楚，购买视角足够但与出售对偶，待复核。",
+      "reviewEvidence": {
+        "blindId": "a-15",
+        "primaryMeaning": "顾客在面包店付出钱币，接过店主递来的面包，完成购买。",
+        "alternatives": [
+          "买面包",
+          "卖面包",
+          "付款",
+          "商店交易"
+        ],
+        "confidence": 0.98,
+        "issues": [
+          "买卖双方及钱货交换都在画面中，买、卖、付款三种读法均成立。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "顾客付钱并接过面包是画面主体，盲审首先理解为完成购买，买的动作明确。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/06/06f6c9f91c171385afc18bf8f57a5a7ffecae2ab16b08243957c7b51cc57b347.webp",
+      "alt": "顾客在面包店付出钱币，接过店主递来的面包，完成购买。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "ceb46eaa22e3fc9ea1d77e4e0e66bd1959521a8ca663c376eccab204be2aeca8",
+      "bytes": 53856,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "06cfe8a36d46570ef0270435f682a8136f8acb31a838dd7b2c76396232474b1d",
+      "wordId": "dict:win",
+      "sourceId": "dict:win",
+      "word": "win",
+      "pos": "v.",
+      "meaning": "赢得",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: win; v.; 赢得.\nScene: A young runner breaks a finish tape first, raising both arms with joy while two runners remain clearly behind. A small gold trophy waiting beside finish line reinforces winning. No numbers, writing or medals with text.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-2a08104a-fe27-4f14-9d8f-8335a93b3787.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/win.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/win.webp",
+      "intendedSavedPath": "public/images/words/06/06cfe8a36d46570ef0270435f682a8136f8acb31a838dd7b2c76396232474b1d.webp",
+      "generatedAt": "2026-09-29T01:51:27.753698+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "前景选手首先冲线举手庆祝、后方选手尚未冲线并有奖杯，赢得比赛清楚。",
+      "reviewEvidence": {
+        "blindId": "a-05",
+        "primaryMeaning": "一名跑步选手领先冲过终点彩带，举起双臂庆祝胜利。",
+        "alternatives": [
+          "赢得比赛",
+          "第一名",
+          "跑步冲线",
+          "成功或庆祝"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "领先选手首先冲破终点带并举臂庆祝，其他人尚未到达，赢得比赛直观明确。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/06/06cfe8a36d46570ef0270435f682a8136f8acb31a838dd7b2c76396232474b1d.webp",
+      "alt": "一名跑步选手领先冲过终点彩带，举起双臂庆祝胜利。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "77570a13ff8223fdfbf6fc4c28e601f51bc4ec73a28feb0f0acfc027b429fd68",
+      "bytes": 75508,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "68a4322db7601b02dc4fada6fd2ed835fb4194b9850f76b38c24955819b4010c",
+      "wordId": "dict:teacher",
+      "sourceId": "dict:teacher",
+      "word": "teacher",
+      "pos": "n.",
+      "meaning": "教师",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: teacher; n.; 教师.\nScene: An adult teacher stands before a small group of attentive pupils seated at desks, pointing with a wooden pointer to simple triangle circle and square shapes on a board. Teacher explains and students look up; no writing or numbers.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-5f99aa31-5a63-469c-90c2-a35705185119.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/teacher.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/teacher.webp",
+      "intendedSavedPath": "public/images/words/68/68a4322db7601b02dc4fada6fd2ed835fb4194b9850f76b38c24955819b4010c.webp",
+      "generatedAt": "2026-09-29T02:00:52.300879+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "站立教师指着图形向学生授课，职业与主体清楚，无文字。",
+      "reviewEvidence": {
+        "blindId": "a-06",
+        "primaryMeaning": "老师用教鞭指着白板上的三角形，向坐着的孩子们讲授几何图形。",
+        "alternatives": [
+          "教书或教学",
+          "老师",
+          "学习形状",
+          "课堂讲解"
+        ],
+        "confidence": 0.98,
+        "issues": [
+          "老师这一身份与教学这一动作都能直接读出，若需要区分两者则图像本身不足。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "主体教师手持教鞭向学生讲解图形，职业特征明确。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/68/68a4322db7601b02dc4fada6fd2ed835fb4194b9850f76b38c24955819b4010c.webp",
+      "alt": "老师用教鞭指着白板上的三角形，向坐着的孩子们讲授几何图形。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "f2353a3f724e37a710e664f8f60fb0ccba5aa1933951d7ed85b3afa850894cdc",
+      "bytes": 40836,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "6d880a2b76c895970578369df3c17c8cffe0ef00666a586cef2172260d853cab",
+      "wordId": "dict:class",
+      "sourceId": "dict:class",
+      "word": "class",
+      "pos": "n.",
+      "meaning": "班级",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: class; n.; 班级.\nScene: A coherent school class: one teacher stands behind a single organized group of twelve pupils seated together in three rows at desks, inside one classroom. Several pupils raise hands, everyone clearly part of the same class, no text or numerals.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-8ad53ad2-e37c-4eab-ad9a-d022398ada0e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/class.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/class.webp",
+      "intendedSavedPath": "public/images/words/6d/6d880a2b76c895970578369df3c17c8cffe0ef00666a586cef2172260d853cab.webp",
+      "generatedAt": "2026-09-29T02:32:54.149474+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "教师身后的统一教室里12名学生组成一个班级，集体主体明确；纸张无文字。",
+      "reviewEvidence": {
+        "blindId": "a-04",
+        "primaryMeaning": "老师站在教室前方，学生坐在课桌后，许多人举手参与课堂。",
+        "alternatives": [
+          "班级",
+          "学生上课",
+          "举手回答问题",
+          "教室"
+        ],
+        "confidence": 0.98,
+        "issues": [
+          "人物群体、教室和举手行为都很突出，具体语义重点不唯一。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "共同教室里的整组学生与教师构成一个班级，集体而非单个学生为主体。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/6d/6d880a2b76c895970578369df3c17c8cffe0ef00666a586cef2172260d853cab.webp",
+      "alt": "老师站在教室前方，学生坐在课桌后，许多人举手参与课堂。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "b6967bf8b46589b96028c92a314830b735ccf6ca1e671b4f036f835b3c5c083d",
+      "bytes": 79478,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "1627fd83654fc085d5a5a7a3f226df0ef49f2c7c040ec2a7cb131897cd7d2380",
+      "wordId": "dict:paper",
+      "sourceId": "dict:paper",
+      "word": "paper",
+      "pos": "n.",
+      "meaning": "纸",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: paper; n.; 纸.\nScene: A neat stack of blank white paper with the top sheets gently fanned and one corner curled, casting soft shadows on a warm cream tabletop. Show thin flexible sheets distinctly, no writing, pencil or unrelated objects.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-c2a52f53-508d-490d-8095-25bfb1e8906e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/paper.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/paper.webp",
+      "intendedSavedPath": "public/images/words/16/1627fd83654fc085d5a5a7a3f226df0ef49f2c7c040ec2a7cb131897cd7d2380.webp",
+      "generatedAt": "2026-09-29T03:05:05.580415+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "纯白纸张叠放，薄、柔韧、卷角和纸边清楚，没有文字或干扰。",
+      "reviewEvidence": {
+        "blindId": "a-02",
+        "primaryMeaning": "一叠空白纸张，上面几张纸的边角微微翘起。",
+        "alternatives": [
+          "白纸",
+          "纸张堆叠",
+          "一沓纸"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "空白薄纸叠放且边角翘起，材质和形状清晰，无文字。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/16/1627fd83654fc085d5a5a7a3f226df0ef49f2c7c040ec2a7cb131897cd7d2380.webp",
+      "alt": "一叠空白纸张，上面几张纸的边角微微翘起。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "a83b75175199eaff0d4bf00224db3a474f5952fcdbd8937091c8d90722d8e8ba",
+      "bytes": 20042,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "e5445f82e8e10794796300792c1a7f32f5ff1e442a9cf2e17f337fcb2a3ea4fd",
+      "wordId": "dict:cut",
+      "sourceId": "dict:cut",
+      "word": "cut",
+      "pos": "n.",
+      "meaning": "切口",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: cut; n.; 切口.\nScene: Close view of a single clean incision cut into a ripe apple skin, exposing a narrow pale flesh slit. A small paring knife rests nearby with tip aligned to the fresh cut, but focus on the actual narrow cut opening. Not sliced segments or chopping action.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-15fadf1d-d984-45df-98e0-244dcaf95c85.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/cut.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/cut.webp",
+      "intendedSavedPath": "public/images/words/e5/e5445f82e8e10794796300792c1a7f32f5ff1e442a9cf2e17f337fcb2a3ea4fd.webp",
+      "generatedAt": "2026-09-29T03:30:50.562024+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "苹果上的狭长切口和露出果肉清楚，旁边刀尖建立形成原因，名词切口直观。",
+      "reviewEvidence": {
+        "blindId": "a-12",
+        "primaryMeaning": "一把刀正在苹果表面切开一道长口子，露出浅色果肉。",
+        "alternatives": [
+          "切苹果",
+          "切开",
+          "削苹果皮",
+          "切口"
+        ],
+        "confidence": 0.94,
+        "issues": [
+          "只出现狭长切口，且没有分离的果片；切开与削皮两种动作存在一定歧义。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "苹果上露出浅色果肉的狭长切口居中，刀仅说明形成原因；复查符合名词切口。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/e5/e5445f82e8e10794796300792c1a7f32f5ff1e442a9cf2e17f337fcb2a3ea4fd.webp",
+      "alt": "一把刀正在苹果表面切开一道长口子，露出浅色果肉。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "1ec008deddb6255bffe7a6844578ad4332f806a055d32beb68c2bd7178c0760e",
+      "bytes": 47932,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "e70c858513500787a17da06866c939ddd93ee67c080209912240cd30da4281f6",
+      "wordId": "dict:sell",
+      "sourceId": "dict:sell",
+      "word": "sell",
+      "pos": "v.",
+      "meaning": "卖",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: sell; v.; 卖.\nScene: A friendly fruit seller behind a stall hands a bag of apples outward to a customers receiving hands while accepting plain gold coins. Seller central and stall full of apples makes selling unmistakable. No signs or labels.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-215122f9-834d-4632-9161-225f7f0035b6.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/sell.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/sell.webp",
+      "intendedSavedPath": "public/images/words/e7/e70c858513500787a17da06866c939ddd93ee67c080209912240cd30da4281f6.webp",
+      "generatedAt": "2026-09-29T03:59:42.852595+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "摊主居中收取金币、把苹果袋交给买方双手，出售视角突出，无文字。",
+      "reviewEvidence": {
+        "blindId": "a-01",
+        "primaryMeaning": "水果摊贩递给顾客一袋苹果，另一只手里拿着钱币，表现卖苹果的交易。",
+        "alternatives": [
+          "买苹果",
+          "水果摊买卖",
+          "付款或找零"
+        ],
+        "confidence": 0.97,
+        "issues": [
+          "买卖双方都在画面中，无法只凭图像唯一确定重点是买、卖、付款还是找零。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "水果摊主居中收钱交出苹果袋，顾客仅露双手；盲审首先理解卖苹果，卖方突出。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/e7/e70c858513500787a17da06866c939ddd93ee67c080209912240cd30da4281f6.webp",
+      "alt": "水果摊贩递给顾客一袋苹果，另一只手里拿着钱币，表现卖苹果的交易。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "8349a89b3f23245a76aa165763160b0932bda459fb2293066a2a56794d152414",
+      "bytes": 60536,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "9545b3ffdee24eaa51e14610c4d47c7b57e3b7229b5000938288491a48a37641",
+      "wordId": "dict:strong",
+      "sourceId": "dict:strong",
+      "word": "strong",
+      "pos": "adj.",
+      "meaning": "强壮的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: strong; adj.; 强壮的.\nScene: A visibly muscular but natural adult easily lifts a very heavy boulder with both arms from the ground, knees safely bent, confident calm face, smaller thin person nearby cannot move a much smaller rock. Strong visible muscles, no superhero symbols or text.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-82459e06-f92b-40c3-bc96-5bd59f424ac0.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/strong.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/strong.webp",
+      "intendedSavedPath": "public/images/words/95/9545b3ffdee24eaa51e14610c4d47c7b57e3b7229b5000938288491a48a37641.webp",
+      "generatedAt": "2026-09-29T04:27:49.408069+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "强壮成人轻松抬大石，较弱者搬小石吃力，肌肉和能力对比直观。",
+      "reviewEvidence": {
+        "blindId": "a-07",
+        "primaryMeaning": "肌肉发达的人轻松抱起大石头，旁边较瘦的人费力搬动小石头，突出力气大。",
+        "alternatives": [
+          "强壮",
+          "力量对比",
+          "举起重物",
+          "强与弱"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "accepted",
+        "reason": "肌肉发达者轻松抱大石，旁人搬小石却吃力，力量对比清楚传达强壮的。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      },
+      "savedPath": "public/images/words/95/9545b3ffdee24eaa51e14610c4d47c7b57e3b7229b5000938288491a48a37641.webp",
+      "alt": "肌肉发达的人轻松抱起大石头，旁边较瘦的人费力搬动小石头，突出力气大。",
+      "reviewedAt": "2026-09-29T05:58:31.305252+00:00",
+      "sha256": "a87609a76272012cb4fc5bfb277febfcf8bbde6c336f9241c8b5dafb33749a9d",
+      "bytes": 74460,
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "wordId": "dict:be",
+      "sourceId": "dict:be",
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: be; v.; 是.\nScene: A child wearing a white chef hat identifies themself as a chef, pointing calmly at their chest. Beside the child an oval mirror reflects exactly the same child and chef hat, making a plain identity relationship. Minimal props. This is a difficult copular concept; do not add textual equations.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-efe035e5-432f-4f1b-a2e2-02e4dbe39f4c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/be.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/be.webp",
+      "intendedSavedPath": "public/images/words/b4/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp",
+      "generatedAt": "2026-09-29T00:44:27.776926+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "照镜子的厨师孩子身份明确，但仍更像我或厨师，不能独立表达是，建议保留待修订。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-root.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/root/candidates/be.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-01",
+          "primaryMeaning": "孩子把手中的苹果和脑海中的苹果对应，认出这是苹果而非梨。",
+          "alternatives": [
+            "正确辨认",
+            "知道物品是什么",
+            "相同或匹配"
+          ],
+          "confidence": "medium",
+          "issues": {
+            "anatomy": "未见明显异常。",
+            "text": "没有字母或数字；含等号和红叉符号。",
+            "ambiguity": "画面同时可读为认识、正确、相同或否定梨，难仅凭图确定抽象概念。"
+          },
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "苹果对应与排除梨仍可读为辨认、正确或相同，无法清楚独立表达是。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "a-13",
+        "primaryMeaning": "一个穿厨师服的孩子对着镜子，抬手指着自己的胸口。",
+        "alternatives": [
+          "自己或自我指认",
+          "照镜子",
+          "镜中倒影",
+          "厨师"
+        ],
+        "confidence": 0.95,
+        "issues": [
+          "指向自己、照镜子和厨师身份三个信息并存，无法唯一确定重点；未见明显镜像肢体错误。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "deferred",
+        "reason": "盲审只识别厨师、照镜子和自我指认，无法直观表达系动词是。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb",
+      "wordId": "dict:so",
+      "sourceId": "dict:so",
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: so; adv.; 如此.\nScene: A child opens both arms wide to describe the size of a giant pumpkin directly in front of them; the arm span exactly matches the pumpkin width. The visually matched gesture conveys so / to this degree, not simply a pumpkin.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-9858f73d-ca64-4456-a0da-45630ff2669b.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/so.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/so.webp",
+      "intendedSavedPath": "public/images/words/ba/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp",
+      "generatedAt": "2026-09-29T00:45:44.759749+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "双臂张开表示南瓜很大，可读出这么大，但没有语境难区分巨大与如此，待独立复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-root.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/root/candidates/so.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-05",
+          "primaryMeaning": "孩子向成人展示一大摞很高、很多的煎饼，表情惊讶。",
+          "alternatives": [
+            "很多",
+            "很高",
+            "大量食物",
+            "夸张数量"
+          ],
+          "confidence": "medium",
+          "issues": {
+            "anatomy": "未见明显异常。",
+            "text": "无文字数字。",
+            "ambiguity": "手势量高度，最突出的是高和多，难区分程度、数量或太多。"
+          },
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "高摞煎饼主要呈现高或多，无法清楚区分如此的程度指示。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "a-11",
+        "primaryMeaning": "一个孩子张开双臂站在巨大南瓜后，南瓜的尺寸显得非常大。",
+        "alternatives": [
+          "大或巨大",
+          "巨型南瓜",
+          "用手比划大小",
+          "惊喜"
+        ],
+        "confidence": 0.99,
+        "issues": [],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "deferred",
+        "reason": "巨大南瓜和张臂主要表达大或巨大，程度指示如此不明确。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d",
+      "wordId": "dict:always",
+      "sourceId": "dict:always",
+      "word": "always",
+      "pos": "adv.",
+      "meaning": "总是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: always; adv.; 总是.\nScene: One person brushes teeth faithfully across a single continuous repeated routine shown as three small connected moments, with the same bathroom and toothbrush, sun rising, sun high, moon, and a long trail of identical toothbrush marks extending into distance. No numerals or calendar writing. Emphasize every occasion.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-7051e99e-e1bc-4328-a19c-1f180750c747.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/always.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/always.webp",
+      "intendedSavedPath": "public/images/words/ee/ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d.webp",
+      "generatedAt": "2026-09-29T00:49:51.483098+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "早中晚重复刷牙，持续重复的线索明确，但也可能读为经常或每天，需严格复核总是。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-root.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/root/candidates/always.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-14",
+          "primaryMeaning": "同一个孩子在晴天、雨天、雪天都把鞋整齐放回架上，是持续保持的习惯。",
+          "alternatives": [
+            "总是收好鞋",
+            "无论天气如何都做同一件事",
+            "整洁",
+            "日常习惯"
+          ],
+          "confidence": "medium",
+          "issues": {
+            "anatomy": "动作和人物正常。",
+            "text": "无文字数字。",
+            "ambiguity": "稳定重复行为清楚；三个天气场景无法严格区分总是、经常或不同季节都做。"
+          },
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "跨天气重复收鞋呈现习惯，仍无法清楚区别经常和总是。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "a-09",
+        "primaryMeaning": "同一个人在早晨、白天和夜晚反复刷牙，表现规律、重复进行的刷牙习惯。",
+        "alternatives": [
+          "每天刷牙",
+          "经常刷牙",
+          "早中晚刷牙",
+          "日常习惯"
+        ],
+        "confidence": 0.95,
+        "issues": [
+          "能读出反复刷牙，但图像不能精确区分每天、经常、总是或一天三次等不同频率；环绕的小牙刷装饰进一步强调重复。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "deferred",
+        "reason": "早中晚重复刷牙可读为每天或经常，无法清楚区分总是这一频率。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    },
+    {
+      "senseId": "440afa84aed1abef873e279a23bc689387f15bcb36629a39b18ea089cbb43b37",
+      "wordId": "dict:minute",
+      "sourceId": "dict:minute",
+      "word": "minute",
+      "pos": "n.",
+      "meaning": "分",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact sense: minute; n.; 分.\nScene: An exact analog clock minute interval: a clean circular clock face with exactly sixty equally spaced tiny tick marks, every fifth slightly longer, no numerals. A long blue minute hand points to twelve oclock; a pale prior minute hand points one tiny tick counterclockwise, a narrow blue wedge and short curved arrow highlight just that one-sixtieth interval. Short hour hand near eight. Accurate geometry, not a five-minute sector.\nStyle: hand-painted gouache and subtle colored pencil on warm off-white paper, muted natural green blue coral, soft daylight. Centered middle 75 percent, ample margins, readable small.\nConstraints: no words, letters, digits, labels, logos, watermarks, borders or card UI. One independent asset for this sense only; no unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ea97-a725-72d1-896f-96e033cd2ef4/exec-d8bfe321-8c31-438e-8a98-112724fd6078.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0039/root/source/minute.png",
+      "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/minute.webp",
+      "intendedSavedPath": "public/images/words/44/440afa84aed1abef873e279a23bc689387f15bcb36629a39b18ea089cbb43b37.webp",
+      "generatedAt": "2026-09-29T01:03:04.855189+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "长针相邻一步意图可见，但淡色前位置偏于前一小刻度且刻度分布需复核，不能仅按提示词认定一分钟。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260928-1902-root.json",
+        "candidatePath": "output/imagegen/batch-20260928-1902/root/candidates/minute.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-06",
+          "primaryMeaning": "钟表指针沿顺时针方向走动，红色箭头近乎环绕一圈，蓝色指针微微前移。",
+          "alternatives": [
+            "时间流逝",
+            "顺时针",
+            "一分钟",
+            "钟表"
+          ],
+          "confidence": "low",
+          "issues": {
+            "anatomy": "表盘完整，有三种颜色指针。",
+            "text": "无数字字母；有刻度及方向箭头。",
+            "ambiguity": "没有图例说明各色指针，难确定展示秒、分钟还是一般时间；一整圈与小幅位移的关系需要钟表知识解释。"
+          },
+          "method": "Generator viewed each image, then another agent individually viewed randomized numbered WebPs without targets, definitions or prompts. Root compared the observations with exact game senses and reinspected ambiguous cases.",
+          "decision": "deferred",
+          "reason": "蓝针约移至第二细刻度且时间单位不够直观，不能准确表达一分钟。",
+          "reviewedAt": "2026-09-28T23:35:09.641265+00:00"
+        }
+      },
+      "reviewEvidence": {
+        "blindId": "a-10",
+        "primaryMeaning": "一面圆钟大约显示八点，分针旁的残影和小箭头表示它刚向前移动了一小段。",
+        "alternatives": [
+          "时钟",
+          "短暂时间经过",
+          "一分钟",
+          "接近整点"
+        ],
+        "confidence": 0.92,
+        "issues": [
+          "时钟本体清楚，但箭头与残影只能表示小幅移动，难以唯一判断要表达一分钟、即将整点还是泛指时间；表盘没有可读数字。"
+        ],
+        "reviewer": "blind_a",
+        "reviewedAt": "2026-09-29T05:54:58Z",
+        "decision": "deferred",
+        "reason": "长针残影并未准确对准相邻小刻度，刻度间隔也不规则，不能用作准确一分钟示意。",
+        "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+        "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+      }
+    }
+  ],
+  "pending": [],
+  "recovery": {
+    "runId": "20260929-0548-recovery",
+    "threadId": "01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9",
+    "recoveredAt": "2026-09-29T05:58:31.305252+00:00",
+    "generatedInPriorRun": true,
+    "candidateCount": 15,
+    "accepted": 11,
+    "deferred": 4
+  }
+}
