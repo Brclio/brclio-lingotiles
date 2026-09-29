@@ -1,0 +1,820 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260929-0627-root",
+  "parentBatch": "20260929-0627",
+  "assets": [
+    {
+      "senseId": "0c02ac9ae27d3ce981b993d8e619efc85014be95ea466b9c6b99f0fe985bc075",
+      "wordId": "dict:free",
+      "sourceId": "dict:free",
+      "word": "free",
+      "pos": "adj.",
+      "meaning": "自由的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: free; adj.; 自由的.\nPrimary scene: An open birdcage sits low at one corner with its door fully open; the main subject is a healthy small bird freely flying far outside it into the open sky, wings spread, with ample unobstructed space. The freedom from confinement is the primary contrast, no person controlling it and no chains or text.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-872d76d5-3351-45ab-9f5f-b30f730c5863.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/free.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/free.webp",
+      "intendedSavedPath": "public/images/words/0c/0c02ac9ae27d3ce981b993d8e619efc85014be95ea466b9c6b99f0fe985bc075.webp",
+      "generatedAt": "2026-09-29T07:17:05.488899+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看 640px WebP：敞开的空鸟笼与正在飞向开阔天空的小鸟形成脱离束缚的清楚关系，可直观表达自由的；无文字，无明显结构错误。等待独立交叉复核。",
+      "generatorReviewedAt": "2026-09-29T07:24:09.833313+00:00",
+      "reviewEvidence": {
+        "blindId": "a-09",
+        "primaryMeaning": "一只鸟从门已打开的笼子旁飞向广阔天空。",
+        "alternatives": [
+          "自由",
+          "放飞",
+          "逃离鸟笼",
+          "飞翔"
+        ],
+        "confidence": 0.99,
+        "issues": {
+          "anatomy": "鸟的双翼、尾羽和腿部基本合理，鸟笼门开放。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "自由或释放的关系明确，也能泛读飞翔。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "accepted",
+        "reason": "开放鸟笼与飞向广阔天空的小鸟构成清楚的脱离拘束关系，直接支持形容词自由的。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/0c/0c02ac9ae27d3ce981b993d8e619efc85014be95ea466b9c6b99f0fe985bc075.webp",
+      "alt": "小鸟离开敞开的鸟笼，在广阔天空中展翅飞翔。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "fbffd2f7aa5de0bd92b9135467b8aca44c4ee456c2950a7ae21598c395eb1b88",
+      "bytes": 50668,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "cb1d868b554e7d984852e8901e2dcc48e5a695ea9b767c7ffd301f633681c5be",
+      "wordId": "dict:season",
+      "sourceId": "dict:season",
+      "word": "season",
+      "pos": "n.",
+      "meaning": "季节",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: season; n.; 季节.\nPrimary scene: One continuous circular landscape around a central tree conveys the four seasons. Around the landscape, spring new blossoms and fresh grass gradually lead to summer rich green canopy and sunshine, autumn orange falling leaves and harvest colors, then winter bare branches and snow, returning to spring. A single coherent educational illustration of seasonal change, no separate cards, no labels, no letters or numbers, no compass arrows. Four distinct seasonal states are equally legible.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-4e6968d0-fe68-4ff4-821e-07e3babfb787.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/season.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/season.webp",
+      "intendedSavedPath": "public/images/words/cb/cb1d868b554e7d984852e8901e2dcc48e5a695ea9b767c7ffd301f633681c5be.webp",
+      "generatedAt": "2026-09-29T07:27:29.783460+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP：同一树干和连续圆形景观呈现春花、夏季浓绿日照、秋叶、冬雪，四季差异明确，能直观理解季节变化。无文字；作为单一义项的完整插画，等待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T07:29:24.242428+00:00",
+      "reviewEvidence": {
+        "blindId": "a-14",
+        "primaryMeaning": "同一棵树在四个区域分别呈现春花、夏绿、秋叶与冬雪，表达四季变化。",
+        "alternatives": [
+          "季节",
+          "四季",
+          "一年循环",
+          "树的季节变化"
+        ],
+        "confidence": 0.99,
+        "issues": {
+          "anatomy": "不适用；统一树干连接四种季节状态是清楚的示意构图。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "四季比某一个具体季节更直接，也可能表达一年。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "accepted",
+        "reason": "同一树干连接春花、夏绿、秋叶和冬雪四种季节状态，季节概念直接且完整。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/cb/cb1d868b554e7d984852e8901e2dcc48e5a695ea9b767c7ffd301f633681c5be.webp",
+      "alt": "同一棵树分别呈现春夏秋冬四季的花叶与环境变化。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "8ec3f0a918863b7b103b8e9ecf9e067f103e62a337be55136a5f0f163f28a5df",
+      "bytes": 90294,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "013334f5abe7ef147fdc578fab6e6f47f2799b849ea7d74b18544d41812dd7b8",
+      "wordId": "dict:teach",
+      "sourceId": "dict:teach",
+      "word": "teach",
+      "pos": "v.",
+      "meaning": "教",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: teach; v.; 教.\nPrimary scene: An adult clearly teaches a child how to tie a shoelace: both sit side by side, the adult slowly demonstrates making a bow on their own shoe and points to the loops, while the child watches closely and imitates on their own shoe. The adult instruction and child learning relationship is central. Hands, loops and laces must be anatomically and structurally clear. No chalkboard writing or captions.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-dd876d94-7449-4843-a775-155980767bac.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/teach.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/teach.webp",
+      "intendedSavedPath": "public/images/words/01/013334f5abe7ef147fdc578fab6e6f47f2799b849ea7d74b18544d41812dd7b8.webp",
+      "generatedAt": "2026-09-29T07:36:50.784426+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP：成人指着自己的鞋带结示范，孩子观察后在自己鞋子上模仿，教与学的互动可见，手指和鞋带结构可接受，无文字。建议通过，等待独立交叉审核。",
+      "generatorReviewedAt": "2026-09-29T07:45:53.705418+00:00",
+      "reviewEvidence": {
+        "blindId": "a-03",
+        "primaryMeaning": "成人一边指着自己鞋上的蝴蝶结一边示范，孩子正在给自己的鞋系鞋带。",
+        "alternatives": [
+          "学习系鞋带",
+          "教孩子",
+          "模仿动作",
+          "亲子活动"
+        ],
+        "confidence": 0.98,
+        "issues": {
+          "anatomy": "成人和孩子的手脚与鞋带接触关系基本合理，未见明显异常。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "教学、学习和系鞋带动作都可见，需看目标是哪一层含义。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T16:17:21.248688+00:00",
+        "decision": "accepted",
+        "reason": "成人指向自己系好的鞋带结作示范，孩子同步尝试，施教者与学习者的动作关系清楚，符合动词教。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/01/013334f5abe7ef147fdc578fab6e6f47f2799b849ea7d74b18544d41812dd7b8.webp",
+      "alt": "成人示范鞋带的蝴蝶结，孩子学习给自己的鞋系带。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "178f61fd039f39e747355ca962e795e3d6b6932600fab049fa5b540ae426d1e7",
+      "bytes": 52280,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "32e1c453dce678f9208f238ac4baa4025089c098f391ac7014bdc321342ebbae",
+      "wordId": "dict:bed",
+      "sourceId": "dict:bed",
+      "word": "bed",
+      "pos": "n.",
+      "meaning": "床",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: bed; n.; 床.\nPrimary scene: One ordinary comfortable single bed, full frame visible at three-quarter view: wooden headboard, mattress, cream pillow, softly folded muted blue blanket, four stable legs. No person, no bedside clutter. Emphasize the unmistakable everyday bed shape.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-c4bf7a43-ed0e-4489-a25d-e54de5ae2fd9.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/bed.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/bed.webp",
+      "intendedSavedPath": "public/images/words/32/32e1c453dce678f9208f238ac4baa4025089c098f391ac7014bdc321342ebbae.webp",
+      "generatedAt": "2026-09-29T07:48:15.448463+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP：木质床架、床头、床垫、枕头、蓝色被子形成典型单人床，主体完整明确，无文字或多余主体，建议通过，等待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T07:52:07.096788+00:00",
+      "reviewEvidence": {
+        "blindId": "a-11",
+        "primaryMeaning": "一张铺好蓝色毯子和白色枕头的木床。",
+        "alternatives": [
+          "床",
+          "单人床",
+          "铺好的床铺"
+        ],
+        "confidence": 0.99,
+        "issues": {
+          "anatomy": "不适用；床架、床垫与床脚结构合理。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "物体清楚，无实质歧义。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "accepted",
+        "reason": "完整木床、床垫、枕头和被褥外形典型，直接符合名词床，无实质语义歧义。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/32/32e1c453dce678f9208f238ac4baa4025089c098f391ac7014bdc321342ebbae.webp",
+      "alt": "一张铺着蓝色毯子、白色床单和枕头的木床。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "320f2d594ccdd8131cd1120f3824539b2a60876dd4b42d7db552a8d7b9926ebe",
+      "bytes": 27392,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "fae0ba7bd2cce1a3ef1f856a5d00c701a25aea3c593aca04d41e14dcd4ceefe0",
+      "wordId": "dict:movie",
+      "sourceId": "dict:movie",
+      "word": "movie",
+      "pos": "n.",
+      "meaning": "电影",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: movie; n.; 电影.\nPrimary scene: Inside a small cinema: a large illuminated projection screen shows a simple wordless moving adventure scene, a beam of light from the rear film projector crosses above rows of seated audience silhouettes. The screen and watching audience make a movie screening instantly recognizable. No titles, credits, subtitles, logos, stage performers or TV set.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-ffcfe91c-ef82-4eeb-9ca3-59e190967108.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/movie.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/movie.webp",
+      "intendedSavedPath": "public/images/words/fa/fae0ba7bd2cce1a3ef1f856a5d00c701a25aea3c593aca04d41e14dcd4ceefe0.webp",
+      "generatedAt": "2026-09-29T07:57:56.882263+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP：观众面向大银幕、胶片放映机投射光束、银幕内冒险故事，电影语义清楚且不同于胶片材料。无文字，座位人物未见明显错误，建议通过等待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T08:00:36.988806+00:00",
+      "reviewEvidence": {
+        "blindId": "a-13",
+        "primaryMeaning": "观众坐在电影院里看大银幕上的冒险影片，侧面老式放映机投出光束。",
+        "alternatives": [
+          "电影",
+          "电影院",
+          "看电影",
+          "电影放映"
+        ],
+        "confidence": 0.99,
+        "issues": {
+          "anatomy": "人物背影和座椅合理；放映机与光束容易识别。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "电影内容、影院场所和看电影行为并存，需核对词性。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "accepted",
+        "reason": "影院大银幕、放映机光束和观看观众共同清楚表现电影放映，符合名词电影；并非将film的软片义项误用。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/fa/fae0ba7bd2cce1a3ef1f856a5d00c701a25aea3c593aca04d41e14dcd4ceefe0.webp",
+      "alt": "观众坐在影院中观看银幕上的冒险电影，放映机投出光束。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "b8e366b0e8f7234aac3fcd0522b5bebd85c195af02f3f408fb7ab4914703410b",
+      "bytes": 49208,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "21b30359df357502b139967acc99e7c992b3c4abf8a22aa22301b09457445584",
+      "wordId": "dict:film",
+      "sourceId": "dict:film",
+      "word": "film",
+      "pos": "n.",
+      "meaning": "软片",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: film; n.; 软片.\nPrimary scene: A roll of photographic negative film, partly unspooled, on a simple tabletop: flexible translucent amber-brown strip, continuous evenly spaced sprocket holes on both edges, repeated rectangular negative-photo frames faintly showing inverted landscapes. A small plain black metal film canister alongside is secondary. This is physical photographic film / soft film material, not a movie screen or video camera. No printed numbers, writing or brand marks.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-aa347ebe-754b-4671-b571-abe5f4d5592a.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/film.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/film.webp",
+      "intendedSavedPath": "public/images/words/21/21b30359df357502b139967acc99e7c992b3c4abf8a22aa22301b09457445584.webp",
+      "generatedAt": "2026-09-29T08:03:28.213470+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP：褐色半透明摄影胶片、上下齿孔、连续影格和卷筒突出软片材料，能区别电影放映场景。无文字，主体完整，建议通过等待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T08:10:23.770608+00:00",
+      "reviewEvidence": {
+        "blindId": "a-04",
+        "primaryMeaning": "一卷摄影胶片从黑色片筒中抽出，胶片上有连续的风景画面和边缘齿孔。",
+        "alternatives": [
+          "胶卷",
+          "摄影胶片",
+          "底片"
+        ],
+        "confidence": 0.99,
+        "issues": {
+          "anatomy": "不适用；胶卷、片筒结构清楚。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "胶片与胶卷均成立，摄影底片比抽象电影含义更直接。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T17:41:49.871656+00:00",
+        "decision": "accepted",
+        "reason": "胶片从片筒中展开，连续影格和边缘齿孔清楚，直接符合名词软片，而非误画为影院场所。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/21/21b30359df357502b139967acc99e7c992b3c4abf8a22aa22301b09457445584.webp",
+      "alt": "一卷带风景影像和边缘齿孔的摄影胶片从片筒中展开。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "641db1fc6f18bc641066a36e1f09d0a7021a5bfdd6379f36f80787d65d242a46",
+      "bytes": 34122,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "4e7a12abd1020a52c1fb386b659694da0b67cdf88e83951c20b63ffd74db34c7",
+      "wordId": "dict:twenty",
+      "sourceId": "dict:twenty",
+      "word": "twenty",
+      "pos": "num.",
+      "meaning": "二十",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: twenty; num.; 二十.\nPrimary scene: Exactly twenty separate ripe red strawberries with green tops arranged clearly in four straight rows of five on plain warm paper. Every berry fully visible, evenly spaced and not touching another. No extra loose fruit, slices or decoration. The count must be exactly 20, the grouping must be readily countable. No digits, written number, table grid or labels.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-e6ff4bbd-8025-45c8-940a-d8ac49271667.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/twenty.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/twenty.webp",
+      "intendedSavedPath": "public/images/words/4e/4e7a12abd1020a52c1fb386b659694da0b67cdf88e83951c20b63ffd74db34c7.webp",
+      "generatedAt": "2026-09-29T08:14:23.939096+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP 并人工计数：四排，每排五颗完整草莓，合计20颗；没有多余或遮挡物体，没有数字文字，数词二十可由数量直接确认。建议通过等待独立重数。",
+      "generatorReviewedAt": "2026-09-29T08:23:04.812381+00:00",
+      "reviewEvidence": {
+        "blindId": "a-07",
+        "primaryMeaning": "整齐摆放的二十颗草莓，四排，每排五颗。",
+        "alternatives": [
+          "二十",
+          "草莓",
+          "计数"
+        ],
+        "confidence": 0.99,
+        "issues": {
+          "anatomy": "不适用；20颗均独立完整，无遮挡。",
+          "textNumbers": "没有可见文字数字，数量由物体呈现。",
+          "ambiguity": "可以泛读草莓，但规则排列使数量易读；已逐排数到20。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "accepted",
+        "reason": "逐排计数为四排各五颗，共且仅二十颗独立草莓，数量清楚，符合数词二十。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/4e/4e7a12abd1020a52c1fb386b659694da0b67cdf88e83951c20b63ffd74db34c7.webp",
+      "alt": "二十颗草莓整齐排列成四排，每排五颗。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "c28f12ba3c96320a9ab7dbc8c51f11ea9579056a7c6e831f248ea7efdf924bc6",
+      "bytes": 66584,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "420a8a36c43f533df7c5ed8ac84b63b9067657215a3fd08a1fba40b9c9685741",
+      "wordId": "dict:brother",
+      "sourceId": "dict:brother",
+      "word": "brother",
+      "pos": "n.",
+      "meaning": "兄弟",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: brother; n.; 兄弟.\nPrimary scene: Two brothers, one older boy and one younger boy with clear shared family resemblance, sit closely together at their family home; the older brother gently puts an arm around the younger boy and helps him reach a model airplane they are building. A small simple family portrait behind them clearly shows these same two boys together with the same two parents, making sibling relationship visible rather than unrelated friendship. Keep the two boys dominant and the portrait simple, no writing or name labels.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-af1e4696-ff55-4bd2-b7e2-8398f0e0a690.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/brother.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/brother.webp",
+      "intendedSavedPath": "public/images/words/42/420a8a36c43f533df7c5ed8ac84b63b9067657215a3fd08a1fba40b9c9685741.webp",
+      "generatedAt": "2026-09-29T08:28:27.877397+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看 WebP：两个年龄不同、外貌相近的男孩亲密合作玩模型飞机，身后家庭合影包含相同衣着的两个男孩和双亲，为兄弟关系提供家庭线索。无文字，肢体可接受，建议通过等待独立审核。",
+      "generatorReviewedAt": "2026-09-29T08:40:17.342210+00:00",
+      "reviewEvidence": {
+        "blindId": "a-15",
+        "primaryMeaning": "两个年龄不同的男孩亲密地一起拼装模型飞机，背景家庭照显示两人和同一对父母。",
+        "alternatives": [
+          "兄弟",
+          "哥哥照顾弟弟",
+          "一起制作模型",
+          "家庭里的两个儿子"
+        ],
+        "confidence": 0.98,
+        "issues": {
+          "anatomy": "两人的手臂与模型接触自然，未见明显肢体错误。",
+          "textNumbers": "飞机和家庭照均无文字数字。",
+          "ambiguity": "兄弟关系有家庭照支持，但不能唯一指定哥哥或弟弟中的哪一个。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "accepted",
+        "reason": "两个男孩的亲密互动，加上同一对父母与两个男孩的家庭照，清楚支持兄弟关系，符合名词兄弟。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/42/420a8a36c43f533df7c5ed8ac84b63b9067657215a3fd08a1fba40b9c9685741.webp",
+      "alt": "兄弟俩一起拼装模型飞机，背景挂着四口之家的合照。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "b0182f24f9dd45864531b73b7320ebe3ee47bdc8f8d407b22a8f35fda43b6312",
+      "bytes": 60754,
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "wordId": "dict:be",
+      "sourceId": "dict:be",
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: be; v.; 是.\nPrimary scene: Convey the verb is, a simple identity relationship. A child holds up a real orange and indicates the same orange shown enlarged inside a simple round thought bubble. The bubble is a faithful view of this very orange, not a second object. The child is calmly identifying what the object is, not asking or comparing sizes. Use the clearest possible visual identity scene without textual equations. This abstract copular sense is intentionally being tested for visual clarity.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-463d0f0b-6991-43e3-a304-15f7bd597db0.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/be.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/be.webp",
+      "intendedSavedPath": "public/images/words/b4/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp",
+      "generatedAt": "2026-09-29T06:36:08.158799+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看保存的WebP。孩子指认橙子与对应思维气泡清楚，但画面首先是橙子、指认或想到，不能独立传达系动词是。无文字和明显结构问题，保留待语义复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/be.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-13",
+          "primaryMeaning": "一个穿厨师服的孩子对着镜子，抬手指着自己的胸口。",
+          "alternatives": [
+            "自己或自我指认",
+            "照镜子",
+            "镜中倒影",
+            "厨师"
+          ],
+          "confidence": 0.95,
+          "issues": [
+            "指向自己、照镜子和厨师身份三个信息并存，无法唯一确定重点；未见明显镜像肢体错误。"
+          ],
+          "reviewer": "blind_a",
+          "reviewedAt": "2026-09-29T05:54:58Z",
+          "decision": "deferred",
+          "reason": "盲审只识别厨师、照镜子和自我指认，无法直观表达系动词是。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:38:36.645793+00:00",
+      "reviewEvidence": {
+        "blindId": "a-10",
+        "primaryMeaning": "男孩手里拿着橙子、用另一只手指着它，头旁的思考泡泡里也是橙子。",
+        "alternatives": [
+          "想到橙子",
+          "辨认水果",
+          "指认这个物体",
+          "橙子"
+        ],
+        "confidence": 0.91,
+        "issues": {
+          "anatomy": "持果与指向动作清楚，未见明显手部异常。",
+          "textNumbers": "泡泡没有文字数字。",
+          "ambiguity": "橙子和想象或指认行为更直接，画面无法唯一确定某个指代词或命名语言动作。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "deferred",
+        "reason": "男孩指橙子且思考泡泡重复橙子，只能独立读出橙子、指认或想到橙子；不能唯一表达系词是这一判断关系。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb",
+      "wordId": "dict:so",
+      "sourceId": "dict:so",
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: so; adv.; 如此.\nPrimary scene: Convey so meaning to this degree or in this manner. An adult demonstrates holding both hands a specific short distance apart around a small finished clay bowl; a child beside them carefully repeats the exact hand spacing around an identical clay bowl. Their matching demonstration gesture is the focal relation. No speech bubbles, signs or size numbers. Avoid a giant object that would merely mean large.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-d39b29d4-9704-4025-88ba-74bca7fea205.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/so.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/so.webp",
+      "intendedSavedPath": "public/images/words/ba/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp",
+      "generatedAt": "2026-09-29T06:40:17.688011+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看WebP。成人和孩子以相同手势围住陶碗，画面更像做陶艺、大小对比或模仿，并不能仅凭图确定如此。无文字，人物手部自然。保留语义复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/so.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-11",
+          "primaryMeaning": "一个孩子张开双臂站在巨大南瓜后，南瓜的尺寸显得非常大。",
+          "alternatives": [
+            "大或巨大",
+            "巨型南瓜",
+            "用手比划大小",
+            "惊喜"
+          ],
+          "confidence": 0.99,
+          "issues": [],
+          "reviewer": "blind_a",
+          "reviewedAt": "2026-09-29T05:54:58Z",
+          "decision": "deferred",
+          "reason": "巨大南瓜和张臂主要表达大或巨大，程度指示如此不明确。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:41:49.829287+00:00",
+      "reviewEvidence": {
+        "blindId": "a-02",
+        "primaryMeaning": "成人和孩子坐在桌前，各将双手放在自己的木碗两侧，做着相似的手势。",
+        "alternatives": [
+          "模仿成人",
+          "相同动作",
+          "比较碗",
+          "一起学习"
+        ],
+        "confidence": 0.88,
+        "issues": {
+          "anatomy": "双手各自完整，未见明显异常。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "相似姿势明显，但孩子是否主动模仿、是否在比较大小或练习动作不明确。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T16:17:21.248688+00:00",
+        "decision": "deferred",
+        "reason": "两个人做相似的手势，模仿或相同姿势比副词如此更直观；缺少能独立传达如此这一方式指代的关系。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3",
+      "wordId": "dict:today",
+      "sourceId": "dict:today",
+      "word": "today",
+      "pos": "n.",
+      "meaning": "今天",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: today; n.; 今天.\nPrimary scene: Convey today, the currently lived day. A simple desktop day-calendar has a single bright active page, blank except a painted sun and an image of the same child planting a seed now visible right beside it. Used pages lie quietly to the left and a thin upcoming page stack sits behind it. The real current planting and active page visibly match. No crossed marks, dates, digits, lettering or event labels. Keep one current day more visually dominant than the calendar object.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-d5fee6b1-1ada-4bb9-a0b6-e558f93dc4e4.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/today.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/today.webp",
+      "intendedSavedPath": "public/images/words/90/90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3.webp",
+      "generatedAt": "2026-09-29T06:44:10.911065+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看保存图。台历只有太阳图标，未画出与当前种植动作匹配的日期事件；首先读成晴天种植，无法确定今天。无文字，动作自然，保留待复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-c.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/c/candidates/today.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "b-11",
+          "primaryMeaning": "台历上连续三个日期格被打叉，接下来一个日期格用向日葵和红圈突出标记。",
+          "alternatives": [
+            "今天",
+            "特别的一天",
+            "日历",
+            "倒数等待某天",
+            "晴天或夏日"
+          ],
+          "confidence": 0.83,
+          "issues": [
+            "日历没有月份、日期或星期数字，不能确定具体日期。",
+            "突出标记的格子可能表示今天，也可能表示未来的纪念日或计划日期，时间含义不唯一。"
+          ],
+          "reviewer": "blind_b",
+          "reviewedAt": "2026-09-29T05:54:25Z",
+          "decision": "deferred",
+          "reason": "台历圈起的日子也可能为未来纪念日，不能独立确定今天；图中还有叉号标记。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:46:06.509796+00:00",
+      "reviewEvidence": {
+        "blindId": "a-08",
+        "primaryMeaning": "孩子正在把种子放入土中，旁边立着一页画太阳的台历，另一侧堆着撕下的纸页。",
+        "alternatives": [
+          "今天播种",
+          "白天",
+          "种植",
+          "日历或当前这一天"
+        ],
+        "confidence": 0.9,
+        "issues": {
+          "anatomy": "孩子手部与种子、泥土接触自然，未见明显异常。",
+          "textNumbers": "台历只画太阳，纸页空白，无文字数字。",
+          "ambiguity": "播种最直接；日历没有日期或明确时间参照，不能唯一确认今天、某一天或白天。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "deferred",
+        "reason": "孩子播种与太阳台历清楚，但没有可辨的当前日期或相对时间锚点，无法独立把某一天或白天限定为今天。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "440afa84aed1abef873e279a23bc689387f15bcb36629a39b18ea089cbb43b37",
+      "wordId": "dict:minute",
+      "sourceId": "dict:minute",
+      "word": "minute",
+      "pos": "n.",
+      "meaning": "分",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: minute; n.; 分.\nPrimary scene: Convey one minute, not an hour. A very clear large analog clock on plain paper. Exactly twelve evenly spaced large hour ticks and exactly four small minute ticks between each adjacent pair of large ticks, making exactly sixty evenly spaced ticks. No numerals. A long blue minute hand currently points straight up at the top large tick; a faint previous blue minute-hand silhouette points exactly to the immediately preceding small tick, six degrees anticlockwise. A tiny curved arrow joins only these two adjacent minute positions. The shorter orange hour hand points approximately toward the three-o-clock direction and is motionless. No second hand and no full revolution arrow. The one-small-interval advance must be geometrically precise.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-fb4a4610-bed3-4408-bf89-01da485d634b.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/minute.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/minute.webp",
+      "intendedSavedPath": "public/images/words/44/440afa84aed1abef873e279a23bc689387f15bcb36629a39b18ea089cbb43b37.webp",
+      "generatedAt": "2026-09-29T06:49:39.295713+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看WebP和原始展示。12大刻度及细刻度较完整，但淡色前位置指针尖端约偏左10度，未准确指向前一小刻度的6度位置，因此不能认定为精确一分钟。无文字；保留精度复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/minute.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-10",
+          "primaryMeaning": "一面圆钟大约显示八点，分针旁的残影和小箭头表示它刚向前移动了一小段。",
+          "alternatives": [
+            "时钟",
+            "短暂时间经过",
+            "一分钟",
+            "接近整点"
+          ],
+          "confidence": 0.92,
+          "issues": [
+            "时钟本体清楚，但箭头与残影只能表示小幅移动，难以唯一判断要表达一分钟、即将整点还是泛指时间；表盘没有可读数字。"
+          ],
+          "reviewer": "blind_a",
+          "reviewedAt": "2026-09-29T05:54:58Z",
+          "decision": "deferred",
+          "reason": "长针残影并未准确对准相邻小刻度，刻度间隔也不规则，不能用作准确一分钟示意。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:57:44.335079+00:00",
+      "reviewEvidence": {
+        "blindId": "a-05",
+        "primaryMeaning": "圆钟显示约三点，蓝色长针旁有浅色旧位置和顺时针小箭头，表示向前移动一小格。",
+        "alternatives": [
+          "一分钟",
+          "时间过去",
+          "钟表",
+          "接近整点"
+        ],
+        "confidence": 0.94,
+        "issues": {
+          "anatomy": "不适用；钟针围绕共同中心，指针结构正常。",
+          "textNumbers": "表盘只有刻度，无可读数字文字。",
+          "ambiguity": "小格前移支持很短时间，但也可能先看成三点或钟表；需要结合确切目标判断。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T17:41:49.871656+00:00",
+        "decision": "deferred",
+        "reason": "长针旧位置与小箭头能表达短暂时间，但单幅图最先也可读成三点或钟表；残影到当前位置与刻度的对应不足以可靠确认恰为一分钟。保留精确单位复核。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+      "wordId": "dict:open",
+      "sourceId": "dict:open",
+      "word": "open",
+      "pos": "n.",
+      "meaning": "公开",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: open; n.; 公开.\nPrimary scene: Convey the noun public disclosure or making something public. A small community group has opened the curtains around a previously covered large painting so a broad group of townspeople can all now see it. Both curtains are drawn back, the painting fully visible, and the presenter openly gestures to everyone. Focus on moving previously hidden information into public view. Painting contains a plain landscape without writing. No banners or signs.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-fadf7309-42d7-4190-a418-5de18404e838.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/open.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/open.webp",
+      "intendedSavedPath": "public/images/words/49/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+      "generatedAt": "2026-09-29T07:00:41.348501+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看保存图。多人观看揭幕画作，公开展示情景可见，但主视觉仍像画展或讲解，n.公开这一抽象义项未能独立限定。无文字与明显畸形，保留主审。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-a.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/open.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "c-10",
+          "primaryMeaning": "女子揭开盖在画作上的布，观众在旁鼓掌。",
+          "alternatives": [
+            "揭幕",
+            "展示画作",
+            "公开作品",
+            "艺术展览"
+          ],
+          "confidence": "high",
+          "issues": {
+            "anatomy": "人物姿势与画架基本自然。",
+            "text": "没有可见文字或数字。",
+            "ambiguity": "揭开与展示清楚，若指向一般打开则场景较专门。"
+          },
+          "reviewer": "audit_disk",
+          "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+          "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+          "decision": "deferred",
+          "reason": "画面主要是揭幕或画展，对抽象名词公开仍有明显歧义，保留复核。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T07:13:00.475164+00:00",
+      "reviewEvidence": {
+        "blindId": "a-01",
+        "primaryMeaning": "一位男子向一群观众展示一幅大型风景画，画两侧的红色幕帘已经拉开。",
+        "alternatives": [
+          "展示画作",
+          "画展介绍",
+          "揭幕或公布",
+          "欣赏绘画"
+        ],
+        "confidence": 0.97,
+        "issues": {
+          "anatomy": "未见明显人物或手部结构错误。",
+          "textNumbers": "没有可见文字数字。",
+          "ambiguity": "展示、介绍与揭幕均可成立；单幅画面无法确认幕帘此前是否关闭。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T16:17:21.248688+00:00",
+        "decision": "deferred",
+        "reason": "直接可读为向观众展示画作或画展介绍。公开的受众可见，但画面无法区分公开、展示、揭幕等概念；n./公开 的抽象义项仍不够独立清楚。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "453309e63b33d3e832f9d59c71e7d4a98bfc3c68cf9a024aef4df387df90e8a4",
+      "wordId": "dict:thank",
+      "sourceId": "dict:thank",
+      "word": "thank",
+      "pos": "n.",
+      "meaning": "谢意",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: thank; n.; 谢意.\nPrimary scene: A child shows heartfelt thanks to an adult who has just helped pick up their spilled books: the books are now held safely, the child faces the helper with a small respectful bow and a hand over their heart, warm grateful smile and eye contact. The adult extends an empty helping hand. Show gratitude as a social response, not giving a present or ordinary greeting. No heart symbols or words.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-13895f6b-9446-48f4-8697-f107480bf73c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/thank.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/thank.webp",
+      "intendedSavedPath": "public/images/words/45/453309e63b33d3e832f9d59c71e7d4a98bfc3c68cf9a024aef4df387df90e8a4.webp",
+      "generatedAt": "2026-09-29T07:25:06.194308+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看 WebP：抱书女孩微微鞠躬、手放胸前、对面成人张开手掌，笑脸与姿态传达谢意；但帮助的前因未直接呈现，也可能读为礼貌问候，需独立语义复核。无文字或明显结构错误。",
+      "generatorReviewedAt": "2026-09-29T07:26:23.964601+00:00",
+      "reviewEvidence": {
+        "blindId": "a-06",
+        "primaryMeaning": "一个抱着书的小女孩微微弯身、手放胸前，面向蹲下的成人微笑，像在礼貌致谢。",
+        "alternatives": [
+          "有礼貌",
+          "感谢",
+          "打招呼",
+          "师生交流"
+        ],
+        "confidence": 0.91,
+        "issues": {
+          "anatomy": "人物动作与手脚未见明显异常。",
+          "textNumbers": "书封面空白，没有可见文字数字。",
+          "ambiguity": "微微鞠躬和胸前手势支持礼貌或感谢，具体话语无法由静态画面确定。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T17:41:49.871656+00:00",
+        "decision": "deferred",
+        "reason": "主审复看后保留待重做：抱书、手放胸前与微微鞠躬可表示礼貌问候，帮助或感谢对象的因果未直接出现，谢意仍非明确唯一主导解读。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+        "crossReviewRecommendation": {
+          "approved": true,
+          "reason": "孩子抱着收到或归还的书、手放胸前并微微躬身微笑，成人回应，直接支持谢意这一情感表达。仍可兼读礼貌，交主审保留最终裁量。"
+        }
+      }
+    },
+    {
+      "senseId": "3ca30ac5db649418af244c52338549e465416a8d9f94c9af009abb24b4a72c53",
+      "wordId": "dict:usually",
+      "sourceId": "dict:usually",
+      "word": "usually",
+      "pos": "adv.",
+      "meaning": "通常",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration for a word-learning game.\nExact game sense: usually; adv.; 通常.\nPrimary scene: A simple blank weekly routine board with seven large unnumbered spaces shows the same child travelling to school: in six spaces the child walks with the same blue backpack, while only one space shows the child riding a bus. The six repeated walking scenes dominate and the single exception stays clear, expressing usually rather than always. Draw the board as one original scene, not a pasted collage. No headings, weekday names, text or numeric count.\nStyle: warm off-white paper, hand-painted gouache with subtle colored-pencil texture, muted natural colors and soft daylight. Center the essential subject with ample blank margins; crisp readable forms at small size.\nConstraints: image alone must convey this exact meaning. No words, letters, digits, captions, labels, logos, watermarks, decorative card frames or user interface. No unrelated objects; one independent image for this sense only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb2-1c18-7ef3-9e42-d00baa5ec0b9/exec-e40cf448-3a95-4126-b6e3-0cd858ed7a7d.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/root/source/usually.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/usually.webp",
+      "intendedSavedPath": "public/images/words/3c/3ca30ac5db649418af244c52338549e465416a8d9f94c9af009abb24b4a72c53.webp",
+      "generatedAt": "2026-09-29T07:31:30.897393+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看 WebP：七个连续情景中六次步行上学、一次乘车，多数重复加一次例外有频率含义；但缺少无需文字即可确认的时间关系，可能读成多名学生或不同出行方式。需独立审核，未标通过。",
+      "generatorReviewedAt": "2026-09-29T07:34:18.893477+00:00",
+      "reviewEvidence": {
+        "blindId": "a-12",
+        "primaryMeaning": "七个连续小画面中，同一个孩子六次步行去学校，一次乘校车。",
+        "alternatives": [
+          "通常步行上学",
+          "偶尔坐校车",
+          "重复的日常",
+          "上学方式对比"
+        ],
+        "confidence": 0.97,
+        "issues": {
+          "anatomy": "人物与交通工具未见明显结构错误。",
+          "textNumbers": "没有可读文字数字；学校小钟只有微小符号。",
+          "ambiguity": "六次步行与一次坐车同时表达通常和偶尔，焦点是哪一行为不唯一。"
+        },
+        "reviewer": "a",
+        "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+        "decision": "deferred",
+        "reason": "主审复看后保留待重做：七个相似上学画面虽有多数步行与一次乘车，但缺少清楚的时间锚点，也可能是多个学生或出行方式对比；频率通常仍不够确定。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+        "crossReviewRecommendation": {
+          "approved": true,
+          "reason": "七个重复上学场景中六次步行、一次乘车，明显多数行为与单次例外形成通常的频率关系；目标通常由多数步行行为直接支持。"
+        }
+      }
+    }
+  ],
+  "pending": [],
+  "reviewSummary": {
+    "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+    "generated": 15,
+    "accepted": 8,
+    "deferred": 7
+  }
+}

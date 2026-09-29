@@ -1,0 +1,812 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260929-0627-b",
+  "parentBatch": "20260929-0627",
+  "assets": [
+    {
+      "senseId": "5bf47e4d4b60cdd8b9e8d459f1660a02c1cc98302475fec6ac369c05489ec147",
+      "wordId": "dict:hour",
+      "sourceId": "dict:hour",
+      "word": "hour",
+      "pos": "n.",
+      "meaning": "小时",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"hour\", \"pos\": \"n.\", \"meaning\": \"小时\"}.\nPrimary request: Create an extremely clear educational visualization of ONE HOUR passing using ONE large front-facing analog clock. The clock face MUST have EXACTLY TWELVE dark blue major tick marks, equally spaced every thirty degrees at conventional clock positions. The twelve locations are top, upper-right near top, upper-right near right, right, lower-right near right, lower-right near bottom, bottom, lower-left near bottom, lower-left near left, left, upper-left near left, upper-left near top. No minor ticks and absolutely no written numerals. Long coral minute hand points straight upward. One solid short blue hour hand points to the first tick clockwise after the top tick. A much lighter translucent ghost of that same short hour hand points straight upward, indicating the starting position. Outside the dial, a single coral circular arrow makes one complete clockwise revolution beginning and ending at the top, illustrating a full minute-hand revolution. Keep the dial circular, front-facing and geometrically regular; exactly twelve clearly separated major marks are mandatory.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-85e2dffd-38c1-4053-82b4-3e08e1d55aea.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/hour.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/hour.webp",
+      "intendedSavedPath": "public/images/words/5b/5bf47e4d4b60cdd8b9e8d459f1660a02c1cc98302475fec6ac369c05489ec147.webp",
+      "generatedAt": "2026-09-29T06:47:03.798336+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP并沿顺时针逐一数出恰好12个大刻度，位置为标准十二等分，无额外小刻度和文字数字。长针指顶端，短针指下一小时刻度，淡色起始短针在顶端，外圈顺时针箭头表示转一圈。可解释为一小时流逝，但也可能仅被读为一点钟或时钟，交主审判定语义。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/b/candidates/hour.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-02",
+          "primaryMeaning": "时钟上长针旋转一圈，短针由顶端转到下一位置。",
+          "alternatives": [
+            "一小时",
+            "时间流逝"
+          ],
+          "confidence": "medium",
+          "issues": "钟面刻度数量不足12且分布不标准，无法准确教学时间。",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable.",
+          "reviewer": "root",
+          "reviewedAt": "2026-09-29T05:51:18.942292+00:00",
+          "decision": "deferred",
+          "reason": "钟面只有十个左右的大刻度，位置不符合十二等分，无法准确表达一小时；未按提示词替代实际检查。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00"
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:49:00.528593+00:00",
+      "reviewEvidence": {
+        "blindId": "root-12",
+        "primaryMeaning": "无数字钟面有十二个大刻度，长红针朝顶，短蓝针朝右上第一个刻度，顶部另有淡蓝前位，环形箭头整圈。",
+        "alternatives": [
+          "一小时过去",
+          "钟表",
+          "一整圈"
+        ],
+        "confidence": 0.96,
+        "issues": [
+          "人工数到12刻度；分针整圈配时针一格可表达一小时。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527333+00:00",
+        "decision": "accepted",
+        "reason": "人工核对12个小时刻度，长分针绕整圈、短时针从顶部前位前进一格，对应一小时。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+        "secondaryReview": {
+          "word": "hour",
+          "pos": "n.",
+          "meaning": "小时",
+          "approved": true,
+          "reason": "逐张看640像素图并复查原图：钟面有12个均匀时刻刻度，红色长针与同色完整一圈顺时针箭头对应，蓝色短针从12点淡影移动到1点，明确表达分针一周、时针一格的一小时时长。没有数字文字。",
+          "reviewer": "audit_disk",
+          "reviewedAt": "2026-09-29T18:45:28.751257+00:00"
+        }
+      },
+      "savedPath": "public/images/words/5b/5bf47e4d4b60cdd8b9e8d459f1660a02c1cc98302475fec6ac369c05489ec147.webp",
+      "alt": "无数字钟面有十二个大刻度，长红针朝顶，短蓝针朝右上第一个刻度，顶部另有淡蓝前位，环形箭头整圈。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "aa5d8374df96c4b6f302e8a2ce09e7d00153fc6abd23a79e964b5cceac2f5ca2",
+      "bytes": 28646,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "72144d9521373283c6515a52fdf2b6cc3c2238aaf4cc029328f13e96dac4aca2",
+      "wordId": "dict:bank",
+      "sourceId": "dict:bank",
+      "word": "bank",
+      "pos": "n.",
+      "meaning": "银行",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"bank\", \"pos\": \"n.\", \"meaning\": \"银行\"}.\nPrimary request: Show the interior of a recognizable BANK: a friendly bank teller sits behind a clean wooden service counter while an adult customer on the near side hands over a small stack of banknotes. The banknotes have only simple colored decorative shapes and no writing or numerals. Behind the teller is a large heavy circular steel vault door visibly open, revealing orderly drawers and stored money. IMPORTANT: the service counter is completely open above its surface, with NO GLASS partition, no transparent barrier, no protective screen and no window frame between customer and teller. The banknotes pass through open air from one natural five-finger hand to the other. The counter, teller and vault establish a bank rather than a retail shop. Omit badges and signs.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-589e259d-6f8a-4e7f-a43a-214a3b6346e2.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/bank.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/bank.webp",
+      "intendedSavedPath": "public/images/words/72/72144d9521373283c6515a52fdf2b6cc3c2238aaf4cc029328f13e96dac4aca2.webp",
+      "generatedAt": "2026-09-29T07:12:27.459330+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：柜员、客户、现金交接和打开的圆形金库形成清楚的银行场景。确认柜台上方没有玻璃挡板，钞票在开放空气中正常交接，无穿玻璃问题。钞票仅有色块，无可辨文字数字；手部与物体关系自然。整幅偏写实水粉，背景满幅且四周留白较少，主审可评估风格一致性。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-a.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/a/candidates/bank.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "c-02",
+          "primaryMeaning": "顾客在银行柜台与柜员交接一叠钞票，后面是打开的金库。",
+          "alternatives": [
+            "银行",
+            "存钱或取钱",
+            "现金交易"
+          ],
+          "confidence": "high",
+          "issues": {
+            "anatomy": "人物和钞票交接姿势基本自然。",
+            "text": "钞票和胸牌没有可辨文字数字。",
+            "ambiguity": "银行场所明确，交钱方向无法确定是存款还是取款。"
+          },
+          "reviewer": "audit_disk",
+          "reviewedAt": "2026-09-29T05:53:36.999672+00:00",
+          "contextDisclosure": "Reviewer previously performed a disk audit and may have seen by/when prompts. It did not read the mapping or prompts during this image review; this is a target-hidden review with prior context exposure, not a fully blind review. Both by and when are deferred.",
+          "decision": "deferred",
+          "reason": "金库与柜员使银行语义清楚，但现金交接穿过透明玻璃挡板而未经过传递槽，复查确认结构问题。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T07:16:18.104945+00:00",
+      "reviewEvidence": {
+        "blindId": "root-08",
+        "primaryMeaning": "柜台职员与客户交接钞票，后方金库敞开存有钱与金条。",
+        "alternatives": [
+          "银行",
+          "存取钱"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "银行典型线索集中，无明显文字和肢体错误。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527331+00:00",
+        "decision": "accepted",
+        "reason": "柜员在银行柜台交接现金，背后金库和储存现金清楚，未出现旧图的穿透玻璃问题。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/72/72144d9521373283c6515a52fdf2b6cc3c2238aaf4cc029328f13e96dac4aca2.webp",
+      "alt": "柜台职员与客户交接钞票，后方金库敞开存有钱与金条。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "3671fc597f7d962c9d08629998509842b3caa073d387cf36fbf3d6003a8350be",
+      "bytes": 60496,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "f2f68f42ecea71078cb5fac44ce7344af2e01382090cf69db75794f23c5c90d6",
+      "wordId": "dict:drive",
+      "sourceId": "dict:drive",
+      "word": "drive",
+      "pos": "n.",
+      "meaning": "驾车",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"drive\", \"pos\": \"n.\", \"meaning\": \"驾车\"}.\nPrimary request: Show the activity of DRIVING A CAR. Three-quarter view through the open passenger-side window into a modest unbranded car: a focused adult driver looks forward through the windshield at a gently curving road, with both hands naturally gripping different sides of the steering wheel and a correctly fitted seat belt. Include the steering wheel, part of the dashboard, front windshield and a glimpse of the road and roadside trees so the person is unmistakably operating the car. No phone, no racing, no steering wheel on the passenger side. Dashboard has no readable marks, text or numbers. Keep the driver and wheel central, with the outer car and landscape softly fading into warm paper.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-50b16105-0e05-4973-95a0-1b832e970e7c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/drive.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/drive.webp",
+      "intendedSavedPath": "public/images/words/f2/f2f68f42ecea71078cb5fac44ce7344af2e01382090cf69db75794f23c5c90d6.webp",
+      "generatedAt": "2026-09-29T07:29:15.925999+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：成年人看向前方道路、双手握方向盘且系安全带，驾车活动明确。手臂、手指和方向盘连接自然，未见可辨文字数字或品牌；边缘柔化至暖白纸面。机位更接近驾驶员侧后方车窗而非提示词中的乘客侧，但不影响驾车义项。",
+      "generatorReviewedAt": "2026-09-29T07:35:25.977491+00:00",
+      "reviewEvidence": {
+        "blindId": "root-15",
+        "primaryMeaning": "成人系安全带双手持方向盘，目视挡风玻璃外道路。",
+        "alternatives": [
+          "驾驶汽车"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "道路、方向盘、驾驶姿态明确，无明显肢体错误。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527337+00:00",
+        "decision": "accepted",
+        "reason": "驾驶者双手操纵方向盘并面向道路，清楚表现驾车活动，符合当前名词义项。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/f2/f2f68f42ecea71078cb5fac44ce7344af2e01382090cf69db75794f23c5c90d6.webp",
+      "alt": "成人系安全带双手持方向盘，目视挡风玻璃外道路。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "df8ba781fde19c4695dff118af7e5d758ac023e32065dec629b31a502a40dc18",
+      "bytes": 55920,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "7fcdce81a5f192b79eb068c4c7418318a3c137f2f7efb622c14b9884af856464",
+      "wordId": "dict:whose",
+      "sourceId": "dict:whose",
+      "word": "whose",
+      "pos": "pron.",
+      "meaning": "谁的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"whose\", \"pos\": \"pron.\", \"meaning\": \"谁的\"}.\nPrimary request: Illustrate the ownership question WHOSE? in a concrete lost-property scene without any written question mark. A friendly teacher holds up ONE distinctive loose red mitten found on the floor and looks questioningly, with raised eyebrows and an open free palm, toward three children. One of those children has the matching red mitten already worn on the other hand and eagerly points to their own chest, identifying themselves as the owner; the other two children show their empty bare hands. Make the matching mitten pair visually unmistakable: the held mitten and the child's worn mitten share the same red color and simple white cuff. The central relationship is finding which person owns the found object, not giving a present. Natural fingers, hands and clothing; no punctuation glyphs.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-c28fb7a2-483a-4c7e-822f-5ec6f8406c4d.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/whose.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/whose.webp",
+      "intendedSavedPath": "public/images/words/7f/7fcdce81a5f192b79eb068c4c7418318a3c137f2f7efb622c14b9884af856464.webp",
+      "generatedAt": "2026-09-29T07:49:18.753874+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：老师举起红色白袖口手套并摊手询问，女孩戴着匹配手套且指向自己，另两位孩子摊开空手，寻找物主关系较明确。没有问号或文字数字，未见明显解剖错误。仍可能被概括为认领失物或我的手套，谁的疑问关系需由姿态推断。画面两侧人物略接近边缘。",
+      "generatorReviewedAt": "2026-09-29T07:53:30.183271+00:00",
+      "reviewEvidence": {
+        "blindId": "root-07",
+        "primaryMeaning": "成人举一只红手套向三个孩子询问，穿粉色衣服的女孩戴着匹配的另一只并指自己。",
+        "alternatives": [
+          "询问物主",
+          "认领自己的手套"
+        ],
+        "confidence": 0.96,
+        "issues": [
+          "询问姿势、空手旁人和匹配手套形成归属问答，未见结构错误。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527329+00:00",
+        "decision": "accepted",
+        "reason": "成人举失物询问多个孩子，女孩用匹配手套确认归属，画面形成谁的物品这一问答关系。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+        "secondaryReview": {
+          "word": "whose",
+          "pos": "pron.",
+          "meaning": "谁的",
+          "approved": true,
+          "reason": "成人举起一只红手套并摊掌询问；两个孩子摊手不认领，另一女孩戴着同款另一只手套并指向自己。询问所有权、区分主人、匹配成对物品的线索同时存在，可直观理解谁的手套及认领关系。未见文字数字或明显结构异常。",
+          "reviewer": "audit_disk",
+          "reviewedAt": "2026-09-29T18:45:28.751257+00:00"
+        }
+      },
+      "savedPath": "public/images/words/7f/7fcdce81a5f192b79eb068c4c7418318a3c137f2f7efb622c14b9884af856464.webp",
+      "alt": "成人举一只红手套向三个孩子询问，穿粉色衣服的女孩戴着匹配的另一只并指自己。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "a7578de1a864cb6705af00cd6d1f2afe1b4e1fa6409e74527d6921821c423e74",
+      "bytes": 58242,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "89fd3e63b071c0ace2acb7911c6a5087b53bbad636894645048df64d9f93572a",
+      "wordId": "dict:window",
+      "sourceId": "dict:window",
+      "word": "window",
+      "pos": "n.",
+      "meaning": "窗户",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"window\", \"pos\": \"n.\", \"meaning\": \"窗户\"}.\nPrimary request: Show one clearly recognizable HOUSE WINDOW as the dominant isolated subject. A simple wooden rectangular window frame set in a small softly fading patch of cream plaster wall, with two hinged glazed casement leaves opened outward and a shallow sill. The glass panes show subtle sky reflections, and through the opening there is a gentle hint of green leaves and pale blue sky. The opening is well above the floor, has a visible sill, and is unmistakably a window rather than a door. No person, no curtains blocking the frame, no flowerpots or unrelated objects. Keep the complete frame centered with generous warm paper margin.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-b939221f-bba4-4e47-8154-d0ce92f6cae6.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/window.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/window.webp",
+      "intendedSavedPath": "public/images/words/89/89fd3e63b071c0ace2acb7911c6a5087b53bbad636894645048df64d9f93572a.webp",
+      "generatedAt": "2026-09-29T08:05:25.921978+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：完整木质双扇玻璃窗、窗框、铰链与窗台清楚，窗外蓝天和树叶支持窗户识别。无人物和文字数字，无明显结构穿插问题；主体居中，纸面留白充分，窗户义项直观。",
+      "generatorReviewedAt": "2026-09-29T08:09:36.124711+00:00",
+      "reviewEvidence": {
+        "blindId": "root-04",
+        "primaryMeaning": "木框双扇玻璃窗打开，窗台和外部树木可见。",
+        "alternatives": [
+          "窗户",
+          "开窗"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "窗体完整，无明显结构问题。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527321+00:00",
+        "decision": "accepted",
+        "reason": "窗框、双扇玻璃和窗台形成典型窗户，义项明确。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/89/89fd3e63b071c0ace2acb7911c6a5087b53bbad636894645048df64d9f93572a.webp",
+      "alt": "木框双扇玻璃窗打开，窗台和外部树木可见。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "dfbba8eb8657234c80896d4ed8e54ff3a1626e9d7e90d95bb3f8da6295ef2fd3",
+      "bytes": 47102,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "da977f707fdc9c3cc7ac96a477117f75cf98c83b3998292f5592d43216708705",
+      "wordId": "dict:star",
+      "sourceId": "dict:star",
+      "word": "star",
+      "pos": "n.",
+      "meaning": "星",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"star\", \"pos\": \"n.\", \"meaning\": \"星\"}.\nPrimary request: Show a bright STAR in the real night sky, not a starfish, celebrity, badge or toy. Within a softly edged oval patch of deep twilight blue sky on warm paper, one dominant radiant white-gold point of starlight shines clearly, with delicate short natural light rays. Include just three much smaller, fainter distant stars and a tiny low silhouette of a quiet hill to establish the sky. No moon, no sun, no planets, no cartoon smiling face. The large bright star is the unmistakable focal point and the background fades naturally into the paper margins.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-1c061022-ff8e-4ab5-a86a-ae9d61192dda.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/star.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/star.webp",
+      "intendedSavedPath": "public/images/words/da/da977f707fdc9c3cc7ac96a477117f75cf98c83b3998292f5592d43216708705.webp",
+      "generatedAt": "2026-09-29T08:26:33.061064+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：夜空中一颗明亮主星与三颗弱小背景星，低处地景提供天空语境。无月亮、五角星玩具、文字数字或Logo；主体清楚且夜空柔边融入纸面。明亮光芒具有艺术化处理，星的普通词义直观。",
+      "generatorReviewedAt": "2026-09-29T08:30:54.600859+00:00",
+      "reviewEvidence": {
+        "blindId": "root-13",
+        "primaryMeaning": "夜空中央亮星，周围较弱小星，地平线较暗。",
+        "alternatives": [
+          "星星",
+          "夜空"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "无月亮、文字或明显结构问题。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527334+00:00",
+        "decision": "accepted",
+        "reason": "夜空亮星为明确主体，区别于玩具星形或月亮。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/da/da977f707fdc9c3cc7ac96a477117f75cf98c83b3998292f5592d43216708705.webp",
+      "alt": "夜空中央亮星，周围较弱小星，地平线较暗。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "a24b777010d684ff40c8332b7c1b1281f6687feb7b4d941be4548d486ea483e0",
+      "bytes": 43950,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "63bc69f27a35d3c865869afe448b1270f5211b5cb6ddd933388664793c99652f",
+      "wordId": "dict:hospital",
+      "sourceId": "dict:hospital",
+      "word": "hospital",
+      "pos": "n.",
+      "meaning": "医院",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"hospital\", \"pos\": \"n.\", \"meaning\": \"医院\"}.\nPrimary request: Show a recognizable HOSPITAL building and its entrance. A compact multistory white medical building with many orderly windows, a covered entrance, and one simple red medical cross symbol mounted prominently above the entrance, with no words or letters. In front, a nurse in plain pale-blue scrubs gently pushes a seated adult patient in a wheelchair toward the entrance; a doctor in a white coat stands beside the doors. Include a small unbranded ambulance with one matching simple medical cross parked unobtrusively at the side. Everything is calm, clean and welcoming. Emphasize the medical institution, no injury or blood, no commercial shop sign, no letters, no numerals, no organization logos.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-8f03bb37-38e9-4a1e-9705-9975cbb0ab34.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/hospital.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/hospital.webp",
+      "intendedSavedPath": "public/images/words/63/63bc69f27a35d3c865869afe448b1270f5211b5cb6ddd933388664793c99652f.webp",
+      "generatedAt": "2026-09-29T08:54:18.681858+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：医疗建筑、红色医疗十字符号、医生、护士推轮椅患者以及救护车共同建立医院场所，语义明确。无文字数字或具名机构Logo，无明显人体或轮椅结构错误。背景接近满幅，建筑左右有裁切，四周留白少于理想规范，供主审评估。",
+      "generatorReviewedAt": "2026-09-29T08:58:58.164158+00:00",
+      "reviewEvidence": {
+        "blindId": "root-03",
+        "primaryMeaning": "医生在带医疗十字的大楼入口迎接轮椅患者，旁边有救护车。",
+        "alternatives": [
+          "医院",
+          "就医"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "建筑、医护和救护车共同确定医疗场所，无明显结构问题。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527319+00:00",
+        "decision": "accepted",
+        "reason": "医生、轮椅病人、医疗大楼和救护车共同定位医院。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/63/63bc69f27a35d3c865869afe448b1270f5211b5cb6ddd933388664793c99652f.webp",
+      "alt": "医生在带医疗十字的大楼入口迎接轮椅患者，旁边有救护车。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "911072b0d266bfa59ea430c25da208e0eb00deb5f31e6e28e4b06dbf82bd5b04",
+      "bytes": 74472,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "22abf8b178a2922ede98963c4532af590920cd20d65d582b639ee607364a3c82",
+      "wordId": "dict:seven",
+      "sourceId": "dict:seven",
+      "word": "seven",
+      "pos": "num.",
+      "meaning": "七",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"seven\", \"pos\": \"num.\", \"meaning\": \"七\"}.\nPrimary request: Illustrate the quantity SEVEN using EXACTLY SEVEN separate ripe red strawberries with green leafy tops on the warm paper surface. Arrange them very clearly in two evenly spaced rows: FOUR strawberries in the upper row and THREE strawberries in the lower row, all completely visible, with no touching or overlap. Each strawberry is a single whole fruit. No extra small fruit, no sliced fruit, no baskets, no hands, no numeral symbols, no dots outside the fruits. Count must be exactly seven. Their consistent size and simple orderly arrangement make the count instantly readable.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-72189fa4-759d-4e30-89ca-289f286cebd3.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/seven.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/seven.webp",
+      "intendedSavedPath": "public/images/words/22/22abf8b178a2922ede98963c4532af590920cd20d65d582b639ee607364a3c82.webp",
+      "generatedAt": "2026-09-29T09:23:51.251381+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP并逐个计数：上排4颗、下排3颗，合计恰好7颗完整草莓。每颗独立无重叠，无多余水果或数字符号，数量清楚，暖白纸面和留白符合要求。",
+      "generatorReviewedAt": "2026-09-29T09:29:13.695559+00:00",
+      "reviewEvidence": {
+        "blindId": "root-10",
+        "primaryMeaning": "两排共七颗完整草莓，上排四颗，下排三颗。",
+        "alternatives": [
+          "七颗草莓",
+          "七"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "人工逐个计数4+3=7，没有遮挡和额外草莓。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T10:01:27.191621+00:00",
+        "decision": "accepted",
+        "reason": "逐个计数上排4颗下排3颗，共且仅7颗完整草莓，直接呈现七。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/22/22abf8b178a2922ede98963c4532af590920cd20d65d582b639ee607364a3c82.webp",
+      "alt": "两排共七颗完整草莓，上排四颗，下排三颗。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "fec74b47147a22f97aa67895f45c71c66ad82531d5846f7ab2a1e210f0dd5cb1",
+      "bytes": 46650,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "35393c027467e76c71169ae973ade0a8d4444a56f89aee51b8c1bdd233dbaa7b",
+      "wordId": "dict:computer",
+      "sourceId": "dict:computer",
+      "word": "computer",
+      "pos": "n.",
+      "meaning": "电脑",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"computer\", \"pos\": \"n.\", \"meaning\": \"电脑\"}.\nPrimary request: Show one recognizable DESKTOP COMPUTER setup, isolated as a tightly related object group: a slim unbranded monitor on a stand, a keyboard directly in front, a mouse beside it, and a small computer tower next to the monitor. Screen shows only a calm blue-green abstract wallpaper with no windows, writing, icons or numbers. Keyboard has blank unmarked keys. The monitor, tower, keyboard and mouse have believable proportions and connections, with minimal visible cables. No people, no desk clutter, no phone, no tablet, no TV remote. Center the complete computer setup with generous paper margins.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-2fcd31c9-47e0-4b05-b186-cd0a979a1773.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/computer.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/computer.webp",
+      "intendedSavedPath": "public/images/words/35/35393c027467e76c71169ae973ade0a8d4444a56f89aee51b8c1bdd233dbaa7b.webp",
+      "generatedAt": "2026-09-29T09:51:01.284664+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：显示器、主机、键盘和鼠标组成完整台式电脑，识别直接；屏幕为抽象色块壁纸，键帽无文字数字，机身无Logo。设备结构合理，暖白背景留白足够，未见明显问题。",
+      "generatorReviewedAt": "2026-09-29T09:56:26.331699+00:00",
+      "reviewEvidence": {
+        "blindId": "root-01",
+        "primaryMeaning": "完整桌面电脑，包括显示器、主机、键盘和鼠标。",
+        "alternatives": [
+          "电脑"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "外形典型，无可见文字或结构错误。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T10:01:27.191479+00:00",
+        "decision": "accepted",
+        "reason": "显示器、主机、键盘与鼠标共同直观显示电脑。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/35/35393c027467e76c71169ae973ade0a8d4444a56f89aee51b8c1bdd233dbaa7b.webp",
+      "alt": "完整桌面电脑，包括显示器、主机、键盘和鼠标。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "b5fe251e72cb8815e70d4f3e388d555687695f10961c893ec2a1d7b02daba6d9",
+      "bytes": 26342,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "03948b2ff159b1c53695e0a0b8c937b7ce3e621915ceeb40c89124349954f763",
+      "wordId": "dict:red",
+      "sourceId": "dict:red",
+      "word": "red",
+      "pos": "adj.",
+      "meaning": "红的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"red\", \"pos\": \"adj.\", \"meaning\": \"红的\"}.\nPrimary request: Illustrate the visible property RED through a small still life of three familiar objects that are all unmistakably the same vivid warm red: one red apple with a tiny green leaf, one red ceramic mug, and one red folded fabric scarf. Their shapes and materials differ, but the shared red color dominates the entire subject and is the teaching focus. No objects of competing vivid colors, no green apple, no orange or pink rendering, no paint labels or color words. Place the three objects close together with full visibility on warm off-white paper, clear simple silhouettes, soft small shadows. Rich red gouache pigment with delicate colored-pencil texture.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-06ea7cb8-22a2-43a0-a743-c399fbae6f85.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/red.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/red.webp",
+      "intendedSavedPath": "public/images/words/03/03948b2ff159b1c53695e0a0b8c937b7ce3e621915ceeb40c89124349954f763.webp",
+      "generatedAt": "2026-09-29T10:21:08.349457+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：苹果、陶瓷杯和围巾三种不同物件都呈鲜明红色，共同颜色性质突出；叶片少量绿色不影响主色。无文字数字、Logo或结构问题，暖白背景留白充分，可直接支持红的义项。",
+      "generatorReviewedAt": "2026-09-29T10:28:10.834381+00:00",
+      "reviewEvidence": {
+        "blindId": "root-11",
+        "primaryMeaning": "红色苹果、红色杯子、红色围巾，三种不同物品均突出相同红色。",
+        "alternatives": [
+          "红色"
+        ],
+        "confidence": 0.99,
+        "issues": [
+          "形状不同但颜色共性明显，无文字或结构错误。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T10:46:59.060957+00:00",
+        "decision": "accepted",
+        "reason": "苹果、杯子和围巾形状不同但同为红色，明确突出红的这一共同性质。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/03/03948b2ff159b1c53695e0a0b8c937b7ce3e621915ceeb40c89124349954f763.webp",
+      "alt": "红色苹果、红色杯子、红色围巾，三种不同物品均突出相同红色。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "cdbcd25ca5eb0fa0c057e18f19016e244b3099dd35eff4d4dc347163db2f0fd2",
+      "bytes": 40428,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "4802dc076cf8d17a80a3abbb461cdf39597c7611e0d81a037e8d6ddda4b5464c",
+      "wordId": "dict:daughter",
+      "sourceId": "dict:daughter",
+      "word": "daughter",
+      "pos": "n.",
+      "meaning": "女儿",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"daughter\", \"pos\": \"n.\", \"meaning\": \"女儿\"}.\nPrimary request: Show a DAUGHTER and her parents with the young girl clearly as the primary subject. A smiling girl around eight years old stands in the foreground wearing a coral dress and holding each parent's hand. Her mother and father stand a little behind on either side, leaning affectionately toward their daughter. All three share subtle family resemblance, the girl is noticeably smaller and brighter in color, and her full face and body remain fully visible. A gentle family relationship, not a generic group of friends. No son or other child, no birthday objects, no hearts or labels. Natural five-finger hands and believable joined handholds.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-65bff1d5-c04a-46a2-a0ad-f1181f7abdac.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/daughter.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/daughter.webp",
+      "intendedSavedPath": "public/images/words/48/4802dc076cf8d17a80a3abbb461cdf39597c7611e0d81a037e8d6ddda4b5464c.webp",
+      "generatedAt": "2026-09-29T11:41:32.482894+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看保存的640px WebP：父母在两侧低头看向中央女孩，女孩牵着双方的手且颜色突出，女儿与父母的家庭关系可见。人物完整、手部连接自然，无文字数字；风格偏写实水粉，仍可能先读为一家三口或家庭，供主审判断女儿焦点是否足够。",
+      "generatorReviewedAt": "2026-09-29T11:54:10.284640+00:00",
+      "reviewEvidence": {
+        "blindId": "root-09",
+        "primaryMeaning": "女孩走在中间，左右与父亲和母亲牵手，两个成人低头关爱地看她。",
+        "alternatives": [
+          "女儿和父母",
+          "一家人"
+        ],
+        "confidence": 0.97,
+        "issues": [
+          "女孩是前景核心，亲子关系由身高年龄差与牵手可辨，无文字或明显结构错误。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T12:00:02.567700+00:00",
+        "decision": "accepted",
+        "reason": "女孩在父母之间牵手且为画面主角，年龄关系与亲密互动支持女儿义项。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/48/4802dc076cf8d17a80a3abbb461cdf39597c7611e0d81a037e8d6ddda4b5464c.webp",
+      "alt": "女孩走在中间，左右与父亲和母亲牵手，两个成人低头关爱地看她。",
+      "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+      "sha256": "5d7752b4cfe6118cee315f8e172102508e4eb56af517d062c70c0b3ffbda27a8",
+      "bytes": 38464,
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1",
+      "wordId": "dict:will",
+      "sourceId": "dict:will",
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"will\", \"pos\": \"v.\", \"meaning\": \"将\"}.\nPrimary request: Show a concrete FUTURE PLAN, with a clear visual difference between the present and a later event. A child is at home now, holding a packed picnic basket and thoughtfully looking toward an imagined future scene inside one large cloud-shaped thought bubble: the very same child, wearing the same coral shirt, is outdoors on a grassy hill spreading a picnic blanket with a parent beneath a sunny sky. The present child has not yet left home. The main emphasis is the child's planned future activity, not an object falling or an action already happening. The imagined picnic scene is gently lighter than the present figure but fully legible. Use only this present-plus-future relationship, no extra events or decorative symbols.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-deb47894-41c1-4973-bea8-1215b7b8f895.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/will.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/will.webp",
+      "intendedSavedPath": "public/images/words/0a/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp",
+      "generatedAt": "2026-09-29T06:34:53.911454+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已独立查看保存的640px WebP：女孩提着野餐篮，思想泡泡呈现与母亲未来野餐的场景；无文字数字，未见明显解剖错误。能表达计划或想象，仍可能被读为想要、期待或回想，单凭图像不能唯一确定将来助动词。保留待主审。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/b/candidates/will.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-03",
+          "primaryMeaning": "树枝上苹果即将掉入下方篮子，用箭头和半透明落点表示。",
+          "alternatives": [
+            "掉落",
+            "将要落下",
+            "重力"
+          ],
+          "confidence": "medium",
+          "issues": "动作和未来落点可见，但一般将来语法含义需要推断。",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable.",
+          "reviewer": "root",
+          "reviewedAt": "2026-09-29T05:51:18.942292+00:00",
+          "decision": "deferred",
+          "reason": "苹果落下动作比将来关系更突出，箭头落点不足以独立表达将。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00"
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:36:00.436398+00:00",
+      "reviewEvidence": {
+        "blindId": "root-02",
+        "primaryMeaning": "女孩提着篮子，想到自己与成人在草地铺野餐布。",
+        "alternatives": [
+          "计划野餐",
+          "想象",
+          "回忆野餐"
+        ],
+        "confidence": 0.97,
+        "issues": [
+          "思维泡不能独立说明过去或未来。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527160+00:00",
+        "decision": "deferred",
+        "reason": "思想气泡只能显示想到或想象野餐，无法排除回忆或愿望，不能直接确认将来时态。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d",
+      "wordId": "dict:always",
+      "sourceId": "dict:always",
+      "word": "always",
+      "pos": "adv.",
+      "meaning": "总是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"always\", \"pos\": \"adv.\", \"meaning\": \"总是\"}.\nPrimary request: Show that the SAME child ALWAYS fastens their seat belt, regardless of the situation. Arrange four closely related small borderless vignettes as one coherent square illustration. In every vignette the same recognizable child wears the same blue jacket in the same rear car seat, and the correctly fitted diagonal and lap seat belt is clearly fastened. Outside the car window the situations differ: bright sunshine, rain, snow, and moonlit night. All four cases show the identical safe behavior, with no exception, no unbuckled version, no toothbrush or daily-routine calendar. Make the four repeated correctly buckled seat belts the unmistakable visual pattern. Natural human anatomy.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-9b97f30d-d6bc-457a-a61e-50d2fe13b977.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/always.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/always.webp",
+      "intendedSavedPath": "public/images/words/ee/ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d.webp",
+      "generatedAt": "2026-09-29T06:40:10.282795+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看保存的640px WebP：同一男孩在晴、雨、雪、夜四种情境下都系着安全带，重复一致行为比单一日常动作更突出。无文字数字，人物肢体未见明显错误。仍可能被读成安全乘车或四季乘车，不能保证唯一对应总是。画面采用四格叙事，外缘留白较少。保留待主审。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/root/candidates/always.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-09",
+          "primaryMeaning": "同一个人在早晨、白天和夜晚反复刷牙，表现规律、重复进行的刷牙习惯。",
+          "alternatives": [
+            "每天刷牙",
+            "经常刷牙",
+            "早中晚刷牙",
+            "日常习惯"
+          ],
+          "confidence": 0.95,
+          "issues": [
+            "能读出反复刷牙，但图像不能精确区分每天、经常、总是或一天三次等不同频率；环绕的小牙刷装饰进一步强调重复。"
+          ],
+          "reviewer": "blind_a",
+          "reviewedAt": "2026-09-29T05:54:58Z",
+          "decision": "deferred",
+          "reason": "早中晚重复刷牙可读为每天或经常，无法清楚区分总是这一频率。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:41:48.377701+00:00",
+      "reviewEvidence": {
+        "blindId": "root-06",
+        "primaryMeaning": "同一个孩子在晴天、雨天、雪天和夜晚坐车，四次都系安全带。",
+        "alternatives": [
+          "乘车安全",
+          "无论天气都系安全带",
+          "习惯"
+        ],
+        "confidence": 0.94,
+        "issues": [
+          "持续重复可见，但频率副词需要解释，安全带才是最直接主体。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527327+00:00",
+        "decision": "deferred",
+        "reason": "四个天气场景都系安全带，首先可读为乘车安全；静态重复不足以明确总是这一频率义项。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1",
+      "wordId": "dict:others",
+      "sourceId": "dict:others",
+      "word": "others",
+      "pos": "pron.",
+      "meaning": "其他人",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"others\", \"pos\": \"pron.\", \"meaning\": \"其他人\"}.\nPrimary request: Demonstrate OTHER PEOPLE through a clear one-person-versus-the-rest relationship. In a simple art-class setting, a group of five children are together. One child in blue at the far left has already received a paintbrush and quietly holds it close to the chest. An adult's visible arm now offers a tray of four remaining paintbrushes to the OTHER FOUR children grouped together at the right, all reaching naturally toward the tray. A soft pale coral ground shape groups just those four children, while the child who already has a brush is clearly outside that group. The adult is distributing to everyone except the already-served child. Keep faces calm and friendly; this is a neutral distribution scene, never ostracism. No floating arrows, speech bubbles or labels.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-cd55e1f1-a06b-432c-af01-09f09cb5e50d.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/others.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/others.webp",
+      "intendedSavedPath": "public/images/words/00/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.webp",
+      "generatedAt": "2026-09-29T06:56:58.750934+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看保存的640px WebP：左侧一个孩子已有画笔，右侧淡珊瑚色区域内四个孩子面向剩余四支画笔，排除已领取者的其余人关系可见。无文字数字，未见明显多肢或手部畸形。仍可能优先读成分发画笔、分享或等待，其他人的代词关系需主审确认。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0039-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-0039/b/candidates/others.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-11",
+          "primaryMeaning": "前景孩子朝远处四个孩子伸手，远处孩子相互交谈。",
+          "alternatives": [
+            "其他人",
+            "他们",
+            "朋友",
+            "招呼"
+          ],
+          "confidence": "medium",
+          "issues": "可能是邀请或指示一群人，不能唯一限定代词/其他。",
+          "method": "Previous generator inspected the raw image. Recovery reviewers viewed each numbered image individually with targets hidden; root compared observations against exact game senses and visually rechecked ambiguous or precision-sensitive cases. Prior context exposure is disclosed where applicable.",
+          "reviewer": "root",
+          "reviewedAt": "2026-09-29T05:51:18.942292+00:00",
+          "decision": "deferred",
+          "reason": "前景指向一群孩子也可读为他们、朋友或邀请，其他人的排除关系仍不够明确。",
+          "finalReviewedAt": "2026-09-29T05:58:31.305252+00:00"
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T06:59:27.191917+00:00",
+      "reviewEvidence": {
+        "blindId": "root-14",
+        "primaryMeaning": "一个男孩已经拿画笔，与旁边四个孩子分开，成人给这四个孩子递四支画笔。",
+        "alternatives": [
+          "分发画笔",
+          "其余孩子",
+          "其他人"
+        ],
+        "confidence": 0.94,
+        "issues": [
+          "已拥有的一人与其余群体有对照，但动作也可主要读为分发或分享。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T09:31:29.527335+00:00",
+        "decision": "deferred",
+        "reason": "主审采用保守结论：一名孩子已拿到画笔，另一组孩子正在领取，粉色背景将他们分组。看图主要读为发画笔、轮流领取或剩下的人，需要先指定左边孩子为参照才读成其他人，指代义仍不充分。无文字数字。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+        "crossReviewRecommendation": {
+          "approved": true,
+          "reason": "已拿画笔的一人独立在左，剩余四人被圈为群体并领取画笔，形成此人之外的其他人这一对照。"
+        },
+        "secondaryReview": {
+          "word": "others",
+          "pos": "pron.",
+          "meaning": "其他人",
+          "approved": false,
+          "reason": "一名孩子已拿到画笔，另一组孩子正在领取，粉色背景将他们分组。看图主要读为发画笔、轮流领取或剩下的人，需要先指定左边孩子为参照才读成其他人，指代义仍不充分。无文字数字。",
+          "reviewer": "audit_disk",
+          "reviewedAt": "2026-09-29T18:45:28.751257+00:00"
+        }
+      }
+    },
+    {
+      "senseId": "8774bda30c131f53b7150a700243d1f46b0bda034d65934a8c972bd15f79036d",
+      "wordId": "dict:soon",
+      "sourceId": "dict:soon",
+      "word": "soon",
+      "pos": "adv.",
+      "meaning": "不久",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"soon\", \"pos\": \"adv.\", \"meaning\": \"不久\"}.\nPrimary request: Convey SOON, an event happening after only a very short wait. A child patiently waits beside an unmarked bus-stop pole with a simple bus-shaped pictogram, looking at a small city bus that is already very close and visibly approaching the stop along the road. The bus is only a few steps away from the waiting spot and is about to arrive, with its front facing the child and the bus door still closed. The child has a relaxed hopeful expression, a small backpack and a slight forward expectant posture. A tiny hourglass near the child has almost all of its sand in the lower bulb and only a last few grains falling, reinforcing that the wait is nearly over. Clear road geometry and natural perspective. No route number, no written timetable, no clock numbers, no arrows, no words.\nStyle/medium: scientific-educational vocabulary illustration, hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural light; restrained natural colors except where color is the exact subject. Square composition with the main subject occupying approximately the middle 70 percent and generous breathing room, fully legible on a small vocabulary card.\nConstraints: one independently generated square image, no readable letters, no written numbers, no text, no written labels, no logos, no watermark, no border or card UI. Do not print the vocabulary word or its meaning. Avoid malformed anatomy, duplicated limbs, physically impossible object intersections and unrelated decorative items.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0ebb6-1adb-7373-8b01-7af1b4e18d2b/exec-04a9bebe-1cb1-4075-89cc-7d3ed0906f7e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-0627/b/source/soon.png",
+      "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/soon.webp",
+      "intendedSavedPath": "public/images/words/87/8774bda30c131f53b7150a700243d1f46b0bda034d65934a8c972bd15f79036d.webp",
+      "generatedAt": "2026-09-29T11:01:25.499713+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已查看保存的640px WebP：孩子在公交站等待，近处公交车面向站点、车门关闭，脚边沙漏上部只剩少量沙，能提示等待将结束。无文字数字或明显人体错误。仍可被直接读为等公交或公交车已到站，车的运动状态不确定；沙漏作为象征道具略不自然，且画面满幅留白少。保留待主审判断不久的语义是否足够。",
+      "generatorReviewedAt": "2026-09-29T11:09:33.762990+00:00",
+      "reviewEvidence": {
+        "blindId": "root-05",
+        "primaryMeaning": "孩子在公交站等车，公交车已经驶近站台，旁边沙漏上部几乎流完。",
+        "alternatives": [
+          "车很快到站",
+          "等车",
+          "即将到达"
+        ],
+        "confidence": 0.93,
+        "issues": [
+          "即将到站与剩余短时间由近距离车辆和沙漏共同表示，无文字。"
+        ],
+        "reviewer": "root",
+        "reviewedAt": "2026-09-29T11:06:31.593764+00:00",
+        "decision": "deferred",
+        "reason": "主审采用保守结论：画面首先是孩子在站牌旁等一辆驶近的公交车。小沙漏显示时间流逝，但没有能独立限定短时间的参照；也可能已到站，无法可靠区分不久、等待或公交车。无文字数字。",
+        "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+        "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+        "crossReviewRecommendation": {
+          "approved": true,
+          "reason": "车辆已驶近站台但还未接客，配合几乎流完的沙漏，直观表示只需短时间便到达。"
+        },
+        "secondaryReview": {
+          "word": "soon",
+          "pos": "adv.",
+          "meaning": "不久",
+          "approved": false,
+          "reason": "画面首先是孩子在站牌旁等一辆驶近的公交车。小沙漏显示时间流逝，但没有能独立限定短时间的参照；也可能已到站，无法可靠区分不久、等待或公交车。无文字数字。",
+          "reviewer": "audit_disk",
+          "reviewedAt": "2026-09-29T18:45:28.751257+00:00"
+        }
+      }
+    }
+  ],
+  "pending": [],
+  "reviewSummary": {
+    "reviewedAt": "2026-09-29T19:03:40.394917+00:00",
+    "generated": 15,
+    "accepted": 11,
+    "deferred": 4
+  }
+}
