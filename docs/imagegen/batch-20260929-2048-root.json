@@ -1,0 +1,811 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260929-2048-root",
+  "parentBatch": "20260929-2048",
+  "assets": [
+    {
+      "senseId": "742faa01f61e03b6650a8a2d6a9e75da6a2b0ee8d6377d65c77b123183eff0ea",
+      "wordId": "dict:colour",
+      "sourceId": "dict:colour",
+      "word": "colour",
+      "pos": "n.",
+      "meaning": "颜色",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: colour; n.; 颜色.\nPrimary scene: An artist palette with six clearly separated rich paint daubs: red, orange, yellow, green, blue and purple, plus a short broad swatch of each color below. Color differences are the unmistakable focus, no printed color names or rainbow scenery. A plain brush may rest by the palette.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-bb46626b-a3bb-44e2-bc0a-860825839e5e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/colour.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/colour.webp",
+      "intendedSavedPath": "public/images/words/74/742faa01f61e03b6650a8a2d6a9e75da6a2b0ee8d6377d65c77b123183eff0ea.webp",
+      "generatedAt": "2026-09-29T21:10:37.697801+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，调色板和六种明显不同的颜料色块直观突出颜色；无文字数字，色彩在小图仍清楚，建议通过颜色义项，待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T21:13:23.537167+00:00",
+      "reviewEvidence": {
+        "blindId": "03",
+        "primaryMeaning": "调色盘、画笔以及红橙黄绿蓝紫的颜料和色条，直接传达颜色。",
+        "alternatives": [
+          "绘画",
+          "颜料",
+          "多彩"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "不同颜色的颜料和对应色条直接展示 colour / n. / 颜色；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/74/742faa01f61e03b6650a8a2d6a9e75da6a2b0ee8d6377d65c77b123183eff0ea.webp",
+      "alt": "无文字画面：调色盘、画笔以及红橙黄绿蓝紫的颜料和色条，直接传达颜色。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "db6851568a56324f5122fae46f702864d3668567d5ea224e8c809a688aea0181",
+      "bytes": 60274,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "b95ed6d7082820e24063f48a55ff0e644dac04ffbcb3d9d99e976c477c9c04eb",
+      "wordId": "dict:animal",
+      "sourceId": "dict:animal",
+      "word": "animal",
+      "pos": "n.",
+      "meaning": "动物",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: animal; n.; 动物.\nPrimary scene: A simple natural group of three unmistakable common animals: a dog, a rabbit and an elephant calf on one small grassy patch. Each is fully visible with accurate characteristic anatomy; varying species convey the animal category. No people, cages, toy seams or extra habitat clutter.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-910f1773-49f7-4bba-b7f6-93737afd809b.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/animal.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/animal.webp",
+      "intendedSavedPath": "public/images/words/b9/b95ed6d7082820e24063f48a55ff0e644dac04ffbcb3d9d99e976c477c9c04eb.webp",
+      "generatedAt": "2026-09-29T21:17:20.489961+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，狗、兔子和幼象三种典型动物清楚，形态自然、无文字，类别动物直观；建议通过待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T21:29:06.848943+00:00",
+      "reviewEvidence": {
+        "blindId": "01",
+        "primaryMeaning": "三种动物：狗、兔子、大象。整体首先传达动物这一类别。",
+        "alternatives": [
+          "宠物与野生动物",
+          "大小不同的动物"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "狗、兔子、大象共同呈现动物类别，具体名词 animal / n. / 动物 直接清楚；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/b9/b95ed6d7082820e24063f48a55ff0e644dac04ffbcb3d9d99e976c477c9c04eb.webp",
+      "alt": "无文字画面：三种动物：狗、兔子、大象。整体首先传达动物这一类别。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "80eac94d1670f204df7b297d4e7b0e8c469931f57eb7096cee83334e29904c5e",
+      "bytes": 52894,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "2d8f1226679785c6fa1a204866655b3cc2f60f15aed37e1bb5867073db1fd5fa",
+      "wordId": "dict:present",
+      "sourceId": "dict:present",
+      "word": "present",
+      "pos": "n.",
+      "meaning": "礼品",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: present; n.; 礼品.\nPrimary scene: One beautiful wrapped present with a large tied fabric ribbon and bow. The lid is slightly lifted to hint at something inside without revealing a specific toy. Center the tangible gift; no recipient or giving hand needed. No tags, lettering or festive numbers.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-bc0dfbfe-d438-470c-9245-2c7ca831cee9.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/present.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/present.webp",
+      "intendedSavedPath": "public/images/words/2d/2d8f1226679785c6fa1a204866655b3cc2f60f15aed37e1bb5867073db1fd5fa.webp",
+      "generatedAt": "2026-09-29T21:37:03.891372+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，包装纸礼盒和大蝴蝶结直接表现礼品，边缘清楚、无文字数字，建议通过待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T21:40:56.229012+00:00",
+      "reviewEvidence": {
+        "blindId": "06",
+        "primaryMeaning": "系红色蝴蝶结、带包装纸的礼物盒。",
+        "alternatives": [
+          "礼物",
+          "礼品",
+          "包装盒"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "有完整包装纸与红蝴蝶结的盒子直接表明 present / n. / 礼品；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/2d/2d8f1226679785c6fa1a204866655b3cc2f60f15aed37e1bb5867073db1fd5fa.webp",
+      "alt": "无文字画面：系红色蝴蝶结、带包装纸的礼物盒。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "c6a23104690bef48e2c650a5da4e5d67ae4487ac1544c3abab9b0f96c2410ee1",
+      "bytes": 41086,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "696ef96363bf3fc65917894a775d5c6e5188de79c1b21b9223e4c440ab45cd28",
+      "wordId": "dict:store",
+      "sourceId": "dict:store",
+      "word": "store",
+      "pos": "n.",
+      "meaning": "商店",
+      "stageId": "primary",
+      "prompt": "Use case: precise-object-edit\nAsset type: one square educational vocabulary illustration for the exact sense store; n.; 商店.\nEdit target: the supplied existing shop illustration. Preserve its overall composition, open front entrance, green blank awning, wooden shelves, central aisle, sales counter, friendly female shopkeeper, soft daylight, hand-painted gouache and colored-pencil texture on warm off-white paper.\nRequired change: replace EVERY packaged product and EVERY product label across ALL shelves, rear wall, counter front and baskets with clearly unlabelled, unwrapped goods. Stock the shop with loose apples, oranges, bananas, potatoes, carrots, round bread loaves and baguettes, baskets of eggs, and plain solid-color ceramic cups, bowls and jars. Use generous spacing and simple identifiable silhouettes. Every ceramic container must be completely blank with uniform uninterrupted color: no stickers, patches, rectangles, emblems or written marks. Remove bottles, cans, cartons, packets, printed wrappers, tiny price tickets and any small marks that could be read as letters. The shop must remain clearly recognizable as a store selling these goods.\nConstraints: absolutely no words, letters, digits, pseudo-writing, scribbles, handwritten strokes, packaging labels, price tags, signs, logos, watermarks, captions or interface. Do not introduce any decorative text anywhere. One coherent shop scene, natural human anatomy, no other changes.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0efca-2674-7850-9d94-26155fc00418/exec-b727e9c1-0d71-4a4a-84db-a064a61efd79.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/store-v2.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/store-v2.webp",
+      "intendedSavedPath": "public/images/words/69/696ef96363bf3fc65917894a775d5c6e5188de79c1b21b9223e4c440ab45cd28.webp",
+      "generatedAt": "2026-09-30T04:45:24.167399+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看v2原图和640px WebP：保留敞开店面、绿色遮棚、两侧货架、柜台和店员，商品明确为散装果蔬、面包、鸡蛋和无标签纯色陶瓷杯罐；检查前景、两侧及后墙货架均未见伪字标签。店铺场景仍直观传达store / n. / 商店。生成者自审建议通过，仍reviewed:false，等待其他reviewer独立验收。",
+      "previousVersions": [
+        {
+          "senseId": "696ef96363bf3fc65917894a775d5c6e5188de79c1b21b9223e4c440ab45cd28",
+          "wordId": "dict:store",
+          "sourceId": "dict:store",
+          "word": "store",
+          "pos": "n.",
+          "meaning": "商店",
+          "stageId": "primary",
+          "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: store; n.; 商店.\nPrimary scene: A small welcoming neighborhood store seen through its open front entrance, with shelves of recognizable everyday goods, a sales counter and a friendly shopkeeper inside. Focus on the whole retail place, clear shop doorway and merchandise. Blank awning, no signage or written prices.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+          "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-6ff196ca-631d-4cd6-a4a0-d354912eeae9.png",
+          "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/store.png",
+          "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/store.webp",
+          "intendedSavedPath": "public/images/words/69/696ef96363bf3fc65917894a775d5c6e5188de79c1b21b9223e4c440ab45cd28.webp",
+          "generatedAt": "2026-09-29T22:04:54.019045+00:00",
+          "reviewed": false,
+          "status": "pending_final_review",
+          "selfReviewNotes": "已看WebP，货架、店员、收银台构成清楚商店；但原图前排食品包装出现伪文字式标签，违反无文字标签要求，交叉复核前不能通过。",
+          "generatorReviewedAt": "2026-09-29T22:10:02.303267+00:00"
+        }
+      ],
+      "editReferencePath": "output/imagegen/batch-20260929-2048/root/candidates/store.webp",
+      "generatorReviewedAt": "2026-09-30T04:49:51.060672+00:00",
+      "reviewEvidence": {
+        "blindId": "14",
+        "primaryMeaning": "有售货员、收银台、果蔬和整齐货架的小杂货商店。",
+        "alternatives": [
+          "商店",
+          "杂货铺",
+          "便利店"
+        ],
+        "issues": [
+          "货架和柜台的商品包装存在像标签文字的细小白色笔画及伪字，违反无文字要求。"
+        ],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "已独立查看640px候选及原PNG：带遮篷的临街店面、整齐商品陈列、店员和柜台共同构成可直接识别的商店空间，符合store n.商店。货物为散装食品及无标签陶器，未见文字、伪字或品牌标识。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases.",
+        "secondaryReview": {
+          "approved": true,
+          "reason": "已独立查看640px候选及原PNG：带遮篷的临街店面、整齐商品陈列、店员和柜台共同构成可直接识别的商店空间，符合store n.商店。货物为散装食品及无标签陶器，未见文字、伪字或品牌标识。",
+          "observations": [
+            "第一眼可识别为小商店；门面、货架、柜台及店员均清楚。",
+            "面包、蔬果、蛋、杯碗罐以散装形式陈列，没有包装标签或文字；右后墙画框中也无字。",
+            "640px下店面轮廓与商品陈列仍易读，货物细节不妨碍商店整体识别。",
+            "原PNG中人物双手自然叠放，棚架、货架、柜台与地板透视连贯，未见影响识别的结构异常。"
+          ],
+          "path": "output/imagegen/batch-20260929-2048/root/candidates/store-v2.webp",
+          "sourceInspected": "output/imagegen/batch-20260929-2048/root/source/store-v2.png",
+          "reviewedAt": "2026-09-30T05:22:04.548940+00:00",
+          "reviewer": "/root/resume_c",
+          "reviewMethod": "independent cross-review with known exact sense; not a blind review"
+        },
+        "priorReview": {
+          "approved": false,
+          "reason": "store / n. / 商店 的场景清楚，但商品包装上的细小标签形笔画与伪字违反无文字要求，须重做干净无标签包装后再审。"
+        }
+      },
+      "savedPath": "public/images/words/69/696ef96363bf3fc65917894a775d5c6e5188de79c1b21b9223e4c440ab45cd28.webp",
+      "alt": "无文字画面：第一眼可识别为小商店；门面、货架、柜台及店员均清楚。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "a0bbe6fdfb24f0141b87096bcd87ff700802d04d540591bd68d598b771ef990e",
+      "bytes": 65156,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "91bf7e489460b046c440bf992ca1a0b4ca07b618acc5dfbd6f73f686a4cc634f",
+      "wordId": "dict:hotel",
+      "sourceId": "dict:hotel",
+      "word": "hotel",
+      "pos": "n.",
+      "meaning": "旅馆",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: hotel; n.; 旅馆.\nPrimary scene: A modest welcoming hotel building with visible entrance and reception desk inside, luggage beside a traveler checking in, and rows of identical guest-room windows above. Clearly temporary accommodation for travelers; no stars, lettering or signs.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-dc02f4cd-1e7b-4952-b4b9-e077c9ddf740.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/hotel.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/hotel.webp",
+      "intendedSavedPath": "public/images/words/91/91bf7e489460b046c440bf992ca1a0b4ca07b618acc5dfbd6f73f686a4cc634f.webp",
+      "generatedAt": "2026-09-29T22:16:26.250983+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，带行李旅客在接待台办理住宿，楼上重复客房窗户，与旅馆含义相符；无文字和明显结构错误，建议通过待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T22:26:12.498785+00:00",
+      "reviewEvidence": {
+        "blindId": "15",
+        "primaryMeaning": "拉着行李箱的旅客在有多排客房窗户的楼内前台办理入住，建筑像旅馆。",
+        "alternatives": [
+          "酒店",
+          "旅馆",
+          "办理入住"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "楼上重复客房窗户、楼下前台及拖行李旅客共同清楚限定 hotel / n. / 旅馆；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/91/91bf7e489460b046c440bf992ca1a0b4ca07b618acc5dfbd6f73f686a4cc634f.webp",
+      "alt": "无文字画面：拉着行李箱的旅客在有多排客房窗户的楼内前台办理入住，建筑像旅馆。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "515835a5515e903af1b55a17f287da65c43ab27fe95cc85615280dc3afa1d6d3",
+      "bytes": 67046,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "905eaa7e6fdca2bdf7ab9c7929951a1f284ba8cd933278ac776d9dc2630873ee",
+      "wordId": "dict:happy",
+      "sourceId": "dict:happy",
+      "word": "happy",
+      "pos": "adj.",
+      "meaning": "快乐的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: happy; adj.; 快乐的.\nPrimary scene: A joyful child beaming with eyes gently crinkled, broad natural smile, arms raised outward in delight, little lively bounce. Emotion happiness is primary, no party props or goal-specific context. Accurate hands and limbs, warm friendly expression.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-8bd6045b-b86f-423f-b882-afd112c0b327.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/happy.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/happy.webp",
+      "intendedSavedPath": "public/images/words/90/905eaa7e6fdca2bdf7ab9c7929951a1f284ba8cd933278ac776d9dc2630873ee.webp",
+      "generatedAt": "2026-09-29T22:32:17.632319+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，孩子大笑、张开双臂跃起，快乐情绪明显；两手五指与两腿自然，无文字或多余道具，建议通过。",
+      "generatorReviewedAt": "2026-09-29T22:37:55.085364+00:00",
+      "reviewEvidence": {
+        "blindId": "09",
+        "primaryMeaning": "女孩笑容灿烂张开双臂跳起，开心快乐、兴奋。",
+        "alternatives": [
+          "高兴",
+          "快乐",
+          "兴奋",
+          "跳跃"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "女孩开怀大笑并张臂跳起，happy / adj. / 快乐的 的可见情绪强烈明确；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/90/905eaa7e6fdca2bdf7ab9c7929951a1f284ba8cd933278ac776d9dc2630873ee.webp",
+      "alt": "无文字画面：女孩笑容灿烂张开双臂跳起，开心快乐、兴奋。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "a5e52c2dbd65b2bc9cfacbf106e80c005badf2abb2d97e3d60cd19acea951551",
+      "bytes": 26724,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "6f7a5a16062892bd0b6bb95c4b071739783711f615a297d3cbb49c8aaa7129df",
+      "wordId": "dict:science",
+      "sourceId": "dict:science",
+      "word": "science",
+      "pos": "n.",
+      "meaning": "科学",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: science; n.; 科学.\nPrimary scene: A child scientist wearing clear safety goggles carefully uses a microscope beside a small specimen leaf and two clean laboratory flasks. A simple school science investigation scene, focus on observing and experimenting rather than medicine or magic. No scale numerals, labels, equations or text.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-dd88195c-08e7-4717-9684-6639afb1732e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/science.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/science.webp",
+      "intendedSavedPath": "public/images/words/6f/6f7a5a16062892bd0b6bb95c4b071739783711f615a297d3cbb49c8aaa7129df.webp",
+      "generatedAt": "2026-09-29T23:04:26.873779+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，护目镜白大褂、显微镜观察叶片及实验瓶，共同形成科学研究场景；无文字数值，仪器和手部合理，建议通过待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T23:11:16.972406+00:00",
+      "reviewEvidence": {
+        "blindId": "04",
+        "primaryMeaning": "穿白大褂戴护目镜的孩子用显微镜观察叶片样本，旁边有实验烧瓶；首先是科学实验。",
+        "alternatives": [
+          "科学",
+          "研究",
+          "显微镜观察",
+          "生物学"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "实验服、显微镜观察和烧瓶构成直观科学实验场景，science / n. / 科学 的学科概念明确；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/6f/6f7a5a16062892bd0b6bb95c4b071739783711f615a297d3cbb49c8aaa7129df.webp",
+      "alt": "无文字画面：穿白大褂戴护目镜的孩子用显微镜观察叶片样本，旁边有实验烧瓶；首先是科学实验。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "f959034dfb1ef33c1beb99a11db60f39eff91a005a643e7f2dd3b5c55a74cc27",
+      "bytes": 46880,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "c56c0a6fc64603ecd3ce46337aa4443db0302744ac20b23f0942ba8f9d0f543e",
+      "wordId": "dict:outside",
+      "sourceId": "dict:outside",
+      "word": "outside",
+      "pos": "n.",
+      "meaning": "外面",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: outside; n.; 外面.\nPrimary scene: View from inside a cozy room through a wide open doorway. One child and a small ball are clearly outdoors on the sunny grass beyond the threshold, framed by the interior floor and door jamb. The entire focus is the outside space beyond the room; no arrows or labels.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-c5130aa8-8e39-4da1-8e3c-c5aa166d132f.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/outside.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/outside.webp",
+      "intendedSavedPath": "public/images/words/c5/c56c0a6fc64603ecd3ce46337aa4443db0302744ac20b23f0942ba8f9d0f543e.webp",
+      "generatedAt": "2026-09-29T23:27:07.867626+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已看WebP，视角明确在室内，通过门框与门槛看到外面阳光草地上的孩子，室内外对比清楚，外面义项直观；建议通过待交叉审核。",
+      "generatorReviewedAt": "2026-09-29T23:42:09.406279+00:00",
+      "reviewEvidence": {
+        "blindId": "08",
+        "primaryMeaning": "从房间朝打开的门外望去，孩子在屋外草地踢球，室内与户外边界明确。",
+        "alternatives": [
+          "外面",
+          "在户外",
+          "踢足球",
+          "门外"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "accepted",
+        "reason": "房内视角和门槛明确区分室内与门外，场景焦点是户外活动空间，outside / n. / 外面 清楚；无文字伪字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/c5/c56c0a6fc64603ecd3ce46337aa4443db0302744ac20b23f0942ba8f9d0f543e.webp",
+      "alt": "无文字画面：从房间朝打开的门外望去，孩子在屋外草地踢球，室内与户外边界明确。",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "d84bf14dab3393fe779092b8b3d019375fed94ebe42f7f141849fe556dddd7b0",
+      "bytes": 89562,
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "wordId": "dict:be",
+      "sourceId": "dict:be",
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: be; v.; 是.\nPrimary scene: A calm child in a simple cook apron and cook hat points to themself while standing beside a mirror showing exactly the same child. Make visual identity and being a cook the central relation. This is an experimental visual representation of the copular sense is; do not depict transformation or a different person.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-296162b6-7110-4ad3-97dd-06e46e6706cf.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/be.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/be.webp",
+      "intendedSavedPath": "public/images/words/b4/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp",
+      "generatedAt": "2026-09-29T20:51:49.681084+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看WebP，厨师装孩子指自己并照镜子，首先读出厨师、自我指认和镜子，无法独立表达系词是；无文字，保留待语义复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/be.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-10",
+          "primaryMeaning": "男孩手里拿着橙子、用另一只手指着它，头旁的思考泡泡里也是橙子。",
+          "alternatives": [
+            "想到橙子",
+            "辨认水果",
+            "指认这个物体",
+            "橙子"
+          ],
+          "confidence": 0.91,
+          "issues": {
+            "anatomy": "持果与指向动作清楚，未见明显手部异常。",
+            "textNumbers": "泡泡没有文字数字。",
+            "ambiguity": "橙子和想象或指认行为更直接，画面无法唯一确定某个指代词或命名语言动作。"
+          },
+          "reviewer": "a",
+          "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+          "decision": "deferred",
+          "reason": "男孩指橙子且思考泡泡重复橙子，只能独立读出橙子、指认或想到橙子；不能唯一表达系词是这一判断关系。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T20:52:01.980388+00:00",
+      "reviewEvidence": {
+        "blindId": "07",
+        "primaryMeaning": "穿厨师服的孩子在镜子前指向自己，像认识自己或展示自己是厨师。",
+        "alternatives": [
+          "自己",
+          "我",
+          "厨师",
+          "照镜子",
+          "打扮成厨师"
+        ],
+        "issues": [
+          "画面可以显示自己、厨师身份或镜子；无法单独确定抽象语法关系。"
+        ],
+        "confidence": "medium",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "厨师服孩子指着镜中自己，首先是自己、厨师或照镜子，不能从图中独立推导系动词 be / v. / 是。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb",
+      "wordId": "dict:so",
+      "sourceId": "dict:so",
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: so; adv.; 如此.\nPrimary scene: A child stretches both arms wide apart to demonstrate the remarkable size of a very large pumpkin placed directly in front of them. The clearly matching span and pumpkin express the degree so big, with a small ordinary pumpkin nearby solely as size reference. No thought bubbles.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-73186790-2d98-410a-9b37-3b320a32192b.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/so.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/so.webp",
+      "intendedSavedPath": "public/images/words/ba/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp",
+      "generatedAt": "2026-09-29T20:53:06.155359+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看WebP，孩子张双臂比划巨大的南瓜，主体明确但首先是大、这么大或惊讶，无法单独限定副词如此；保留语义待审。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/so.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-02",
+          "primaryMeaning": "成人和孩子坐在桌前，各将双手放在自己的木碗两侧，做着相似的手势。",
+          "alternatives": [
+            "模仿成人",
+            "相同动作",
+            "比较碗",
+            "一起学习"
+          ],
+          "confidence": 0.88,
+          "issues": {
+            "anatomy": "双手各自完整，未见明显异常。",
+            "textNumbers": "没有可见文字数字。",
+            "ambiguity": "相似姿势明显，但孩子是否主动模仿、是否在比较大小或练习动作不明确。"
+          },
+          "reviewer": "a",
+          "reviewedAt": "2026-09-29T16:17:21.248688+00:00",
+          "decision": "deferred",
+          "reason": "两个人做相似的手势，模仿或相同姿势比副词如此更直观；缺少能独立传达如此这一方式指代的关系。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T20:53:28.479213+00:00",
+      "reviewEvidence": {
+        "blindId": "12",
+        "primaryMeaning": "巨大的南瓜占满前景，孩子张开双臂也难以围住，旁边小南瓜形成鲜明大小对比。",
+        "alternatives": [
+          "大的",
+          "巨大",
+          "南瓜"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "大小南瓜对比直接传达大或巨大，不能单独表达程度副词 so / adv. / 如此；需要附加语言补全含义。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3",
+      "wordId": "dict:today",
+      "sourceId": "dict:today",
+      "word": "today",
+      "pos": "n.",
+      "meaning": "今天",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: today; n.; 今天.\nPrimary scene: An open blank tear-off desk calendar has one prominently visible current sheet with a simple sun pictogram; discarded sheets lie behind it and upcoming sheets stay folded behind. A person points directly to the current visible day while the same bright sun shines through the window. The focus is the present day, today, not a season. No date numerals.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-22295783-cd68-44c8-b2d4-439b931b10bc.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/today.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/today.webp",
+      "intendedSavedPath": "public/images/words/90/90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3.webp",
+      "generatedAt": "2026-09-29T20:55:43.664725+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看WebP，孩子指向画太阳的日历页，窗外同样晴天；可读晴天、日历或白天，缺少能唯一限定今天的当前时间锚点，待复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/today.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-08",
+          "primaryMeaning": "孩子正在把种子放入土中，旁边立着一页画太阳的台历，另一侧堆着撕下的纸页。",
+          "alternatives": [
+            "今天播种",
+            "白天",
+            "种植",
+            "日历或当前这一天"
+          ],
+          "confidence": 0.9,
+          "issues": {
+            "anatomy": "孩子手部与种子、泥土接触自然，未见明显异常。",
+            "textNumbers": "台历只画太阳，纸页空白，无文字数字。",
+            "ambiguity": "播种最直接；日历没有日期或明确时间参照，不能唯一确认今天、某一天或白天。"
+          },
+          "reviewer": "a",
+          "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+          "decision": "deferred",
+          "reason": "孩子播种与太阳台历清楚，但没有可辨的当前日期或相对时间锚点，无法独立把某一天或白天限定为今天。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T20:56:55.439805+00:00",
+      "reviewEvidence": {
+        "blindId": "10",
+        "primaryMeaning": "女孩指着翻页本上的太阳图，窗外也有太阳；首先传达晴天或记录天气。",
+        "alternatives": [
+          "今天晴朗",
+          "晴天",
+          "太阳",
+          "日历"
+        ],
+        "issues": [
+          "没有明确的当天时间锚点，页纸无日期格，当前日与别日无法仅凭图唯一确定。"
+        ],
+        "confidence": "medium",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "太阳图与窗外晴空首先说明晴天或记录天气；没有足够时间锚点区分今天与任何一天，today / n. / 今天 未被直观限定。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6",
+      "wordId": "dict:full",
+      "sourceId": "dict:full",
+      "word": "full",
+      "pos": "n.",
+      "meaning": "全部",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: full; n.; 全部.\nPrimary scene: A shallow wooden tray has exactly six red apples, all six enclosed together by a pair of open arms making one encompassing gesture around the entire set. No apple is excluded or cropped; the complete collection is emphasized. The target is all of the items, not a full container or an overflowing basket.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-2f093a66-2a65-4f45-9464-0cd2bd7fa061.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/full.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/full.webp",
+      "intendedSavedPath": "public/images/words/6e/6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6.webp",
+      "generatedAt": "2026-09-29T20:59:12.081418+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看WebP，双手托着一盘六只苹果，容易读成苹果、六个或一盘；没有完整集合的参照范围，全部不够直观，待复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-a.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/a/candidates/full.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "c-08",
+          "primaryMeaning": "一只完整拼好的彩色乌龟拼图放在绳圈内，一只手向它示意。",
+          "alternatives": [
+            "完整拼图",
+            "全部拼好",
+            "乌龟玩具",
+            "圈内"
+          ],
+          "confidence": "medium",
+          "issues": "无文字数字；手部自然，所有拼块合成完整形状；可能表达完整或全部，无法表示容器容量满。",
+          "reviewer": "c",
+          "reviewedAt": "2026-09-29T17:42:54.091252+00:00",
+          "decision": "deferred",
+          "reason": "完整乌龟拼图首先表达拼好、完整或玩具，围绳与手势不足以独立指明名词全部。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T21:00:04.175068+00:00",
+      "reviewEvidence": {
+        "blindId": "11",
+        "primaryMeaning": "一双手托着木盘中六个苹果，全部苹果整齐放在盘内。",
+        "alternatives": [
+          "六个苹果",
+          "苹果",
+          "提供水果",
+          "这些苹果"
+        ],
+        "issues": [
+          "可数数量清楚，但若目标为指示或数量语法词，缺少明确对比关系。"
+        ],
+        "confidence": "high",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "盘中六个苹果是可数物体集合，未展示全部与部分的区别，不能确定 full / n. / 全部；仅凭盘中所有苹果不构成充分语义线索。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "453309e63b33d3e832f9d59c71e7d4a98bfc3c68cf9a024aef4df387df90e8a4",
+      "wordId": "dict:thank",
+      "sourceId": "dict:thank",
+      "word": "thank",
+      "pos": "n.",
+      "meaning": "谢意",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: thank; n.; 谢意.\nPrimary scene: A child with one foot freshly bandaged and a fallen bicycle beside them receives a helping hand from another child. The helped child smiles with warm grateful eye contact, free hand pressed against heart and slight appreciative bow toward the helper. Keep the act of helping visibly connected to the expression of gratitude, not mere greeting.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-8468fd9c-311d-4b37-9a6b-089ed5e48239.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/thank.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/thank.webp",
+      "intendedSavedPath": "public/images/words/45/453309e63b33d3e832f9d59c71e7d4a98bfc3c68cf9a024aef4df387df90e8a4.webp",
+      "generatedAt": "2026-09-29T21:02:49.188576+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看WebP，受伤摔车的孩子接受另一人扶助，手贴胸、微笑望向帮助者，有明确帮助原因和感谢姿态，谢意较直观；仍可兼读帮助，交叉审核确认。无文字和明显多肢问题。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/thank.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-06",
+          "primaryMeaning": "一个抱着书的小女孩微微弯身、手放胸前，面向蹲下的成人微笑，像在礼貌致谢。",
+          "alternatives": [
+            "有礼貌",
+            "感谢",
+            "打招呼",
+            "师生交流"
+          ],
+          "confidence": 0.91,
+          "issues": {
+            "anatomy": "人物动作与手脚未见明显异常。",
+            "textNumbers": "书封面空白，没有可见文字数字。",
+            "ambiguity": "微微鞠躬和胸前手势支持礼貌或感谢，具体话语无法由静态画面确定。"
+          },
+          "reviewer": "a",
+          "reviewedAt": "2026-09-29T17:41:49.871656+00:00",
+          "decision": "deferred",
+          "reason": "主审复看后保留待重做：抱书、手放胸前与微微鞠躬可表示礼貌问候，帮助或感谢对象的因果未直接出现，谢意仍非明确唯一主导解读。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+          "crossReviewRecommendation": {
+            "approved": true,
+            "reason": "孩子抱着收到或归还的书、手放胸前并微微躬身微笑，成人回应，直接支持谢意这一情感表达。仍可兼读礼貌，交主审保留最终裁量。"
+          }
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T21:06:42.637546+00:00",
+      "reviewEvidence": {
+        "blindId": "13",
+        "primaryMeaning": "女孩伸手扶起自行车旁摔倒、脚踝缠绷带的男孩，男孩微笑并手按胸口；首先是帮助与受助感激。",
+        "alternatives": [
+          "帮助",
+          "感谢",
+          "扶起",
+          "摔伤"
+        ],
+        "issues": [
+          "帮助动作比具体感谢语言更醒目；仅凭微笑按胸的姿态可能无法区分。"
+        ],
+        "confidence": "medium",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "主要动作是女孩扶起摔伤男孩；男孩微笑按胸兼有感激线索，但帮助、受伤与感谢易混，thank / n. / 谢意 未达到遮住词义可直接辨认的标准。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d",
+      "wordId": "dict:june",
+      "sourceId": "dict:june",
+      "word": "June",
+      "pos": "n.",
+      "meaning": "六月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: June; n.; 六月.\nPrimary scene: A blank wall calendar made of twelve separate blank square month leaves in a single row, the sixth leaf pulled gently forward and decorated only with a bright early-summer sun and ripe cherries; first five are flipped aside and last six remain behind. Experimental representation of June, not a generic summer season; absolutely no text or digits.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-31b3c500-0536-41b4-a692-614cadd48941.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/June.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/June.webp",
+      "intendedSavedPath": "public/images/words/6a/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.webp",
+      "generatedAt": "2026-09-29T21:45:30.178928+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看WebP，无字卡片排列中一张画太阳和樱桃；需要先假设十二张代表月份再数第六，直观更像夏天或樱桃，不能清楚读出六月，待复核。",
+      "generatorReviewedAt": "2026-09-29T21:54:30.655218+00:00",
+      "reviewEvidence": {
+        "blindId": "05",
+        "primaryMeaning": "一排翻页纸中一张突出展示太阳和樱桃，首先像夏季时节的日历或夏天。",
+        "alternatives": [
+          "夏天",
+          "樱桃成熟",
+          "某个月份",
+          "日历"
+        ],
+        "issues": [
+          "无日期格、数字或月份名称，必须数纸页并假设从年初排列才能猜到月份，无法直接唯一确定。"
+        ],
+        "confidence": "low",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "太阳樱桃日历页首先传达夏季，必须数页并自行假设十二月顺序才能猜六月，June / n. / 六月 不够直观独立。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c",
+      "wordId": "dict:please",
+      "sourceId": "dict:please",
+      "word": "please",
+      "pos": "adv.",
+      "meaning": "请",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact game sense: please; adv.; 请.\nPrimary scene: A seated child politely holds an empty bowl out toward an adult with a serving spoon and food pot, a gentle hopeful smile and open palm inviting rather than grabbing. Their patient courteous posture should convey a polite request. Experimental image for please; no speech bubbles or words.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, muted natural colors, soft daylight. Center essential forms with generous blank margins, legible on a small vocabulary card.\nConstraints: no words, letters, numbers, written labels, logos, watermarks, borders or card UI. One independent image for this exact meaning. No unrelated objects; natural accurate anatomy.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeea-1102-7792-808a-c30ecc7fed87/exec-bd2f6dd3-7830-43d2-b640-c56b8431ef0f.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/root/source/please.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/please.webp",
+      "intendedSavedPath": "public/images/words/1a/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.webp",
+      "generatedAt": "2026-09-29T22:44:55.125923+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已看WebP，孩子把空碗递向盛饭的母亲，礼貌温和但首先读出要饭、盛饭或饥饿，静态动作不足独立表达请，保留待复核。",
+      "generatorReviewedAt": "2026-09-29T22:57:12.445572+00:00",
+      "reviewEvidence": {
+        "blindId": "02",
+        "primaryMeaning": "小女孩双手端空碗，向正拿勺盛汤的母亲索取食物或等候盛饭。",
+        "alternatives": [
+          "请给我一点汤",
+          "请求",
+          "盛饭",
+          "饥饿"
+        ],
+        "issues": [
+          "仅靠端碗微笑无法唯一表达具体礼貌词或语法功能。"
+        ],
+        "confidence": "medium",
+        "reviewMode": "label-hidden cross-review",
+        "reviewer": "a",
+        "decision": "deferred",
+        "reason": "女孩举碗等候盛汤可理解请求或吃饭，未明确区分礼貌副词 please / 请；需要额外语言才能限定目标义项。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    }
+  ],
+  "pending": [],
+  "reviewSummary": {
+    "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+    "generatedSenses": 15,
+    "accepted": 8,
+    "deferred": 7
+  }
+}

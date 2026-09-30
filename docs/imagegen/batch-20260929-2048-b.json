@@ -1,0 +1,760 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260929-2048-b",
+  "parentBatch": "20260929-2048",
+  "assets": [
+    {
+      "senseId": "ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d",
+      "wordId": "dict:always",
+      "sourceId": "dict:always",
+      "word": "always",
+      "pos": "adv.",
+      "meaning": "总是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: always, adv., 总是. Scene: An open physical weekly habit journal lies on a table beside a toothbrush in its cup. Its seven equal day spaces form one row, each has a tiny identical scene of the SAME red-haired child brushing their teeth beside the SAME washbasin. Every single day space has the same toothbrushing event, absolutely no missing days or exceptions. Seven small sunrise discs above the spaces indicate successive days without numerals. The whole repeated pattern is the focus, clearly one child repeating the activity every day. No writing or check marks.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-0b4e321f-ec5c-4329-a123-0fcd4e0fa810.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/always.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/always.webp",
+      "intendedSavedPath": "public/images/words/ee/ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d.webp",
+      "generatedAt": "2026-09-29T20:56:45.272368+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：翻开的习惯记录本呈七个连续日出格，同一红发儿童七格全部刷牙无例外，旁边牙刷杯，无文字数字。每天重复比此前天气安全带明确，但无日期的图册仍可能被读为刷牙习惯或每天而非总是，交叉审核需确认。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/always.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-06",
+          "primaryMeaning": "同一个孩子在晴天、雨天、雪天和夜晚坐车，四次都系安全带。",
+          "alternatives": [
+            "乘车安全",
+            "无论天气都系安全带",
+            "习惯"
+          ],
+          "confidence": 0.94,
+          "issues": [
+            "持续重复可见，但频率副词需要解释，安全带才是最直接主体。"
+          ],
+          "reviewer": "root",
+          "reviewedAt": "2026-09-29T09:31:29.527327+00:00",
+          "decision": "deferred",
+          "reason": "四个天气场景都系安全带，首先可读为乘车安全；静态重复不足以明确总是这一频率义项。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T20:57:34.264740+00:00",
+      "reviewEvidence": {
+        "blindId": "12",
+        "primaryMeaning": "连续七个早晨都刷牙，表达每天重复的行为",
+        "alternatives": [
+          "总是",
+          "每天",
+          "习惯",
+          "刷牙"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "七个相继的早晨均执行同一刷牙动作，没有例外，重复规律直接表达总是；遮词已辨认，无数字文字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/ee/ee507074c640b01dd6352292ff990b778841aa1d5b1688f95b50d9aedeba599d.webp",
+      "alt": "无文字画面：连续七个早晨都刷牙，表达每天重复的行为",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "bf9da89ffa95478f64e7749cce98902dfa584ad8f7706e914ece500245ddc74a",
+      "bytes": 53212,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "c38d4a55de691a236a73fb773f4139abd83ec3f8a6c9203dd81d9e7956a45f34",
+      "wordId": "dict:once",
+      "sourceId": "dict:once",
+      "word": "once",
+      "pos": "adv.",
+      "meaning": "一次",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: once, adv., 一次. Scene: A single connected left-to-right action sequence on warm paper: the SAME small boy taps a hanging round brass gong exactly one time with one soft mallet; beginning has mallet drawn back and silent gong, center shows the one contact and one expanding sound ring, ending shows the mallet put down on the bench and the boy folding his arms while the gong is again still. Exactly one strike over the complete start-to-finish sequence; subtle directional arrows link the three moments. No duplicate sound rings, no repetition loop, no text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-3e6a23d9-91d8-4161-ab07-3d4481a14233.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/once.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/once.webp",
+      "intendedSavedPath": "public/images/words/c3/c38d4a55de691a236a73fb773f4139abd83ec3f8a6c9203dd81d9e7956a45f34.webp",
+      "generatedAt": "2026-09-29T21:01:33.996588+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：箭头串联同一儿童举槌、敲锣、放槌抱臂停止三个时刻，无文字数字，敲击仅在中间发生。完整起止比单印章更好，仍可能被读为敲锣步骤而非一次，且中间多条声波不代表多次敲击，需交叉审核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-c.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/c/candidates/once.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "b-09",
+          "primaryMeaning": "一只手拿着蓝色星形印章从白纸上抬起，纸上留下一个蓝色星印。",
+          "alternatives": [
+            "盖章",
+            "印章",
+            "一个印记",
+            "盖了一次"
+          ],
+          "confidence": 0.98,
+          "issues": [
+            "可见单个印记，但没有完整时间过程，不能确定只执行过一次还是正在连续盖章的第一步；最直接含义仍是盖章。"
+          ],
+          "reviewer": "b",
+          "reviewedAt": "2026-09-29T18:01:41Z",
+          "decision": "deferred",
+          "reason": "纸上一个星印和抬起印章直接表现盖章及一个印记；一个结果不足以明确限定事件只发生一次，图像仍主要对应盖章，建议保持待复核。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T21:03:04.959727+00:00",
+      "reviewEvidence": {
+        "blindId": "10",
+        "primaryMeaning": "男孩先举槌、敲一下铜锣、放下槌收手，顺序表达单次敲击",
+        "alternatives": [
+          "一次",
+          "敲锣",
+          "先后过程"
+        ],
+        "issues": [
+          "同一人物出现三次，为单一动作顺序示意"
+        ],
+        "confidence": "medium",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "顺序中仅中间一帧出现唯一敲击与声波，末帧槌已放下且双臂收起，清楚说明完成单次敲击；遮词观察即读出单次，符合一次。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/c3/c38d4a55de691a236a73fb773f4139abd83ec3f8a6c9203dd81d9e7956a45f34.webp",
+      "alt": "无文字画面：男孩先举槌、敲一下铜锣、放下槌收手，顺序表达单次敲击",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "b44fcddd26122f463ae5999edddde0e32546d51145a28794dc6f279ec22aad8f",
+      "bytes": 28690,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "3ca30ac5db649418af244c52338549e465416a8d9f94c9af009abb24b4a72c53",
+      "wordId": "dict:usually",
+      "sourceId": "dict:usually",
+      "word": "usually",
+      "pos": "adv.",
+      "meaning": "通常",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: usually, adv., 通常. Scene: A physical weekly activity journal on a table, seven consecutive spaces marked only by seven sunrise discs. In six spaces the SAME red-haired child is shown walking to the SAME school with a blue backpack; in one space the same child rides a yellow bus to that same school. Make the six walking events visually dominant through their repetition, the one bus event smaller and muted. The successive day journal context must be obvious, never look like seven different children in one place. No school lettering or numerals, no captions.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-4486cda5-13e5-4525-8e79-fe10be9b175b.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/usually.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/usually.webp",
+      "intendedSavedPath": "public/images/words/3c/3ca30ac5db649418af244c52338549e465416a8d9f94c9af009abb24b4a72c53.webp",
+      "generatedAt": "2026-09-29T21:16:36.802508+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：一册日程记录七个日出格，六次同一红发儿童背蓝包步行，一次车内同一孩子，学校外形相同，无文字数字。记录本和日出提供时间线索，多数步行明确，但通常与偶尔哪个行为为焦点仍有潜在歧义，需交叉审核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/usually.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-12",
+          "primaryMeaning": "七个连续小画面中，同一个孩子六次步行去学校，一次乘校车。",
+          "alternatives": [
+            "通常步行上学",
+            "偶尔坐校车",
+            "重复的日常",
+            "上学方式对比"
+          ],
+          "confidence": 0.97,
+          "issues": {
+            "anatomy": "人物与交通工具未见明显结构错误。",
+            "textNumbers": "没有可读文字数字；学校小钟只有微小符号。",
+            "ambiguity": "六次步行与一次坐车同时表达通常和偶尔，焦点是哪一行为不唯一。"
+          },
+          "reviewer": "a",
+          "reviewedAt": "2026-09-29T18:21:20.676586+00:00",
+          "decision": "deferred",
+          "reason": "主审复看后保留待重做：七个相似上学画面虽有多数步行与一次乘车，但缺少清楚的时间锚点，也可能是多个学生或出行方式对比；频率通常仍不够确定。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases.",
+          "crossReviewRecommendation": {
+            "approved": true,
+            "reason": "七个重复上学场景中六次步行、一次乘车，明显多数行为与单次例外形成通常的频率关系；目标通常由多数步行行为直接支持。"
+          }
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T21:18:47.204467+00:00",
+      "reviewEvidence": {
+        "blindId": "13",
+        "primaryMeaning": "七个早晨六次步行、一次乘巴士，表达大多数时候步行",
+        "alternatives": [
+          "通常",
+          "经常",
+          "上学方式"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "七个相继早晨中六次步行一次坐车，以多数与例外清楚表达通常，和每次皆同不同；遮词已读出大多数时候。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/3c/3ca30ac5db649418af244c52338549e465416a8d9f94c9af009abb24b4a72c53.webp",
+      "alt": "无文字画面：七个早晨六次步行、一次乘巴士，表达大多数时候步行",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "f03f658df69f28c838a0c9aeda892a0ad7e874337fe9380f547e9350413a70a7",
+      "bytes": 48644,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "ae0004d2e4c71fd5d90c0a722c46a6d063816197a99980cb243ad255772d26c5",
+      "wordId": "dict:shop",
+      "sourceId": "dict:shop",
+      "word": "shop",
+      "pos": "n.",
+      "meaning": "商店",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: shop, n., 商店. Scene: One small friendly neighborhood general store seen in a three-quarter cutaway, showing striped awning, inviting open entrance, front display windows, orderly shelves of varied household groceries, baskets of fruit, and a shopkeeper behind a cash register serving one customer carrying a shopping basket. The little shop building and clearly stocked sales interior are the dominant subject. No cafe tables, no restaurant, no brand labels or signs.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-c3be782d-bf00-4dfb-ba4d-94fe1d3cabde.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/shop.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/shop.webp",
+      "intendedSavedPath": "public/images/words/ae/ae0004d2e4c71fd5d90c0a722c46a6d063816197a99980cb243ad255772d26c5.webp",
+      "generatedAt": "2026-09-29T21:26:22.227680+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：条纹遮棚小商店完整可见，货架、果蔬筐、收银台、店员与提篮顾客明确构成商店；商品只有色块标签无可读文字数字。画面较丰富但缩略尺寸建筑与售卖活动仍直观，建议交叉审核通过。",
+      "generatorReviewedAt": "2026-09-29T21:29:00.883608+00:00",
+      "reviewEvidence": {
+        "blindId": "03",
+        "primaryMeaning": "一间售卖食品蔬果的小商店，顾客在柜台结账",
+        "alternatives": [
+          "买东西",
+          "杂货店",
+          "商店"
+        ],
+        "issues": [
+          "罐瓶包装含微小色块；未见可辨文字，需谨慎检查是否伪字"
+        ],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "店面、陈列商品、柜台和收款店员形成典型商店空间，遮词已辨认。额外检查原PNG：瓶罐标签是色块或小果蔬图案，未见成行伪字或文字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/ae/ae0004d2e4c71fd5d90c0a722c46a6d063816197a99980cb243ad255772d26c5.webp",
+      "alt": "无文字画面：一间售卖食品蔬果的小商店，顾客在柜台结账",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "c8939e84be94620e44fae0bfd2b7df308fc9559ebb2b7f3323f715fa9469c92f",
+      "bytes": 75676,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "6685c821d11640da5f57f7844b8eec6a8c51e60338a6337a8b20f0f6719db8c0",
+      "wordId": "dict:fine",
+      "sourceId": "dict:fine",
+      "word": "fine",
+      "pos": "n.",
+      "meaning": "罚款",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: fine, n., 罚款. Scene: A traffic officer has stopped an ordinary driver who parked their car directly across a clearly marked pedestrian crossing. The regretful driver receives a blank official penalty slip and places several coins into a small official payment tray held by the officer; the slip and money are the visual focus. The obstructed zebra crossing visibly explains the rule violation. Nonaggressive everyday scene, distinguish monetary penalty from shopping or gift-giving. No text or numbers on the slip, no readable car plate, no emblems.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-4eff2484-ab4f-44e0-9400-d8eb703fe80e.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/fine.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/fine.webp",
+      "intendedSavedPath": "public/images/words/66/6685c821d11640da5f57f7844b8eec6a8c51e60338a6337a8b20f0f6719db8c0.webp",
+      "generatedAt": "2026-09-29T21:38:19.354942+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：汽车挡在人行横道上，垂头司机拿空白单据向制服警员托盘交硬币，无可读文字数字，结构无明显异常。违规、罚单、金钱共同支持罚款；现实现金给警员也可能联想到路费或不正规收费，需交叉审核场景是否足够明确。",
+      "generatorReviewedAt": "2026-09-29T21:41:50.113584+00:00",
+      "reviewEvidence": {
+        "blindId": "01",
+        "primaryMeaning": "交警对乱停车司机处罚、司机交钱缴罚款",
+        "alternatives": [
+          "交通违章",
+          "收费",
+          "交警"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "无词条观察已读为交警罚款；车辆停在人行横道、司机沮丧并交钱给交警，具体支付处罚场景直接支持名词罚款，无文字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/66/6685c821d11640da5f57f7844b8eec6a8c51e60338a6337a8b20f0f6719db8c0.webp",
+      "alt": "无文字画面：交警对乱停车司机处罚、司机交钱缴罚款",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "7c3a99b5c08c33f7968cfe82d00d3581758caca5c4836d431b149314e34ff967",
+      "bytes": 57486,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "8edb01f8aa5811d0f748c190288906c762b2ca93d752e9f51cbfa610f5bcfe53",
+      "wordId": "dict:color",
+      "sourceId": "dict:color",
+      "word": "color",
+      "pos": "n.",
+      "meaning": "颜色",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: color, n., 颜色. Scene: A close-up artists paint palette with six clean generous pools of distinctly different colors: vivid red, orange, yellow, green, blue and purple, with small matching pure brush swatches nearby. The different hues are the unmistakable focus, the palette only supports the idea of color. Minimal shapes and no painting in progress, no painter, no scenery, avoid monochrome or gradients that blur the hue differences.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-8d8d37e8-119e-43fd-8519-d7b5bf8e9e1f.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/color.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/color.webp",
+      "intendedSavedPath": "public/images/words/8e/8edb01f8aa5811d0f748c190288906c762b2ca93d752e9f51cbfa610f5bcfe53.webp",
+      "generatedAt": "2026-09-29T22:11:55.518422+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：木调色盘有红橙黄绿蓝紫六团颜料，下面对应六条色样，无文字数字。各色差异鲜明，颜色是核心可见属性，调色盘为辅助具象载体，建议交叉审核。",
+      "generatorReviewedAt": "2026-09-29T22:16:20.631232+00:00",
+      "reviewEvidence": {
+        "blindId": "05",
+        "primaryMeaning": "调色盘上与旁边的红橙黄绿蓝紫多种颜色",
+        "alternatives": [
+          "颜色",
+          "颜料",
+          "绘画"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "六种鲜明色相及独立颜料色块将颜色这一属性作为核心，遮词已辨认为多种颜色，无文字数字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/8e/8edb01f8aa5811d0f748c190288906c762b2ca93d752e9f51cbfa610f5bcfe53.webp",
+      "alt": "无文字画面：调色盘上与旁边的红橙黄绿蓝紫多种颜色",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "d23931b91c8af630207706d65f1fd4d10a151a944a06660f3e944e4acf1b2073",
+      "bytes": 57816,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "b6cf8b1c137455050b6d70c274bc469f64326d54067e2f462fae5d3952d4d018",
+      "wordId": "dict:hot",
+      "sourceId": "dict:hot",
+      "word": "hot",
+      "pos": "adj.",
+      "meaning": "热的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: hot, adj., 热的. Scene: A child outdoors on a very hot bright summer day, flushed cheeks with large sweat drops, pulling the front of their light shirt away from their chest while fanning their face. Strong blazing sun overhead and visible wavy heat shimmer rising from the pavement. Mouth open in overheated discomfort. A small shaded tree nearby reinforces outdoor heat. No flames, no fever equipment, no temperature numerals.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-559d5b1b-6b12-4dd1-8891-8d41e7bf2835.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/hot.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/hot.webp",
+      "intendedSavedPath": "public/images/words/b6/b6cf8b1c137455050b6d70c274bc469f64326d54067e2f462fae5d3952d4d018.webp",
+      "generatedAt": "2026-09-29T22:31:22.037256+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：烈日下儿童脸红出汗，拉开衣领并扇扇子，地面热浪，无文字数字，手部与动作清楚。高温和怕热反应明确支持形容词热的，建议交叉审核通过。",
+      "generatorReviewedAt": "2026-09-29T22:36:16.661321+00:00",
+      "reviewEvidence": {
+        "blindId": "14",
+        "primaryMeaning": "烈日下孩子流汗、用扇子扇风并拉开领口，天气非常热",
+        "alternatives": [
+          "热",
+          "炎热",
+          "夏天"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "烈日、汗水、扇风、拉领口与热气同时突出炎热感受，形容词热的可直接识别，无文字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/b6/b6cf8b1c137455050b6d70c274bc469f64326d54067e2f462fae5d3952d4d018.webp",
+      "alt": "无文字画面：烈日下孩子流汗、用扇子扇风并拉开领口，天气非常热",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "da4b7347b98636865a8c8f54d33a925ea6bbe0a06b813804314a8be061fc6afc",
+      "bytes": 78692,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "0911824736c6b719146ff4ebd5efeeda1edbdc9fead8c2b9ec5918fbb2f5bf88",
+      "wordId": "dict:village",
+      "sourceId": "dict:village",
+      "word": "village",
+      "pos": "n.",
+      "meaning": "村庄",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: village, n., 村庄. Scene: A compact rural village from a gentle elevated viewpoint, around eight small modest cottages grouped closely around one winding dirt lane and a tiny central square, bordered by vegetable fields and green hills. A few villagers walk between the homes. No tall buildings, no city roads, no single isolated farm; the clearly connected small settlement is the dominant subject.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-51869685-b04e-4b78-b8bb-82166e1eab59.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/village.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/village.webp",
+      "intendedSavedPath": "public/images/words/09/0911824736c6b719146ff4ebd5efeeda1edbdc9fead8c2b9ec5918fbb2f5bf88.webp",
+      "generatedAt": "2026-09-29T22:51:56.113472+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已逐张查看640px WebP：乡间多座矮房沿土路围成聚落，田地、丘陵、行人，小广场中心树，无文字数字。村庄整体清楚可读，非孤立农舍或都市，建议交叉审核通过。",
+      "generatorReviewedAt": "2026-09-29T22:56:49.393067+00:00",
+      "reviewEvidence": {
+        "blindId": "15",
+        "primaryMeaning": "乡间少量房屋围着小广场形成的村庄，周围是菜地与青山",
+        "alternatives": [
+          "村庄",
+          "乡村",
+          "小镇"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "乡间低矮少量民居围绕小广场、道路及农田，典型小村庄结构直观，遮词已辨认。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/09/0911824736c6b719146ff4ebd5efeeda1edbdc9fead8c2b9ec5918fbb2f5bf88.webp",
+      "alt": "无文字画面：乡间少量房屋围着小广场形成的村庄，周围是菜地与青山",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "b4b4a20e8de414dd8fdcc71e5a71b0061e3caae1b73f0eb4f53567387992a12b",
+      "bytes": 105734,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "63a065275b1f353d2580b215edbc60383a8675e2a6b79183dfbbdf141b64b1c7",
+      "wordId": "dict:box",
+      "sourceId": "dict:box",
+      "word": "box",
+      "pos": "n.",
+      "meaning": "盒子",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: box, n., 盒子. Scene: One ordinary small kraft cardboard storage box, fully visible in three-quarter view. Rectangular sturdy walls, clearly hollow open interior, four folded-out top flaps, crisp creases and modest shadow. Nothing inside, no package decoration, no shipping label, no ribbon; isolated recognizable box.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0efd7-eb9d-72c2-be03-6468a7b42ecc/exec-e0260622-4993-4c21-a8ef-48dbe975c8e7.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/box.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/box.webp",
+      "intendedSavedPath": "public/images/words/63/63a065275b1f353d2580b215edbc60383a8675e2a6b79183dfbbdf141b64b1c7.webp",
+      "generatedAt": "2026-09-30T01:09:37.897641+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看640px WebP：单个空纸盒四片盖翻开，长方体壁面与中空内部清楚，画面无文字数字、标签或附加物。主体盒子直接可认，建议交叉审核通过；reviewed仍为false等待独立审核。",
+      "generatorReviewedAt": "2026-09-30T01:10:33.722203+00:00",
+      "reviewEvidence": {
+        "blindId": "04",
+        "primaryMeaning": "打开的空纸箱",
+        "alternatives": [
+          "盒子",
+          "空",
+          "打开"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "完整打开纸盒，折页及箱壁清楚，盒子外形直观，无文字。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/63/63a065275b1f353d2580b215edbc60383a8675e2a6b79183dfbbdf141b64b1c7.webp",
+      "alt": "无文字画面：打开的空纸箱",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "48684c39a06b85cc81f9f10921cc1132f2fe82beb574cbe77d326dd5e3e46ff0",
+      "bytes": 26770,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "senseId": "77534cf85b5ad0dc3c5e47010d7e6e4e3493aa274f112aa69cff5da3c1b777ea",
+      "wordId": "dict:glass",
+      "sourceId": "dict:glass",
+      "word": "glass",
+      "pos": "n.",
+      "meaning": "玻璃",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: glass, n., 玻璃. Scene: One clear thick rectangular sheet of glass stands leaning slightly on a simple wooden support. Its transparent surface reveals a red apple and green leaf behind it, with a small bright reflected window glint, a subtle pale-blue edge showing the material thickness and polished corners. One matching small rounded transparent glass sample lies in front. The glass material and transparency are the central subject; no drinking vessel, no spectacles, no broken shards, no window frame.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0efd7-eb9d-72c2-be03-6468a7b42ecc/exec-4563ea70-1fe5-433f-9ef1-17431174758c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/glass.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/glass.webp",
+      "intendedSavedPath": "public/images/words/77/77534cf85b5ad0dc3c5e47010d7e6e4e3493aa274f112aa69cff5da3c1b777ea.webp",
+      "generatedAt": "2026-09-30T01:14:47.828628+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "已查看640px WebP：透明厚板立于支架，蓝色厚边和窗格反光显示玻璃质感，苹果叶片透板可见，前方玻璃小样同材质，无文字数字。玻璃材料表现清楚，苹果较醒目，需交叉审核是否抢夺主体；仍reviewed:false。",
+      "generatorReviewedAt": "2026-09-30T01:16:22.898975+00:00",
+      "reviewEvidence": {
+        "blindId": "08",
+        "primaryMeaning": "透明玻璃板，透过玻璃可看到苹果和叶子，前景有另一块玻璃",
+        "alternatives": [
+          "玻璃",
+          "透明",
+          "窗玻璃"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "accepted",
+        "reason": "玻璃板厚边、透明及反光清楚，透过它可见苹果叶子，主体是玻璃材料而非杯子，符合此名词义项。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      },
+      "savedPath": "public/images/words/77/77534cf85b5ad0dc3c5e47010d7e6e4e3493aa274f112aa69cff5da3c1b777ea.webp",
+      "alt": "无文字画面：透明玻璃板，透过玻璃可看到苹果和叶子，前景有另一块玻璃",
+      "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+      "sha256": "e7e5b069039d715ad01277939ed2212101ffec093f99e53195d409e7723f1a36",
+      "bytes": 29510,
+      "width": 640,
+      "height": 640
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1",
+      "wordId": "dict:will",
+      "sourceId": "dict:will",
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: will, v., 将. Scene: A single coherent anticipation scene: a child stands on a low diving platform, knees bent, arms reaching forward, clearly poised to jump but both feet still firmly touching the platform. The swimming pool below is empty of swimmers. A delicate curved trajectory leads forward from the child to a pale translucent imagined future silhouette of the SAME child entering the water, visually distinct from the solid present child. Emphasize the action that has yet to occur, future intention; no thought bubble, no memory scene, no unrelated objects.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-44c71069-7216-46a3-8bbb-ce54efa2af60.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/will.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/will.webp",
+      "intendedSavedPath": "public/images/words/0a/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp",
+      "generatedAt": "2026-09-29T20:53:41.204184+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看640px WebP：孩子双脚站在跳台边，虚线箭头指向浅蓝色未来入水姿态，无可见文字数字、解剖明显错误。比思想泡更能提示将要跳水，但仍可能只读为跳水动作步骤，未来时态不能唯一确定，建议交叉审核保守处理。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/b/candidates/will.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "root-02",
+          "primaryMeaning": "女孩提着篮子，想到自己与成人在草地铺野餐布。",
+          "alternatives": [
+            "计划野餐",
+            "想象",
+            "回忆野餐"
+          ],
+          "confidence": 0.97,
+          "issues": [
+            "思维泡不能独立说明过去或未来。"
+          ],
+          "reviewer": "root",
+          "reviewedAt": "2026-09-29T09:31:29.527160+00:00",
+          "decision": "deferred",
+          "reason": "思想气泡只能显示想到或想象野餐，无法排除回忆或愿望，不能直接确认将来时态。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T20:53:53.539220+00:00",
+      "reviewEvidence": {
+        "blindId": "07",
+        "primaryMeaning": "男孩从跳板向下跳水，双臂头部先入水",
+        "alternatives": [
+          "跳水",
+          "潜入",
+          "跳"
+        ],
+        "issues": [],
+        "confidence": "high",
+        "reviewer": "c",
+        "decision": "deferred",
+        "reason": "遮词首先读成跳水；箭头与半透明后续姿态只表达动作轨迹，无法区分将要发生与动作分解，不能直接表达助动义将。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+      "wordId": "dict:open",
+      "sourceId": "dict:open",
+      "word": "open",
+      "pos": "n.",
+      "meaning": "公开",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: open, n., 公开. Scene: A neighborhood public information display in a sunlit town square: an attendant has opened a previously closed wooden display case wide so a large simple picture of a planned community garden is now fully visible to a diverse gathered public. Many ordinary passersby can freely view it, nobody excluded; a rolled opaque cover is visibly lifted away from the picture. Emphasize information becoming openly accessible to everyone rather than an art gallery or private presentation. No written information, no text, no letters.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-99de98c9-a8f7-480c-a395-4164c3f5d84c.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/open.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/open.webp",
+      "intendedSavedPath": "public/images/words/49/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+      "generatedAt": "2026-09-29T21:07:58.051950+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看640px WebP：城市广场一人揭开布帘，公众围看打开木柜内的花园图，无文字数字。公开展示的受众明确，但仍像图画揭幕或展览，与名词公开精确义项不能可靠区分，建议待复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-0627-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-0627/root/candidates/open.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "a-01",
+          "primaryMeaning": "一位男子向一群观众展示一幅大型风景画，画两侧的红色幕帘已经拉开。",
+          "alternatives": [
+            "展示画作",
+            "画展介绍",
+            "揭幕或公布",
+            "欣赏绘画"
+          ],
+          "confidence": 0.97,
+          "issues": {
+            "anatomy": "未见明显人物或手部结构错误。",
+            "textNumbers": "没有可见文字数字。",
+            "ambiguity": "展示、介绍与揭幕均可成立；单幅画面无法确认幕帘此前是否关闭。"
+          },
+          "reviewer": "a",
+          "reviewedAt": "2026-09-29T16:17:21.248688+00:00",
+          "decision": "deferred",
+          "reason": "直接可读为向观众展示画作或画展介绍。公开的受众可见，但画面无法区分公开、展示、揭幕等概念；n./公开 的抽象义项仍不够独立清楚。",
+          "finalReviewedAt": "2026-09-29T19:03:40.394917+00:00",
+          "method": "Generator individually inspected saved WebP. A different reviewer viewed numbered single images without word labels, recorded observations before reading mapping, then compared exact English/POS/Chinese sense. Prior assignment context and progress messages were available, so this is label-hidden cross-review, not fully context-naive. Root evaluated all decisions and reinspected ambiguous/precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-29T21:09:31.179445+00:00",
+      "reviewEvidence": {
+        "blindId": "11",
+        "primaryMeaning": "一人拉开布帘向一群居民公开展示花园图",
+        "alternatives": [
+          "揭幕",
+          "展示",
+          "宣布规划",
+          "社区集会"
+        ],
+        "issues": [
+          "明确是公开揭示画面，但无法仅凭图像得知是否一般宣布或仅展示"
+        ],
+        "confidence": "medium",
+        "reviewer": "c",
+        "decision": "deferred",
+        "reason": "遮词可见向公众揭幕展示图画，但更直接表达揭示或展示的动作；open标为n.公开，词性义项关系需确认，画面不能直接落实该名词义项。保持待复核。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097",
+      "wordId": "dict:april",
+      "sourceId": "dict:april",
+      "word": "April",
+      "pos": "n.",
+      "meaning": "四月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: April, n., 四月. Scene: A small upright annual month-calendar stand with exactly twelve plain small leaf tabs arranged in one horizontal row, with the FOURTH tab opened and highlighted coral while the first three are folded back and the later eight are muted. Below the active fourth month leaf is a delicate springtime scene of fresh green shoots, cherry blossom, light rain droplets and a small umbrella. Clearly a month page within the cycle of a full year. No letters, words, numbers, numerals, written month names or day numerals anywhere; no holidays or religion.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-cc71c518-4dba-47f4-b32f-ee10d357168b.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/April.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/April.webp",
+      "intendedSavedPath": "public/images/words/4b/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.webp",
+      "generatedAt": "2026-09-29T21:55:12.135164+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看640px WebP：台历第四标签珊瑚色，下方春花、雨和伞，无文字数字。但可见标签总数约14而非要求12，且没有日期文字无法区分春天、雨天和四月，不能唯一传达四月。建议拒绝并保留待复核，不能计入完成。",
+      "generatorReviewedAt": "2026-09-29T21:59:27.370202+00:00",
+      "reviewEvidence": {
+        "blindId": "06",
+        "primaryMeaning": "台历式装置上的春花、春雨与雨伞，可能表示春天某月",
+        "alternatives": [
+          "春季",
+          "四月",
+          "雨季",
+          "日历"
+        ],
+        "issues": [
+          "没有数字文字，只有顶部某张红色空白页签；不能唯一识别具体月份"
+        ],
+        "confidence": "low",
+        "reviewer": "c",
+        "decision": "deferred",
+        "reason": "春花春雨只能说明春季，顶部空白页签总数及序位也不能可靠表示一年十二月的第四月；不能只看图识别四月。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+      "wordId": "dict:nice",
+      "sourceId": "dict:nice",
+      "word": "nice",
+      "pos": "adj.",
+      "meaning": "美好的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: nice, adj., 美好的. Scene: A peaceful and pleasant afternoon picnic in a beautiful small meadow beside a gently rippling pond. Two smiling friends comfortably relax on a soft picnic blanket with a small basket, fresh blossoms nearby, soft sunshine and a butterfly. The scene feels warmly enjoyable, lovely and welcoming, all visual details serve the pleasant quality. No celebration, gift exchange or dramatic scenery; no written symbols.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-50f17dd9-799d-4cf3-9243-020a0995cde5.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/nice.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/nice.webp",
+      "intendedSavedPath": "public/images/words/d0/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+      "generatedAt": "2026-09-29T23:13:46.711079+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看640px WebP：湖畔野花草地两位朋友微笑野餐，阳光舒适、蝴蝶，气氛美好，无文字数字或明显结构问题。最直接读为野餐、朋友或开心，形容词美好的范围较泛，需交叉审核，不能因画面漂亮就自动通过。",
+      "generatorReviewedAt": "2026-09-29T23:19:33.847998+00:00",
+      "reviewEvidence": {
+        "blindId": "09",
+        "primaryMeaning": "两个人在阳光下湖边草地野餐，神情轻松愉快",
+        "alternatives": [
+          "愉快",
+          "野餐",
+          "休息",
+          "朋友",
+          "春天"
+        ],
+        "issues": [
+          "具体野餐场景清楚，但抽象形容词之间区分度不足"
+        ],
+        "confidence": "medium",
+        "reviewer": "c",
+        "decision": "deferred",
+        "reason": "遮词只能读成湖边野餐与愉快休息，虽氛围美好但对美好的这一广义形容词缺乏明确视觉焦点，容易误认野餐、开心、朋友；按语义不确定保留复核。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    },
+    {
+      "senseId": "97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c",
+      "wordId": "dict:answer",
+      "sourceId": "dict:answer",
+      "word": "answer",
+      "pos": "n.",
+      "meaning": "答案",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary learning illustration. Exact target: answer, n., 答案. Scene: A child at a table has solved a simple picture-based missing-piece puzzle. The board displays a row of clear alternating red circles and blue triangles ending in one empty triangle-shaped slot. The child holds the one correct blue triangular piece directly above that slot with a satisfied expression. A few visibly wrong green square and yellow star alternatives remain aside. Focus on the correct solution piece that completes the problem. No letters, numbers, question mark, checkmark or written explanation.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper; clear central composition within middle 80 percent with generous blank margins, soft natural lighting. Prioritize instantly readable target meaning at small card size. Constraints: no text, no letters, no numerals, no logos, no watermarks, no decorative borders or card UI, no unrelated decorative elements. Create a single independent image only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0eeee-0baf-7e33-a39e-4bcef7e6ee08/exec-27670119-88af-4532-8d2d-2da1e73840b1.png",
+      "originalLocalPath": "output/imagegen/batch-20260929-2048/b/source/answer.png",
+      "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/answer.webp",
+      "intendedSavedPath": "public/images/words/97/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp",
+      "generatedAt": "2026-09-29T23:43:52.530444+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐张查看640px WebP：儿童选出蓝三角补到红圆蓝三角交替序列末端，错误方块与星形放旁边，无文字数字或解剖问题。正确解法能从形状关系看见，但首先可读为拼图/匹配，答案的名词抽象义项仍需交叉审核。",
+      "generatorReviewedAt": "2026-09-29T23:50:38.365789+00:00",
+      "reviewEvidence": {
+        "blindId": "02",
+        "primaryMeaning": "女孩完成红圆与蓝三角交替的形状配对或规律拼板",
+        "alternatives": [
+          "聪明",
+          "学习",
+          "图形",
+          "选择合适积木"
+        ],
+        "issues": [
+          "泛指认知活动；准确抽象词需对照义项"
+        ],
+        "confidence": "medium",
+        "reviewer": "c",
+        "decision": "deferred",
+        "reason": "遮词时只能读成图形匹配或补规律；女孩拿三角块对准同形凹槽，未足够突出答案这一名词概念，易当形状、聪明或拼图。需重做或保留复核，不能因包含解决过程而通过。",
+        "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+        "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+      }
+    }
+  ],
+  "pending": [],
+  "reviewSummary": {
+    "reviewedAt": "2026-09-30T06:03:29.073606+00:00",
+    "generatedSenses": 15,
+    "accepted": 10,
+    "deferred": 5
+  }
+}
