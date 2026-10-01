@@ -1,0 +1,711 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260930-1146-b",
+  "parentBatch": "20260930-1146",
+  "assets": [
+    {
+      "senseId": "cd262d6652e959eb5130bc9ce07ffd83ab9d60936acba298ce5e06a31d0edebd",
+      "wordId": "dict:blue",
+      "sourceId": "dict:blue",
+      "word": "blue",
+      "pos": "n.",
+      "meaning": "蓝色",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"blue\", \"pos\": \"n.\", \"meaning\": \"蓝色\"}.\nPrimary request: The color blue itself: a rich unmistakable medium-blue painterly swatch takes up most of the central area, with visible wet blue gouache pigment and a small daub of the same pure blue paint at its edge. A paintbrush with a blue-loaded tip sits diagonally just off the swatch, secondary and small. Warm off-white paper visible all around. No other paint colors, no objects to distract into sky, sea, or clothing. The blue pigment and hue are the central noun.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-956ae789-bb42-420d-a4e9-79f4d0492ce2.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/blue.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/blue.webp",
+      "intendedSavedPath": "public/images/words/cd/cd262d6652e959eb5130bc9ce07ffd83ab9d60936acba298ce5e06a31d0edebd.webp",
+      "generatedAt": "2026-09-30T12:52:22.338473+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "大面积纯正蓝色颜料笔触和同色画笔。遮词即可读出蓝色，无文字或其他竞争色。",
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "pass_recommended",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "12",
+          "senseId": "cd262d6652e959eb5130bc9ce07ffd83ab9d60936acba298ce5e06a31d0edebd",
+          "word": "blue",
+          "accepted": true,
+          "reason": "大面积纯蓝颜料笔触直接使遮词观察为蓝色，符合blue n.蓝色，画笔仅辅助颜色呈现，无文字。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/cd/cd262d6652e959eb5130bc9ce07ffd83ab9d60936acba298ce5e06a31d0edebd.webp",
+      "alt": "占据画面主体的蓝色颜料"
+    },
+    {
+      "senseId": "98aa5fdd198051d84b5362df07751380335d45d3eedea78599035c6e20b32621",
+      "wordId": "dict:dark",
+      "sourceId": "dict:dark",
+      "word": "dark",
+      "pos": "n.",
+      "meaning": "黑暗",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"dark\", \"pos\": \"n.\", \"meaning\": \"黑暗\"}.\nPrimary request: A small ordinary bedroom almost entirely enveloped in deep navy-black darkness, with a barely visible bed, chair and quiet human silhouette. A door at far right is opened only a crack; a very narrow warm pale sliver of light falls onto the threshold and reveals just a small strip of the floor. Almost all of the room remains unlit. Focus on the surrounding darkness as an environment, with enough shapes to establish absence of light. No lamps, stars, moon, sleep symbols or scary objects. A warm off-white paper margin encloses the scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-19507789-0d65-4e0d-af2f-11c68f31e8c9.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/dark.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/dark.webp",
+      "intendedSavedPath": "public/images/words/98/98aa5fdd198051d84b5362df07751380335d45d3eedea78599035c6e20b32621.webp",
+      "generatedAt": "2026-09-30T13:20:58.984233+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "房间几乎全黑，仅门缝细光使暗室轮廓可见。遮词直观呈现黑暗，属于无光环境而非黑色物体。",
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "pass_recommended",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "01",
+          "senseId": "98aa5fdd198051d84b5362df07751380335d45d3eedea78599035c6e20b32621",
+          "word": "dark",
+          "accepted": true,
+          "reason": "遮词第一眼即为漆黑房间及仅有门缝亮光，黑暗状态是主体，符合dark n.黑暗；非仅夜景装饰，无文字。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/98/98aa5fdd198051d84b5362df07751380335d45d3eedea78599035c6e20b32621.webp",
+      "alt": "光线昏暗的房间里，家具只剩朦胧轮廓"
+    },
+    {
+      "senseId": "225acd9cb3bf563e776fe260c685738006511893f891f4f91228ef49b69be75b",
+      "wordId": "dict:sorry",
+      "sourceId": "dict:sorry",
+      "word": "sorry",
+      "pos": "adj.",
+      "meaning": "难过的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"sorry\", \"pos\": \"adj.\", \"meaning\": \"难过的\"}.\nPrimary request: A young child seated alone on a simple stool, feeling sad and downhearted: head lowered, shoulders slumped, eyebrows lifted at the inner corners, downturned mouth, one natural tear on the cheek, hands hanging loosely on lap. No pleading or apology gesture. A small broken toy sailboat rests nearby on the floor as gentle context for the sadness. Focus is the emotional face and posture, not guilt or saying sorry. No other people, no speech bubble.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-393d1723-cec8-4b49-a62b-185b9457a04e.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/sorry.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/sorry.webp",
+      "intendedSavedPath": "public/images/words/22/225acd9cb3bf563e776fe260c685738006511893f891f4f91228ef49b69be75b.webp",
+      "generatedAt": "2026-10-01T05:35:00.618314+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "男孩低头垂肩、嘴角下弯且流泪，旁边玩具船破损；遮词直观是难过情绪，无道歉姿势或文字。",
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "pass_recommended",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "10",
+          "senseId": "225acd9cb3bf563e776fe260c685738006511893f891f4f91228ef49b69be75b",
+          "word": "sorry",
+          "accepted": true,
+          "reason": "遮词即读为玩具坏掉后的悲伤、难过，垂头、流泪与嘴角下垂一致，符合sorry adj.难过的，无文字。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/22/225acd9cb3bf563e776fe260c685738006511893f891f4f91228ef49b69be75b.webp",
+      "alt": "孩子低着头，神情难过"
+    },
+    {
+      "senseId": "41befdda017bcbaef6fc21bb6445b980d93dcae69d3e0a86356288df29f0f34c",
+      "wordId": "dict:stone",
+      "sourceId": "dict:stone",
+      "word": "stone",
+      "pos": "n.",
+      "meaning": "石头",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"stone\", \"pos\": \"n.\", \"meaning\": \"石头\"}.\nPrimary request: One ordinary natural stone, about fist size, isolated on warm off-white paper. It is irregular, rounded but angular in a few places, gray with subtle brown mineral flecks, tiny fissures and a rough weathered matte texture. Three-quarter view clearly showing solid rocky volume, with a soft short cast shadow. No crystals, gemstone facets, cut bricks, tools, piles, plants, or decorative face. The stone itself is the sole large subject.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-c76ba554-9a9a-4ff5-8a95-227c50b15e17.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/stone.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/stone.webp",
+      "intendedSavedPath": "public/images/words/41/41befdda017bcbaef6fc21bb6445b980d93dcae69d3e0a86356288df29f0f34c.webp",
+      "generatedAt": "2026-10-01T05:40:26.188359+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "单块天然灰褐色石头，粗糙矿物纹理、裂隙和不规则圆钝外形清楚；没有宝石或砖块特征，遮词直接对应石头。",
+      "generatorDecision": "pass_recommended",
+      "generatorReviewedAt": "2026-10-01T05:40:26.265179+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "06",
+          "senseId": "41befdda017bcbaef6fc21bb6445b980d93dcae69d3e0a86356288df29f0f34c",
+          "word": "stone",
+          "accepted": true,
+          "reason": "遮词第一眼明确是独立粗糙石头，典型外形、矿物纹理和裂缝直接支持stone n.石头，无文字或明显瑕疵。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/41/41befdda017bcbaef6fc21bb6445b980d93dcae69d3e0a86356288df29f0f34c.webp",
+      "alt": "一块有天然纹理、轮廓不规则的石头"
+    },
+    {
+      "senseId": "37205db1393148ff951d738f592f48332d9f05c01765105a15957e57083e68af",
+      "wordId": "dict:radio",
+      "sourceId": "dict:radio",
+      "word": "radio",
+      "pos": "n.",
+      "meaning": "无线电",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"radio\", \"pos\": \"n.\", \"meaning\": \"无线电\"}.\nPrimary request: A clear educational illustration of wireless radio transmission: on the left one simple radio transmitting mast with an antenna, on the right a portable analog radio receiver with a speaker grille, tuning knob, handle and extended telescopic antenna. Three broad faint curved radio-wave arcs travel through open air from the transmitter toward the receiver, and two small sound-wave curves emerge from the receiver speaker. Absolutely no cable between the devices; no phone, computer, satellite or Wi-Fi logo. Blank tuning face with no lettering or numerals. The receiver is prominent and recognizable, making radio wireless broadcasting concrete.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-cf2a07b1-b510-483e-b89b-85c70bab91b3.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/radio.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/radio.webp",
+      "intendedSavedPath": "public/images/words/37/37205db1393148ff951d738f592f48332d9f05c01765105a15957e57083e68af.webp",
+      "generatedAt": "2026-10-01T05:43:01.875919+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "发射塔经空中弧形无线电波连接到带伸缩天线、扬声器和调谐旋钮的收音机，接收后发声，未画有线连接；遮词能够辨识无线电广播。",
+      "generatorDecision": "pass_recommended",
+      "generatorReviewedAt": "2026-10-01T05:43:01.950467+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "07",
+          "senseId": "37205db1393148ff951d738f592f48332d9f05c01765105a15957e57083e68af",
+          "word": "radio",
+          "accepted": true,
+          "reason": "发射塔的电波传向天线收音机且喇叭发声，遮词观察包含无线电；画面表达完整无线传播与接收，符合radio n.无线电，无文字。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/37/37205db1393148ff951d738f592f48332d9f05c01765105a15957e57083e68af.webp",
+      "alt": "发射塔通过无线电波向带天线的收音机广播"
+    },
+    {
+      "senseId": "b2731ecc6a25329ae84ab8b114337c4ae98b61f624eea5cbf0aa7265cc7390a0",
+      "wordId": "dict:chair",
+      "sourceId": "dict:chair",
+      "word": "chair",
+      "pos": "n.",
+      "meaning": "椅子",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"chair\", \"pos\": \"n.\", \"meaning\": \"椅子\"}.\nPrimary request: One typical wooden dining chair as the sole subject, full view from a gentle three-quarter front angle. Four visible stable legs, a flat seat, and a tall simple backrest with three vertical slats. Natural warm honey-colored wood, soft short shadow on off-white paper. No cushion, desk, person, armrests, wheels, sofa or stool. Clearly recognizable chair shape even as a small thumbnail.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-dc61b957-c68e-4c08-8801-fe86feb6cc82.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/chair.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/chair.webp",
+      "intendedSavedPath": "public/images/words/b2/b2731ecc6a25329ae84ab8b114337c4ae98b61f624eea5cbf0aa7265cc7390a0.webp",
+      "generatedAt": "2026-10-01T05:46:42.178626+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "四条腿、椅座与有竖条的椅背构成典型木椅，完整轮廓明确，无其他家具，遮词直接识别椅子。",
+      "generatorDecision": "pass_recommended",
+      "generatorReviewedAt": "2026-10-01T05:46:42.251133+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "14",
+          "senseId": "b2731ecc6a25329ae84ab8b114337c4ae98b61f624eea5cbf0aa7265cc7390a0",
+          "word": "chair",
+          "accepted": true,
+          "reason": "遮词第一眼明确为椅子，靠背、座面、四腿完整且结构合理，符合chair n.椅子，无文字。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/b2/b2731ecc6a25329ae84ab8b114337c4ae98b61f624eea5cbf0aa7265cc7390a0.webp",
+      "alt": "一把有靠背和四条腿的椅子"
+    },
+    {
+      "senseId": "1ed5fb22b450123fed87c17c31d73043a4d311147b910100b5e6dea9c9bd0923",
+      "wordId": "dict:inside",
+      "sourceId": "dict:inside",
+      "word": "inside",
+      "pos": "n.",
+      "meaning": "内部",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"inside\", \"pos\": \"n.\", \"meaning\": \"内部\"}.\nPrimary request: One opened small wooden chest viewed from above and slightly in front, with its lid hinged back. The INSIDE space of the chest is the focus: all four interior walls and interior floor clearly visible, warmly illuminated pale gold, while the exterior is muted brown. A small red ball rests entirely within the chest at the bottom, clearly enclosed by all four walls. No ball outside, no arrows, labels, glass transparency, or abstract cutaway. Frame so the inner cavity fills most of the picture; show interior as the noun rather than the opening action.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-647a4986-28a7-48cc-a52a-1fd345e033a0.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/inside.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/inside.webp",
+      "intendedSavedPath": "public/images/words/1e/1ed5fb22b450123fed87c17c31d73043a4d311147b910100b5e6dea9c9bd0923.webp",
+      "generatedAt": "2026-10-01T05:51:53.000261+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "开盖木箱内壁和底部完整可见，红球完全在箱内。但遮词首读可能只是打开的箱子或箱内的球，内部作为名词区域并未被充分独立强调，建议保留复核。",
+      "generatorDecision": "hold",
+      "generatorReviewedAt": "2026-10-01T05:51:53.088032+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "15",
+          "senseId": "1ed5fb22b450123fed87c17c31d73043a4d311147b910100b5e6dea9c9bd0923",
+          "word": "inside",
+          "accepted": true,
+          "reason": "遮词观察已指出球在箱子里面，箱壁与底部构成清楚的内部空间，焦点落在被围合的内部，符合inside n.内部，无文字。",
+          "finalAdjudication": "主智能体复看：箱子的四周围壁与底面露出、内部明亮且球位于其间，空间内部可直观理解；接受。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/1e/1ed5fb22b450123fed87c17c31d73043a4d311147b910100b5e6dea9c9bd0923.webp",
+      "alt": "敞开的箱子内部放着一个球"
+    },
+    {
+      "senseId": "021bbd3a2ba7f5290e853177b2521658ab4e0617c7f9d680d2b6c81c332a7b31",
+      "wordId": "dict:fifty",
+      "sourceId": "dict:fifty",
+      "word": "fifty",
+      "pos": "num.",
+      "meaning": "五十",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"fifty\", \"pos\": \"num.\", \"meaning\": \"五十\"}.\nPrimary request: Exactly fifty small blue beads organized as a classic learning counting frame: five straight horizontal parallel rods, exactly ten separate round blue beads on EACH rod. Every bead fully visible with small equal gaps; all rods carry exactly ten beads and no other beads exist. Thin simple wooden rectangular frame. Front view perpendicular to frame for effortless counting; no perspective overlaps. No numerals, letters, symbols or written labels. This must show fifty individual objects, not a written number. Clean warm white background.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-0ea722e0-68c8-46e5-9d0f-2cd1ebfa9604.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/fifty.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/fifty.webp",
+      "intendedSavedPath": "public/images/words/02/021bbd3a2ba7f5290e853177b2521658ab4e0617c7f9d680d2b6c81c332a7b31.webp",
+      "generatedAt": "2026-10-01T06:22:19.920244+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "正视计数框，逐排核对五排均为十颗蓝色圆珠，共五十颗，没有其他圆珠或数字。各珠分离可数，数量义项准确，建议通过。",
+      "generatorDecision": "pass_recommended",
+      "generatorReviewedAt": "2026-10-01T06:22:19.993086+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "11",
+          "senseId": "021bbd3a2ba7f5290e853177b2521658ab4e0617c7f9d680d2b6c81c332a7b31",
+          "word": "fifty",
+          "accepted": true,
+          "reason": "遮词观察已数清五排各十颗算珠共五十颗，具体数量可直接由图确认，无需额外月份等语义假设；符合fifty num.五十，无文字数字。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/02/021bbd3a2ba7f5290e853177b2521658ab4e0617c7f9d680d2b6c81c332a7b31.webp",
+      "alt": "五行蓝色圆珠，每行十颗，共五十颗"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1",
+      "wordId": "dict:will",
+      "sourceId": "dict:will",
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"will\", \"pos\": \"v.\", \"meaning\": \"将\"}.\nPrimary request: A child is seated at a table NOW with a closed lunchbox and hands resting still. Above the child is one large clearly cloud-shaped anticipation thought bubble depicting the exact same child opening the same lunchbox and beginning lunch. The actual child is visibly poised and ready, but the action has not started; the imagined scene is softly translucent. The focus is an action that will happen shortly, not wishing for a prize or recalling a past event. A simple window shows the same bright daylight in both reality and bubble. No arrows or repeated action trails. This is an attempt to visualize future auxiliary meaning; preserve uncertainty if the meaning cannot be inferred.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-48cefa2a-9564-44ae-8c94-b0d0546cc072.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/will.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/will.webp",
+      "intendedSavedPath": "public/images/words/0a/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp",
+      "generatedAt": "2026-09-30T11:53:43.353412+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "男孩面对未开的饭盒，泡泡中想象自己吃饭。遮词读为期待午餐、想吃饭；不能排除想象或愿望，尚未清楚表达将要发生。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/will.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "07",
+          "primaryMeaning": "男孩从跳板向下跳水，双臂头部先入水",
+          "alternatives": [
+            "跳水",
+            "潜入",
+            "跳"
+          ],
+          "issues": [],
+          "confidence": "high",
+          "reviewer": "c",
+          "decision": "deferred",
+          "reason": "遮词首先读成跳水；箭头与半透明后续姿态只表达动作轨迹，无法区分将要发生与动作分解，不能直接表达助动义将。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "hold",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "09",
+          "senseId": "0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1",
+          "word": "will",
+          "accepted": false,
+          "reason": "遮词读为想吃饭或期待，思想泡不能区分愿望、想象和未来事件，未准确支持will v.将。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词读为想吃饭或期待，思想泡不能区分愿望、想象和未来事件，未准确支持will v.将。"
+    },
+    {
+      "senseId": "4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace",
+      "wordId": "dict:quite",
+      "sourceId": "dict:quite",
+      "word": "quite",
+      "pos": "adv.",
+      "meaning": "相当",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"quite\", \"pos\": \"adv.\", \"meaning\": \"相当\"}.\nPrimary request: A child compares the heights of three healthy young sunflowers rooted in identical pots side by side: a small short sunflower, a moderately tall sunflower taller than the child, and an exceptionally gigantic sunflower reaching nearly out of frame. Only the moderately tall middle sunflower is fully colored and visually emphasized; outer examples are pale. Child looks impressed, neither shocked nor strained, at the middle plant. The plant is fairly tall, a notable degree but not the extreme. No scales or labels. The visual point is moderate-to-considerable degree, not flower identity.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-56194dfc-176a-4da1-a99d-2db7d8016279.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/quite.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/quite.webp",
+      "intendedSavedPath": "public/images/words/4f/4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace.webp",
+      "generatedAt": "2026-09-30T11:56:47.106250+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "女孩望着三盆不同高度的向日葵，中间花盆显色。遮词优先读为高、长大、比较高度；相当的程度无法明确界定。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-c.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/c/candidates/quite.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "07",
+          "primaryMeaning": "孩子费力提起中等行李箱，旁边另有一大一小两个箱子。",
+          "alternatives": [
+            "很重",
+            "提行李",
+            "费力",
+            "中等大小"
+          ],
+          "issues": "汗滴和使劲表情支持重，但旁边箱子的重量不可见，无法确定比较程度。",
+          "confidence": 0.95,
+          "reviewer": "root",
+          "decision": "deferred",
+          "reason": "大小箱子和孩子提重物表示重或费力，箱子大小不是重量参照，无法明确程度副词相当。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "hold",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "03",
+          "senseId": "4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace",
+          "word": "quite",
+          "accepted": false,
+          "reason": "遮词观察为向日葵成长或高矮对比，无法辨出程度副词quite adv.相当，且中央并非最高，无明确程度标尺。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词观察为向日葵成长或高矮对比，无法辨出程度副词quite adv.相当，且中央并非最高，无明确程度标尺。"
+    },
+    {
+      "senseId": "00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1",
+      "wordId": "dict:others",
+      "sourceId": "dict:others",
+      "word": "others",
+      "pos": "pron.",
+      "meaning": "其他人",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"others\", \"pos\": \"pron.\", \"meaning\": \"其他人\"}.\nPrimary request: A school group engaged in a distribution activity. One child in the near foreground has already received a plain orange and is visually separated by a small gap. All the remaining four children together are receiving oranges from the teacher, whose open hand presents that remainder group. Visually focus on those remaining people besides the first child: softly mute the first child and color the remaining group clearly. Do not put any text, speech balloons or circles around anyone. The target is the other people relative to the singled-out first child, not friends or family.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-7acd606b-ee3f-40fd-9713-8874467050dc.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/others.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/others.webp",
+      "intendedSavedPath": "public/images/words/00/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.webp",
+      "generatedAt": "2026-09-30T12:00:51.898442+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "前景已拿橙子的孩子淡化，教师向其他孩子发橙子。可支持其他人但首读是分发或分享；没有足够指代线索，保留待独立审核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-a.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/a/candidates/others.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "11",
+          "primaryMeaning": "男孩指着自己并向一群孩子伸手介绍",
+          "alternatives": [
+            "朋友",
+            "介绍",
+            "他们",
+            "我们",
+            "大家"
+          ],
+          "issues": "群体有圈线，男孩在圈外；无法确定语法指代对象和说话关系。",
+          "confidence": "medium",
+          "reviewer": "b",
+          "decision": "deferred",
+          "reason": "男孩向一群儿童伸手的画面容易读为朋友、介绍、他们或大家；圈线无法充分界定其他人相对谁，others pron.其他人未直观区分。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "hold",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "02",
+          "senseId": "00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1",
+          "word": "others",
+          "accepted": false,
+          "reason": "遮词首义是老师分发橘子和学生排队，未能独立读出相对于某人的其他人。淡色男孩不足以确立others pron.其他人的指代关系。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词首义是老师分发橘子和学生排队，未能独立读出相对于某人的其他人。淡色男孩不足以确立others pron.其他人的指代关系。"
+    },
+    {
+      "senseId": "67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb",
+      "wordId": "dict:yesterday",
+      "sourceId": "dict:yesterday",
+      "word": "yesterday",
+      "pos": "n.",
+      "meaning": "昨天",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"yesterday\", \"pos\": \"n.\", \"meaning\": \"昨天\"}.\nPrimary request: A simple tear-off daily calendar without printed numerals or letters sits on a breakfast table. One detached old leaf lies prominently directly in front of the calendar; its face shows a tiny sunlit everyday park outing. The calendar current top leaf shows the same child eating breakfast, physically mirrored by the real child at the table. Between the detached former day and current day is a single small nighttime moon vignette, creating a clear one-night transition. The detached previous leaf is highlighted with stronger saturation, while current breakfast is pale. No birthdays, no future thought bubble; the aim is the immediately previous day, and no other day.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-c02951d0-6509-4ac0-9524-4680ed2fa964.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/yesterday.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/yesterday.webp",
+      "intendedSavedPath": "public/images/words/67/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp",
+      "generatedAt": "2026-09-30T12:07:44.175034+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "女孩吃早饭，翻下来的页面显示户外玩耍，月亮箭头暗示隔夜。缺少明确当前日与前一日基准，遮词也可读为日程或回忆。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-a.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/a/candidates/yesterday.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "13",
+          "primaryMeaning": "吃早饭的女孩想着一次生日野餐，思考泡泡还有月亮和黑夜",
+          "alternatives": [
+            "回忆生日",
+            "期待生日",
+            "白日梦",
+            "昨天"
+          ],
+          "issues": "日历为空白且没有日期参照，过去或未来、哪一天均不明确。",
+          "confidence": "medium",
+          "reviewer": "b",
+          "decision": "deferred",
+          "reason": "女孩想象生日野餐的泡泡可为回忆、期待或白日梦；月亮和无字日历不能确证仅隔一日，因此不满足yesterday n.昨天。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "hold",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "13",
+          "senseId": "67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb",
+          "word": "yesterday",
+          "accepted": false,
+          "reason": "遮词只理解两天之间过了一夜，页与现实以及箭头的时间方向不清；无法唯一识别yesterday n.昨天，容易读为次日或明天。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词只理解两天之间过了一夜，页与现实以及箭头的时间方向不清；无法唯一识别yesterday n.昨天，容易读为次日或明天。"
+    },
+    {
+      "senseId": "e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f",
+      "wordId": "dict:march",
+      "sourceId": "dict:march",
+      "word": "march",
+      "pos": "n.",
+      "meaning": "三月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"march\", \"pos\": \"n.\", \"meaning\": \"三月\"}.\nPrimary request: A single illustrated annual calendar ribbon curves gently across a warm white background, with exactly twelve connected blank month leaves all visible. No grids or numerals or writing. The first two month leaves are muted blue winter snow, then the third leaf alone is richly colored with early spring shoots and plum blossoms; next two show spring greenery, next three summer, next three autumn, final one snow. Highlight the third leaf as the target March month. No extra leaves. This is an attempted text-free depiction of the third calendar month; do not add words to solve it.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-166e-7841-9a85-f35e82ff715a/exec-e9323907-7e38-4880-ac8d-fad82ff7fd43.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/march.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/march.webp",
+      "intendedSavedPath": "public/images/words/e1/e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f.webp",
+      "generatedAt": "2026-09-30T12:24:19.635001+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "十二个季节画面中第三个开花画面被突出。须先假定一月起排再数页，遮词首读为春天，不能直观唯一确认三月。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-a.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/a/candidates/march.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "05",
+          "primaryMeaning": "一排挂历页由冬季积雪过渡到春花，突出第三张",
+          "alternatives": [
+            "早春",
+            "月份",
+            "日历",
+            "季节变化"
+          ],
+          "issues": "无月份名称或数字，无法仅看图准确识别具体月份；页数也不易确认。",
+          "confidence": "medium",
+          "reviewer": "b",
+          "decision": "deferred",
+          "reason": "突出第三张春花日历页只说明季节转暖或早春，需先数页并假定一月起排才能解释三月；遮住词条后无法直观区分具体月份。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-10-01T05:38:38.599334+00:00",
+      "generatorDecision": "hold",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "05",
+          "senseId": "e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f",
+          "word": "march",
+          "accepted": false,
+          "reason": "遮词读为春天或四季折页，必须先假定每页代表一个月并计数第三页才能推导三月；march n.三月未直观成立。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词读为春天或四季折页，必须先假定每页代表一个月并计数第三页才能推导三月；march n.三月未直观成立。"
+    },
+    {
+      "senseId": "dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182",
+      "wordId": "dict:sunday",
+      "sourceId": "dict:sunday",
+      "word": "Sunday",
+      "pos": "n.",
+      "meaning": "星期日",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"Sunday\", \"pos\": \"n.\", \"meaning\": \"星期日\"}.\nPrimary request: A text-free seven-day weekly calendar strip with exactly seven connected equal leaves in a horizontal row, every leaf clearly separate. First five show a tiny simple schoolhouse, the sixth shows family gardening, and the seventh final leaf shows family resting on a picnic blanket beneath a sunny tree. All first six leaves are muted, and the seventh leaf is richly colored and slightly larger. No letters, numerals, written weekday names or dates anywhere. One continuous weekly calendar object, not a collage of unrelated vocabulary images. Attempt to depict Sunday as the final rest day of a Monday-first week; do not falsely imply the convention is universal.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-10d4e72c-353d-4f71-966f-491d6d057b07.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/Sunday.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/Sunday.webp",
+      "intendedSavedPath": "public/images/words/df/dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182.webp",
+      "generatedAt": "2026-10-01T06:04:47.050825+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "连续七页中前五页为学校，第六页园艺，第七页野餐被突出。虽然七天与周末逻辑可辨，但星期日仍依赖周一起算和工作日惯例；遮词首读为周末或休息，未唯一确认星期日，保留复核。",
+      "generatorDecision": "hold",
+      "generatorReviewedAt": "2026-10-01T06:04:47.129826+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "08",
+          "senseId": "dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182",
+          "word": "Sunday",
+          "accepted": false,
+          "reason": "遮词首义是周末或假日家庭活动，特定星期日需预设七张卡对应从星期一开始的一周并计数第七张；Sunday n.星期日缺乏直接唯一线索。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词首义是周末或假日家庭活动，特定星期日需预设七张卡对应从星期一开始的一周并计数第七张；Sunday n.星期日缺乏直接唯一线索。"
+    },
+    {
+      "senseId": "5adcfe09c2f0d16ddd210ed5a9f7225e8c9fa610a939cf9320a0c66082761453",
+      "wordId": "dict:easily",
+      "sourceId": "dict:easily",
+      "word": "easily",
+      "pos": "adv.",
+      "meaning": "容易地",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: {\"word\": \"easily\", \"pos\": \"adv.\", \"meaning\": \"容易地\"}.\nPrimary request: A relaxed smiling child effortlessly pushes a small lightweight toy wagon forward with just one extended index finger touching its handle. The wheels roll smoothly on level ground; the other hand rests casually on the hip and the posture is upright and relaxed. The wagon is moving visibly with two short subtle motion strokes at the wheels. No sweat, straining, oversized muscles, heavy load or helper. The action should read as doing something with very little effort: easily.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle children's educational illustration, coherent natural muted palette except when the target is a color.\nComposition: single legible scene, centered within middle 80 percent, generous paper margin, clear at 640px.\nConstraints: absolutely no letters, words, numerals, captions, written labels, watermarks, logos, borders or card UI. No unrelated decorative elements. Target exact supplied part of speech and meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f5-dfa4-7de3-9078-f8e7677c035e/exec-be6eec70-469e-44a1-a183-a6305d76fcaa.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/b/source/easily.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/b/candidates/easily.webp",
+      "intendedSavedPath": "public/images/words/5a/5adcfe09c2f0d16ddd210ed5a9f7225e8c9fa610a939cf9320a0c66082761453.webp",
+      "generatedAt": "2026-10-01T06:12:27.753502+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "孩子仅用一根手指接触小车拉柄，另一手叉腰、身体轻松、面带微笑，车轮动作线表明轻松移动。低用力程度可见，建议通过但交叉复核需排除只读为拉车。",
+      "generatorDecision": "pass_recommended",
+      "generatorReviewedAt": "2026-10-01T06:12:27.843916+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "04",
+          "senseId": "5adcfe09c2f0d16ddd210ed5a9f7225e8c9fa610a939cf9320a0c66082761453",
+          "word": "easily",
+          "accepted": false,
+          "reason": "遮词第一眼为拖拉玩具车。微笑与单手拉车虽可说明轻松，但画面没有明确突出容易地这一方式，易与pull混淆，未充分支持easily adv.容易地。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词第一眼为拖拉玩具车。微笑与单手拉车虽可说明轻松，但画面没有明确突出容易地这一方式，易与pull混淆，未充分支持easily adv.容易地。"
+    }
+  ],
+  "pending": [],
+  "reviewSummary": {
+    "accepted": 8,
+    "deferred": 7,
+    "generated": 15,
+    "completedAt": "2026-10-01T08:29:35.648150+00:00",
+    "blindObservations": {
+      "reviewContext": "继承了父任务的整体配图标准及C组制作上下文。本次先逐张查看匿名图片并落盘观察，未先读取set-b映射、B组任务或批次记录；属于遮词独立复核，不声称严格无背景盲测。",
+      "observations": [
+        {
+          "id": "01",
+          "observedMeaning": "漆黑的卧室中有人坐在床上，虚掩门缝透出一线暖光；第一眼为黑暗、夜晚或关灯后的房间。",
+          "issues": "无文字；人物几乎全暗，具体情绪动作不易辨。"
+        },
+        {
+          "id": "02",
+          "observedMeaning": "老师给排队的学生分发橘子；左侧淡色男孩已经拿到橘子，其他学生等待领取。第一眼为分发、给予、排队。",
+          "issues": "无文字；左侧淡色人物与右侧群体关系可能表示先后或单个与其他，精确抽象关系不清。"
+        },
+        {
+          "id": "03",
+          "observedMeaning": "小女孩欣喜地看向日葵；三盆向日葵从左到右由矮到高，中央实色其余淡色。第一眼为植物长高、成长，也可能是高大。",
+          "issues": "无文字；三盆花是同一株的时间演变还是不同高度对比不唯一，中央并非最高。"
+        },
+        {
+          "id": "04",
+          "observedMeaning": "男孩走在前方，用手拖拉装有玩具的小红车，轮边有滚动线。第一眼明确为拉、拖。",
+          "issues": "无文字；手抓拉杆略像食指勾住而非握牢，但动作整体可辨。"
+        },
+        {
+          "id": "05",
+          "observedMeaning": "一条折页展示从雪景、春花、绿树、夏海到秋叶再回冬雪的季节变化，左数第三幅春花被金色标记突出；第一眼是春天、春花或全年四季。",
+          "issues": "无文字；需计数并猜每页代表月份，无法直接确定某个具体月份。折页面板形式也可看作季节风景展。"
+        },
+        {
+          "id": "06",
+          "observedMeaning": "一块独立灰褐色粗糙石头，纹理裂缝和立体轮廓清楚。第一眼明确为石头、岩石。",
+          "issues": "无文字；没有明显视觉瑕疵。"
+        },
+        {
+          "id": "07",
+          "observedMeaning": "广播塔发出无线电波传给一台有天线的便携收音机，喇叭边有声音弧线。第一眼为广播、收音机或无线电。",
+          "issues": "无文字数字；发射接收概念清楚，广播与具体收音机名词可能重合。"
+        },
+        {
+          "id": "08",
+          "observedMeaning": "七张连续悬挂卡片，前五张学校，第六张家庭园艺，第七张高亮家庭野餐；第一眼为周末休息、假日郊游，也能推测一周最后一天。",
+          "issues": "无文字数字；若不预设每张为一周一天，只能读到上学后家庭活动；星期末的具体一天依赖计数和惯例。"
+        },
+        {
+          "id": "09",
+          "observedMeaning": "男孩坐在桌前看着未打开的饭盒，头顶思想泡里自己正在吃饭；第一眼是想吃午餐、期待吃饭或想象开饭。",
+          "issues": "无文字数字；气泡能表示想象、愿望或打算，缺乏唯一的时间关系，不能区分马上、将来、想要。"
+        },
+        {
+          "id": "10",
+          "observedMeaning": "男孩垂头坐着，看着坏掉的小帆船，眼泪流下、嘴角下垂；第一眼明确为悲伤、难过。",
+          "issues": "无文字数字；场景与表情一致，没有明显视觉瑕疵。"
+        },
+        {
+          "id": "11",
+          "observedMeaning": "木制框架中五排蓝色算珠，每排十个，整齐排列；第一眼是算盘或计数架，数清为五十颗。",
+          "issues": "无文字数字；数量准确可直接逐排计数，但需要主动数数，形象首先可能被认作算盘。"
+        },
+        {
+          "id": "12",
+          "observedMeaning": "大块鲜明蓝色颜料笔触与沾蓝颜料的画笔，第一眼明确为蓝色。",
+          "issues": "无文字数字；无明显视觉瑕疵。"
+        },
+        {
+          "id": "13",
+          "observedMeaning": "女孩现在吃早餐，旁边桌面一页画她白天与狗玩，立起来的一页画她吃早餐，两页间有月亮与弯箭头；第一眼是过了一夜、从玩耍的一天到吃早餐的另一天。",
+          "issues": "无文字数字；画面时间方向及哪一页是现在、过去或将来不够清晰，可能是昨日、今日、明日或次日，依赖解释。"
+        },
+        {
+          "id": "14",
+          "observedMeaning": "一把独立木椅，有靠背、座面和四条腿，完整居中；第一眼明确为椅子。",
+          "issues": "无文字数字；结构正常，无明显瑕疵。"
+        },
+        {
+          "id": "15",
+          "observedMeaning": "打开的木箱中放着一个红球，球被四面箱壁包围，第一眼为箱子里面、在里面，也可注意到箱子是打开的。",
+          "issues": "无文字数字；内部空间关系清楚，但若目标是打开动作则只有打开后的静态状态。"
+        }
+      ]
+    },
+    "recoveredByRun": "20261001-recover-1146"
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20260930-1146-c",
+  "parentBatch": "20260930-1146",
+  "assets": [
+    {
+      "senseId": "8774bda30c131f53b7150a700243d1f46b0bda034d65934a8c972bd15f79036d",
+      "wordId": "dict:soon",
+      "sourceId": "dict:soon",
+      "word": "soon",
+      "pos": "adv.",
+      "meaning": "不久",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"soon\", \"pos\": \"adv.\", \"meaning\": \"不久\"}. Scene: A short wait before an event: close-up of one pale speckled egg in a tiny straw nest, its shell just cracked with a small beak about to push through, chick still INSIDE and not yet emerged. Next to the egg a large hourglass has only a very small pinch of sand remaining in the upper chamber and almost all the sand in the lower chamber, a few grains actively falling. A child calmly watches expectantly from behind, hands resting, not intervening. Make the nearly empty timer and imminent hatching equally clear. The chick will appear very soon, and has not appeared yet.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-57d1-7203-915b-5f26aa3b5077/exec-e937cdc1-5154-422d-a9f0-52c23e95351e.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/soon.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/soon.webp",
+      "intendedSavedPath": "public/images/words/87/8774bda30c131f53b7150a700243d1f46b0bda034d65934a8c972bd15f79036d.webp",
+      "generatedAt": "2026-09-30T12:24:09.924145+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "本轮重新逐张检查：小孩看蛋即将破壳，沙漏上方只剩少量沙，近期将发生事件的线索较清楚；仍有孵化或等待歧义，交独立审核。无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-c.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/c/candidates/soon.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "02",
+          "primaryMeaning": "孩子等待烤面包机里的吐司，一只圆形计时旋钮只有少量红色扇区。",
+          "alternatives": [
+            "等早餐",
+            "面包快熟了",
+            "烤吐司"
+          ],
+          "issues": "吐司已明显露出并冒热气，无法确定已烤好还是即将完成；时间旋钮没有明确倒计时规则。",
+          "confidence": 0.9,
+          "reviewer": "root",
+          "decision": "deferred",
+          "reason": "计时器及等待吐司不明确是即将完成还是已经烤好，且无时间参照，不能可靠区分不久与等待。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-30T12:28:08.948517+00:00",
+      "selfReviewedAt": "2026-10-01T05:38:50.710763+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "05",
+          "senseId": "8774bda30c131f53b7150a700243d1f46b0bda034d65934a8c972bd15f79036d",
+          "word": "soon",
+          "accepted": true,
+          "reason": "遮词独立观察已包含即将孵出、快完成；正在破壳的蛋与剩余极少沙子的沙漏共同表达短时间内发生，支持soon / adv. / 不久。",
+          "finalAdjudication": "主智能体复看：即将破壳但尚未完全出来，配合接近流尽的沙漏，短时间后发生的线索足够明确，保留通过。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/87/8774bda30c131f53b7150a700243d1f46b0bda034d65934a8c972bd15f79036d.webp",
+      "alt": "孩子等待正在破壳的小鸟，旁边沙漏仅剩少量沙"
+    },
+    {
+      "senseId": "c220bf2720728a5766f1e28d48e0a7dd25f965514d0b9875bfa65543abbf8ab6",
+      "wordId": "dict:laugh",
+      "sourceId": "dict:laugh",
+      "word": "laugh",
+      "pos": "n.",
+      "meaning": "笑",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"laugh\", \"pos\": \"n.\", \"meaning\": \"笑\"}. Scene: A close clear bust portrait of one child in an unmistakable hearty laugh: mouth wide open in a natural broad grin showing upper teeth, eyes squeezed into happy crescents, rosy cheeks raised, shoulders slightly lifted, one hand lightly on their belly. A few tiny curved vibration strokes beside the shoulders suggest chuckling. No tears, no speech bubble, no letters or laughter syllables. The expression is spontaneous audible laughter rather than a small closed-mouth smile.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-f39c2489-32df-4dc1-aca4-380b99cf7ddf.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/laugh.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/laugh.webp",
+      "intendedSavedPath": "public/images/words/c2/c220bf2720728a5766f1e28d48e0a7dd25f965514d0b9875bfa65543abbf8ab6.webp",
+      "generatedAt": "2026-10-01T05:40:05.771758+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：孩子仰头张口露齿，眼睛笑成月牙，抬肩且手按腹部，明确是大笑而非微笑，符合laugh n.笑。面部手部自然、主体清楚、无文字数字；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T05:40:52.564433+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "09",
+          "senseId": "c220bf2720728a5766f1e28d48e0a7dd25f965514d0b9875bfa65543abbf8ab6",
+          "word": "laugh",
+          "accepted": true,
+          "reason": "遮词观察是捂肚子大笑，面部和动作明确表现笑，支持laugh / n. / 笑。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/c2/c220bf2720728a5766f1e28d48e0a7dd25f965514d0b9875bfa65543abbf8ab6.webp",
+      "alt": "孩子张嘴开怀大笑"
+    },
+    {
+      "senseId": "da8125640b3e5e5e97801e83bb861b9800d59ca2f961534fbb2896d38bc24505",
+      "wordId": "dict:sun",
+      "sourceId": "dict:sun",
+      "word": "sun",
+      "pos": "n.",
+      "meaning": "太阳",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"sun\", \"pos\": \"n.\", \"meaning\": \"太阳\"}. Scene: One large brilliant golden sun in a pale blue sky, a warm round solar disc with radiant soft light and clearly visible golden rays spreading outward. A tiny thin wisp of white cloud is far below the sun for sky context, but the sun occupies most of the composition. No face or sunglasses, no moon, no planets, no person, no sunset horizon. The solar disc is unambiguous and recognizable at small size.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-6db18f53-1245-4d82-8de9-8130df9698ca.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/sun.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/sun.webp",
+      "intendedSavedPath": "public/images/words/da/da8125640b3e5e5e97801e83bb861b9800d59ca2f961534fbb2896d38bc24505.webp",
+      "generatedAt": "2026-10-01T05:43:58.796654+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：蓝天下的金黄色日轮及向外放射光芒是唯一主体，少量白云提供天空语境，直观对应sun n.太阳。无文字数字，无拟人面孔，缩略图可辨；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T05:45:23.163433+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "12",
+          "senseId": "da8125640b3e5e5e97801e83bb861b9800d59ca2f961534fbb2896d38bc24505",
+          "word": "sun",
+          "accepted": true,
+          "reason": "遮词第一眼为天空中的太阳，主体形态和放射光芒明确支持sun / n. / 太阳。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/da/da8125640b3e5e5e97801e83bb861b9800d59ca2f961534fbb2896d38bc24505.webp",
+      "alt": "天空中的明亮太阳"
+    },
+    {
+      "senseId": "89fe89293ad071d3f311dfea30c039cdc230f80d1a22b839398c40df8b6f30d7",
+      "wordId": "dict:green",
+      "sourceId": "dict:green",
+      "word": "green",
+      "pos": "n.",
+      "meaning": "绿色",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"green\", \"pos\": \"n.\", \"meaning\": \"绿色\"}. Scene: An unmistakable saturated grass-green paint color sample: a wide thick green gouache brushstroke on warm white paper, with a small open pot filled with exactly the same green paint and a simple brush resting beside it with green-coated bristles. Green is the only chromatic hue in the image; pot and brush handle are neutral light beige. The dominant subject is the green color itself, not plants or environmental symbolism. No text labels on the pot.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-db16e862-d441-4fe6-b0fc-7290c000efa0.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/green.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/green.webp",
+      "intendedSavedPath": "public/images/words/89/89fe89293ad071d3f311dfea30c039cdc230f80d1a22b839398c40df8b6f30d7.webp",
+      "generatedAt": "2026-10-01T05:48:47.407257+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：大面积饱和草绿色颜料笔触，颜料罐与画笔为辅助，绿色是唯一鲜明色相，直接对应green n.绿色。无植物等其他语义和文字数字；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T05:50:34.001504+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "04",
+          "senseId": "89fe89293ad071d3f311dfea30c039cdc230f80d1a22b839398c40df8b6f30d7",
+          "word": "green",
+          "accepted": true,
+          "reason": "遮词观察明确是绿色，大块绿色颜料和同色笔罐直接支持green / n. / 绿色。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/89/89fe89293ad071d3f311dfea30c039cdc230f80d1a22b839398c40df8b6f30d7.webp",
+      "alt": "绿色颜料色块突出显示绿色"
+    },
+    {
+      "senseId": "5e839df94fd1f0d15f49848627ca5eb493090b6736792202c218733342ce394b",
+      "wordId": "dict:ball",
+      "sourceId": "dict:ball",
+      "word": "ball",
+      "pos": "n.",
+      "meaning": "球",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"ball\", \"pos\": \"n.\", \"meaning\": \"球\"}. Scene: One simple round inflated playground ball, classic red yellow and blue curved rubber panels, centered and fully visible with its perfectly spherical contour, gentle highlight and small grounding shadow. No sports logos, not a globe, not fruit, no child, no net, no other objects. The ball fills most of the middle area and is easy to identify at thumbnail size.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-4be1ca7e-a28d-4ce3-b9b3-d568fba66302.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/ball.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/ball.webp",
+      "intendedSavedPath": "public/images/words/5e/5e839df94fd1f0d15f49848627ca5eb493090b6736792202c218733342ce394b.webp",
+      "generatedAt": "2026-10-01T05:54:41.573903+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：红黄蓝充气球完整居中，球面高光及接地阴影、典型拼色面板清楚，直接对应ball n.球。无文字数字及无关物体；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T05:57:36.163387+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "14",
+          "senseId": "5e839df94fd1f0d15f49848627ca5eb493090b6736792202c218733342ce394b",
+          "word": "ball",
+          "accepted": true,
+          "reason": "遮词第一眼为圆形沙滩球，直接支持ball / n. / 球。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/5e/5e839df94fd1f0d15f49848627ca5eb493090b6736792202c218733342ce394b.webp",
+      "alt": "一只圆形玩具球"
+    },
+    {
+      "senseId": "3632e35eb7f3bafecab7772aaa011165fe4bfa31ed5da414ba3901c5137428cd",
+      "wordId": "dict:fish",
+      "sourceId": "dict:fish",
+      "word": "fish",
+      "pos": "n.",
+      "meaning": "鱼",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"fish\", \"pos\": \"n.\", \"meaning\": \"鱼\"}. Scene: One recognizable live freshwater fish swimming in profile, fully visible horizontal body, clear round eye, small mouth, gill cover, overlapping shimmering silver-blue scales, dorsal fin, paired fins and a distinctive forked tail. A very faint pale aqua wash and two small air bubbles indicate underwater without obscuring the fish. Anatomically coherent, no legs, no human face, no aquarium bowl, no seafood plate, no other animal.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-07640022-b39b-4afe-807a-7cb4ad7d43b2.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/fish.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/fish.webp",
+      "intendedSavedPath": "public/images/words/36/3632e35eb7f3bafecab7772aaa011165fe4bfa31ed5da414ba3901c5137428cd.webp",
+      "generatedAt": "2026-10-01T06:10:43.929413+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：完整侧面银蓝色鱼，鳞片、鳃盖、眼、各鳍及分叉尾巴清晰，淡蓝水色和气泡提供水中语境，直接对应fish n.鱼。无文字数字，鱼体结构合理；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T06:13:35.111912+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "07",
+          "senseId": "3632e35eb7f3bafecab7772aaa011165fe4bfa31ed5da414ba3901c5137428cd",
+          "word": "fish",
+          "accepted": true,
+          "reason": "遮词第一眼明确为鱼，鳞片、鳍和尾巴直接支持fish / n. / 鱼。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/36/3632e35eb7f3bafecab7772aaa011165fe4bfa31ed5da414ba3901c5137428cd.webp",
+      "alt": "一条鱼的鳍、鳃和尾巴清楚可见"
+    },
+    {
+      "senseId": "f03bcc77a1b9c314a3b782da7e850405802563489bc02b3e8dacebfb39e5369c",
+      "wordId": "dict:dream",
+      "sourceId": "dict:dream",
+      "word": "dream",
+      "pos": "n.",
+      "meaning": "梦",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"dream\", \"pos\": \"n.\", \"meaning\": \"梦\"}. Scene: One child unmistakably asleep in bed with eyes closed, head comfortably on pillow and blanket pulled to shoulders. Above the sleeping head a large soft cloud-shaped dream bubble connected by two small bubbles contains the SAME child flying gently through the sky on the back of a friendly small whale among fluffy clouds. Make the dreaming sleeper the lower anchor and the fantastical impossible sleeping dream the clear upper content. No thought bubble from an awake person, no letters, no sleep symbols or stars shaped like writing.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-142d0715-946d-462d-bb21-bfc80c72e472.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/dream.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/dream.webp",
+      "intendedSavedPath": "public/images/words/f0/f03bcc77a1b9c314a3b782da7e850405802563489bc02b3e8dacebfb39e5369c.webp",
+      "generatedAt": "2026-10-01T06:29:56.443890+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：儿童闭眼躺床盖被熟睡，上方相连梦泡中同一儿童骑鲸飞云间；睡眠与不可能幻想明确组合，直观对应dream n.梦。无文字数字，人物形体自然且主体易辨；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T06:32:45.578739+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "11",
+          "senseId": "f03bcc77a1b9c314a3b782da7e850405802563489bc02b3e8dacebfb39e5369c",
+          "word": "dream",
+          "accepted": true,
+          "reason": "睡眠中的孩子与不现实的鲸鱼梦境泡泡，遮词第一眼是做梦，直接支持dream / n. / 梦。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/f0/f03bcc77a1b9c314a3b782da7e850405802563489bc02b3e8dacebfb39e5369c.webp",
+      "alt": "睡着的人头顶浮现幻想场景，表示梦"
+    },
+    {
+      "senseId": "72e8d045e036dc7eb2dc652b61e1cf137263dcd2607e7b25b503ae001929746b",
+      "wordId": "dict:bag",
+      "sourceId": "dict:bag",
+      "word": "bag",
+      "pos": "n.",
+      "meaning": "袋子",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"bag\", \"pos\": \"n.\", \"meaning\": \"袋子\"}. Scene: One plain open brown kraft-paper grocery bag, upright and fully visible, with two loop handles, folded side gussets and a clearly visible hollow opening. The bag is empty so its container form and material folds dominate. Small soft shadow beneath it, no contents, no printed logo, no lettering, no handbag clasp, no backpack straps, no additional objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-836e8136-faa3-4dab-bf2c-e39aa7065aae.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/bag.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/bag.webp",
+      "intendedSavedPath": "public/images/words/72/72e8d045e036dc7eb2dc652b61e1cf137263dcd2607e7b25b503ae001929746b.webp",
+      "generatedAt": "2026-10-01T06:40:47.734130+00:00",
+      "reviewed": true,
+      "status": "reviewed",
+      "selfReviewNotes": "逐张查看640px成图：独立棕色牛皮纸袋有双提手、空开口、折叠侧边，容器特征和纸材质明显，直接对应bag n.袋子。整体完整居中，无文字数字或其他物体；自查通过，reviewed=false等待独立审核。",
+      "selfReviewedAt": "2026-10-01T06:43:44.186735+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "13",
+          "senseId": "72e8d045e036dc7eb2dc652b61e1cf137263dcd2607e7b25b503ae001929746b",
+          "word": "bag",
+          "accepted": true,
+          "reason": "遮词第一眼为有提手的纸袋，直接支持bag / n. / 袋子。"
+        },
+        "textHidden": true
+      },
+      "savedPath": "public/images/words/72/72e8d045e036dc7eb2dc652b61e1cf137263dcd2607e7b25b503ae001929746b.webp",
+      "alt": "一只带提手的袋子"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c",
+      "wordId": "dict:would",
+      "sourceId": "dict:would",
+      "word": "would",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"would\", \"pos\": \"v.\", \"meaning\": \"将\"}. Scene: A clear visual expression of an action that WILL occur, rather than a memory or a wish: a child stands on the left of a short garden path holding a watering can, with a dry drooping flower pot at the right. A large gently curved forward arrow leads from the child now to a soft translucent projection of that SAME child in the immediate future, pouring water onto that SAME flower pot. A small sun rises higher along the forward direction to support forward time. Make the solid present child and translucent later action unmistakably related. Do not use a thought bubble. The intended meaning is future action, not the act of watering itself.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-57d1-7203-915b-5f26aa3b5077/exec-f1bec6fd-44d6-4fb7-8517-3e6dc2ea2fc4.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/would.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/would.webp",
+      "intendedSavedPath": "public/images/words/7d/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.webp",
+      "generatedAt": "2026-09-30T11:54:41.179585+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "本轮重新逐张检查：女孩持壶与右侧浅色女孩浇水及箭头表现动作序列，但不能无文字唯一表达 would v.将；保留待复核。无文字数字，形体正常。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-c.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/c/candidates/would.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "01",
+          "primaryMeaning": "孩子托腮拿着种子包，想象自己把种子播到花盆里。",
+          "alternatives": [
+            "想象种植",
+            "计划种花",
+            "回忆种花"
+          ],
+          "issues": "没有时间锚点，思维泡泡也可能表示过去或愿望；无文字和明显肢体问题。",
+          "confidence": 0.96,
+          "reviewer": "root",
+          "decision": "deferred",
+          "reason": "孩子想象播种可表示愿望、计划或回忆，缺少未来时关系，不能独立表达将。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-30T11:55:31.930962+00:00",
+      "selfReviewedAt": "2026-10-01T05:38:50.710616+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "06",
+          "senseId": "7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c",
+          "word": "would",
+          "accepted": false,
+          "reason": "遮词可读计划浇花、动作步骤或想象，透明人物和朝向太阳的箭头缺少确定未来关系，不能独立表达would / v. / 将。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词可读计划浇花、动作步骤或想象，透明人物和朝向太阳的箭头缺少确定未来关系，不能独立表达would / v. / 将。"
+    },
+    {
+      "senseId": "90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3",
+      "wordId": "dict:today",
+      "sourceId": "dict:today",
+      "word": "today",
+      "pos": "n.",
+      "meaning": "今天",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"today\", \"pos\": \"n.\", \"meaning\": \"今天\"}. Scene: A large familiar monthly calendar sheet on a small easel, a clear grid of blank day squares with absolutely no numbers. Earlier squares are lightly crossed out in gray; one current-day square is brightly circled coral and pointed to by the index finger of a child standing immediately beside it; all following day squares are blank and unmarked. The bright selected square is visibly the boundary between crossed-out past days and untouched coming days. Child and calendar dominate; no weather symbols, seasonal props or distracting actions. This is the current day, today, rather than weather or a birthday.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-57d1-7203-915b-5f26aa3b5077/exec-ed753414-b7e5-444d-8d99-a761ff35514c.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/today.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/today.webp",
+      "intendedSavedPath": "public/images/words/90/90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3.webp",
+      "generatedAt": "2026-09-30T11:58:55.575645+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "本轮重新逐张检查：孩子指日历圈选格，过去划叉不连续且无当天独特线索，可误认预约日期；today n.今天保留待复核。无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-root.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/root/candidates/today.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "10",
+          "primaryMeaning": "女孩指着翻页本上的太阳图，窗外也有太阳；首先传达晴天或记录天气。",
+          "alternatives": [
+            "今天晴朗",
+            "晴天",
+            "太阳",
+            "日历"
+          ],
+          "issues": [
+            "没有明确的当天时间锚点，页纸无日期格，当前日与别日无法仅凭图唯一确定。"
+          ],
+          "confidence": "medium",
+          "reviewMode": "label-hidden cross-review",
+          "reviewer": "a",
+          "decision": "deferred",
+          "reason": "太阳图与窗外晴空首先说明晴天或记录天气；没有足够时间锚点区分今天与任何一天，today / n. / 今天 未被直观限定。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-30T12:00:23.105742+00:00",
+      "selfReviewedAt": "2026-10-01T05:38:50.710759+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "01",
+          "senseId": "90eba6780e0ade2f84e47c5ecda53bbce4e1232e0070a8273cccad267f7773b3",
+          "word": "today",
+          "accepted": false,
+          "reason": "主智能体复看：红圈空白格仍可表示预约或目标日期，且上行末尾存在未划去空格，不能仅凭画面可靠判定今天，保留待重做。",
+          "independentDecision": {
+            "accepted": true,
+            "reason": "遮词第一眼已观察为今天或当前日期：此前日期连续打叉，男孩指向紧接着的红圈格，支持today / n. / 今天。"
+          },
+          "finalAdjudicator": "root"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "主智能体复看：红圈空白格仍可表示预约或目标日期，且上行末尾存在未划去空格，不能仅凭画面可靠判定今天，保留待重做。"
+    },
+    {
+      "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+      "wordId": "dict:open",
+      "sourceId": "dict:open",
+      "word": "open",
+      "pos": "n.",
+      "meaning": "公开",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"open\", \"pos\": \"n.\", \"meaning\": \"公开\"}. Scene: Public openness, something openly visible and accessible to everyone: a transparent glass display case with a simple bright red model house inside stands in the center of an open town square, with a diverse small semicircle of five adults and children all plainly able to see the very same contents. A folded opaque cloth is on the ground to the side, fully off the display. No one is opening a door or unveiling anything; it is a stable public state with nothing concealed. Focus on information out in the open for all to see, not the verb to open.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-57d1-7203-915b-5f26aa3b5077/exec-8059c3f3-59b8-41ad-8548-402c8fdc8801.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/open.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/open.webp",
+      "intendedSavedPath": "public/images/words/49/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+      "generatedAt": "2026-09-30T12:05:17.206302+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "本轮重新逐张检查：多人围观玻璃展柜，直观首义为展览或观看，不能精确表达 open n.公开；保留待复核。无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/open.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "11",
+          "primaryMeaning": "一人拉开布帘向一群居民公开展示花园图",
+          "alternatives": [
+            "揭幕",
+            "展示",
+            "宣布规划",
+            "社区集会"
+          ],
+          "issues": [
+            "明确是公开揭示画面，但无法仅凭图像得知是否一般宣布或仅展示"
+          ],
+          "confidence": "medium",
+          "reviewer": "c",
+          "decision": "deferred",
+          "reason": "遮词可见向公众揭幕展示图画，但更直接表达揭示或展示的动作；open标为n.公开，词性义项关系需确认，画面不能直接落实该名词义项。保持待复核。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-30T12:07:36.033253+00:00",
+      "selfReviewedAt": "2026-10-01T05:38:50.710762+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "02",
+          "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+          "word": "open",
+          "accepted": false,
+          "reason": "遮词首先是围观模型展览，不能区分参观、展示和公开；旁边揭下的布不足以直接表达open / n. / 公开。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词首先是围观模型展览，不能区分参观、展示和公开；旁边揭下的布不足以直接表达open / n. / 公开。"
+    },
+    {
+      "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+      "wordId": "dict:nice",
+      "sourceId": "dict:nice",
+      "word": "nice",
+      "pos": "adj.",
+      "meaning": "美好的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"nice\", \"pos\": \"adj.\", \"meaning\": \"美好的\"}. Scene: A concrete comparison of an unpleasant versus a nice beautiful everyday experience: one continuous garden bench scene. On the left a small gloomy neglected patch with bare thorny stems, litter and a person frowning; on the right a much larger inviting clean blossoming garden with the same kind of bench, flowers, soft sunshine and a person visibly relaxed and appreciative with an open palm. Do not depict a party, meal, gift or friendship as the focal action. The visual focus is the pleasant lovely quality of the setting on the right, contrasted with its unpleasant counterpart. Simple scenes, no labels or dividing border.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-57d1-7203-915b-5f26aa3b5077/exec-ec6371ab-6602-4dcf-91e8-66478d799436.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/nice.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/nice.webp",
+      "intendedSavedPath": "public/images/words/d0/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+      "generatedAt": "2026-09-30T13:00:20.739945+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "本轮重新逐张检查：左右长椅环境呈现破败阴暗与鲜花阳光，宜人美好性质可读，但也易误认季节、清洁、情绪对比；nice adj.美好的保留待复核。无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20260929-2048-b.json",
+        "candidatePath": "output/imagegen/batch-20260929-2048/b/candidates/nice.webp",
+        "status": "pending_visual_revision",
+        "reason": {
+          "blindId": "09",
+          "primaryMeaning": "两个人在阳光下湖边草地野餐，神情轻松愉快",
+          "alternatives": [
+            "愉快",
+            "野餐",
+            "休息",
+            "朋友",
+            "春天"
+          ],
+          "issues": [
+            "具体野餐场景清楚，但抽象形容词之间区分度不足"
+          ],
+          "confidence": "medium",
+          "reviewer": "c",
+          "decision": "deferred",
+          "reason": "遮词只能读成湖边野餐与愉快休息，虽氛围美好但对美好的这一广义形容词缺乏明确视觉焦点，容易误认野餐、开心、朋友；按语义不确定保留复核。",
+          "finalReviewedAt": "2026-09-30T06:03:29.073606+00:00",
+          "method": "Generator individually inspected saved image. Another reviewer viewed numbered images without target labels, saved observations before reading mapping, then compared exact English/POS/Chinese sense. Prior task context was available; this is label-hidden cross-review, not fully context-naive. Root reviewed decisions and rechecked precision-sensitive cases."
+        }
+      },
+      "generatorReviewedAt": "2026-09-30T13:18:39.116051+00:00",
+      "selfReviewedAt": "2026-10-01T05:38:50.710765+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "10",
+          "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+          "word": "nice",
+          "accepted": false,
+          "reason": "主智能体复看：衰败灰暗与花园晴天的对比也明显表达季节或心情变化，美好的精确义项仍不够稳定，保留待重做。",
+          "independentDecision": {
+            "accepted": true,
+            "reason": "遮词观察已包含环境由糟糕变美好、舒适愉快，明暗和环境对照直接表现美好的性质，支持nice / adj. / 美好的；其他联想仍属该性质的具体场景。"
+          },
+          "finalAdjudicator": "root"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "主智能体复看：衰败灰暗与花园晴天的对比也明显表达季节或心情变化，美好的精确义项仍不够稳定，保留待重做。"
+    },
+    {
+      "senseId": "c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e",
+      "wordId": "dict:july",
+      "sourceId": "dict:july",
+      "word": "July",
+      "pos": "n.",
+      "meaning": "七月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"July\", \"pos\": \"n.\", \"meaning\": \"七月\"}. Scene: A wordless year calendar showing exactly twelve miniature MONTH sheets arranged in three rows and four columns, read left to right then top to bottom. Each sheet has a small blank day grid and two binder holes, unmistakably a calendar page. The seventh month sheet, row two column three, is the ONLY sheet highlighted in strong coral and slightly larger; the other eleven are pale gray. The selected month carries a tiny sun and ripe watermelon slice to reinforce midsummer. No other month has a seasonal icon. Absolutely no digits, words or letters anywhere. Preserve all twelve month sheets, and highlight exactly the seventh. This is a single coherent year-calendar diagram for the seventh month July, not twelve unrelated pictures.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f225-57d1-7203-915b-5f26aa3b5077/exec-6b89686e-7828-408d-bdc2-5f3da92f8e68.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/July.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/July.webp",
+      "intendedSavedPath": "public/images/words/c8/c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e.webp",
+      "generatedAt": "2026-10-01T05:35:00.723150+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "本轮逐张检查：确有3行4列12个月历卡，第7张（第2行第3列）独立珊瑚色突出，太阳西瓜辅助夏季。无文字数字。需计数才知7月，不能即刻只凭场景识别July；保留独立审核，不能仅以夏季认通过。",
+      "selfReviewedAt": "2026-10-01T05:38:50.710766+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "03",
+          "senseId": "c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e",
+          "word": "July",
+          "accepted": false,
+          "reason": "遮词是夏季日历，七月只能通过数第七张并假设年历顺序推得，太阳西瓜不能唯一指向July / n. / 七月。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词是夏季日历，七月只能通过数第七张并假设年历顺序推得，太阳西瓜不能唯一指向July / n. / 七月。"
+    },
+    {
+      "senseId": "d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b",
+      "wordId": "dict:september",
+      "sourceId": "dict:september",
+      "word": "September",
+      "pos": "n.",
+      "meaning": "九月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"September\", \"pos\": \"n.\", \"meaning\": \"九月\"}. Scene: A wordless year calendar showing exactly twelve miniature MONTH sheets arranged in three rows and four columns, read left to right then top to bottom. Each sheet has a small blank day grid and two binder holes, unmistakably a calendar page. The ninth month sheet, row three column one, is the ONLY sheet highlighted in strong coral and slightly larger; the other eleven are pale gray. The selected month carries a tiny school backpack and one autumn leaf to reinforce the start of autumn. No other month has a seasonal icon. Absolutely no digits, words or letters anywhere. Preserve all twelve month sheets, and highlight exactly the ninth. This is a single coherent year-calendar diagram for the ninth month September, not twelve unrelated pictures.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-39b56bff-2e4a-485b-a61d-7b4b45391cbf.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/September.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/September.webp",
+      "intendedSavedPath": "public/images/words/d7/d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b.webp",
+      "generatedAt": "2026-10-01T06:20:36.918991+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "逐张查看640px成图：3行4列共12张月历，第9张（第3行第1列）突出珊瑚色，附书包和秋叶。没有文字数字，位置计数正确。但需要理解年月历及计数才能辨九月，书包秋叶也能泛指秋季开学，故September n.九月保留待复核，不计完成。",
+      "selfReviewedAt": "2026-10-01T06:23:27.233144+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "08",
+          "senseId": "d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b",
+          "word": "September",
+          "accepted": false,
+          "reason": "遮词是秋季开学月份，九月需数第九页并依赖年历和开学习惯；不能直接确定September / n. / 九月。"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "遮词是秋季开学月份，九月需数第九页并依赖年历和开学习惯；不能直接确定September / n. / 九月。"
+    },
+    {
+      "senseId": "fff8858bb03d0a72a72ec6d88943b8cd5732baf4ece1eb6268d5693ec89a8e2d",
+      "wordId": "dict:finger",
+      "sourceId": "dict:finger",
+      "word": "finger",
+      "pos": "n.",
+      "meaning": "手指",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, centered subject in middle 70 percent, ample empty margins, soft natural light, small-card legibility. Constraints: no written text, letters, numerals, labels, logos, watermarks, borders or card UI. No unrelated decorative elements. Exact target sense: {\"word\": \"finger\", \"pos\": \"n.\", \"meaning\": \"手指\"}. Scene: A close anatomical educational illustration of a human hand with the index finger extended upward and the other three fingers and thumb gently curled naturally into the palm. Emphasize the long extended index finger with clear fingernail and two knuckle creases; it is the centered focal subject. A soft pale coral oval wash directly behind the extended finger highlights that body part while the curled palm remains subdued. Show the entire hand and wrist, correct five-digit anatomy, no arrows, no labels, no detached body part, no other gesture or object.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a0f5f6-0b64-7152-824d-9e814cbfc5a4/exec-315b81a4-3443-41bd-82c5-4d52c1426c37.png",
+      "originalLocalPath": "output/imagegen/batch-20260930-1146/c/source/finger.png",
+      "candidatePath": "output/imagegen/batch-20260930-1146/c/candidates/finger.webp",
+      "intendedSavedPath": "public/images/words/ff/fff8858bb03d0a72a72ec6d88943b8cd5732baf4ece1eb6268d5693ec89a8e2d.webp",
+      "generatedAt": "2026-10-01T06:50:23.984272+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "逐张查看640px成图：食指上伸、其余三指蜷曲和拇指压住，淡红背景突出食指，finger n.手指语义可读。但手掌纹理明显朝前同时伸直食指正面却画出指甲，手指掌背方向不一致，解剖有误；应保留待复核或重做，不计完成。无文字数字。",
+      "selfReviewedAt": "2026-10-01T06:53:41.307670+00:00",
+      "review": {
+        "method": "individual image-first independent cross-review, with prior context disclosed",
+        "reviewedAt": "2026-10-01T08:29:35.648150+00:00",
+        "decision": {
+          "id": "15",
+          "senseId": "fff8858bb03d0a72a72ec6d88943b8cd5732baf4ece1eb6268d5693ec89a8e2d",
+          "word": "finger",
+          "accepted": false,
+          "reason": "主智能体复看：画面为掌侧，但竖起的食指正面出现指甲，解剖方向错误；即使手指语义明确，仍保留待重做。",
+          "independentDecision": {
+            "accepted": true,
+            "reason": "遮词观察含手指且淡色强调明确落在竖起的食指上，支持finger / n. / 手指；数字一和向上只是该手势的次级联想。"
+          },
+          "finalAdjudicator": "root"
+        },
+        "textHidden": true
+      },
+      "rejectionReason": "主智能体复看：画面为掌侧，但竖起的食指正面出现指甲，解剖方向错误；即使手指语义明确，仍保留待重做。"
+    }
+  ],
+  "pending": [],
+  "reviewSummary": {
+    "accepted": 8,
+    "deferred": 7,
+    "generated": 15,
+    "completedAt": "2026-10-01T08:29:35.648150+00:00",
+    "blindObservations": [
+      {
+        "id": "01",
+        "observedMeaning": "男孩指向日历上一个红圈日期，之前的日期连续打叉，第一眼像今天或当前日期。",
+        "issues": "也可能是特别约定的某一天；有叉号和红圈标记，无可读文字或数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "02",
+        "observedMeaning": "几个人在广场上围观玻璃罩中的红色房屋模型，第一眼像展览、展示或参观模型。",
+        "issues": "画面不能区分参观、展示、公开展出等抽象目的；右下有揭下的布，无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "03",
+        "observedMeaning": "十二张空白日历排成三行四列，第七张用橙色突出并配太阳和西瓜，第一眼是夏季日历或夏天的一个月份。",
+        "issues": "需要计数和年历顺序假设才能推为七月；太阳西瓜也可代表其他夏月。无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "04",
+        "observedMeaning": "大面积鲜绿色颜料刷痕、沾绿颜料的画笔和颜料罐，第一眼明确是绿色。",
+        "issues": "也包含绘画工具，但绿色占主导，未见文字数字或明显瑕疵。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "05",
+        "observedMeaning": "女孩等待一只正在破壳的小鸟，旁边沙漏上方只剩少量沙子，第一眼是等待小鸟即将孵出或快完成了。",
+        "issues": "具体动作也可读成孵化、等待；沙漏强化剩余时间很短，无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "06",
+        "observedMeaning": "女孩拿着水壶，右侧浅色的同一女孩正在给蔫花浇水，箭头朝向太阳；第一眼像计划浇花、浇花步骤或之后去浇水。",
+        "issues": "半透明重复人物可表达未来、想象或动作示意；箭头终点是太阳，时间和语法关系不唯一。无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "07",
+        "observedMeaning": "一条银灰蓝色的鱼，鱼鳞、鱼鳍和叉形尾巴清楚，第一眼是鱼。",
+        "issues": "可进一步理解为游鱼，但物体主体明确；无可读文字数字或明显形体问题。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "08",
+        "observedMeaning": "十二张空白日历中第九张红色突出，旁放书包和橙色秋叶，第一眼像秋季开学月份。",
+        "issues": "需要数到第九并假设按年排序才能确定九月；开学和秋天因地区而异。无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "09",
+        "observedMeaning": "男孩咧嘴闭眼、仰头捂肚子笑，肩膀旁有轻微动作线，第一眼是大笑或开心地笑。",
+        "issues": "笑和开心关联，但大笑动作十分清楚；无可读文字数字或明显形体问题。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "10",
+        "observedMeaning": "左右对比：左边女孩在灰暗、枯枝和垃圾旁闷闷不乐，右边女孩在阳光花园中放松享受，第一眼是环境从糟糕变美好、舒适愉快。",
+        "issues": "也可读成心情变好、春秋对比、好天气或清洁环境；缺少唯一聚焦的性质。无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "11",
+        "observedMeaning": "男孩躺在床上闭眼睡觉，头上梦境泡泡中骑着鲸鱼在云里飞，第一眼明确是做梦。",
+        "issues": "无可读文字数字；睡眠场景与不现实梦境足够区分清醒想象。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "12",
+        "observedMeaning": "蓝天上一个明亮的金黄色圆形太阳向外放射光芒，第一眼是太阳。",
+        "issues": "也能关联晴天或阳光，但太阳主体非常明确；无可读文字数字。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "13",
+        "observedMeaning": "一个立着的棕色牛皮纸手提袋，开口和两条提手清楚，第一眼是纸袋或购物袋。",
+        "issues": "没有看到内容物；袋子类别明确，无可读文字数字或品牌。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "14",
+        "observedMeaning": "一只红黄蓝拼色的圆形充气沙滩球，第一眼是球。",
+        "issues": "球体和气嘴明确，无可读文字数字或明显形体问题。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      },
+      {
+        "id": "15",
+        "observedMeaning": "一只手竖起食指，食指后有淡红色强调，第一眼是手指、食指或表示一的手势。",
+        "issues": "可同时指向手指、数字一或向上指示，但红色强调落在单根食指上；无可读文字数字，手部结构正常。",
+        "reviewMode": "遮词独立复核；继承本轮上下文，非严格无背景盲测。"
+      }
+    ],
+    "recoveredByRun": "20261001-recover-1146"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "version": 1,
   "total": 100000,
-  "ready": 375,
-  "pending": 99625,
-  "revision": "dd4c99c423e041b3",
+  "ready": 406,
+  "pending": 99594,
+  "revision": "d06dec6880fd4dd8",
   "buckets": {
     "10": {
       "path": "images/words/index/10.json",
@@ -29,6 +29,11 @@
       "path": "images/words/index/16.json",
       "count": 1,
       "sha256": "6063b0185419c33b2684f8bac361fd3f34fa786c86445b400dd14cbada166acc"
+    },
+    "17": {
+      "path": "images/words/index/17.json",
+      "count": 2,
+      "sha256": "8acb63969b358d7520dc86606c0b952bd17541b48f71d777340066d6c7671d00"
     },
     "18": {
       "path": "images/words/index/18.json",
@@ -72,8 +77,8 @@
     },
     "26": {
       "path": "images/words/index/26.json",
-      "count": 2,
-      "sha256": "7dd355d1cb7a4b56bcb110140ba7e12d50f957341008a09d5bbf6f4f2313bddc"
+      "count": 3,
+      "sha256": "298f889fac6db5d1ba2018b2268f20fba875b0486b63944106a66e5b242093e3"
     },
     "27": {
       "path": "images/words/index/27.json",
@@ -125,6 +130,11 @@
       "count": 1,
       "sha256": "4491dffc550c295f912fa806b966a91b06978b8ec9ada83f534e6dfc98df3a79"
     },
+    "37": {
+      "path": "images/words/index/37.json",
+      "count": 1,
+      "sha256": "2283f601df73628ad2343f0fdc9eae25eaf770df07ad3e47ec34b34e14e5da03"
+    },
     "39": {
       "path": "images/words/index/39.json",
       "count": 1,
@@ -142,8 +152,8 @@
     },
     "42": {
       "path": "images/words/index/42.json",
-      "count": 3,
-      "sha256": "eb94276d1e50ee0bef4869ca8e5ed843e92e5c960efd755aab08efd1ed1bbfd1"
+      "count": 4,
+      "sha256": "4a06f7f2a0be13352f5863b47e8dc5f0d1bb33ba6b208c2910b0bb3bbd9720b6"
     },
     "45": {
       "path": "images/words/index/45.json",
@@ -237,8 +247,8 @@
     },
     "68": {
       "path": "images/words/index/68.json",
-      "count": 2,
-      "sha256": "3b5b95882aeccc74f489ce00c8e6286d69beeb17691de6b32c8b8a31efeca250"
+      "count": 3,
+      "sha256": "3032fec2245ddaa6ee0cd6936a2c7d9f37612cbbe1538b2aa07a0f5abc6444d3"
     },
     "69": {
       "path": "images/words/index/69.json",
@@ -262,13 +272,13 @@
     },
     "73": {
       "path": "images/words/index/73.json",
-      "count": 5,
-      "sha256": "467dda100b8660bd908232abd0b507bdbdb2ebda6c6b2641317392decfc68926"
+      "count": 6,
+      "sha256": "3500ea6aba359ca02664574fb8a376f20df7e409ab59bbc76bf1fbe81bd059e0"
     },
     "74": {
       "path": "images/words/index/74.json",
-      "count": 1,
-      "sha256": "4355284a79f0eb467790ec7a8885a1df06698938f5e8e2651262aad8d10b65a0"
+      "count": 2,
+      "sha256": "b47a6620fffe23a149f7f5394a6505427edbe1816b67018af0d1b8d9f11b29b2"
     },
     "75": {
       "path": "images/words/index/75.json",
@@ -317,13 +327,18 @@
     },
     "86": {
       "path": "images/words/index/86.json",
-      "count": 2,
-      "sha256": "43a9e2ac842df4f7d1ba0ffc78a67f2140a8dd45c924dae66ea077032b3339fd"
+      "count": 4,
+      "sha256": "4911dfecc026c08245b0245fecb24b7d9530ea899af4d7b8b6312a34320a2db6"
     },
     "87": {
       "path": "images/words/index/87.json",
       "count": 1,
       "sha256": "87ec1f6db67af98e861d86bb7dc98258e3a9bb89a343dbad7fcf490a8ce14e9e"
+    },
+    "88": {
+      "path": "images/words/index/88.json",
+      "count": 1,
+      "sha256": "505172c22830ca1d581dae614cc0374976891e88152dd0ef74c2106202e08cc4"
     },
     "92": {
       "path": "images/words/index/92.json",
@@ -337,8 +352,8 @@
     },
     "94": {
       "path": "images/words/index/94.json",
-      "count": 2,
-      "sha256": "222ce8ddc56ceb6bd08db6dd96c17dcd2436c6db5c882c3461dcd1e662470b55"
+      "count": 3,
+      "sha256": "619f17db821094630029caf6868217c26cf1295d9d6613eef389c4dbb26e2736"
     },
     "95": {
       "path": "images/words/index/95.json",
@@ -347,8 +362,8 @@
     },
     "96": {
       "path": "images/words/index/96.json",
-      "count": 3,
-      "sha256": "6360e00649148d53d8692207b2338cb9bc024c6b26c26e0a77c2e7003e32e55b"
+      "count": 4,
+      "sha256": "f61adc5cfa59a84393dd7b696875d23f56d688ac072d3f0452f3e8752e59f93c"
     },
     "97": {
       "path": "images/words/index/97.json",
@@ -357,8 +372,8 @@
     },
     "98": {
       "path": "images/words/index/98.json",
-      "count": 1,
-      "sha256": "725d68a374923b07372f07e261882aecc24161a3389420390c9d8bc0dea5a7e8"
+      "count": 2,
+      "sha256": "a1dc50f0acf7a0a36b15aa4199f14fbd86f6c802586a5b22bd4da2d7c83f8023"
     },
     "00": {
       "path": "images/words/index/00.json",
@@ -402,8 +417,8 @@
     },
     "09": {
       "path": "images/words/index/09.json",
-      "count": 2,
-      "sha256": "bbce5407c2586275d3856f396e3424133e2f52df8d621f2f3930c0f97e8fcd8b"
+      "count": 3,
+      "sha256": "dbcd6c9e692c9d2fff8fe654ed50795736445e3466636361ace72d5797e8fab9"
     },
     "0a": {
       "path": "images/words/index/0a.json",
@@ -412,8 +427,8 @@
     },
     "0b": {
       "path": "images/words/index/0b.json",
-      "count": 1,
-      "sha256": "81a801af327eca5bcd649efbb4a55538e44ea74518128a5cff113e6f95afb604"
+      "count": 2,
+      "sha256": "b3454cdc917592a7b63e899d7752f815bf108b43c4b50f4c6cd7c837e4d43616"
     },
     "0c": {
       "path": "images/words/index/0c.json",
@@ -502,8 +517,8 @@
     },
     "4b": {
       "path": "images/words/index/4b.json",
-      "count": 3,
-      "sha256": "1f0246f17fb04788e839cbac7a6f81b84eeac748f6b823f52abf9eb672abbebe"
+      "count": 4,
+      "sha256": "aa79b157a9d24e89c1e55d0be8977a0974705ee7fe0a56c87ab554fe667be81e"
     },
     "4c": {
       "path": "images/words/index/4c.json",
@@ -522,8 +537,8 @@
     },
     "5b": {
       "path": "images/words/index/5b.json",
-      "count": 3,
-      "sha256": "bafe8d1907152a6ed45485d8cfc843ec6a8ce3914153ae49bc3224c914dbe971"
+      "count": 4,
+      "sha256": "413663e0fb6432c4fa89684f2f03c2ce5409e94619c1ab79419cc0f3c7b8d06d"
     },
     "5c": {
       "path": "images/words/index/5c.json",
@@ -532,8 +547,8 @@
     },
     "5d": {
       "path": "images/words/index/5d.json",
-      "count": 1,
-      "sha256": "13ff1698cd657a343976049eada659f1a323d515928883742129ce2cbab1586c"
+      "count": 3,
+      "sha256": "444d52fd52066d297dd9126138ca3f4eaaf2e33a97220b71eb2954233c2638a3"
     },
     "5e": {
       "path": "images/words/index/5e.json",
@@ -570,6 +585,11 @@
       "count": 2,
       "sha256": "23f15493000429ef7b516553b6a10685587fed8369ed7fd959e25844ed19db2a"
     },
+    "7e": {
+      "path": "images/words/index/7e.json",
+      "count": 1,
+      "sha256": "39e10d3b6ac23695d6a4aed1c3997fb53fc0330b68c4e0db132650282624b22f"
+    },
     "8a": {
       "path": "images/words/index/8a.json",
       "count": 2,
@@ -602,13 +622,18 @@
     },
     "9a": {
       "path": "images/words/index/9a.json",
-      "count": 2,
-      "sha256": "c4f871beed89c90919c7a4fb416c9a8f36fb5c3db0b0445ef2bd80b6f46a9eb3"
+      "count": 3,
+      "sha256": "81dc69b25d76b802740df47d4231efd28da9f079f0fb6923e4125b5ca0fd7249"
     },
     "9b": {
       "path": "images/words/index/9b.json",
       "count": 1,
       "sha256": "934d30b7ea4c3d5271aef87a2ec69d9a450ca605a4b2d7b21b35d9901a1368cc"
+    },
+    "9c": {
+      "path": "images/words/index/9c.json",
+      "count": 1,
+      "sha256": "6bbd306f6f98e75f2f9ecd679f822a362b53d93580b7d79bfe99b69ba93ee70b"
     },
     "9d": {
       "path": "images/words/index/9d.json",
@@ -617,8 +642,8 @@
     },
     "9e": {
       "path": "images/words/index/9e.json",
-      "count": 1,
-      "sha256": "6884eeae2c5021ad3145b03f201c71fdd85cb9f1dc215f88578f812b99ce8a61"
+      "count": 2,
+      "sha256": "7cb8e35afdb9529b8310aa95c391fd9848e42f9aa45514b2e5c4629e92ccbdf8"
     },
     "a2": {
       "path": "images/words/index/a2.json",
@@ -647,13 +672,18 @@
     },
     "a8": {
       "path": "images/words/index/a8.json",
-      "count": 1,
-      "sha256": "262aca3ebf4fae7f6f2c8f51868c7c9afc43799229158f2bc3bbf51fb42f50b5"
+      "count": 2,
+      "sha256": "b2fa367be42839ea829169791a7985bbb5a6cac1f172495ea93d6d2b23ce35b4"
     },
     "a9": {
       "path": "images/words/index/a9.json",
       "count": 2,
       "sha256": "d04f04a02b069c0607ba4b6a9c792a4e6de3015fe889de3d25be25346390f5a1"
+    },
+    "aa": {
+      "path": "images/words/index/aa.json",
+      "count": 1,
+      "sha256": "0834d63fcee27a2384dfd56b979c436e8e4f531af580e6dc7ca891e52099d015"
     },
     "ab": {
       "path": "images/words/index/ab.json",
@@ -782,8 +812,8 @@
     },
     "cc": {
       "path": "images/words/index/cc.json",
-      "count": 1,
-      "sha256": "18cd15f17fe0a33ff4189964094a2ffafa03ff1884e06ec8a6c27cf8e5ffa22a"
+      "count": 2,
+      "sha256": "9952b5bbee7faa8efbf01cc38752270733fcb933539be6f9cab431fa7eae8c03"
     },
     "cd": {
       "path": "images/words/index/cd.json",
@@ -797,8 +827,8 @@
     },
     "cf": {
       "path": "images/words/index/cf.json",
-      "count": 3,
-      "sha256": "ee827560675e461cb3e247ef13b3ea485e678ea91bde9b17d6d7f28b1f5617f3"
+      "count": 4,
+      "sha256": "e9cc0f560f8e2db917c566e93d69640d7093d1abeaddb8c45a492826f039812f"
     },
     "d1": {
       "path": "images/words/index/d1.json",
@@ -842,8 +872,8 @@
     },
     "da": {
       "path": "images/words/index/da.json",
-      "count": 2,
-      "sha256": "3439353bbdc472624c27f63555a23a9b6eacc3346aa2b29505cf3c3a3dcec6cd"
+      "count": 3,
+      "sha256": "673a661e7752c081a2fecaf8395be485cfdfedd3a473d0075b6ba8d52bb20fab"
     },
     "db": {
       "path": "images/words/index/db.json",
@@ -852,8 +882,8 @@
     },
     "dc": {
       "path": "images/words/index/dc.json",
-      "count": 1,
-      "sha256": "55c832112623ecacde4424739f01ada219c8028aecf5c41aa5d373c0e98ea1e5"
+      "count": 2,
+      "sha256": "0d6f9d3b915d12e77ab5d3dff1a53eb4b4478817ba6054563778e74bc90b9097"
     },
     "de": {
       "path": "images/words/index/de.json",
@@ -902,8 +932,8 @@
     },
     "e9": {
       "path": "images/words/index/e9.json",
-      "count": 1,
-      "sha256": "a0c8a1c7589fb2545450c3ae329e1dfc0ce97dd5eb939937b4fef15ad2f15f42"
+      "count": 2,
+      "sha256": "fe115088c5ca5568356c5360ee85caf1f95c3e7b135995e17318020059dd8fd5"
     },
     "ea": {
       "path": "images/words/index/ea.json",
