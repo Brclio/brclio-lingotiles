@@ -2,7 +2,7 @@
   "mode": "built-in image_gen",
   "batch": "20261004-0541-a",
   "parentBatch": "20261004-0541",
-  "status": "partial_synced_pending_generation",
+  "status": "reviewed",
   "assets": [
     {
       "senseId": "1f585033cd3055de1346baf39f21bb00801acda8d48123e5dce980b95833cd4c",
@@ -413,10 +413,7 @@
       },
       "savedPath": "public/images/words/b9/b9f69aeb2673b8cba1facf062e0b971996ac031ab35433f96891eb6689b79cb5.webp",
       "alt": "A single glowing table lamp with conical fabric shade and bulbous blue base; lamp."
-    }
-  ],
-  "candidates": [],
-  "todo": [
+    },
     {
       "senseId": "f31b8dae3b9ea17fa1c37db58eeae9de10df49acd076275855407b4bf84b0c42",
       "wordId": "dict:lion",
@@ -425,10 +422,38 @@
       "pos": "n.",
       "meaning": "狮子",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"lion\",\"pos\":\"n.\",\"meaning\":\"狮子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/f3/f31b8dae3b9ea17fa1c37db58eeae9de10df49acd076275855407b4bf84b0c42.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact target sense: lion; n.; 狮子.\nPrimary scene: One adult male lion standing in three-quarter side view, full body visible. Large tawny mane frames its recognizable feline face; golden coat, powerful paws and long tail ending in a dark tuft. Calm expression, tiny patch of savanna grass only.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted natural colors. Clear central subject within middle 70 percent, generous margins, readable on a small memory card.\nConstraints: no letters, written words, numerals, labels, logos, watermarks, borders or card UI. One independent image for this exact sense. Accurate anatomy and coherent geometry. The image alone must convey the current meaning; semantic clarity is the highest priority.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1067f-da24-7da3-9bd7-41a608893e81/exec-84450708-ecd4-4132-8b61-e6bab37642bf.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/a/source/lion.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/lion.webp",
+      "intendedSavedPath": "public/images/words/f3/f31b8dae3b9ea17fa1c37db58eeae9de10df49acd076275855407b4bf84b0c42.webp",
+      "generatedAt": "2026-10-04T10:51:10.034301+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Blind visual inspection: one full-bodied tawny male lion with large dark mane, feline muzzle, four paws and tufted tail; instantly recognizable lion, no lettering or competing animal.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T10:51:10.120425+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:56:05.911617+00:00",
+        "decision": {
+          "file": "image-01.webp",
+          "senseId": "f31b8dae3b9ea17fa1c37db58eeae9de10df49acd076275855407b4bf84b0c42",
+          "word": "lion",
+          "pos": "n.",
+          "meaning": "狮子",
+          "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/lion.webp",
+          "candidateSha256": "765339ac33e04c9e9becb6453aae4bb2612417ed2a93e75e211dd91ceeccfd5c",
+          "observation": "一只金棕色雄狮全身站立，大团棕色鬃毛环绕头颈，宽鼻口、粗壮四肢及尾端黑毛团清楚，第一眼是狮子；无文字。",
+          "approved": true,
+          "reason": "雄狮鬃毛、宽鼻口、尾端毛团和粗壮狮身均典型，遮住词条仍直接识别狮子，精确符合 lion / n. / 狮子。",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:56:05.911617+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-a/decisions.json"
+      },
+      "savedPath": "public/images/words/f3/f31b8dae3b9ea17fa1c37db58eeae9de10df49acd076275855407b4bf84b0c42.webp",
+      "alt": "一只金棕色雄狮全身站立，大团棕色鬃毛环绕头颈，宽鼻口、粗壮四肢及尾端黑毛团清楚，第一眼是狮子；无文字。"
     },
     {
       "senseId": "7ef150eb327e2a5ce589c8e88c4cc188ffd258b0f36b3afbc75f605fb447e545",
@@ -438,10 +463,38 @@
       "pos": "n.",
       "meaning": "蛇",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"snake\",\"pos\":\"n.\",\"meaning\":\"蛇\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/7e/7ef150eb327e2a5ce589c8e88c4cc188ffd258b0f36b3afbc75f605fb447e545.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact target sense: snake; n.; 蛇.\nPrimary scene: One real snake with a continuous long limbless scaled green body in a loose S curve, slightly lifted head and a tiny forked tongue. Entire head-to-tail body visible, coherent anatomy, small patch of earth only; no legs or unrelated animals.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted natural colors. Clear central subject within middle 70 percent, generous margins, readable on a small memory card.\nConstraints: no letters, written words, numerals, labels, logos, watermarks, borders or card UI. One independent image for this exact sense. Accurate anatomy and coherent geometry. The image alone must convey the current meaning; semantic clarity is the highest priority.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ec-9767-7080-b925-abe5213f5376/exec-0b713386-f571-4d1a-bd41-4656fe570be9.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/a/source/snake.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/snake.webp",
+      "intendedSavedPath": "public/images/words/7e/7ef150eb327e2a5ce589c8e88c4cc188ffd258b0f36b3afbc75f605fb447e545.webp",
+      "generatedAt": "2026-10-04T12:43:57.406087+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: single continuous green scaled limbless body forms an S curve from distinct snake head to tapering tail. Lifted head, forked tongue and belly scales make snake meaning clear without labels. No text or extra animals; anatomy coherent.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:43:57.488691+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:56:05.912481+00:00",
+        "decision": {
+          "file": "image-02.webp",
+          "senseId": "7ef150eb327e2a5ce589c8e88c4cc188ffd258b0f36b3afbc75f605fb447e545",
+          "word": "snake",
+          "pos": "n.",
+          "meaning": "蛇",
+          "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/snake.webp",
+          "candidateSha256": "e7e6927c24c98b1d4bdee2ad0b568c94b3b987c0590bfb64e70c55d180bba54f",
+          "observation": "一条绿色有鳞片的蛇，长身弯成S形、无四肢、尾尖渐细，头抬起吐分叉舌，第一眼是蛇；无文字。",
+          "approved": true,
+          "reason": "无肢鳞片长身、渐细尾部和分叉舌清楚，遮住词条即识别蛇，精确符合 snake / n. / 蛇。",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:56:05.912481+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-a/decisions.json"
+      },
+      "savedPath": "public/images/words/7e/7ef150eb327e2a5ce589c8e88c4cc188ffd258b0f36b3afbc75f605fb447e545.webp",
+      "alt": "一条绿色有鳞片的蛇，长身弯成S形、无四肢、尾尖渐细，头抬起吐分叉舌，第一眼是蛇；无文字。"
     },
     {
       "senseId": "23c8a61f5d8257976c23a0a3d4f3a621f78ddf9fcb314fc1d7590e921466285f",
@@ -451,10 +504,38 @@
       "pos": "n.",
       "meaning": "鸭子",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"duck\",\"pos\":\"n.\",\"meaning\":\"鸭子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/23/23c8a61f5d8257976c23a0a3d4f3a621f78ddf9fcb314fc1d7590e921466285f.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact target sense: duck; n.; 鸭子.\nPrimary scene: One recognizable mallard duck in full side view standing by a tiny puddle: rounded body, green head, broad flat yellow bill, short neck, brown breast and orange webbed feet clearly visible. Entire duck unobscured, no other birds.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted natural colors. Clear central subject within middle 70 percent, generous margins, readable on a small memory card.\nConstraints: no letters, written words, numerals, labels, logos, watermarks, borders or card UI. One independent image for this exact sense. Accurate anatomy and coherent geometry. The image alone must convey the current meaning; semantic clarity is the highest priority.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ec-9767-7080-b925-abe5213f5376/exec-fd8c2d8f-ae20-4233-929c-b63f16f2e144.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/a/source/duck.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/duck.webp",
+      "intendedSavedPath": "public/images/words/23/23c8a61f5d8257976c23a0a3d4f3a621f78ddf9fcb314fc1d7590e921466285f.webp",
+      "generatedAt": "2026-10-04T12:46:49.069598+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: full mallard with green head, broad flat yellow bill, short neck, brown breast and clearly webbed orange feet beside water. Duck body proportions and bill distinguish it from chicken or goose; no text or other birds.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:46:49.153375+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:56:05.914002+00:00",
+        "decision": {
+          "file": "image-05.webp",
+          "senseId": "23c8a61f5d8257976c23a0a3d4f3a621f78ddf9fcb314fc1d7590e921466285f",
+          "word": "duck",
+          "pos": "n.",
+          "meaning": "鸭子",
+          "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/duck.webp",
+          "candidateSha256": "c1dcfbc2e0847b753d9b364bd37e8c1cabb7e574904daca3caeb87133894ae32",
+          "observation": "一只水边站立的鸭子，绿头黄扁嘴、圆胖躯体、棕胸和橙色蹼足明显，第一眼是鸭子；无文字。",
+          "approved": true,
+          "reason": "扁黄嘴、短颈圆躯体、橙色蹼足与绿头雄鸭羽色清楚，区别鹅和鸡，直接识别鸭子，符合 duck / n. / 鸭子。",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:56:05.914002+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-a/decisions.json"
+      },
+      "savedPath": "public/images/words/23/23c8a61f5d8257976c23a0a3d4f3a621f78ddf9fcb314fc1d7590e921466285f.webp",
+      "alt": "一只水边站立的鸭子，绿头黄扁嘴、圆胖躯体、棕胸和橙色蹼足明显，第一眼是鸭子；无文字。"
     },
     {
       "senseId": "4606d9bd5ac7d339ed8fee981ae164d4ba19bd0ebafd460d8e217f64324458ef",
@@ -464,10 +545,38 @@
       "pos": "n.",
       "meaning": "裙子",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"skirt\",\"pos\":\"n.\",\"meaning\":\"裙子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/46/4606d9bd5ac7d339ed8fee981ae164d4ba19bd0ebafd460d8e217f64324458ef.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact target sense: skirt; n.; 裙子.\nPrimary scene: One simple knee-length blue pleated skirt displayed alone, viewed straight on, waistband at top and flared hem at bottom. Clear single waist opening, no bodice, sleeves or trouser legs. Entire garment visible against warm-white paper.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted natural colors. Clear central subject within middle 70 percent, generous margins, readable on a small memory card.\nConstraints: no letters, written words, numerals, labels, logos, watermarks, borders or card UI. One independent image for this exact sense. Accurate anatomy and coherent geometry. The image alone must convey the current meaning; semantic clarity is the highest priority.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ec-9767-7080-b925-abe5213f5376/exec-4cc72e17-b76c-4111-8252-f282457603ee.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/a/source/skirt.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/skirt.webp",
+      "intendedSavedPath": "public/images/words/46/4606d9bd5ac7d339ed8fee981ae164d4ba19bd0ebafd460d8e217f64324458ef.webp",
+      "generatedAt": "2026-10-04T12:50:13.515072+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: one blue pleated skirt with visible waistband and single waist opening, continuous flared hem, no bodice or trouser legs. Complete standalone garment is recognizable as skirt without labels; generous clean background and no text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:50:13.606325+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:56:05.912927+00:00",
+        "decision": {
+          "file": "image-03.webp",
+          "senseId": "4606d9bd5ac7d339ed8fee981ae164d4ba19bd0ebafd460d8e217f64324458ef",
+          "word": "skirt",
+          "pos": "n.",
+          "meaning": "裙子",
+          "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/skirt.webp",
+          "candidateSha256": "11add10d87c7d625b96e310c559b7c1dbca9ed51c94c90f5271a7c3543f22d72",
+          "observation": "一条蓝色百褶半身裙，腰带开口和向外展开的裙摆清楚，没有上衣肩带或裤腿，第一眼是裙子；无文字。",
+          "approved": true,
+          "reason": "腰部开口和百褶外展裙摆清楚，无上衣结构、无分开的裤腿，直接展示半身裙，符合 skirt / n. / 裙子。",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:56:05.912927+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-a/decisions.json"
+      },
+      "savedPath": "public/images/words/46/4606d9bd5ac7d339ed8fee981ae164d4ba19bd0ebafd460d8e217f64324458ef.webp",
+      "alt": "一条蓝色百褶半身裙，腰带开口和向外展开的裙摆清楚，没有上衣肩带或裤腿，第一眼是裙子；无文字。"
     },
     {
       "senseId": "8b4435c3829d347bffe6aa0cfb20b2ac1b82aabe4668922029e3b713705f5cab",
@@ -477,18 +586,51 @@
       "pos": "n.",
       "meaning": "叉子",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"fork\",\"pos\":\"n.\",\"meaning\":\"叉子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/8b/8b4435c3829d347bffe6aa0cfb20b2ac1b82aabe4668922029e3b713705f5cab.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary illustration.\nExact target sense: fork; n.; 叉子.\nPrimary scene: One ordinary silver dining fork lying diagonally, complete slender handle and four separated straight tines fully visible. Subtle steel reflections and a small soft shadow. No other utensils, food or branching paths.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted natural colors. Clear central subject within middle 70 percent, generous margins, readable on a small memory card.\nConstraints: no letters, written words, numerals, labels, logos, watermarks, borders or card UI. One independent image for this exact sense. Accurate anatomy and coherent geometry. The image alone must convey the current meaning; semantic clarity is the highest priority.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ec-9767-7080-b925-abe5213f5376/exec-887e2b37-8ded-41de-8830-cc9893019d77.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/a/source/fork.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/fork.webp",
+      "intendedSavedPath": "public/images/words/8b/8b4435c3829d347bffe6aa0cfb20b2ac1b82aabe4668922029e3b713705f5cab.webp",
+      "generatedAt": "2026-10-04T12:54:35.450176+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: complete silver dining fork shown diagonally with four separate straight tines and one long handle. Clearly distinct from spoon and knife; no text, unrelated utensils or occluded parts.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:54:35.531795+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:56:05.913451+00:00",
+        "decision": {
+          "file": "image-04.webp",
+          "senseId": "8b4435c3829d347bffe6aa0cfb20b2ac1b82aabe4668922029e3b713705f5cab",
+          "word": "fork",
+          "pos": "n.",
+          "meaning": "叉子",
+          "candidatePath": "output/imagegen/batch-20261004-0541/a/candidates/fork.webp",
+          "candidateSha256": "3c987e04a419d547c369577aa1e6d34e8b0c46209ea04694f67cd8479f5fcb43",
+          "observation": "一把完整银色餐叉斜放，有四根细长叉齿和一个长柄，金属反光明显，第一眼是叉子；无文字。",
+          "approved": true,
+          "reason": "四叉齿和细长握柄清楚，独立完整餐叉无食物干扰，直接识别叉子，符合 fork / n. / 叉子。",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:56:05.913451+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-a/decisions.json"
+      },
+      "savedPath": "public/images/words/8b/8b4435c3829d347bffe6aa0cfb20b2ac1b82aabe4668922029e3b713705f5cab.webp",
+      "alt": "一把完整银色餐叉斜放，有四根细长叉齿和一个长柄，金属反光明显，第一眼是叉子；无文字。"
     }
   ],
-  "generationStopReason": "Shared built-in imagegen connection failure; ungenerated assignments preserved for next run.",
-  "acceptedCount": 10,
+  "candidates": [],
+  "todo": [],
+  "acceptedCount": 15,
   "deferredCount": 0,
-  "generatedSenseCount": 10,
-  "generationCalls": 10,
-  "ungeneratedCount": 5,
-  "reviewCompletedAt": "2026-10-04T09:33:51.242158+00:00",
-  "syncedAt": "2026-10-04T09:57:12.029871+00:00"
+  "generatedSenseCount": 15,
+  "generationCalls": 15,
+  "ungeneratedCount": 0,
+  "reviewCompletedAt": "2026-10-04T13:59:37.344605+00:00",
+  "syncedAt": "2026-10-04T14:04:10.833176+00:00",
+  "historicalGenerationStopReasons": [
+    "Shared built-in imagegen connection failure; ungenerated assignments preserved for next run."
+  ],
+  "recoveryRunId": "20261004-1241-recovery"
 }

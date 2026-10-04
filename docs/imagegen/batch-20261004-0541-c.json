@@ -2,7 +2,7 @@
   "mode": "built-in image_gen",
   "batch": "20261004-0541-c",
   "parentBatch": "20261004-0541",
-  "status": "partial_synced_pending_generation",
+  "status": "reviewed",
   "assets": [
     {
       "senseId": "e4b1dc7657790b08ed2b8f43a19f180c58b40a4e819b91950f55b75825273509",
@@ -372,10 +372,7 @@
       },
       "savedPath": "public/images/words/db/dbc12edfbe25c0fa9c43fb58d83da2477bcfbcfc2dbacfedeeaa1aa2fca03df7.webp",
       "alt": "Orange and black butterfly with two pairs of spread patterned wings, slim body and clubbed antennae."
-    }
-  ],
-  "candidates": [],
-  "todo": [
+    },
     {
       "senseId": "cf0a3841aaeaf76c1f5d79041b82b4a92bd51d3ef12fb667620f7963e51f6501",
       "wordId": "dict:frog",
@@ -384,10 +381,38 @@
       "pos": "n.",
       "meaning": "青蛙",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"frog\",\"pos\":\"n.\",\"meaning\":\"青蛙\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/cf/cf0a3841aaeaf76c1f5d79041b82b4a92bd51d3ef12fb667620f7963e51f6501.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: frog (n.), Chinese meaning 青蛙.\nPrimary request: One recognizable green frog sitting in a natural crouch viewed from three-quarter front. Smooth moist green skin, protruding golden eyes, broad mouth, short forelegs, powerful folded long hindlegs and long webbed toes. Whole frog fully visible on a tiny lily pad near a hint of water. No tail, no warty toad skin, no clothing.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a10681-78dc-7200-a1f6-f4bcb020dbed/exec-193700a2-6edc-4917-94df-46f4039a8eb6.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/c/source/frog.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/frog.webp",
+      "intendedSavedPath": "public/images/words/cf/cf0a3841aaeaf76c1f5d79041b82b4a92bd51d3ef12fb667620f7963e51f6501.webp",
+      "generatedAt": "2026-10-04T10:45:42.254391+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: green frog with protruding golden eyes, broad mouth, folded strong hindlegs and splayed long toes crouches on a lily pad. Whole animal is distinctive and understandable without text; no tail or clothing.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T10:45:42.320421+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:17:22.136109+00:00",
+        "decision": {
+          "file": "image-02.webp",
+          "senseId": "cf0a3841aaeaf76c1f5d79041b82b4a92bd51d3ef12fb667620f7963e51f6501",
+          "word": "frog",
+          "pos": "n.",
+          "meaning": "青蛙",
+          "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/frog.webp",
+          "candidateSha256": "63dda279c8a151d9b22bdd8c1cb51eda84b124a96760b081f81dee632410189e",
+          "observation": "A green frog crouching on a lily pad, with bulging eyes, broad mouth, folded powerful hindlegs and spread long toes beside water.",
+          "approved": true,
+          "reason": "Bulging eyes, crouched powerful rear legs and smooth green amphibian shape on lily pad clearly convey frog.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:17:22.136109+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-c/decisions.json"
+      },
+      "savedPath": "public/images/words/cf/cf0a3841aaeaf76c1f5d79041b82b4a92bd51d3ef12fb667620f7963e51f6501.webp",
+      "alt": "A green frog crouching on a lily pad, with bulging eyes, broad mouth, folded powerful hindlegs and spread long toes beside water."
     },
     {
       "senseId": "0c8e4a542f9ba26dde0e57b3a40caa317a3f31c9c5deddb966c13fa9178cdddf",
@@ -397,10 +422,38 @@
       "pos": "n.",
       "meaning": "草莓",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"strawberry\",\"pos\":\"n.\",\"meaning\":\"草莓\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/0c/0c8e4a542f9ba26dde0e57b3a40caa317a3f31c9c5deddb966c13fa9178cdddf.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: strawberry (n.), Chinese meaning 草莓.\nPrimary request: One large ripe strawberry with a second cut half beside it. Bright red heart-shaped conical fruit with many tiny pale seeds on the outside and a green star-shaped leafy cap. Cut half shows soft pale-red flesh. No other fruit, no bowl.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a10681-78dc-7200-a1f6-f4bcb020dbed/exec-441d7fde-a695-43f5-a85a-4466659fba54.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/c/source/strawberry.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/strawberry.webp",
+      "intendedSavedPath": "public/images/words/0c/0c8e4a542f9ba26dde0e57b3a40caa317a3f31c9c5deddb966c13fa9178cdddf.webp",
+      "generatedAt": "2026-10-04T10:50:57.565147+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: red conical strawberry with numerous pale outside seeds, green leafy cap and matching cut half with pale center. Distinctive strawberry shape and texture are clear without labels; no other fruit or text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T10:50:57.631620+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:17:22.136109+00:00",
+        "decision": {
+          "file": "image-04.webp",
+          "senseId": "0c8e4a542f9ba26dde0e57b3a40caa317a3f31c9c5deddb966c13fa9178cdddf",
+          "word": "strawberry",
+          "pos": "n.",
+          "meaning": "草莓",
+          "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/strawberry.webp",
+          "candidateSha256": "34f94ae494516a9676a08f3487378c0c03f0531288c254a178a36c4443b5c6db",
+          "observation": "A red strawberry with many pale external seeds and green leafy cap beside a cut half showing pale red flesh.",
+          "approved": true,
+          "reason": "External seeds on red conical fruit with leafy cap and cut half clearly identify strawberry.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:17:22.136109+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-c/decisions.json"
+      },
+      "savedPath": "public/images/words/0c/0c8e4a542f9ba26dde0e57b3a40caa317a3f31c9c5deddb966c13fa9178cdddf.webp",
+      "alt": "A red strawberry with many pale external seeds and green leafy cap beside a cut half showing pale red flesh."
     },
     {
       "senseId": "13c84dafabf5de4edcb3c58590a244da0288073aa6a029903c53e8cb36b7274f",
@@ -410,10 +463,38 @@
       "pos": "adv.",
       "meaning": "高声地",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"loudly\",\"pos\":\"adv.\",\"meaning\":\"高声地\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/13/13c84dafabf5de4edcb3c58590a244da0288073aa6a029903c53e8cb36b7274f.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: loudly (adv.), Chinese meaning 高声地.\nPrimary request: A concrete everyday scene of a child speaking VERY LOUDLY toward another child a short distance away. The speaker leans forward with mouth wide open and hands cupped around their mouth, visibly projecting their voice; broad simple curved sound-wave strokes radiate from the open mouth toward the listener. The listener winces and covers both ears because the voice is loud. Both are safe and ordinary, not angry, not crying, not singing; no musical instrument or megaphone. Clear emphasis on the manner of speaking at high volume. No speech bubbles or written sounds.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106f0-1407-73a1-a75b-58e328bff4bd/exec-15874b35-ca20-4e30-8e66-95becf0438bf.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/c/source/loudly.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/loudly.webp",
+      "intendedSavedPath": "public/images/words/13/13c84dafabf5de4edcb3c58590a244da0288073aa6a029903c53e8cb36b7274f.webp",
+      "generatedAt": "2026-10-04T12:47:01.623955+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: child leans forward with wide open mouth and hands cupped around it; broad radiating sound arcs reach a second child who winces and covers both ears. These linked cues show speaking at high volume, conveying loudly without labels. No text, singing or megaphone.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:47:01.671303+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:17:22.136109+00:00",
+        "decision": {
+          "file": "image-06.webp",
+          "senseId": "13c84dafabf5de4edcb3c58590a244da0288073aa6a029903c53e8cb36b7274f",
+          "word": "loudly",
+          "pos": "adv.",
+          "meaning": "高声地",
+          "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/loudly.webp",
+          "candidateSha256": "82a86aa6e43a05a7f7ff521bab54f24367ea66e34ff939450f51c2911c33aafa",
+          "observation": "A boy cups his hands around his wide open mouth and calls toward a girl; broad sound arcs leave his mouth while she winces and covers both ears, showing a very loud voice.",
+          "approved": true,
+          "reason": "Open calling mouth, cupped hands, broad sound arcs and nearby listener covering ears visibly convey the high volume manner of speaking, matching loudly/高声地.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:17:22.136109+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-c/decisions.json"
+      },
+      "savedPath": "public/images/words/13/13c84dafabf5de4edcb3c58590a244da0288073aa6a029903c53e8cb36b7274f.webp",
+      "alt": "A boy cups his hands around his wide open mouth and calls toward a girl; broad sound arcs leave his mouth while she winces and covers both ears, showing a very loud voice."
     },
     {
       "senseId": "173f1dd7d410d5d6783dfc9698dc19a77b2cc89f9245b78486ef40daddfa38da",
@@ -423,10 +504,38 @@
       "pos": "n.",
       "meaning": "桃子",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"peach\",\"pos\":\"n.\",\"meaning\":\"桃子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/17/173f1dd7d410d5d6783dfc9698dc19a77b2cc89f9245b78486ef40daddfa38da.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: peach (n.), Chinese meaning 桃子.\nPrimary request: One whole ripe peach beside a cut peach half. Round slightly heart-shaped fuzzy pink-and-golden skin with the characteristic curved crease and a small pointed tip; one narrow green leaf attached to the short stem. The cut half clearly exposes juicy yellow flesh around one large deeply ridged brown stone. No other fruit.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106f0-1407-73a1-a75b-58e328bff4bd/exec-7eb6aa59-9fb6-4a5e-90db-a06e98f3c68a.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/c/source/peach.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/peach.webp",
+      "intendedSavedPath": "public/images/words/17/173f1dd7d410d5d6783dfc9698dc19a77b2cc89f9245b78486ef40daddfa38da.webp",
+      "generatedAt": "2026-10-04T12:50:15.861775+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: whole fuzzy blush-pink and golden peach with characteristic crease, pointed lower tip and narrow green leaf; adjacent cut half exposes juicy yellow flesh and a deeply ridged large brown stone. Distinctive peach cues clear without text, no other fruits.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:50:15.906944+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:17:22.136109+00:00",
+        "decision": {
+          "file": "image-03.webp",
+          "senseId": "173f1dd7d410d5d6783dfc9698dc19a77b2cc89f9245b78486ef40daddfa38da",
+          "word": "peach",
+          "pos": "n.",
+          "meaning": "桃子",
+          "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/peach.webp",
+          "candidateSha256": "013409795dc7fa1ce9f8175e4abb02384e5db91db831ec3c95d58e599dff22ca",
+          "observation": "A fuzzy pink and golden peach with a longitudinal crease and pointed bottom beside a cut half showing yellow flesh and a deeply ridged brown stone.",
+          "approved": true,
+          "reason": "Fuzzy skin, peach crease and exposed ridged stone distinguish peach from apple or other round fruit.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:17:22.136109+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-c/decisions.json"
+      },
+      "savedPath": "public/images/words/17/173f1dd7d410d5d6783dfc9698dc19a77b2cc89f9245b78486ef40daddfa38da.webp",
+      "alt": "A fuzzy pink and golden peach with a longitudinal crease and pointed bottom beside a cut half showing yellow flesh and a deeply ridged brown stone."
     },
     {
       "senseId": "32cf8dbd15aac14d85e056c8583126b3dd0bcb1ebac1feb426722c43722b3778",
@@ -436,10 +545,38 @@
       "pos": "n.",
       "meaning": "伞",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"umbrella\",\"pos\":\"n.\",\"meaning\":\"伞\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/32/32cf8dbd15aac14d85e056c8583126b3dd0bcb1ebac1feb426722c43722b3778.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: umbrella (n.), Chinese meaning 伞.\nPrimary request: One fully opened rain umbrella at a slight diagonal, the entire object visible. Broad domed muted-blue fabric canopy divided by ribs, scalloped edge, a single long central shaft and a curved J-shaped handle. A few small raindrops around the canopy clarify its function, minimal background, no person, no parasol fringe.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106f0-1407-73a1-a75b-58e328bff4bd/exec-499be19b-6000-4fc0-a792-92e5d94c0a67.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/c/source/umbrella.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/umbrella.webp",
+      "intendedSavedPath": "public/images/words/32/32cf8dbd15aac14d85e056c8583126b3dd0bcb1ebac1feb426722c43722b3778.webp",
+      "generatedAt": "2026-10-04T12:54:33.317245+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: single open blue umbrella with broad domed canopy, visible ribs, scalloped edge, central straight shaft and curved wooden J handle; raindrops reinforce rain protection. Entire umbrella clear and recognizable without text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:54:33.361458+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:17:22.136109+00:00",
+        "decision": {
+          "file": "image-05.webp",
+          "senseId": "32cf8dbd15aac14d85e056c8583126b3dd0bcb1ebac1feb426722c43722b3778",
+          "word": "umbrella",
+          "pos": "n.",
+          "meaning": "伞",
+          "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/umbrella.webp",
+          "candidateSha256": "0062d0931cbd8d6fec0ab5028eafabb7000c4e8a90946acc6f1b7c69809cd2e3",
+          "observation": "An open blue umbrella with segmented canopy, ribs, straight shaft and curved wooden handle in falling raindrops.",
+          "approved": true,
+          "reason": "Open ribbed canopy, shaft and hooked handle with rain clearly identify umbrella.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:17:22.136109+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-c/decisions.json"
+      },
+      "savedPath": "public/images/words/32/32cf8dbd15aac14d85e056c8583126b3dd0bcb1ebac1feb426722c43722b3778.webp",
+      "alt": "An open blue umbrella with segmented canopy, ribs, straight shaft and curved wooden handle in falling raindrops."
     },
     {
       "senseId": "058355294c9524d89a3ae5fab006d8b10e5f455da0525d5bc3e384322dcc8ac8",
@@ -449,18 +586,66 @@
       "pos": "n.",
       "meaning": "运动场",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"playground\",\"pos\":\"n.\",\"meaning\":\"运动场\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/05/058355294c9524d89a3ae5fab006d8b10e5f455da0525d5bc3e384322dcc8ac8.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: playground (n.), Chinese meaning 运动场.\nPrimary request: A small school sports playground shown from a slightly elevated angle. The central subject is a green playing field outlined with simple white sport boundary lines, one clear soccer goal at the far end, a reddish oval running track curving around the field, and a basketball hoop at the near side. A few small children are actively running and kicking a soccer ball, establishing an outdoor place for exercise and play. Keep the field and facilities dominant and legible, without crowds. No nursery slide, no swings, no stadium stands, no writing or lane numbers.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106f0-1407-73a1-a75b-58e328bff4bd/exec-ba892c9c-6fe9-4798-a391-ba6f9736c929.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/c/source/playground.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/playground.webp",
+      "intendedSavedPath": "public/images/words/05/058355294c9524d89a3ae5fab006d8b10e5f455da0525d5bc3e384322dcc8ac8.webp",
+      "generatedAt": "2026-10-04T12:59:52.451028+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Viewed actual generated image: dominant school sports ground with marked green soccer field and goal, red running track, basketball hoop and a few children playing soccer. The school building and outdoor facilities establish an exercise ground; no swings or slide, and no text. Exact Chinese sense 运动场 is clear at card scale.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:59:52.484808+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:17:22.136109+00:00",
+        "decision": {
+          "file": "image-01.webp",
+          "senseId": "058355294c9524d89a3ae5fab006d8b10e5f455da0525d5bc3e384322dcc8ac8",
+          "word": "playground",
+          "pos": "n.",
+          "meaning": "运动场",
+          "candidatePath": "output/imagegen/batch-20261004-0541/c/candidates/playground.webp",
+          "candidateSha256": "2d4ba246d660c88a25977c2e6a06d318723e0b84e301d70879fac47d781c519a",
+          "observation": "A school sports ground with an oval red running track enclosing a marked green football pitch, a goal, basketball hoop and children playing ball.",
+          "approved": true,
+          "reason": "Track, marked ball field and school setting identify a sports ground matching current Chinese sense 运动场; no slide or swing suggesting a different play-area sense.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:17:22.136109+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-c/decisions.json"
+      },
+      "savedPath": "public/images/words/05/058355294c9524d89a3ae5fab006d8b10e5f455da0525d5bc3e384322dcc8ac8.webp",
+      "alt": "A school sports ground with an oval red running track enclosing a marked green football pitch, a goal, basketball hoop and children playing ball."
     }
   ],
-  "generationStopReason": "Shared built-in imagegen connection failure; ungenerated assignments preserved for next run.",
-  "acceptedCount": 9,
+  "candidates": [],
+  "todo": [],
+  "acceptedCount": 15,
   "deferredCount": 0,
-  "generatedSenseCount": 9,
-  "generationCalls": 9,
-  "ungeneratedCount": 6,
-  "reviewCompletedAt": "2026-10-04T09:33:51.242158+00:00",
-  "syncedAt": "2026-10-04T09:57:12.031200+00:00"
+  "generatedSenseCount": 15,
+  "generationCalls": 16,
+  "ungeneratedCount": 0,
+  "reviewCompletedAt": "2026-10-04T13:59:37.344605+00:00",
+  "syncedAt": "2026-10-04T14:04:10.833176+00:00",
+  "historicalGenerationStopReasons": [
+    "Shared built-in imagegen connection failure; ungenerated assignments preserved for next run."
+  ],
+  "generationFailures": [
+    {
+      "senseId": "13c84dafabf5de4edcb3c58590a244da0288073aa6a029903c53e8cb36b7274f",
+      "word": "loudly",
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square English vocabulary illustration, readable as a small card.\nExact target sense: loudly (adv.), Chinese meaning 高声地.\nPrimary request: A concrete everyday scene of a child speaking VERY LOUDLY toward another child a short distance away. The speaker leans forward with mouth wide open and hands cupped around their mouth, visibly projecting their voice; broad simple curved sound-wave strokes radiate from the open mouth toward the listener. The listener winces and covers both ears because the voice is loud. Both are safe and ordinary, not angry, not crying, not singing; no musical instrument or megaphone. Clear emphasis on the manner of speaking at high volume. No speech bubbles or written sounds.\nSemantic requirement: the image alone, with the word and meaning hidden, must convey the exact target sense.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; soft natural lighting, gentle muted colors, clear distinctive forms.\nComposition: one coherent centered subject or tightly related scene within the middle 75 percent; fully visible with generous blank margins. Simple uncluttered composition.\nConstraints: absolutely no text, letters, numerals, written labels, logos, watermarks, borders or card UI. No collage or multiple panels. Generate only this one image.",
+      "error": "Previous imageGeneration ended with failed status and savedPath=null",
+      "reviewed": false,
+      "source": null,
+      "candidatePath": null,
+      "evidencePath": "output/imagegen/batch-20261004-0541/c/recovery-20261004-1040/loudly-invocation.json",
+      "runId": "20261004-1040-recovery",
+      "resolvedBySource": "/Users/huangjiabao/.codex/generated_images/01a106f0-1407-73a1-a75b-58e328bff4bd/exec-15874b35-ca20-4e30-8e66-95becf0438bf.png",
+      "resolvedByRun": "20261004-1241-recovery"
+    }
+  ],
+  "recoveryRunId": "20261004-1241-recovery"
 }

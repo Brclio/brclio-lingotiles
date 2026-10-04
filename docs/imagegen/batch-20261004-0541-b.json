@@ -2,7 +2,7 @@
   "mode": "built-in image_gen",
   "batch": "20261004-0541-b",
   "parentBatch": "20261004-0541",
-  "status": "partial_synced_pending_generation",
+  "status": "reviewed",
   "assets": [
     {
       "senseId": "30571e0d67b086723e0d7e6b35a6d42579f79381c91bb2b8f141985fdeba7557",
@@ -331,10 +331,7 @@
       },
       "savedPath": "public/images/words/4d/4d5bd525b3605ca1c4e077d14a98c1f0da7fc0e2e435897f7e1c737ec44ffb43.webp",
       "alt": "一头灰色大象，全身可见，长鼻、大耳、长獠牙及四根粗腿，第一眼是象。"
-    }
-  ],
-  "candidates": [],
-  "todo": [
+    },
     {
       "senseId": "cd57ca80527f0697b4e785fccf974f41f07c49d6ff127943247de9540f7e6b3d",
       "wordId": "dict:spoon",
@@ -343,10 +340,38 @@
       "pos": "n.",
       "meaning": "匙",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"spoon\",\"pos\":\"n.\",\"meaning\":\"匙\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/cd/cd57ca80527f0697b4e785fccf974f41f07c49d6ff127943247de9540f7e6b3d.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: spoon (n.), 匙. Communicate this exact sense visually without requiring captions. Subject: One ordinary stainless-steel spoon centered diagonally, fully visible from a high oblique angle. Clearly show its deep oval concave bowl connected to one long narrow handle, silver-gray reflections and soft cast shadow. No fork teeth, no knife blade, no other cutlery, no food, no writing. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a10681-4491-74c1-9f06-ae4647c31d36/exec-c1eb2fb4-2334-4f29-9995-6babd074e666.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/spoon.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/spoon.webp",
+      "intendedSavedPath": "public/images/words/cd/cd57ca80527f0697b4e785fccf974f41f07c49d6ff127943247de9540f7e6b3d.webp",
+      "generatedAt": "2026-10-04T10:50:58.029849+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: single stainless-steel spoon, clear concave oval bowl and long narrow handle, full object visible, no text. Without any word label this unmistakably reads as a spoon.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T10:50:58.116893+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.144827+00:00",
+        "decision": {
+          "file": "image-04.webp",
+          "senseId": "cd57ca80527f0697b4e785fccf974f41f07c49d6ff127943247de9540f7e6b3d",
+          "word": "spoon",
+          "pos": "n.",
+          "meaning": "匙",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/spoon.webp",
+          "candidateSha256": "648a255d6c39894c45978aa350bb17c8085efbbd04e73fd51be6b056c683b08b",
+          "observation": "Single silver spoon lying diagonally, with an oval concave bowl and a long flat rounded handle.",
+          "approved": true,
+          "reason": "The concave oval bowl and long handle unmistakably depict a spoon and match the noun 匙.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.144827+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/cd/cd57ca80527f0697b4e785fccf974f41f07c49d6ff127943247de9540f7e6b3d.webp",
+      "alt": "Single silver spoon lying diagonally, with an oval concave bowl and a long flat rounded handle."
     },
     {
       "senseId": "8150bdf3a4da26aaaa5c0ee248cf4f3368f1e9852334d383006bb7c532d7c9ed",
@@ -356,10 +381,38 @@
       "pos": "n.",
       "meaning": "自行车",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"bicycle\",\"pos\":\"n.\",\"meaning\":\"自行车\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/81/8150bdf3a4da26aaaa5c0ee248cf4f3368f1e9852334d383006bb7c532d7c9ed.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: bicycle (n.), 自行车. Communicate this exact sense visually without requiring captions. Subject: One everyday pedal bicycle in clean full side view: exactly two large spoked wheels joined by a recognizable triangular teal frame, black tires, one saddle, curved handlebars, pedals and visible chain. Bicycle stands on a small kickstand. Entire wheels visible, balanced accurate construction. No rider, motor, labels or extra wheels. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-3e304254-1564-4eed-9aca-106d7a6efd6f.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/bicycle.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/bicycle.webp",
+      "intendedSavedPath": "public/images/words/81/8150bdf3a4da26aaaa5c0ee248cf4f3368f1e9852334d383006bb7c532d7c9ed.webp",
+      "generatedAt": "2026-10-04T12:46:53.959227+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: complete teal bicycle with two large spoked wheels, triangular frame, handlebars, saddle, pedals, chain and kickstand. Without labels the object is unmistakably a pedal bicycle, matching bicycle noun 自行车; no letters or irrelevant props.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:46:54.042416+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.145864+00:00",
+        "decision": {
+          "file": "image-06.webp",
+          "senseId": "8150bdf3a4da26aaaa5c0ee248cf4f3368f1e9852334d383006bb7c532d7c9ed",
+          "word": "bicycle",
+          "pos": "n.",
+          "meaning": "自行车",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/bicycle.webp",
+          "candidateSha256": "43744fa1cad4d885098a6c44049eb00d03701282e39579dfebb8a8a8e725f257",
+          "observation": "Teal bicycle in full side view: two spoked wheels, triangular frame, pedals with chain drive, saddle, handlebars and no motor.",
+          "approved": true,
+          "reason": "The two wheels, pedals, chain drive, saddle and handlebars clearly depict a bicycle and directly match 自行车.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.145864+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/81/8150bdf3a4da26aaaa5c0ee248cf4f3368f1e9852334d383006bb7c532d7c9ed.webp",
+      "alt": "Teal bicycle in full side view: two spoked wheels, triangular frame, pedals with chain drive, saddle, handlebars and no motor."
     },
     {
       "senseId": "3a385f4167a72d6f1b94442cbf1b30045c39043af034157b8b02bc9f17fde695",
@@ -369,10 +422,38 @@
       "pos": "n.",
       "meaning": "铅笔",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"pencil\",\"pos\":\"n.\",\"meaning\":\"铅笔\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/3a/3a385f4167a72d6f1b94442cbf1b30045c39043af034157b8b02bc9f17fde695.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: pencil (n.), 铅笔. Communicate this exact sense visually without requiring captions. Subject: One classic wooden graphite pencil shown large diagonally, fully visible. Yellow-painted hexagonal wooden barrel, one end sharpened to exposed pale wood and a clearly dark graphite point, other end with a small pink eraser held by an unmarked silver ferrule. No pen cap, no ink nib, no words or branding, no sheet of writing. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-7745a5b0-8deb-4da3-939a-6124c3c8b475.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/pencil.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/pencil.webp",
+      "intendedSavedPath": "public/images/words/3a/3a385f4167a72d6f1b94442cbf1b30045c39043af034157b8b02bc9f17fde695.webp",
+      "generatedAt": "2026-10-04T12:49:47.256304+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: single full yellow wooden pencil with sharpened pale wood and dark graphite point, opposite pink eraser and silver ferrule. The silhouette and materials clearly identify pencil noun 铅笔 without any label; no text or distracting props.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:49:47.348768+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.145321+00:00",
+        "decision": {
+          "file": "image-05.webp",
+          "senseId": "3a385f4167a72d6f1b94442cbf1b30045c39043af034157b8b02bc9f17fde695",
+          "word": "pencil",
+          "pos": "n.",
+          "meaning": "铅笔",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/pencil.webp",
+          "candidateSha256": "269e6656036bc745ec8548a45f1e92a75ea2e1acfab2c935fe01769e6bc22ab8",
+          "observation": "Yellow wooden pencil sharpened to a visible graphite point, with exposed wood and a pink eraser held by a silver metal band.",
+          "approved": true,
+          "reason": "Exposed sharpened wood around a graphite point distinguishes a pencil from a pen; the eraser reinforces the exact noun 铅笔.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.145321+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/3a/3a385f4167a72d6f1b94442cbf1b30045c39043af034157b8b02bc9f17fde695.webp",
+      "alt": "Yellow wooden pencil sharpened to a visible graphite point, with exposed wood and a pink eraser held by a silver metal band."
     },
     {
       "senseId": "68ff32d00f9aa99bc112658c3dd91e12838ddfe4951531e6fae2d0dd9a7285ac",
@@ -382,10 +463,38 @@
       "pos": "n.",
       "meaning": "笔记本",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"notebook\",\"pos\":\"n.\",\"meaning\":\"笔记本\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/68/68ff32d00f9aa99bc112658c3dd91e12838ddfe4951531e6fae2d0dd9a7285ac.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: notebook (n.), 笔记本. Communicate this exact sense visually without requiring captions. Subject: One physical paper notebook lying open at an oblique angle. A prominent black metal spiral binding down the middle, cream pages with faint blue ruled horizontal lines but absolutely no handwriting or letters, a teal soft cover clearly visible beneath the pages. Show the thickness of a modest stack of paper. The object must read as a school notebook, not a printed book, laptop, or loose sheets. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-15d06f69-fc8a-4945-b542-7d6f8d1d325d.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/notebook.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/notebook.webp",
+      "intendedSavedPath": "public/images/words/68/68ff32d00f9aa99bc112658c3dd91e12838ddfe4951531e6fae2d0dd9a7285ac.webp",
+      "generatedAt": "2026-10-04T12:54:03.622446+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: open physical paper notebook, blank ruled pages, clear central spiral binding, teal cover and visible paper thickness. Without captions this reads as a school notebook, matching notebook noun 笔记本 and clearly distinct from laptop or printed storybook. No letters or extraneous objects.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:54:03.709552+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.144350+00:00",
+        "decision": {
+          "file": "image-03.webp",
+          "senseId": "68ff32d00f9aa99bc112658c3dd91e12838ddfe4951531e6fae2d0dd9a7285ac",
+          "word": "notebook",
+          "pos": "n.",
+          "meaning": "笔记本",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/notebook.webp",
+          "candidateSha256": "5fbd37d17cf1a0c3d07a2f258a1af6611144c6731a51b2fec0b9dd9569e85e71",
+          "observation": "Open paper notebook with blank ruled pages, central wire spiral binding and a teal cover visible beneath the paper.",
+          "approved": true,
+          "reason": "Ruled blank paper pages and spiral binding clearly show a writing notebook, directly matching the paper-object sense 笔记本.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.144350+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/68/68ff32d00f9aa99bc112658c3dd91e12838ddfe4951531e6fae2d0dd9a7285ac.webp",
+      "alt": "Open paper notebook with blank ruled pages, central wire spiral binding and a teal cover visible beneath the paper."
     },
     {
       "senseId": "13d7abd12391a5a710ed1afbb53444aa6efa92c709ec11a83f894ae1bd1a6223",
@@ -395,10 +504,38 @@
       "pos": "n.",
       "meaning": "猴子",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"monkey\",\"pos\":\"n.\",\"meaning\":\"猴子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/13/13d7abd12391a5a710ed1afbb53444aa6efa92c709ec11a83f894ae1bd1a6223.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: monkey (n.), 猴子. Communicate this exact sense visually without requiring captions. Subject: One small brown monkey sitting naturally on a short branch. Full body visible, long curled tail conspicuous, rounded ears, expressive bare light-tan face, long arms and dexterous hands gripping the branch. Animal anatomy, no clothing, no toys, no other animals. Distinguish a tailed monkey from an ape. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-2dd5069f-aefe-4567-8c9c-b856318bf600.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/monkey.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/monkey.webp",
+      "intendedSavedPath": "public/images/words/13/13d7abd12391a5a710ed1afbb53444aa6efa92c709ec11a83f894ae1bd1a6223.webp",
+      "generatedAt": "2026-10-04T12:58:35.347930+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: one small brown monkey sitting on a branch, clear long curling tail, rounded bare ears, light bare face, long arms and gripping hands and feet. Full animal visible with no clothing or text. Without target labels this is directly recognizable as monkey noun 猴子; conspicuous tail distinguishes it from an ape.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T12:58:35.429429+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.142859+00:00",
+        "decision": {
+          "file": "image-01.webp",
+          "senseId": "13d7abd12391a5a710ed1afbb53444aa6efa92c709ec11a83f894ae1bd1a6223",
+          "word": "monkey",
+          "pos": "n.",
+          "meaning": "猴子",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/monkey.webp",
+          "candidateSha256": "9993b8e24d79a560edaab7dfa95e9c49130b2ddfb41155ce7e9d0963e7c98f52",
+          "observation": "Small brown monkey seated on a branch; rounded exposed face, large ears, gripping hands and feet, and a long curled tail.",
+          "approved": true,
+          "reason": "The exposed primate face, gripping hands and long tail are distinctive monkey characteristics and directly depict the noun 猴子 without text.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.142859+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/13/13d7abd12391a5a710ed1afbb53444aa6efa92c709ec11a83f894ae1bd1a6223.webp",
+      "alt": "Small brown monkey seated on a branch; rounded exposed face, large ears, gripping hands and feet, and a long curled tail."
     },
     {
       "senseId": "dab98e50aef6ec38a423a30e7c53a058679ebde63e402f072d51c88a7ed84ff5",
@@ -408,10 +545,38 @@
       "pos": "n.",
       "meaning": "胡萝卜",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"carrot\",\"pos\":\"n.\",\"meaning\":\"胡萝卜\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/da/dab98e50aef6ec38a423a30e7c53a058679ebde63e402f072d51c88a7ed84ff5.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: carrot (n.), 胡萝卜. Communicate this exact sense visually without requiring captions. Subject: One fresh carrot shown completely, with a long tapered orange root, subtle horizontal root ridges, thin wispy root tip, and a full cluster of feathery green carrot leaves attached to its broad top. Isolated diagonal arrangement with soft shadow. No other vegetables, cut pieces, hands or labels. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-c9d1217f-9e7d-4337-b6b7-294c6e052c31.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/carrot.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/carrot.webp",
+      "intendedSavedPath": "public/images/words/da/dab98e50aef6ec38a423a30e7c53a058679ebde63e402f072d51c88a7ed84ff5.webp",
+      "generatedAt": "2026-10-04T13:11:59.594000+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: whole orange tapered carrot root with subtle root rings, thin root tip and attached feathery green leaves. Its typical shape and color directly convey carrot noun 胡萝卜 without labels, fully visible and distinct from other root vegetables. No text or irrelevant objects.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T13:11:59.659248+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.146398+00:00",
+        "decision": {
+          "file": "image-07.webp",
+          "senseId": "dab98e50aef6ec38a423a30e7c53a058679ebde63e402f072d51c88a7ed84ff5",
+          "word": "carrot",
+          "pos": "n.",
+          "meaning": "胡萝卜",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/carrot.webp",
+          "candidateSha256": "0f4e0a702f1acebd34122fa0a6ce1d42dd6048482878a41908b339bdfa0d8ae8",
+          "observation": "Whole orange carrot with a long tapering root, fine surface rings and feathery green leafy tops.",
+          "approved": true,
+          "reason": "The orange tapered root and fine feathery green tops clearly depict a carrot and distinguish it from other root vegetables, matching 胡萝卜.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.146398+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/da/dab98e50aef6ec38a423a30e7c53a058679ebde63e402f072d51c88a7ed84ff5.webp",
+      "alt": "Whole orange carrot with a long tapering root, fine surface rings and feathery green leafy tops."
     },
     {
       "senseId": "f3c478a26533b4b5a14867ec15001330cba7dbd263b111cdd22857ef9e52a5cd",
@@ -421,18 +586,69 @@
       "pos": "n.",
       "meaning": "狐狸",
       "stageId": "primary",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"fox\",\"pos\":\"n.\",\"meaning\":\"狐狸\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/f3/f3c478a26533b4b5a14867ec15001330cba7dbd263b111cdd22857ef9e52a5cd.webp",
-      "status": "pending"
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: fox (n.), 狐狸. Communicate this exact sense visually without requiring captions. Subject: One red fox in clear full-body three-quarter side view. Rich orange-red fur, slender pointed muzzle, tall triangular ears, white chest and lower face, black lower legs and one very large bushy tail with a distinct white tip curling beside it. Natural proportions, alert stance. No collar, no clothing; no wolf-gray fur, no domestic dog features. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-7cd49dc8-3e28-43d0-9a19-672cc638e3dc.png",
+      "originalLocalPath": "output/imagegen/batch-20261004-0541/b/source/fox.png",
+      "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/fox.webp",
+      "intendedSavedPath": "public/images/words/f3/f3c478a26533b4b5a14867ec15001330cba7dbd263b111cdd22857ef9e52a5cd.webp",
+      "generatedAt": "2026-10-04T13:21:31.618227+00:00",
+      "reviewed": true,
+      "status": "ready",
+      "selfReviewNotes": "Actual generated image visually inspected: complete red fox with pointed muzzle, tall triangular ears, white chin and chest, black lower legs and long bushy white-tipped tail. Typical anatomy and coloration distinguish fox noun 狐狸 from a wolf or domestic dog, no captions or props required; no text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-04T13:21:31.684811+00:00",
+      "review": {
+        "method": "individual image-first cross-review; general task context known",
+        "reviewedAt": "2026-10-04T13:49:21.143897+00:00",
+        "decision": {
+          "file": "image-02.webp",
+          "senseId": "f3c478a26533b4b5a14867ec15001330cba7dbd263b111cdd22857ef9e52a5cd",
+          "word": "fox",
+          "pos": "n.",
+          "meaning": "狐狸",
+          "candidatePath": "output/imagegen/batch-20261004-0541/b/candidates/fox.webp",
+          "candidateSha256": "3e778270ccbf9c7c21002a98e3a3f9de5583156f9198e224986ec71769a678c6",
+          "observation": "Red-orange fox standing in side view with pointed upright ears, narrow muzzle, dark lower legs and a long bushy white-tipped tail.",
+          "approved": true,
+          "reason": "The pointed ears and narrow muzzle, orange coat, dark legs and bushy white-tipped tail distinguish a fox from a dog and match 狐狸.",
+          "method": "individual image-first cross-review; general task context known",
+          "reviewedAt": "2026-10-04T13:49:21.143897+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261004-0541/recovery-20261004-1241-recovery/review-b/decisions.json"
+      },
+      "savedPath": "public/images/words/f3/f3c478a26533b4b5a14867ec15001330cba7dbd263b111cdd22857ef9e52a5cd.webp",
+      "alt": "Red-orange fox standing in side view with pointed upright ears, narrow muzzle, dark lower legs and a long bushy white-tipped tail."
     }
   ],
-  "generationStopReason": "Shared built-in imagegen connection failure; ungenerated assignments preserved for next run.",
-  "acceptedCount": 8,
+  "candidates": [],
+  "todo": [],
+  "acceptedCount": 15,
   "deferredCount": 0,
-  "generatedSenseCount": 8,
-  "generationCalls": 8,
-  "ungeneratedCount": 7,
-  "reviewCompletedAt": "2026-10-04T09:33:51.242158+00:00",
-  "syncedAt": "2026-10-04T09:57:12.030465+00:00"
+  "generatedSenseCount": 15,
+  "generationCalls": 16,
+  "ungeneratedCount": 0,
+  "reviewCompletedAt": "2026-10-04T13:59:37.344605+00:00",
+  "syncedAt": "2026-10-04T14:04:10.833176+00:00",
+  "recoveryRunId": "20261004-1241-recovery",
+  "recoveryStoppedAt": "2026-10-04T10:57:20.482361+00:00",
+  "recoveryGenerationCompletedAt": "2026-10-04T13:21:31.769489+00:00",
+  "recoveryResult": "All six assigned missing images generated individually with built-in image_gen, copied locally and self-reviewed; pending final cross-review.",
+  "historicalGenerationStopReasons": [
+    "Recovery run 20261004-1040: built-in imagegen network error while generating bicycle; shared STOP created, no retry, saved spoon retained pending final review."
+  ],
+  "generationFailures": [
+    {
+      "senseId": "8150bdf3a4da26aaaa5c0ee248cf4f3368f1e9852334d383006bb7c532d7c9ed",
+      "word": "bicycle",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary-card illustration. Exact target: bicycle (n.), 自行车. Communicate this exact sense visually without requiring captions. Subject: One everyday pedal bicycle in clean full side view: exactly two large spoked wheels joined by a recognizable triangular teal frame, black tires, one saddle, curved handlebars, pedals and visible chain. Bicycle stands on a small kickstand. Entire wheels visible, balanced accurate construction. No rider, motor, labels or extra wheels. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted colors and soft daylight. Composition: centered in the middle 75 percent, generous clean margins, all essential shapes legible at small size, single coherent image. Constraints: absolutely no letters, numerals, labels, logos, watermarks, borders, card UI or unrelated decorative objects.",
+      "error": "image generation failed: network error: error sending request",
+      "reviewed": false,
+      "source": null,
+      "candidatePath": null,
+      "evidencePath": "output/imagegen/batch-20261004-0541/b/recovery-20261004-1040/bicycle-result.json",
+      "runId": "20261004-1040-recovery",
+      "resolvedBySource": "/Users/huangjiabao/.codex/generated_images/01a106ef-cf98-7ff0-a1bc-58239187d34d/exec-3e304254-1564-4eed-9aca-106d7a6efd6f.png",
+      "resolvedByRun": "20261004-1241-recovery"
+    }
+  ]
 }
