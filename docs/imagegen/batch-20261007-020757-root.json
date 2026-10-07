@@ -1,0 +1,880 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20261007-020757-root",
+  "parentBatch": "20261007-020757",
+  "status": "reviewed_partial",
+  "assets": [
+    {
+      "senseId": "11cbcf3ab0e995edbb8abd423156ea24b916ce978b5ee5a3f27e6cc3b60cb4a5",
+      "wordId": "dict:rather",
+      "sourceId": "dict:rather",
+      "word": "rather",
+      "pos": "adv.",
+      "meaning": "宁可",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: rather; adv.; 宁可.\nPrimary scene: A child willingly chooses a long steep rocky walking route despite a much easier comfortable ride being offered, holding a walking stick and stepping firmly toward the difficult path while an open palm politely declines the easy ride. The deliberate preference despite inconvenience should dominate, with two alternatives clear and simple.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-9eacb5d4-c46d-465e-a4af-5449cb882bdf.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/rather.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/rather.webp",
+      "intendedSavedPath": "public/images/words/11/11cbcf3ab0e995edbb8abd423156ea24b916ce978b5ee5a3f27e6cc3b60cb4a5.webp",
+      "generatedAt": "2026-10-07T02:13:09.220380+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "已逐图查看：孩子主动拒绝舒适汽车接送，坚定走上陡峭山路，两种选择和宁愿费力也选步行的倾向同屏清楚。无文字，待独立复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-root.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/root/candidates/rather.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: rather; adv.; 宁可.\nPrimary scene: A child deliberately turns away an offered plate of candy with one palm, while eagerly reaching for an apple in the other option, clearly favoring the apple over the candy. Unambiguous alternative preference shown in one coherent scene.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light and muted natural colors. Center clear scene within middle 70 percent with generous empty margins, fully visible, legible at small card size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Semantic clarity for this exact sense is highest priority.",
+        "selfReviewNotes": "逐图查看：孩子拒绝糖果选择苹果，偏好关系清楚，但遮词更容易识别健康选择或拒绝，宁可的语气与关系仍不确定，保留复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 逐图查看：孩子拒绝糖果选择苹果，偏好关系清楚，但遮词更容易识别健康选择或拒绝，宁可的语气与关系仍不确定，保留复核。 Independent review: 盲看首先读成选择苹果、拒绝糖果或更喜欢苹果。画面仅呈现一次食物选择，不能直接建立 rather 作副词宁可的语义，需要由词条补入偏好表达。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T02:17:27.674259+00:00",
+      "review": {
+        "decision": {
+          "id": "13",
+          "senseId": "11cbcf3ab0e995edbb8abd423156ea24b916ce978b5ee5a3f27e6cc3b60cb4a5",
+          "word": "rather",
+          "pos": "adv.",
+          "meaning": "宁可",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/rather.webp",
+          "candidateSha256": "7eb802f2a339c8e47e4a1a5b54ac9ff625fc00b319c17500991494e320313190",
+          "approved": true,
+          "reason": "司机提出搭车而男孩明确摆手拒绝并迈向徒步山路，两条替代选择及主动偏好同时可见，宁可步行的关系清楚。",
+          "observation": "男孩背包拿登山杖走向山路，身后一辆车内司机向他伸手示意，男孩用空手做拒绝姿势。",
+          "inferredMeaningBeforeMapping": "拒绝搭车而选择徒步，更愿意徒步",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "司机提出搭车而男孩明确摆手拒绝并迈向徒步山路，两条替代选择及主动偏好同时可见，宁可步行的关系清楚。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "savedPath": "public/images/words/11/11cbcf3ab0e995edbb8abd423156ea24b916ce978b5ee5a3f27e6cc3b60cb4a5.webp",
+      "alt": "rather：宁可的词义插图"
+    },
+    {
+      "senseId": "ca3022a8cec04c182dff7a4caace11fed961fa41babfef87e18d222b748437bf",
+      "wordId": "dict:voice",
+      "sourceId": "dict:voice",
+      "word": "voice",
+      "pos": "n.",
+      "meaning": "声音",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: voice; n.; 声音.\nPrimary scene: Close portrait of a person producing an audible human voice: mouth visibly open in speech, hand resting lightly on vibrating throat, several broad gentle sound-wave curves emanating specifically from mouth and throat. No listener and no musical notes. Focus is on the sound emerging from the human vocal source, with the rest of the background empty.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-bff0c182-611b-46ef-aa90-4e9b1bd45568.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/voice.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/voice.webp",
+      "intendedSavedPath": "public/images/words/ca/ca3022a8cec04c182dff7a4caace11fed961fa41babfef87e18d222b748437bf.webp",
+      "generatedAt": "2026-10-07T02:17:50.196973+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "已逐图查看：嘴部向外声波与喉部振动共同突出人发出的声音，手触喉咙展示声源，没有听者分散焦点。无字且小图结构清楚。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-root.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/root/candidates/voice.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: voice; n.; 声音.\nPrimary scene: Close view of a person speaking with open mouth, another person beside them attentively listening with a hand behind their ear. A few subtle curved sound-wave strokes start at the speaker mouth and travel to the listener. Focus on audible human voice, no speech bubbles or musical notes.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light and muted natural colors. Center clear scene within middle 70 percent with generous empty margins, fully visible, legible at small card size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Semantic clarity for this exact sense is highest priority.",
+        "selfReviewNotes": "逐图查看：张嘴说话者的口部发出声波，另一人侧耳倾听，主体为人发出的声音传播，声音含义可直接理解，无文字，待独立复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "盲看首先识别为说话与侧耳倾听，女孩把手贴耳的动作十分突出。声波只是交谈中的辅助符号，容易将目标理解为听或倾听，不能直接稳定读成名词声音。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T02:19:19.190677+00:00",
+      "review": {
+        "decision": {
+          "id": "10",
+          "senseId": "ca3022a8cec04c182dff7a4caace11fed961fa41babfef87e18d222b748437bf",
+          "word": "voice",
+          "pos": "n.",
+          "meaning": "声音",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/voice.webp",
+          "candidateSha256": "3376791dffe2998c6901b09373a86e9fe1ae095ccbb0eb12957d84e9c14044aa",
+          "approved": true,
+          "reason": "声波从张开的口向外传播，喉部同时有振动提示，主体明确是人的发声，能直观传达名词声音。",
+          "observation": "女子张口发声，一手轻触喉咙，喉咙旁有短弧线，嘴前有向外传播的声波弧线。",
+          "inferredMeaningBeforeMapping": "人的声音、声带发声",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "声波从张开的口向外传播，喉部同时有振动提示，主体明确是人的发声，能直观传达名词声音。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "savedPath": "public/images/words/ca/ca3022a8cec04c182dff7a4caace11fed961fa41babfef87e18d222b748437bf.webp",
+      "alt": "voice：声音的词义插图"
+    },
+    {
+      "senseId": "8a006b3f3053978315ee33b2c7f7bbd62333f8cf103396d102cb01996119ef2c",
+      "wordId": "dict:cause",
+      "sourceId": "dict:cause",
+      "word": "cause",
+      "pos": "n.",
+      "meaning": "原因",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: cause; n.; 原因.\nPrimary scene: A close causal scene: an unplugged electrical cord lies conspicuously disconnected from a wall socket, and its attached desk lamp is dark. A hand points directly at the separated plug and socket; a small adjacent translucent view shows the same lamp glowing only when this same plug is connected. Emphasize the visible originating reason for the result rather than a person fixing it. No icons or labels.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-cfe036ba-5caf-496f-a6f2-0b3b1a8695e2.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/cause.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/cause.webp",
+      "intendedSavedPath": "public/images/words/8a/8a006b3f3053978315ee33b2c7f7bbd62333f8cf103396d102cb01996119ef2c.webp",
+      "generatedAt": "2026-10-07T02:19:44.514460+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "已逐图查看：指向未连接的插头，主灯不亮，与插好电后亮灯的对应画面对照，具体指出不亮的原因而非只描绘故障。无字，待独立复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-root.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/root/candidates/cause.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: cause; n.; 原因.\nPrimary scene: A soccer ball has just struck a window: the ball is caught in the center of a new star-shaped crack, with a clear arcing motion trail from a child who just kicked it; the child looks at the resulting damage. One connected cause-and-effect event in a single scene, no labels.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light and muted natural colors. Center clear scene within middle 70 percent with generous empty margins, fully visible, legible at small card size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Semantic clarity for this exact sense is highest priority.",
+        "selfReviewNotes": "逐图查看：足球从踢球孩子飞向并击碎玻璃，因果事件明确，但遮词第一读法是打破窗户，名词原因未被突出，无法稳定直接读出原因。保留复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 逐图查看：足球从踢球孩子飞向并击碎玻璃，因果事件明确，但遮词第一读法是打破窗户，名词原因未被突出，无法稳定直接读出原因。保留复核。 Independent review: 盲看最明显的是男孩踢球打破窗户；球的轨迹能够说明破裂事件的因果，但图本身没有把原因这一名词概念作为可直接识别的主体，容易读成打破或损坏，需解释才到达目标义项。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T02:21:21.092748+00:00",
+      "review": {
+        "decision": {
+          "id": "02",
+          "senseId": "8a006b3f3053978315ee33b2c7f7bbd62333f8cf103396d102cb01996119ef2c",
+          "word": "cause",
+          "pos": "n.",
+          "meaning": "原因",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/cause.webp",
+          "candidateSha256": "b9a80b1aeda4d1cce08156390abd554a7e705b7b1d03ba46d2f41995787b6d50",
+          "approved": true,
+          "reason": "手指明确指出未接通的插头，主灯不亮与插电亮灯的对照直接建立因果关系；插头未连接是灯不亮的原因，目标名词可从场景关系中辨认。",
+          "observation": "手指指向未插入插座的电灯插头，主图灯不亮；上方小对照画面中插头接通而灯亮。",
+          "inferredMeaningBeforeMapping": "未通电导致灯不亮，电源连接与亮灯的因果关系",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "手指明确指出未接通的插头，主灯不亮与插电亮灯的对照直接建立因果关系；插头未连接是灯不亮的原因，目标名词可从场景关系中辨认。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "savedPath": "public/images/words/8a/8a006b3f3053978315ee33b2c7f7bbd62333f8cf103396d102cb01996119ef2c.webp",
+      "alt": "cause：原因的词义插图"
+    },
+    {
+      "senseId": "3cb0eda0f234715d4dd529781e9131716e330164c363b4b7f9e8f68c311312d2",
+      "wordId": "dict:lie",
+      "sourceId": "dict:lie",
+      "word": "lie",
+      "pos": "n.",
+      "meaning": "谎言",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: lie; n.; 谎言.\nPrimary scene: A child hides a broken cookie jar and cookie crumbs behind their own back while confidently pointing blame at an innocent sleeping cat; a small rounded memory vignette above the same child clearly shows that child knocking the identical jar off the shelf. The actual event and false accusation visibly contradict each other. No words in any bubble, no speech text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-19c2eb57-e4cd-4f84-945f-9c6af23407fc.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/lie.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/lie.webp",
+      "intendedSavedPath": "public/images/words/3c/3cb0eda0f234715d4dd529781e9131716e330164c363b4b7f9e8f68c311312d2.webp",
+      "generatedAt": "2026-10-07T02:28:25.449445+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "已逐图查看：男孩藏饼干指责睡猫，回忆气泡明确他本人碰落同花纹饼干罐，事实与归责相矛盾，谎言的关键线索齐全。无文字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-a.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/a/candidates/lie.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary learning illustration.\nExact target sense: {\"word\": \"lie\", \"pos\": \"n.\", \"meaning\": \"谎言\"}. Depict precisely this meaning.\nScene: A child who secretly broke a flowerpot tells a lie to a parent: child behind their back visibly holds the broken pot fragment and points accusingly toward an innocent sleeping cat. A small completely textless speech bubble contains a pictorial vignette of that cat knocking over the pot, visibly contradicting the real concealed fragment and guilty child. The actual scene and the deceptive statement are both clear; no lettering, punctuation, or symbols.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle natural muted green, blue and coral colors, soft daylight.\nComposition: one cohesive clear scene centered in middle 70 percent, generous margins, main semantic action legible at small card size.\nConstraints: absolutely no text, letters, numbers, written labels, logos, watermarks, card borders or UI. No unrelated decorative objects. Never depict the target word as text. Independent original illustration, not a collage or multi-card sheet.",
+        "selfReviewNotes": "Native image inspected: guilty child holds broken fragment while accusing sleeping cat; pictorial speech bubble attributes damage to cat. Lie meaning visually represented through contradictory evidence without text. Needs independent review for ambiguity.",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "只能看出孩子声称猫打翻花盆。手拿碎片并不能证明他自己打碎，睡着的猫也不能否定此前推倒花盆；气泡陈述真假无法从画面确认，谎言义项不确定。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T02:31:56.032324+00:00",
+      "review": {
+        "decision": {
+          "id": "05",
+          "senseId": "3cb0eda0f234715d4dd529781e9131716e330164c363b4b7f9e8f68c311312d2",
+          "word": "lie",
+          "pos": "n.",
+          "meaning": "谎言",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/lie.webp",
+          "candidateSha256": "c5945e149f015fea18d93da901698bdb43dd08bbd7e6833b13054d68815a0212",
+          "approved": true,
+          "reason": "孩子把饼干藏在身后、指责熟睡的猫，气泡却展示自己碰落罐子，陈述指向与已知事实矛盾清楚，谎言可直接理解。",
+          "observation": "孩子把拿饼干的手藏在身后，另一手指向熟睡的猫；地上饼干罐碎了，思考气泡展示孩子自己碰倒罐子。",
+          "inferredMeaningBeforeMapping": "撒谎、把自己造成的错误推给猫",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "孩子把饼干藏在身后、指责熟睡的猫，气泡却展示自己碰落罐子，陈述指向与已知事实矛盾清楚，谎言可直接理解。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "savedPath": "public/images/words/3c/3cb0eda0f234715d4dd529781e9131716e330164c363b4b7f9e8f68c311312d2.webp",
+      "alt": "lie：谎言的词义插图"
+    },
+    {
+      "senseId": "7fb683e7eaf3f8c6ea4427e6d0e43616d4dc7b20a69d4d9d05eedeebe0bb0a7a",
+      "wordId": "dict:true",
+      "sourceId": "dict:true",
+      "word": "true",
+      "pos": "adj.",
+      "meaning": "真实的",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: true; adj.; 真实的.\nPrimary scene: One unmistakably real ripe orange being peeled, with juicy flesh and a small drop of juice, beside a visibly fake plastic orange cut open to reveal a hollow shell and molded seam. A human hand touches the real orange in the foreground; prioritize visibly real natural material compared to imitation, not whole versus cut or fresh versus old.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-79360f5d-0ab5-4847-bf33-3e896ee60510.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/true.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/true.webp",
+      "intendedSavedPath": "public/images/words/7f/7fb683e7eaf3f8c6ea4427e6d0e43616d4dc7b20a69d4d9d05eedeebe0bb0a7a.webp",
+      "generatedAt": "2026-10-07T02:32:23.106150+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "已逐图查看：真实橙子的果肉纤维果皮和汁液，与带塑料缝和中空壳的仿制橙子清楚对照，真实与仿假的材质区别直接可见。无文字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-a.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/a/candidates/true.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary learning illustration.\nExact target sense: {\"word\": \"true\", \"pos\": \"adj.\", \"meaning\": \"真实的\"}. Depict precisely this meaning.\nScene: A real living bird versus a toy bird: one vivid small blue bird with soft individual feathers stands on a branch while feeding its open-beaked tiny chick; immediately below is a clearly artificial blue plastic wind-up bird with a large winding key and visible molded seam. The living bird is dominant and warmly lit, the toy is secondary. Their similar shape and unmistakable living versus imitation features communicate something real.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle natural muted green, blue and coral colors, soft daylight.\nComposition: one cohesive clear scene centered in middle 70 percent, generous margins, main semantic action legible at small card size.\nConstraints: absolutely no text, letters, numbers, written labels, logos, watermarks, card borders or UI. No unrelated decorative objects. Never depict the target word as text. Independent original illustration, not a collage or multi-card sheet.",
+        "selfReviewNotes": "Native image inspected: living bird contrasts clearly with wind-up toy, but unaided reading may be alive versus artificial rather than true or real. Exact abstract adjective is not secure; keep pending visual revision, do not count.",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: Native image inspected: living bird contrasts clearly with wind-up toy, but unaided reading may be alive versus artificial rather than true or real. Exact abstract adjective is not secure; keep pending visual revision, do not count. Independent review: 正在喂食的活鸟与带发条的玩具鸟形成直接对照，真实生物与仿制玩具的区别直观，支持真实的这一义项。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T02:38:19.497512+00:00",
+      "review": {
+        "decision": {
+          "id": "08",
+          "senseId": "7fb683e7eaf3f8c6ea4427e6d0e43616d4dc7b20a69d4d9d05eedeebe0bb0a7a",
+          "word": "true",
+          "pos": "adj.",
+          "meaning": "真实的",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/true.webp",
+          "candidateSha256": "67395a1717ad53acf48bfa77c3e33879187d6f169ec524de820b794589e83010",
+          "approved": true,
+          "reason": "真实橘子剥开后显示果肉，与旁边空心塑料橘子模型形成明确真假对比，真实的属性不依赖文字即可辨认。",
+          "observation": "左边手剥开一个真实橘子可见果肉，右边橘子外形的塑料模型分成空心两半。",
+          "inferredMeaningBeforeMapping": "真实水果与假模型的对比、真的与假的",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "真实橘子剥开后显示果肉，与旁边空心塑料橘子模型形成明确真假对比，真实的属性不依赖文字即可辨认。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "savedPath": "public/images/words/7f/7fb683e7eaf3f8c6ea4427e6d0e43616d4dc7b20a69d4d9d05eedeebe0bb0a7a.webp",
+      "alt": "true：真实的的词义插图"
+    },
+    {
+      "senseId": "19b912721d1055b9cde9d12974b9366f97d0e2010613bd95435b83bfa6d20fc2",
+      "wordId": "dict:join",
+      "sourceId": "dict:join",
+      "word": "join",
+      "pos": "v.",
+      "meaning": "参加",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: join; v.; 参加.\nPrimary scene: Children already play a ball game inside a small marked play area. A new child steps from outside across the boundary into an obvious open place on the team, reaching to receive a friendly teammates hand while joining the ongoing activity. The entrant must be visibly halfway outside and halfway inside; ball and established team remain secondary.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-99c76b23-a058-416c-9967-5e48aeba99fa.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/join.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/join.webp",
+      "intendedSavedPath": "public/images/words/19/19b912721d1055b9cde9d12974b9366f97d0e2010613bd95435b83bfa6d20fc2.webp",
+      "generatedAt": "2026-10-07T02:48:55.175271+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "已逐图查看：蓝衣孩子一脚越过场地边线，握住圈内同伴手加入正在进行的球类活动，进入活动的动作比共同玩耍更明确。无文字，待独立复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-a.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/a/candidates/join.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary learning illustration.\nExact target sense: {\"word\": \"join\", \"pos\": \"v.\", \"meaning\": \"参加\"}. Depict precisely this meaning.\nScene: A new child visibly joins a circle game: four children already hold hands in an open circle; a fifth child is stepping into the gap and taking both offered hands, smiling. The reaching hands and new member entering the group are the main action, one coherent outdoor vignette with minimal background.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle natural muted green, blue and coral colors, soft daylight.\nComposition: one cohesive clear scene centered in middle 70 percent, generous margins, main semantic action legible at small card size.\nConstraints: absolutely no text, letters, numbers, written labels, logos, watermarks, card borders or UI. No unrelated decorative objects. Never depict the target word as text. Independent original illustration, not a collage or multi-card sheet.",
+        "selfReviewNotes": "Native image inspected: child steps toward open circle taking hands of children in ongoing group game. Joining or participating is clear enough for target 参加, no written clues.",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "可直接读出儿童牵手围圈玩耍，但没有加入活动或由圈外进入的明确动作；仅凭共同游戏不足以可靠表示参加。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T03:02:51.689652+00:00",
+      "review": {
+        "decision": {
+          "id": "03",
+          "senseId": "19b912721d1055b9cde9d12974b9366f97d0e2010613bd95435b83bfa6d20fc2",
+          "word": "join",
+          "pos": "v.",
+          "meaning": "参加",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/join.webp",
+          "candidateSha256": "8c86edf7c23ec2c263d0541f099bd628b4bb8036180c80de4c7af74ed5169119",
+          "approved": true,
+          "reason": "一位孩子从球场边界外迈入并受到场内伙伴迎接，球与其他等候伙伴把活动限定为团体游戏；参加这一动作关系直观。",
+          "observation": "一位孩子从球场边缘走进来与场内孩子握手，另外三位孩子围着球等待，表现友好接纳。",
+          "inferredMeaningBeforeMapping": "加入孩子们的球类活动、欢迎新伙伴",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "一位孩子从球场边界外迈入并受到场内伙伴迎接，球与其他等候伙伴把活动限定为团体游戏；参加这一动作关系直观。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "savedPath": "public/images/words/19/19b912721d1055b9cde9d12974b9366f97d0e2010613bd95435b83bfa6d20fc2.webp",
+      "alt": "join：参加的词义插图"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "ee3f1ec21a7460595e551710899c0e8d116de00c83ef9d176683c8e2f79af4bc",
+      "wordId": "dict:whole",
+      "sourceId": "dict:whole",
+      "word": "whole",
+      "pos": "n.",
+      "meaning": "全部",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: whole; n.; 全部.\nPrimary scene: An overhead view of a small circular wooden tray containing a complete set of colorful puzzle pieces fitted into one entire circular picture, with a hand sweeping inclusively around the full tray. Beside it a small detached open palm holds only one matching piece as a subordinate contrast of a part. Emphasize the entire collection versus only a small part, no missing section of the main complete set.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-f088653f-719e-4a01-b030-39bc6626daef.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/whole.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/whole.webp",
+      "intendedSavedPath": "public/images/words/ee/ee3f1ec21a7460595e551710899c0e8d116de00c83ef9d176683c8e2f79af4bc.webp",
+      "generatedAt": "2026-10-07T02:11:34.687522+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "遮词图是完整圆形风景拼图和单块拼图的对照，完整与局部可见，但额外单块使全部集合范围不确定，仍易读作拼图而非名词全部。无文字，保留待复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-root.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/root/candidates/whole.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: whole; n.; 全部.\nPrimary scene: A complete round orange cake has been cut into equal wedges but ALL wedges remain fitted tightly together on one plate, making a full intact circle with none removed. Two hands encompass the entire cake in an inclusive gesture. The entire quantity, no missing piece, is central.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light and muted natural colors. Center clear scene within middle 70 percent with generous empty margins, fully visible, legible at small card size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Semantic clarity for this exact sense is highest priority.",
+        "selfReviewNotes": "逐图查看：双手围住完整切片蛋糕，所有切片齐全。遮词主要读法为蛋糕或完整蛋糕，尚不能稳定指向全部这一范围概念，无文字。保留复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 逐图查看：双手围住完整切片蛋糕，所有切片齐全。遮词主要读法为蛋糕或完整蛋糕，尚不能稳定指向全部这一范围概念，无文字。保留复核。 Independent review: 画面主要是托着切成八块的橙子蛋糕。八片维持圆形只能说明蛋糕完整，未突出部分与全部的关系或全集范围，容易只读成蛋糕或切片蛋糕，无法直接稳定表达名词全部。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T02:11:34.720437+00:00",
+      "review": {
+        "decision": {
+          "id": "07",
+          "senseId": "ee3f1ec21a7460595e551710899c0e8d116de00c83ef9d176683c8e2f79af4bc",
+          "word": "whole",
+          "pos": "n.",
+          "meaning": "全部",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/whole.webp",
+          "candidateSha256": "b450dbdce8e6f2eacb2d850a637e931a42022cf691e9b3c083fae931d035f1d8",
+          "approved": false,
+          "reason": "圆形拼图本身已完整，手上却还有额外同图案拼块；这可表达拼图或整体与部分，但全部的指代范围因额外拼块而不清楚，保留待复核。",
+          "observation": "圆形拼图中湖泊图案已经完整无缺口，左手与箭头围绕其边缘，右手另持一块独立拼图。",
+          "inferredMeaningBeforeMapping": "整体与一部分、完整拼图；额外拼图块用途不明",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 遮词图是完整圆形风景拼图和单块拼图的对照，完整与局部可见，但额外单块使全部集合范围不确定，仍易读作拼图而非名词全部。无文字，保留待复核。 Independent review: 圆形拼图本身已完整，手上却还有额外同图案拼块；这可表达拼图或整体与部分，但全部的指代范围因额外拼块而不清楚，保留待复核。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184",
+      "wordId": "dict:practice",
+      "sourceId": "dict:practice",
+      "word": "practice",
+      "pos": "n.",
+      "meaning": "实践",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: practice; n.; 实践.\nPrimary scene: A young learner applies a simple pictured seed-planting demonstration to real soil: an open book shows a small wordless picture of hands putting seeds into soil, while the same learner is actually putting seeds into a real pot with their own muddy hands. Make the hands-on real work dominant and the matching theoretical picture small but clearly recognizable. No writing in the book.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-b8d80f3c-2de1-4e10-bb9d-6bd1b79e41d0.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/practice.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/practice.webp",
+      "intendedSavedPath": "public/images/words/21/213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184.webp",
+      "generatedAt": "2026-10-07T02:12:10.380306+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：书中播种示范与女孩亲手在真实泥土里播种一一对应，沾泥双手突出把图示知识付诸实际。实践的关系可见，无文字，待独立复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-root.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/root/candidates/practice.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: practice; n.; 实践.\nPrimary scene: An apprentice is actively practicing pottery with both hands shaping a wet clay bowl on a wheel; an experienced teacher beside them watches the hands, and two earlier imperfect bowls rest nearby. Focus on hands-on doing of a learned skill, simple coherent scene.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light and muted natural colors. Center clear scene within middle 70 percent with generous empty margins, fully visible, legible at small card size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Semantic clarity for this exact sense is highest priority.",
+        "selfReviewNotes": "逐图查看：女孩亲手拉坯，老师观看，旁边失败陶碗可见。遮词主要读为陶艺课、练习制作，实践这一泛指概念仍难稳定区分，不标通过。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 逐图查看：女孩亲手拉坯，老师观看，旁边失败陶碗可见。遮词主要读为陶艺课、练习制作，实践这一泛指概念仍难稳定区分，不标通过。 Independent review: 盲看是制作陶器、学陶艺或师傅指导学员。具体手工作业不能直接代表名词实践，也无法看出把理论用于实际的关系；对当前义项关联不足。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T02:12:42.302725+00:00",
+      "review": {
+        "decision": {
+          "id": "09",
+          "senseId": "213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184",
+          "word": "practice",
+          "pos": "n.",
+          "meaning": "实践",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/practice.webp",
+          "candidateSha256": "b7348c164550eec1d2a53d1eb2824978640febc3d65176f89b6103067a1023ca",
+          "approved": false,
+          "reason": "女孩正在播种，旁边图示与动作相同，直接含义更像照着说明操作；实践与种植或模仿不能清楚区分，需额外解释理论付诸行动，保留待复核。",
+          "observation": "女孩往花盆土里放种子，旁边打开的图示书画着相同的手将种子放进花盆的动作。",
+          "inferredMeaningBeforeMapping": "照着图示播种、按照说明操作",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "女孩正在播种，旁边图示与动作相同，直接含义更像照着说明操作；实践与种植或模仿不能清楚区分，需额外解释理论付诸行动，保留待复核。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "9d1fbaee013ce573f4d3f2ceacc148a14995948fc043520329a6a1f2a27da086",
+      "wordId": "dict:according",
+      "sourceId": "dict:according",
+      "word": "according",
+      "pos": "adj.",
+      "meaning": "相符的",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: according; adj.; 相符的.\nPrimary scene: Two separate sample cards held side by side, each with exactly the same arrangement of three colored shapes: a red circle above a blue square beside a yellow triangle. Their pattern, shape, size and relative positions visibly match precisely. A thin translucent overlay brings them into perfect alignment; no letters, numerals or checkmark symbols.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-5cef3b7a-f5f4-4ac9-9fa4-815aa227887c.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/according.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/according.webp",
+      "intendedSavedPath": "public/images/words/9d/9d1fbaee013ce573f4d3f2ceacc148a14995948fc043520329a6a1f2a27da086.webp",
+      "generatedAt": "2026-10-07T02:21:43.361476+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：两张形色排列匹配卡与中央叠片表达相同或相符，但according作为adj相符的词性义项映射仍有疑问，不自行修正或标通过。无文字，保留待复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-root.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/root/candidates/according.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: according; adj.; 相符的.\nPrimary scene: Two fabric swatches with exactly the same distinctive red blue striped pattern and colors are held directly next to each other with edges aligned; an attentive tailor compares the two and sees their precise match. Matching conformity of details is focus, no letters or numbers.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural light and muted natural colors. Center clear scene within middle 70 percent with generous empty margins, fully visible, legible at small card size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Semantic clarity for this exact sense is highest priority.",
+        "selfReviewNotes": "逐图查看：裁缝拿着条纹布料比对，画面两块边界不清，首先像裁缝检查布料；相符的关系不够明显，且 according 形容词词义映射仍需确认，不计通过。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 逐图查看：裁缝拿着条纹布料比对，画面两块边界不清，首先像裁缝检查布料；相符的关系不够明显，且 according 形容词词义映射仍需确认，不计通过。 Independent review: 盲看是裁缝查看布料样本；同纹布片与布匹只能提供需要解释的相同线索，不能直观锁定相符的。according / adj. / 相符的这一精确搭配亦不能有把握确认；量尺还有疑似数字形刻度，均不满足严格准入。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T02:28:00.971569+00:00",
+      "review": {
+        "decision": {
+          "id": "04",
+          "senseId": "9d1fbaee013ce573f4d3f2ceacc148a14995948fc043520329a6a1f2a27da086",
+          "word": "according",
+          "pos": "adj.",
+          "meaning": "相符的",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/according.webp",
+          "candidateSha256": "76bc13a01bf5429b32bf52abb9e61179760f249e7f8d3c379b4dc4b6cbf11c35",
+          "approved": true,
+          "reason": "两张卡片的颜色、形状与位置一致，中央叠合比较强调彼此相符的性质，能直接表达相符的形容词义；未误用按照义。",
+          "observation": "双手分别持卡，卡片上都画有同样位置的红圆、蓝方块、黄三角，中央另有透明或叠放卡片显示相同图案。",
+          "inferredMeaningBeforeMapping": "图案相同、匹配、复制或对照一致",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：两张形色排列匹配卡与中央叠片表达相同或相符，但according作为adj相符的词性义项映射仍有疑问，不自行修正或标通过。无文字，保留待复核。 Independent review: 两张卡片的颜色、形状与位置一致，中央叠合比较强调彼此相符的性质，能直接表达相符的形容词义；未误用按照义。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "1881e1c8a8d34d6db3516a81a652f0d56f8b75a53780ce51bba08b0d679c62e1",
+      "wordId": "dict:situation",
+      "sourceId": "dict:situation",
+      "word": "situation",
+      "pos": "n.",
+      "meaning": "情形",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: situation; n.; 情形.\nPrimary scene: A clear overhead everyday scene of a kitchen immediately after a plumbing leak: puddle spreading across the floor, water dripping from a pipe under the sink, a towel trying to contain it and occupants assessing the overall circumstances. Show all related contextual conditions at once without a single dominant dramatic action. No text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-683eac62-c47e-49ce-ba62-e4b462c0d02b.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/situation.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/situation.webp",
+      "intendedSavedPath": "public/images/words/18/1881e1c8a8d34d6db3516a81a652f0d56f8b75a53780ce51bba08b0d679c62e1.webp",
+      "generatedAt": "2026-10-07T02:38:46.478910+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：厨房漏水、桶毛巾积水和担忧人物清楚，但遮词首读仍为漏水或水管故障，无法独立指向概括性名词情形。保留未通过。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-a.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/a/candidates/situation.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary learning illustration.\nExact target sense: {\"word\": \"situation\", \"pos\": \"n.\", \"meaning\": \"情形\"}. Depict precisely this meaning.\nScene: A complete everyday situation shown as an understandable scene: a cyclist has a visibly flat front tire by a path as dark rain clouds arrive overhead, and a friend approaches with a bicycle pump. The cyclist looks between the flat tire and approaching help. Keep the context, problem and people clear in one unified scene; no textual captions, icons or thought bubbles.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle natural muted green, blue and coral colors, soft daylight.\nComposition: one cohesive clear scene centered in middle 70 percent, generous margins, main semantic action legible at small card size.\nConstraints: absolutely no text, letters, numbers, written labels, logos, watermarks, card borders or UI. No unrelated decorative objects. Never depict the target word as text. Independent original illustration, not a collage or multi-card sheet.",
+        "selfReviewNotes": "Native image inspected: flat bicycle tire, approaching rain and helpful friend create a coherent situation. However unaided reading mainly conveys flat tire or help, not the general noun situation; exact meaning uncertain, must not count.",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: Native image inspected: flat bicycle tire, approaching rain and helpful friend create a coherent situation. However unaided reading mainly conveys flat tire or help, not the general noun situation; exact meaning uncertain, must not count. Independent review: 画面直接表达自行车爆胎和别人带打气筒来帮助，需要额外解释才能把这一具体事件概括成情形，目标义项无法独立读出。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T02:48:29.216143+00:00",
+      "review": {
+        "decision": {
+          "id": "14",
+          "senseId": "1881e1c8a8d34d6db3516a81a652f0d56f8b75a53780ce51bba08b0d679c62e1",
+          "word": "situation",
+          "pos": "n.",
+          "meaning": "情形",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/situation.webp",
+          "candidateSha256": "cd01f316cecc2652231b87d4c202c30ffef8eadf9575ab8d9b66bd218793a313",
+          "approved": false,
+          "reason": "画面具体表达厨房漏水和两人苦恼，可读问题、漏水或困难；泛指情形需额外概括，目标名词不能独立直观辨认。",
+          "observation": "厨房水槽下水管漏水，水桶、湿布与地面大滩水可见，两位成人站蹲在旁担忧思考。",
+          "inferredMeaningBeforeMapping": "漏水问题、困境、需要处理的现状",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：厨房漏水、桶毛巾积水和担忧人物清楚，但遮词首读仍为漏水或水管故障，无法独立指向概括性名词情形。保留未通过。 Independent review: 画面具体表达厨房漏水和两人苦恼，可读问题、漏水或困难；泛指情形需额外概括，目标名词不能独立直观辨认。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67",
+      "wordId": "dict:record",
+      "sourceId": "dict:record",
+      "word": "record",
+      "pos": "n.",
+      "meaning": "记录",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: record; n.; 记录.\nPrimary scene: A runner crosses a finish ribbon while an observer immediately preserves the result in an open notebook using a clearly hand-drawn row of tiny runner silhouettes and tally strokes without numerals or letters. Show connection from observed event to permanent recorded mark with gaze and hand position; the notebook with successive observation marks is prominent.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-6833c3c2-9cd3-4a75-b341-dfad5a6abd73.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/record.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/record.webp",
+      "intendedSavedPath": "public/images/words/2d/2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67.webp",
+      "generatedAt": "2026-10-07T03:03:20.396436+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：观察跑步结果并记在本上的关系清楚，但本上竖线具有数字或计数符号性质，且前景胜利动作抢眼，严格无数字和词义直观要求下保留复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-a.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/a/candidates/record.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary learning illustration.\nExact target sense: {\"word\": \"record\", \"pos\": \"n.\", \"meaning\": \"记录\"}. Depict precisely this meaning.\nScene: A tangible record of observations: close view of an open field notebook whose pages contain only small painted plant sketches arranged in chronological rows, progressively showing a seed, sprout, seedling, and leafy plant. A gardener hand draws the latest leaf sketch with a pencil next to the actual potted seedling. The notebook is dominant and obviously preserves observations. No words, letters, dates, numbers or writing marks.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle natural muted green, blue and coral colors, soft daylight.\nComposition: one cohesive clear scene centered in middle 70 percent, generous margins, main semantic action legible at small card size.\nConstraints: absolutely no text, letters, numbers, written labels, logos, watermarks, card borders or UI. No unrelated decorative objects. Never depict the target word as text. Independent original illustration, not a collage or multi-card sheet.",
+        "selfReviewNotes": "Native image inspected: notebook preserves successive plant growth sketches. But the dominant unaided reading can be drawing or growth, not noun record; exact sense is ambiguous so keep pending review and do not count.",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: Native image inspected: notebook preserves successive plant growth sketches. But the dominant unaided reading can be drawing or growth, not noun record; exact sense is ambiguous so keep pending review and do not count. Independent review: 直接呈现的是在本子上绘画植物生长阶段，无法判断这些图来自实际观察记录还是一般说明插图；不能可靠对应名词记录。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T03:09:46.102053+00:00",
+      "review": {
+        "decision": {
+          "id": "11",
+          "senseId": "2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67",
+          "word": "record",
+          "pos": "n.",
+          "meaning": "记录",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/record.webp",
+          "candidateSha256": "51282cb985c98ab263a51c00048cd1da5d3f38fe1e8380bffd7659b2ab2c6d4a",
+          "approved": true,
+          "reason": "前景夹板把不同跑者分别配以可见计数痕迹，记录员正在继续落笔，背景比赛提供被记录事件；纸上的记录对象与结果清楚，不靠字词。",
+          "observation": "运动员冲过终点，近景记录员用笔在夹板上记录；纸上以红蓝绿跑步小人对应三行不同数量的竖线计数。",
+          "inferredMeaningBeforeMapping": "记录比赛结果或成绩；也可能是统计记录",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：观察跑步结果并记在本上的关系清楚，但本上竖线具有数字或计数符号性质，且前景胜利动作抢眼，严格无数字和词义直观要求下保留复核。 Independent review: 前景夹板把不同跑者分别配以可见计数痕迹，记录员正在继续落笔，背景比赛提供被记录事件；纸上的记录对象与结果清楚，不靠字词。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87",
+      "wordId": "dict:example",
+      "sourceId": "dict:example",
+      "word": "example",
+      "pos": "n.",
+      "meaning": "例子",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: example; n.; 例子.\nPrimary scene: A pottery learner works with an unfinished clay cup beside a single completed simple clay cup held up by a teacher as the model. Several visible details on the unfinished cup precisely match the completed example: wide handle, scalloped rim, rounded base. Focus on the completed exemplar and the imitation relationship; no words or classroom text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-4bd43b9c-8140-4e8f-93d0-e48a81cd3170.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/example.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/example.webp",
+      "intendedSavedPath": "public/images/words/83/83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87.webp",
+      "generatedAt": "2026-10-07T03:10:35.179577+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：老师举起成品杯孩子仿做同款杯，模仿关系可见，但直接读为陶艺教学，名词例子还需额外解释，保留待修改。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-a.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/a/candidates/example.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary learning illustration.\nExact target sense: {\"word\": \"example\", \"pos\": \"n.\", \"meaning\": \"例子\"}. Depict precisely this meaning.\nScene: A concrete example used to show what to make: an instructor holds up one completed simple orange origami boat over the center of a table; two children look at that displayed sample while folding their own orange sheets into matching boats. The finished sample boat is central and prominent, learning by following the example is unmistakable. No written instructions, arrows, letters or numbers.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, gentle natural muted green, blue and coral colors, soft daylight.\nComposition: one cohesive clear scene centered in middle 70 percent, generous margins, main semantic action legible at small card size.\nConstraints: absolutely no text, letters, numbers, written labels, logos, watermarks, card borders or UI. No unrelated decorative objects. Never depict the target word as text. Independent original illustration, not a collage or multi-card sheet.",
+        "selfReviewNotes": "Native image inspected: instructor displays finished origami boat as a concrete example while children follow with partly folded orange papers. Sample and followers are clear; no written explanation. Independent review should check example versus teaching ambiguity.",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "直接表现成人教儿童折纸、展示完成的纸船；纸船虽然可以充当示范，但没有足够视觉关系将具体教学行为可靠表达为抽象名词例子。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T03:29:21.944918+00:00",
+      "review": {
+        "decision": {
+          "id": "01",
+          "senseId": "83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87",
+          "word": "example",
+          "pos": "n.",
+          "meaning": "例子",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/example.webp",
+          "candidateSha256": "ac63ee963bb0297b65afcdff1f7115cae658598f917a6157cdec2e1f612c61e5",
+          "approved": false,
+          "reason": "画面直接呈现成人教陶艺、孩子模仿制作；成品杯虽可作示范，但要把它理解为名词例子仍需额外概括，无法仅凭图片稳定辨认该义项。",
+          "observation": "成人举起一只完成的陶杯给旁边孩子看，孩子正在转盘上制作外形相近的杯子。没有文字。",
+          "inferredMeaningBeforeMapping": "陶艺示范、教做杯子或模仿制作",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：老师举起成品杯孩子仿做同款杯，模仿关系可见，但直接读为陶艺教学，名词例子还需额外解释，保留待修改。 Independent review: 画面直接呈现成人教陶艺、孩子模仿制作；成品杯虽可作示范，但要把它理解为名词例子仍需额外概括，无法仅凭图片稳定辨认该义项。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e",
+      "wordId": "dict:especially",
+      "sourceId": "dict:especially",
+      "word": "especially",
+      "pos": "adv.",
+      "meaning": "尤其",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: especially; adv.; 尤其.\nPrimary scene: A gardener carefully waters several plants evenly, but gives markedly extra protective attention to one fragile seedling: that single seedling is surrounded by hands, a small protective shade, and richer healthy soil while all other plants are still clearly cared for. Make especially this one within the wider set a clear visual relation, not neglect of the rest.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-4b265cee-b4a7-4f8b-ae9a-1f7c3f0c7439.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/especially.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/especially.webp",
+      "intendedSavedPath": "public/images/words/f7/f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e.webp",
+      "generatedAt": "2026-10-07T03:29:46.890617+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：人物保护浇灌幼苗，周围植物也有水线，但无来源水流不自然，强调主要读为照料幼苗而非尤其关系。保留待修改。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-b.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/b/candidates/especially.webp",
+        "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary illustration. Exact target sense for planning only: especially / adv. / 尤其. Do not render these words. Scene: A child enjoys a plate with several different fruits, but clearly singles out strawberries: the child holds a strawberry close with an especially delighted expression while a small bowl of strawberries is prominently presented in front; apples and bananas remain quietly behind. The visual relationship is liking fruit in general and strawberries in particular. No heart symbols, arrows, decorative icons or written words. Style: hand-painted gouache with delicate colored-pencil texture on warm off-white paper. Centered clear subject within middle 75 percent, generous empty margins, soft daylight, natural muted colors, age-appropriate educational illustration. Meaning must be understandable from the subject, action and relationship alone at card size. Mandatory constraints: absolutely no text, letters, numbers, captions, labels, logos, watermarks, borders or card UI. One independent illustration only; no collage, no multi-card layout.",
+        "selfReviewNotes": "遮词检查：孩子手持草莓露出喜悦，旁有苹果香蕉与草莓碗，无文字且画面清晰。但仅凭图易读为喜欢草莓或美味，无法稳定表达尤其这个副词关系，保留待视觉修订，不计完成。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 遮词检查：孩子手持草莓露出喜悦，旁有苹果香蕉与草莓碗，无文字且画面清晰。但仅凭图易读为喜欢草莓或美味，无法稳定表达尤其这个副词关系，保留待视觉修订，不计完成。 Independent review: 孩子喜爱草莓，画面不足以确定尤其这一强调程度，易读为喜欢或偏爱。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T03:34:44.505830+00:00",
+      "review": {
+        "decision": {
+          "id": "15",
+          "senseId": "f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e",
+          "word": "especially",
+          "pos": "adv.",
+          "meaning": "尤其",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/especially.webp",
+          "candidateSha256": "0cc85c794846ef2a8c58fb332b450332febfeadb16f85085bdfe3cc17e78daee",
+          "approved": true,
+          "reason": "周围几株成熟植物统一由喷头浇灌，中央幼苗却获手工浇水、遮棚和手扶保护，针对其中一株额外照顾的对比突出尤其的程度关系。",
+          "observation": "园丁对中间幼苗单独浇水并手扶保护，幼苗有遮棚及石圈；周围成熟植物由喷头浇灌。",
+          "inferredMeaningBeforeMapping": "特别照顾幼苗、对某株植物额外关注",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：人物保护浇灌幼苗，周围植物也有水线，但无来源水流不自然，强调主要读为照料幼苗而非尤其关系。保留待修改。 Independent review: 周围几株成熟植物统一由喷头浇灌，中央幼苗却获手工浇水、遮棚和手扶保护，针对其中一株额外照顾的对比突出尤其的程度关系。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656",
+      "wordId": "dict:everyone",
+      "sourceId": "dict:everyone",
+      "word": "everyone",
+      "pos": "pron.",
+      "meaning": "每个人",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: everyone; pron.; 每个人.\nPrimary scene: An inclusive group of six distinct people in a single row, varied ages and appearances, each and every person raising one hand in response together. There are no excluded or unmarked people; a broad gentle enclosing arc spans the complete group. Make the complete inclusion of every individual visually explicit without writing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-d2550287-c864-47e0-b07c-6a449f3cb605.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/everyone.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/everyone.webp",
+      "intendedSavedPath": "public/images/words/3d/3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656.webp",
+      "generatedAt": "2026-10-07T03:35:09.477174+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：六名不同年龄外貌的人全部举手，覆盖每个个体但首读仍为举手或大家问候，不能稳定表达全称代词每个人。保留待复核，无文字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-b.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/b/candidates/everyone.webp",
+        "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary illustration. Exact target sense for planning only: everyone / pron. / 每个人. Do not render these words. Scene: A small diverse group of exactly five children standing in a gentle semicircle, each and every child visibly holding one identical small blue cup in front of their body. Every hand and cup is visible and no child is excluded or empty-handed. One tightly related group, calm setting, no other people or objects. Emphasize all people receiving the same thing. Style: hand-painted gouache with delicate colored-pencil texture on warm off-white paper. Centered clear subject within middle 75 percent, generous empty margins, soft daylight, natural muted colors, age-appropriate educational illustration. Meaning must be understandable from the subject, action and relationship alone at card size. Mandatory constraints: absolutely no text, letters, numbers, captions, labels, logos, watermarks, borders or card UI. One independent illustration only; no collage, no multi-card layout.",
+        "selfReviewNotes": "遮词检查：五个孩子各自持有相同蓝杯，确实没有遗漏者且无文字。但整体仍很容易读成孩子们、朋友或喝水，画面不足以独立强调每个人的全称关系，保留待视觉复核，不计完成。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 遮词检查：五个孩子各自持有相同蓝杯，确实没有遗漏者且无文字。但整体仍很容易读成孩子们、朋友或喝水，画面不足以独立强调每个人的全称关系，保留待视觉复核，不计完成。 Independent review: 一群孩子每人持杯，但首先读作孩子们或朋友，无法确认每个人这一全称代词。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T03:57:00.361367+00:00",
+      "review": {
+        "decision": {
+          "id": "06",
+          "senseId": "3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656",
+          "word": "everyone",
+          "pos": "pron.",
+          "meaning": "每个人",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/everyone.webp",
+          "candidateSha256": "23a199677aaa6633cfe5acd0fa26b04856ea1d6be9b62a6d1a8379a20bdf98de",
+          "approved": true,
+          "reason": "画中完整可见的六个人无一例外举手，同一动作分配给每一位，能够以有限群体表现每个人的全称指代。",
+          "observation": "六位不同年龄外观的人排成一排，都举起一只手；其中一人坐轮椅，上方有彩色弧线。",
+          "inferredMeaningBeforeMapping": "所有人都举手、每个人参与",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：六名不同年龄外貌的人全部举手，覆盖每个个体但首读仍为举手或大家问候，不能稳定表达全称代词每个人。保留待复核，无文字。 Independent review: 画中完整可见的六个人无一例外举手，同一动作分配给每一位，能够以有限群体表现每个人的全称指代。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    },
+    {
+      "senseId": "ed7f2e4eff1a5d4faef7f0c93e14e0c3907d9ad7bd0530bee268524a10ae49e1",
+      "wordId": "dict:sir",
+      "sourceId": "dict:sir",
+      "word": "sir",
+      "pos": "n.",
+      "meaning": "先生",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: sir; n.; 先生.\nPrimary scene: A dignified adult gentleman in a plain well-kept suit, standing politely with one hand tipping his brimmed hat in courteous greeting. Show a respectful mature male form of address through formal demeanor, no servant, no shop setting and no lettering or symbols.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1141a-e868-7a02-a7a1-c0eaf281cf67/exec-a7e92142-fd08-4dab-958c-72263e306445.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-020757/root/source/sir.png",
+      "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/sir.webp",
+      "intendedSavedPath": "public/images/words/ed/ed7f2e4eff1a5d4faef7f0c93e14e0c3907d9ad7bd0530bee268524a10ae49e1.webp",
+      "generatedAt": "2026-10-07T03:57:22.294686+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "已逐图查看：西装成年男性礼貌扶帽，可认作绅士或男士，但无法无字确认先生这一称谓，保留待复核。无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261006-071657-b.json",
+        "candidatePath": "output/imagegen/batch-20261006-071657/b/candidates/sir.webp",
+        "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary illustration. Exact target sense for planning only: sir / n. / 先生. Do not render these words. Scene: A polite everyday greeting to an adult gentleman: a young adult shop attendant with a welcoming open palm and slight respectful bow addresses one middle-aged man in a tidy simple jacket, who responds with a small courteous nod. Focus on the man being respectfully addressed. No uniforms, epaulettes, crowns, medals, labels, words, speech bubbles or shop signs. Style: hand-painted gouache with delicate colored-pencil texture on warm off-white paper. Centered clear subject within middle 75 percent, generous empty margins, soft daylight, natural muted colors, age-appropriate educational illustration. Meaning must be understandable from the subject, action and relationship alone at card size. Mandatory constraints: absolutely no text, letters, numbers, captions, labels, logos, watermarks, borders or card UI. One independent illustration only; no collage, no multi-card layout.",
+        "selfReviewNotes": "遮词检查：店员礼貌迎接成年男性顾客，人物与点头姿势清晰、无文字。但仅图能稳定读出欢迎、顾客或鞠躬，无法独立辨认先生这一称谓，保留待复核，不计完成。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 遮词检查：店员礼貌迎接成年男性顾客，人物与点头姿势清晰、无文字。但仅图能稳定读出欢迎、顾客或鞠躬，无法独立辨认先生这一称谓，保留待复核，不计完成。 Independent review: 画面是礼貌招待男性顾客，无法无文字确定先生这一称谓。",
+          "reviewedAt": "2026-10-07T00:34:05.693018+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T03:58:14.295355+00:00",
+      "review": {
+        "decision": {
+          "id": "12",
+          "senseId": "ed7f2e4eff1a5d4faef7f0c93e14e0c3907d9ad7bd0530bee268524a10ae49e1",
+          "word": "sir",
+          "pos": "n.",
+          "meaning": "先生",
+          "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/sir.webp",
+          "candidateSha256": "d88603e735023fcf21f5e86d78adc31bcc615339a542e4d59b56dc25de1fec3a",
+          "approved": false,
+          "reason": "仅呈现一位穿西装致意的男性，可读为绅士或男性；先生作为尊称/称呼不能由衣着或帽檐动作确定，保留待复核。",
+          "observation": "一名中老年男性穿西装、背心和领带，抬手碰帽檐，独自站立礼貌微笑。",
+          "inferredMeaningBeforeMapping": "绅士、穿正装的先生、礼貌致意",
+          "textPresent": false,
+          "reviewer": "/root/audit",
+          "method": "image-first, prior task context known; all 15 anonymous images individually viewed and observations saved before reading mapping; no prompts or generator review consulted",
+          "reviewedAt": "2026-10-07T08:07:15.550664+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-020757/review/root/decisions.json",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator also retained uncertainty: 已逐图查看：西装成年男性礼貌扶帽，可认作绅士或男士，但无法无字确认先生这一称谓，保留待复核。无文字数字。 Independent review: 仅呈现一位穿西装致意的男性，可读为绅士或男性；先生作为尊称/称呼不能由衣着或帽檐动作确定，保留待复核。",
+        "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+      }
+    }
+  ],
+  "todo": [],
+  "recoveredBy": "20261007-020757",
+  "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+}
