@@ -1,0 +1,165 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20261007-103337-b",
+  "parentBatch": "20261007-103337",
+  "status": "partial_generation_interrupted",
+  "assets": [
+    {
+      "senseId": "c4c4f48d09fe0668cb8904d64062295adb63e4d04618979b85b2c1e3585e04af",
+      "wordId": "dict:success",
+      "sourceId": "dict:success",
+      "word": "success",
+      "pos": "n.",
+      "meaning": "成功",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show success: a child has just completed a tall wooden block tower, final block securely placed at the top, both arms raised in triumphant celebration and a delighted face; a few spare blocks beside the stable finished tower. The visible completed difficult task and celebration must unmistakably communicate successful accomplishment.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a115ee-b0ed-7503-84d8-fa472dbd78dc/exec-d138d844-498d-4098-b415-611f6fa67733.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/success.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/success.webp",
+      "intendedSavedPath": "public/images/words/c4/c4c4f48d09fe0668cb8904d64062295adb63e4d04618979b85b2c1e3585e04af.webp",
+      "generatedAt": "2026-10-07T10:42:43.034772+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visually inspected full generated image: a completed upright block tower and delighted child raising both fists clearly convey successful accomplishment. No text; readable central subject. Pending independent review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T10:42:43.103081+00:00",
+      "review": {
+        "decision": {
+          "senseId": "c4c4f48d09fe0668cb8904d64062295adb63e4d04618979b85b2c1e3585e04af",
+          "word": "success",
+          "pos": "n.",
+          "meaning": "成功",
+          "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/success.webp",
+          "id": "02",
+          "group": "b",
+          "candidateSha256": "9f99243bfa7b48d3229c7d034cce8cbefb6e185e6ab1aae574ddeccdb98cf33d",
+          "observation": "一个男孩跪在刚搭成的高积木塔旁，双臂举起握拳，张嘴开心笑，地上还有少量散落积木。",
+          "inferredMeaningBeforeMapping": "成功完成搭建、成功后的喜悦或庆祝",
+          "textPresent": false,
+          "approved": true,
+          "reason": "完整站立的高积木塔明确呈现任务已完成，男孩举拳欢庆体现达成目标后的成功感；结果与反应同时可见，能直观理解成功，无文字。",
+          "reviewer": "/root/disk_audit",
+          "method": "image-first review; prior task context known, not fully blind; both images viewed individually before mapping",
+          "reviewedAt": "2026-10-07T10:48:41.921195+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-103337/review/b/decisions.json",
+        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "完整站立的高积木塔明确呈现任务已完成，男孩举拳欢庆体现达成目标后的成功感；结果与反应同时可见，能直观理解成功，无文字。",
+        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+      },
+      "savedPath": "public/images/words/c4/c4c4f48d09fe0668cb8904d64062295adb63e4d04618979b85b2c1e3585e04af.webp",
+      "alt": "success：成功的词义插图"
+    }
+  ],
+  "candidates": [],
+  "todo": [
+    {
+      "senseId": "64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681",
+      "word": "enter",
+      "pos": "v.",
+      "meaning": "进入",
+      "desiredAssetPath": "public/images/words/64/64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681.webp"
+    },
+    {
+      "senseId": "3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee",
+      "word": "arrive",
+      "pos": "v.",
+      "meaning": "到达",
+      "desiredAssetPath": "public/images/words/3e/3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee.webp"
+    },
+    {
+      "senseId": "a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45",
+      "word": "list",
+      "pos": "n.",
+      "meaning": "目录",
+      "desiredAssetPath": "public/images/words/a8/a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45.webp"
+    },
+    {
+      "senseId": "5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d",
+      "word": "relation",
+      "pos": "n.",
+      "meaning": "关系",
+      "desiredAssetPath": "public/images/words/56/5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d.webp"
+    },
+    {
+      "senseId": "cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854",
+      "word": "labour",
+      "pos": "n.",
+      "meaning": "劳动",
+      "desiredAssetPath": "public/images/words/cf/cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854.webp"
+    },
+    {
+      "senseId": "2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32",
+      "word": "dead",
+      "pos": "adj.",
+      "meaning": "死的",
+      "desiredAssetPath": "public/images/words/22/2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32.webp"
+    },
+    {
+      "senseId": "5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf",
+      "word": "round",
+      "pos": "n.",
+      "meaning": "圆",
+      "desiredAssetPath": "public/images/words/5f/5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf.webp"
+    },
+    {
+      "senseId": "dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17",
+      "word": "article",
+      "pos": "n.",
+      "meaning": "文章",
+      "desiredAssetPath": "public/images/words/df/dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17.webp"
+    },
+    {
+      "senseId": "3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f",
+      "word": "save",
+      "pos": "n.",
+      "meaning": "救球",
+      "desiredAssetPath": "public/images/words/33/3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f.webp"
+    },
+    {
+      "senseId": "43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299",
+      "word": "treatment",
+      "pos": "n.",
+      "meaning": "治疗",
+      "desiredAssetPath": "public/images/words/43/43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299.webp"
+    },
+    {
+      "senseId": "78ac8a862275ef6f9adc5bce27f36588fb2194ddddb87b8b3d94c9e44b7e3b7d",
+      "word": "beyond",
+      "pos": "prep.",
+      "meaning": "超过",
+      "desiredAssetPath": "public/images/words/78/78ac8a862275ef6f9adc5bce27f36588fb2194ddddb87b8b3d94c9e44b7e3b7d.webp"
+    },
+    {
+      "senseId": "543a5e506aa734e7cada224db6be2fb6532464723e0ff202448c964a0ac1fc30",
+      "word": "organisation",
+      "pos": "n.",
+      "meaning": "组织",
+      "desiredAssetPath": "public/images/words/54/543a5e506aa734e7cada224db6be2fb6532464723e0ff202448c964a0ac1fc30.webp"
+    },
+    {
+      "senseId": "6b29765ed03feb81d4e40cb77406c9e38bfaa6285de2e37e984ac9005e69520f",
+      "word": "manage",
+      "pos": "v.",
+      "meaning": "处理",
+      "desiredAssetPath": "public/images/words/6b/6b29765ed03feb81d4e40cb77406c9e38bfaa6285de2e37e984ac9005e69520f.webp"
+    },
+    {
+      "senseId": "b38dbb0379928d5c84b0d894897a13db9dc1ffe8bc4a33afb21fffcc14145d52",
+      "word": "serious",
+      "pos": "adj.",
+      "meaning": "严肃的",
+      "desiredAssetPath": "public/images/words/b3/b38dbb0379928d5c84b0d894897a13db9dc1ffe8bc4a33afb21fffcc14145d52.webp"
+    }
+  ],
+  "recoveredBy": "20261007-103337",
+  "reviewedAt": "2026-10-07T10:49:55.405634+00:00",
+  "generationStop": {
+    "reason": "Built-in imagegen connection failure reported by root; no retries or fallback attempted",
+    "at": "2026-10-07T10:52:01.945270+00:00",
+    "pendingGeneration": 14
+  }
+}

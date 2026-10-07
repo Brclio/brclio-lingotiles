@@ -1,0 +1,165 @@
+{
+  "mode": "built-in image_gen",
+  "batch": "20261007-103337-c",
+  "parentBatch": "20261007-103337",
+  "status": "partial_generation_interrupted",
+  "assets": [
+    {
+      "senseId": "87c53ecf2f7853281a01ee6af8faa7825b5cb9c2332678ea3b2bb597ee604369",
+      "wordId": "dict:difficulty",
+      "sourceId": "dict:difficulty",
+      "word": "difficulty",
+      "pos": "n.",
+      "meaning": "困难",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"difficulty\", \"pos\": \"n.\", \"meaning\": \"困难\"}. Depict this exact sense only, but never print the target words. Scene: A child with furrowed brow and bent knees struggles to push a heavy wooden crate up one steep step. Both hands press hard against the crate; the crate is visibly caught against the step, sweat bead and strained posture make the obstacle and effort clear. Keep the step and jammed crate fully visible. The scene must communicate a difficult obstacle rather than success or exercise.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a115ee-e2b4-7d13-b957-a59efc8d571e/exec-0e8a84ae-7640-4fcf-97fa-803ef983ad7f.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/difficulty.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/difficulty.webp",
+      "intendedSavedPath": "public/images/words/87/87c53ecf2f7853281a01ee6af8faa7825b5cb9c2332678ea3b2bb597ee604369.webp",
+      "generatedAt": "2026-10-07T10:43:08.632055+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Viewed generated image individually: a child strains with bent legs and both hands pushing a heavy crate blocked by steep steps, furrowed brow and sweat emphasize an obstacle and difficulty. Exact difficulty n. 困难 is visually supported; no text or labels. Pending independent final review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T10:43:08.695609+00:00",
+      "review": {
+        "decision": {
+          "senseId": "87c53ecf2f7853281a01ee6af8faa7825b5cb9c2332678ea3b2bb597ee604369",
+          "word": "difficulty",
+          "pos": "n.",
+          "meaning": "困难",
+          "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/difficulty.webp",
+          "id": "03",
+          "group": "c",
+          "candidateSha256": "d27747baf8e4f15993be118e7bb771a3c0b5e9a30d1733dce8b3de992d1f2d10",
+          "observation": "孩子皱眉出汗，用双手吃力推动大木箱上石阶，箱子被台阶阻挡且明显沉重，姿势费力。",
+          "inferredMeaningBeforeMapping": "做事遇到阻碍、困难、难以推上台阶",
+          "textPresent": false,
+          "approved": true,
+          "reason": "沉重箱子与台阶构成明确障碍，孩子皱眉出汗、努力却难以推进，遇到困难的状态由障碍与吃力姿态共同呈现。",
+          "reviewer": "/root",
+          "method": "image-first with prior task context known; individual images viewed before mapping and no generator prompts or self-review consulted",
+          "reviewedAt": "2026-10-07T10:47:25.880186+00:00"
+        },
+        "evidencePath": "output/imagegen/batch-20261007-103337/review/c/decisions.json",
+        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "沉重箱子与台阶构成明确障碍，孩子皱眉出汗、努力却难以推进，遇到困难的状态由障碍与吃力姿态共同呈现。",
+        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+      },
+      "savedPath": "public/images/words/87/87c53ecf2f7853281a01ee6af8faa7825b5cb9c2332678ea3b2bb597ee604369.webp",
+      "alt": "difficulty：困难的词义插图"
+    }
+  ],
+  "candidates": [],
+  "todo": [
+    {
+      "senseId": "de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca",
+      "word": "machine",
+      "pos": "n.",
+      "meaning": "机器",
+      "desiredAssetPath": "public/images/words/de/de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca.webp"
+    },
+    {
+      "senseId": "f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61",
+      "word": "compare",
+      "pos": "v.",
+      "meaning": "比较",
+      "desiredAssetPath": "public/images/words/f9/f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61.webp"
+    },
+    {
+      "senseId": "ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2",
+      "word": "lady",
+      "pos": "n.",
+      "meaning": "淑女",
+      "desiredAssetPath": "public/images/words/ef/ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2.webp"
+    },
+    {
+      "senseId": "ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e",
+      "word": "disease",
+      "pos": "n.",
+      "meaning": "疾病",
+      "desiredAssetPath": "public/images/words/ec/ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e.webp"
+    },
+    {
+      "senseId": "dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11",
+      "word": "task",
+      "pos": "n.",
+      "meaning": "工作",
+      "desiredAssetPath": "public/images/words/dc/dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11.webp"
+    },
+    {
+      "senseId": "97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00",
+      "word": "ability",
+      "pos": "n.",
+      "meaning": "能力",
+      "desiredAssetPath": "public/images/words/97/97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00.webp"
+    },
+    {
+      "senseId": "a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2",
+      "word": "behaviour",
+      "pos": "n.",
+      "meaning": "行为",
+      "desiredAssetPath": "public/images/words/a4/a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2.webp"
+    },
+    {
+      "senseId": "208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a",
+      "word": "feeling",
+      "pos": "n.",
+      "meaning": "摸",
+      "desiredAssetPath": "public/images/words/20/208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a.webp"
+    },
+    {
+      "senseId": "1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084",
+      "word": "pretty",
+      "pos": "adj.",
+      "meaning": "漂亮的",
+      "desiredAssetPath": "public/images/words/1c/1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084.webp"
+    },
+    {
+      "senseId": "bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926",
+      "word": "everybody",
+      "pos": "pron.",
+      "meaning": "每个人",
+      "desiredAssetPath": "public/images/words/bb/bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926.webp"
+    },
+    {
+      "senseId": "00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6",
+      "word": "hall",
+      "pos": "n.",
+      "meaning": "门厅",
+      "desiredAssetPath": "public/images/words/00/00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6.webp"
+    },
+    {
+      "senseId": "671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1",
+      "word": "skill",
+      "pos": "n.",
+      "meaning": "技术",
+      "desiredAssetPath": "public/images/words/67/671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1.webp"
+    },
+    {
+      "senseId": "45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8",
+      "word": "message",
+      "pos": "n.",
+      "meaning": "消息",
+      "desiredAssetPath": "public/images/words/45/45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8.webp"
+    },
+    {
+      "senseId": "9a96d10ee1f08fc240bf3a7b8b5ae327291cbe72a0c1a1ec6a981ca494a25abe",
+      "word": "nor",
+      "pos": "conj.",
+      "meaning": "也不",
+      "desiredAssetPath": "public/images/words/9a/9a96d10ee1f08fc240bf3a7b8b5ae327291cbe72a0c1a1ec6a981ca494a25abe.webp"
+    }
+  ],
+  "generationStop": {
+    "reason": "Built-in imagegen connection failure reported by root; no retries or fallback attempted",
+    "at": "2026-10-07T10:52:01.945270+00:00",
+    "pendingGeneration": 14
+  },
+  "recoveredBy": "20261007-103337",
+  "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+}
