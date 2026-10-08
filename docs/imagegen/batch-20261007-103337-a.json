@@ -2,7 +2,7 @@
   "mode": "built-in image_gen",
   "batch": "20261007-103337-a",
   "parentBatch": "20261007-103337",
-  "status": "partial_generation_interrupted",
+  "status": "reviewed_partial",
   "assets": [
     {
       "senseId": "8f45c7eeba93c40a6eba844e1de45103633f89d332e5b1db131978c29a6720f3",
@@ -52,6 +52,466 @@
       },
       "savedPath": "public/images/words/8f/8f45c7eeba93c40a6eba844e1de45103633f89d332e5b1db131978c29a6720f3.webp",
       "alt": "rest：休息的词义插图"
+    },
+    {
+      "senseId": "3f7e441f7b1e82d68efb7dbb7b25faac789f61fb0141f07dab7a19c51d21ffeb",
+      "wordId": "dict:fight",
+      "sourceId": "dict:fight",
+      "word": "fight",
+      "pos": "n.",
+      "meaning": "打架",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: fight; n.; 打架.\nPrimary scene: Two school-age boys in simple everyday clothing are having a physical fight: both angry, grabbing each other by the shoulders and shirt fronts, feet braced and bodies pushing against each other. One has a clenched raised fist away from the other face. Clear quarrel and physical struggle, no playful smiles, no sports uniforms, no blood or injuries.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-4955860b-52cc-4a52-b9bf-8fc478549ad5.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/fight.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/fight.webp",
+      "intendedSavedPath": "public/images/words/3f/3f7e441f7b1e82d68efb7dbb7b25faac789f61fb0141f07dab7a19c51d21ffeb.webp",
+      "generatedAt": "2026-10-07T14:10:13.181234+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：两个男孩互抓衣领推搡，一人举拳，双方愤怒、腿部用力；遮住词义仍直接可读打架，非运动玩耍。无字无血，符合 fight 名词打架。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:10:13.215510+00:00",
+      "review": {
+        "decision": {
+          "code": "13534feb2b1b",
+          "senseId": "3f7e441f7b1e82d68efb7dbb7b25faac789f61fb0141f07dab7a19c51d21ffeb",
+          "word": "fight",
+          "pos": "n.",
+          "meaning": "打架",
+          "candidateSha256": "5b37292e251a53e98ae479921f4a1af8b2e326148c2863cedfe51818fcd7f8ea",
+          "observations": "Two angry boys grip each other shirts, one boy raises a clenched fist, both in braced confrontational stances, no weapons or text.",
+          "inferredMeaning": "fighting, a physical fight, quarrelling that has become physical",
+          "textPresent": false,
+          "approved": true,
+          "reason": "两名孩子抓住彼此衣服、握拳举起、愤怒对峙，清楚表现一次肢体打架事件，符合 fight n. 打架，无须文字。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "两名孩子抓住彼此衣服、握拳举起、愤怒对峙，清楚表现一次肢体打架事件，符合 fight n. 打架，无须文字。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/3f/3f7e441f7b1e82d68efb7dbb7b25faac789f61fb0141f07dab7a19c51d21ffeb.webp",
+      "alt": "fight：打架的词义插图"
+    },
+    {
+      "senseId": "6cee1ca11066d232260ac6fe372b040ca56d4d86584218466af1373ce003951e",
+      "wordId": "dict:throw",
+      "sourceId": "dict:throw",
+      "word": "throw",
+      "pos": "v.",
+      "meaning": "投",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: throw; v.; 投.\nPrimary scene: A child throws a small ball forward overhand toward an open empty basket: throwing arm extended just after release, ball visibly flying through the air with a short arcing motion trail. Side view clearly links hand, released ball, and direction. The throw is the unmistakable focal action.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-deb325e4-97b5-4def-b83c-0c639fc25959.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/throw.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/throw.webp",
+      "intendedSavedPath": "public/images/words/6c/6cee1ca11066d232260ac6fe372b040ca56d4d86584218466af1373ce003951e.webp",
+      "generatedAt": "2026-10-07T14:12:15.893756+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：男孩侧身前伸投球手，球已离手飞向空篮，弧形轨迹衔接动作；遮词即可识别投掷。无文字，符合 throw 动词投。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:12:15.926768+00:00",
+      "review": {
+        "decision": {
+          "code": "7ebb7b6be615",
+          "senseId": "6cee1ca11066d232260ac6fe372b040ca56d4d86584218466af1373ce003951e",
+          "word": "throw",
+          "pos": "v.",
+          "meaning": "投",
+          "candidateSha256": "75d1b7b9a265608bbb0ad30266dacaee72647f243e8d20a4b89762fa2a7ea157",
+          "observations": "Boy extends open throwing hand with body stepping forward; red ball travels away along curved motion stroke toward empty wicker basket, no text.",
+          "inferredMeaning": "throw, toss a ball into a basket",
+          "textPresent": false,
+          "approved": true,
+          "reason": "孩子手张开向前伸出，红球沿弧线离手飞向篮子，投掷动作和方向明确，符合 throw v. 投，没有被误画为持球或接球。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "孩子手张开向前伸出，红球沿弧线离手飞向篮子，投掷动作和方向明确，符合 throw v. 投，没有被误画为持球或接球。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/6c/6cee1ca11066d232260ac6fe372b040ca56d4d86584218466af1373ce003951e.webp",
+      "alt": "throw：投的词义插图"
+    },
+    {
+      "senseId": "9de9b55c7b2cd811ad9c6df60e88f86d2fbd8bd27834e5595e49b606ff714f1d",
+      "wordId": "dict:top",
+      "sourceId": "dict:top",
+      "word": "top",
+      "pos": "n.",
+      "meaning": "顶部",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: top; n.; 顶部.\nPrimary scene: A tall stack of plain wooden blocks shown from a slight low angle, the very uppermost block distinctly coral red while the supporting lower blocks are natural beige. A hand gently rests on the uppermost surface, emphasizing the top of the stack. Entire stack visible with empty space above; no arrows or text.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-62770b18-3f73-449a-a858-91c5060bdfbb.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/top.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/top.webp",
+      "intendedSavedPath": "public/images/words/9d/9de9b55c7b2cd811ad9c6df60e88f86d2fbd8bd27834e5595e49b606ff714f1d.webp",
+      "generatedAt": "2026-10-07T14:14:41.057073+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：完整垂直积木堆最高一块为红色，手掌明确放在其最上表面；上方留空、下方均同色，位置对比突出顶部。遮词可从指示部位读出顶部，无文字。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:14:41.095289+00:00",
+      "review": {
+        "decision": {
+          "code": "43e69b62242a",
+          "senseId": "9de9b55c7b2cd811ad9c6df60e88f86d2fbd8bd27834e5595e49b606ff714f1d",
+          "word": "top",
+          "pos": "n.",
+          "meaning": "顶部",
+          "candidateSha256": "c979549278d374ca347e510fde613c6b708f04bd441af31a4e16c7774d29abfc",
+          "observations": "A hand touches or sets a coral-red wooden cube at the very top of a vertical tower of tan wooden blocks; lower blocks form a clear stack, no text.",
+          "inferredMeaning": "top, on top of, placing a block, stacking",
+          "textPresent": false,
+          "approved": true,
+          "reason": "高叠方块中只有最高一块为红色，手触碰最上方，明确聚焦顶部位置而不是任意一块积木；符合 top n. 顶部。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "高叠方块中只有最高一块为红色，手触碰最上方，明确聚焦顶部位置而不是任意一块积木；符合 top n. 顶部。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/9d/9de9b55c7b2cd811ad9c6df60e88f86d2fbd8bd27834e5595e49b606ff714f1d.webp",
+      "alt": "top：顶部的词义插图"
+    },
+    {
+      "senseId": "0cef6ec56fc999eac9a71906e2a8cf71f1917ca95baaf72549e312c4b9c34bca",
+      "wordId": "dict:fill",
+      "sourceId": "dict:fill",
+      "word": "fill",
+      "pos": "v.",
+      "meaning": "装满",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: fill; v.; 装满.\nPrimary scene: A person pours water from a clear jug into a drinking glass until it is completely full to the brim. The water stream connects jug to glass; meniscus exactly reaches upper rim with one tiny drop at edge. Emphasize filling the vessel completely, the full glass large and central; no other objects.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-829e46a5-dcd4-4477-965b-48156b2c8dae.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/fill.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/fill.webp",
+      "intendedSavedPath": "public/images/words/0c/0cef6ec56fc999eac9a71906e2a8cf71f1917ca95baaf72549e312c4b9c34bca.webp",
+      "generatedAt": "2026-10-07T14:15:47.484077+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：壶口水流进入大玻璃杯，杯内水面到杯沿且旁有小溢滴，动作与满容量同时清楚；遮词可识别把杯装满。无文字，符合 fill 动词装满。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:15:47.515431+00:00",
+      "review": {
+        "decision": {
+          "code": "fc51e0a00543",
+          "senseId": "0cef6ec56fc999eac9a71906e2a8cf71f1917ca95baaf72549e312c4b9c34bca",
+          "word": "fill",
+          "pos": "v.",
+          "meaning": "装满",
+          "candidateSha256": "be5831475ca65c58eac0db7bc6a41ddfb07992c55a1c8e1caa17c9ccd152cecb",
+          "observations": "Woman pours water from clear pitcher into a tall glass filled all the way to its rim; water visibly bulges or spills over one rim edge, no text.",
+          "inferredMeaning": "full, filling a glass, pouring to overflowing",
+          "textPresent": false,
+          "approved": true,
+          "reason": "水壶正在持续倒水，杯中水位已经到杯口并微微溢出，动态动作与满的结果同时可见，符合 fill v. 装满，而不是仅拿着满杯。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "水壶正在持续倒水，杯中水位已经到杯口并微微溢出，动态动作与满的结果同时可见，符合 fill v. 装满，而不是仅拿着满杯。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/0c/0cef6ec56fc999eac9a71906e2a8cf71f1917ca95baaf72549e312c4b9c34bca.webp",
+      "alt": "fill：装满的词义插图"
+    },
+    {
+      "senseId": "a04293e24858d0b1a58ba02a4a6fda2b64ad4d5e62f9eac4c8f34f3a5fcc98fc",
+      "wordId": "dict:drop",
+      "sourceId": "dict:drop",
+      "word": "drop",
+      "pos": "n.",
+      "meaning": "滴",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: drop; n.; 滴.\nPrimary scene: Macro close view of one large transparent water drop hanging beneath the tip of a fresh green leaf, rounded and glossy with a delicate neck just before falling. A second small falling drop below may show the distinct droplet shape. Isolated leaf tip and drop on empty warm paper, not a rainstorm.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-0730c466-16ba-4b5e-b929-578a1bfa2b0e.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/drop.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/drop.webp",
+      "intendedSavedPath": "public/images/words/a0/a04293e24858d0b1a58ba02a4a6fda2b64ad4d5e62f9eac4c8f34f3a5fcc98fc.webp",
+      "generatedAt": "2026-10-07T14:18:21.698252+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：绿叶尖端悬着高光透明大水滴，下方独立小滴；背景空白，滴状外形清楚突出。遮词可直认一滴水，无文字，符合 drop 名词滴。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:18:21.729982+00:00",
+      "review": {
+        "decision": {
+          "code": "0839efda031b",
+          "senseId": "a04293e24858d0b1a58ba02a4a6fda2b64ad4d5e62f9eac4c8f34f3a5fcc98fc",
+          "word": "drop",
+          "pos": "n.",
+          "meaning": "滴",
+          "candidateSha256": "c023b98ace576e4778f21b1c5d2a754e09829a0d9b88ad9416008722a8b0591e",
+          "observations": "Close-up leaf tip with a large transparent water droplet hanging from it and a smaller separated droplet falling below, empty warm background, no text.",
+          "inferredMeaning": "drop, droplet, dripping water, a water drop falling",
+          "textPresent": false,
+          "approved": true,
+          "reason": "叶尖悬挂的大水珠和下方脱离的小水珠形态突出，直接呈现名词 滴；没有文字或额外解释，主体在小图中清楚。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "叶尖悬挂的大水珠和下方脱离的小水珠形态突出，直接呈现名词 滴；没有文字或额外解释，主体在小图中清楚。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/a0/a04293e24858d0b1a58ba02a4a6fda2b64ad4d5e62f9eac4c8f34f3a5fcc98fc.webp",
+      "alt": "drop：滴的词义插图"
+    },
+    {
+      "senseId": "d3256209ea9e3af389c52c51f7312e4440e56e9de2441b49c22cb84c934473f7",
+      "wordId": "dict:blood",
+      "sourceId": "dict:blood",
+      "word": "blood",
+      "pos": "n.",
+      "meaning": "血",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: blood; n.; 血.\nPrimary scene: Close view of a hand with a tiny superficial fingertip scratch and a single small bright red drop of blood on the skin, with a small clean white gauze pad showing one red spot beside it. Simple medical educational illustration, non-graphic, no large wound, no distress. Red blood droplet is the central unmistakable subject.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-9ccf01a3-3b64-4cee-96e9-2283bb3c1e06.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/blood.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/blood.webp",
+      "intendedSavedPath": "public/images/words/d3/d3256209ea9e3af389c52c51f7312e4440e56e9de2441b49c22cb84c934473f7.webp",
+      "generatedAt": "2026-10-07T14:23:46.463097+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：指尖浅小划痕有鲜红血珠，旁边白纱布有血点，来源与颜色直接明确；遮词可识别血而非普通水滴。无字、非血腥，符合 blood 名词血。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:23:46.498064+00:00",
+      "review": {
+        "decision": {
+          "code": "42ae7423fa4a",
+          "senseId": "d3256209ea9e3af389c52c51f7312e4440e56e9de2441b49c22cb84c934473f7",
+          "word": "blood",
+          "pos": "n.",
+          "meaning": "血",
+          "candidateSha256": "0774910164a8ae35f15cd0871b47e1750b25a07e09f73838a585c033695db189",
+          "observations": "Close-up fingertip has a small cut and a vivid red bead of blood; white gauze beside it carries a red blood stain, no text.",
+          "inferredMeaning": "blood, bleeding fingertip, a small cut",
+          "textPresent": false,
+          "approved": true,
+          "reason": "指尖红色血珠和纱布血迹形成一致线索，血本身突出且可识别，符合 blood n. 血；轻微伤口没有喧宾夺主。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "指尖红色血珠和纱布血迹形成一致线索，血本身突出且可识别，符合 blood n. 血；轻微伤口没有喧宾夺主。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/d3/d3256209ea9e3af389c52c51f7312e4440e56e9de2441b49c22cb84c934473f7.webp",
+      "alt": "blood：血的词义插图"
+    },
+    {
+      "senseId": "0a4d84d34b0005783d8fb5b9e7e13b1717daa72996d5919eb710a8c8dde38568",
+      "wordId": "dict:push",
+      "sourceId": "dict:push",
+      "word": "push",
+      "pos": "n.",
+      "meaning": "推",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: push; n.; 推.\nPrimary scene: A child pushes a large closed wooden box across the floor using both palms flat against its side, arms extended, body leaning forward, legs braced. Short floor friction marks behind the box show it moving away from the child. No handles or rope, no pulling. Clear side view of the physical push.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-b8b70c1b-9232-4cab-bfd1-6b64c4c5ed88.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/push.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/push.webp",
+      "intendedSavedPath": "public/images/words/0a/0a4d84d34b0005783d8fb5b9e7e13b1717daa72996d5919eb710a8c8dde38568.webp",
+      "generatedAt": "2026-10-07T14:34:40.718938+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：孩子双掌顶着木箱侧面，伸臂前倾后脚支撑，地面短线显示木箱向远处移动。遮词直接可读一次推或推力，无绳索不可能看成拉；符合 push 名词推，无文字。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:34:40.754088+00:00",
+      "review": {
+        "decision": {
+          "code": "d24e939e2582",
+          "senseId": "0a4d84d34b0005783d8fb5b9e7e13b1717daa72996d5919eb710a8c8dde38568",
+          "word": "push",
+          "pos": "n.",
+          "meaning": "推",
+          "candidateSha256": "26db66775bea1fd6e4a7d0d558d3acdcd581ecf3aca7254cd821a00efd7221d2",
+          "observations": "Boy braces both feet, leans forward and pushes very large wooden crate with both hands; brows strained, elbows extended, short motion lines on ground, no text.",
+          "inferredMeaning": "pushing a heavy box, strenuous effort, difficulty moving something",
+          "textPresent": false,
+          "approved": true,
+          "reason": "双手抵住箱子、身体前倾、脚撑地的施力姿势明确呈现推的事件，符合 push n. 推；箱子的巨大体积不遮蔽动作。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "双手抵住箱子、身体前倾、脚撑地的施力姿势明确呈现推的事件，符合 push n. 推；箱子的巨大体积不遮蔽动作。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/0a/0a4d84d34b0005783d8fb5b9e7e13b1717daa72996d5919eb710a8c8dde38568.webp",
+      "alt": "push：推的词义插图"
+    },
+    {
+      "senseId": "0ecb4421fcaba0bacf8c5fea546a97f1c0f7202a5341ff77e184d0d5a83ce3f8",
+      "wordId": "dict:size",
+      "sourceId": "dict:size",
+      "word": "size",
+      "pos": "n.",
+      "meaning": "大小",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: size; n.; 大小.\nPrimary scene: Two otherwise identical plain sneakers side by side: one adult-sized shoe and one very small toddler shoe, same shape and same muted blue color, displayed on the same baseline and at the same distance. Difference in physical size is the sole contrast; a pair of hands spans the length of the bigger shoe to emphasize dimensions. No rulers, numbers, labels or marks.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-6b28ca6f-565c-43c1-8c65-b1f274dc857f.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/size.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/size.webp",
+      "intendedSavedPath": "public/images/words/0e/0ecb4421fcaba0bacf8c5fea546a97f1c0f7202a5341ff77e184d0d5a83ce3f8.webp",
+      "generatedAt": "2026-10-07T14:48:19.420998+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：同款同色球鞋在同一地平线上一大一小，双手量示大鞋长度；除尺寸之外无主要差异，遮词直接读出大小对比。无文字，符合 size 名词大小。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:48:19.453688+00:00",
+      "review": {
+        "decision": {
+          "code": "ea32048ef8c5",
+          "senseId": "0ecb4421fcaba0bacf8c5fea546a97f1c0f7202a5341ff77e184d0d5a83ce3f8",
+          "word": "size",
+          "pos": "n.",
+          "meaning": "大小",
+          "candidateSha256": "dcf982b1ea551cf82a19392e7b69befa5cb0620e4b7ab31f9153c23573ce3582",
+          "observations": "Large blue lace-up sneaker next to same-style miniature blue sneaker. Two hands bracket long sneaker toe and heel as if measuring length, no ruler or text.",
+          "inferredMeaning": "size, large compared with small, measuring shoe size or length",
+          "textPresent": false,
+          "approved": true,
+          "reason": "相同款式的鞋呈现明显大、小对比，双手还强调大鞋两端跨度，大小这一可见性质是主线索，符合 size n. 大小，无需数字。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "相同款式的鞋呈现明显大、小对比，双手还强调大鞋两端跨度，大小这一可见性质是主线索，符合 size n. 大小，无需数字。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/0e/0ecb4421fcaba0bacf8c5fea546a97f1c0f7202a5341ff77e184d0d5a83ce3f8.webp",
+      "alt": "size：大小的词义插图"
+    },
+    {
+      "senseId": "f5298c99f4dc49f85c6696ee2fa92959c49de4ff478ec00a40b6ee2804c3b0c2",
+      "wordId": "dict:introduce",
+      "sourceId": "dict:introduce",
+      "word": "introduce",
+      "pos": "v.",
+      "meaning": "介绍",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: introduce; v.; 介绍.\nPrimary scene: Three people in one greeting scene: a friendly host between two strangers uses an open presenting hand toward each to introduce them; the two new acquaintances turn to each other with welcoming smiles and begin a handshake. Host introduction gesture prominent and both recipients clearly responding. No speech bubbles or lettering.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-e67ecd5d-6241-4477-960c-de4914bcf5bd.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/introduce.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/introduce.webp",
+      "intendedSavedPath": "public/images/words/f5/f5298c99f4dc49f85c6696ee2fa92959c49de4ff478ec00a40b6ee2804c3b0c2.webp",
+      "generatedAt": "2026-10-07T14:49:44.130119+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图检查：中间女士同时向左右两人摊掌呈示，左右两人首次相见般友好握手回应；三方关系把一般握手限定为通过中间人介绍。遮词可读介绍，符合 introduce 动词介绍，无文字。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:49:44.166803+00:00",
+      "review": {
+        "decision": {
+          "code": "d21d1feee5a8",
+          "senseId": "f5298c99f4dc49f85c6696ee2fa92959c49de4ff478ec00a40b6ee2804c3b0c2",
+          "word": "introduce",
+          "pos": "v.",
+          "meaning": "介绍",
+          "candidateSha256": "75e403447bbcc99133496245ed67e3c8f516b217829d7b99b396e8590434ff2c",
+          "observations": "Woman in middle smiles and opens both hands toward a man and another woman who face one another and shake hands, no text.",
+          "inferredMeaning": "introducing two people, an introduction, meeting and greeting",
+          "textPresent": false,
+          "approved": true,
+          "reason": "中间人双手分别指向左右两人，左右双方刚握手认识，第三人引见的关系明显，清楚表达 introduce v. 介绍而不只是两人打招呼。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "中间人双手分别指向左右两人，左右双方刚握手认识，第三人引见的关系明显，清楚表达 introduce v. 介绍而不只是两人打招呼。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/f5/f5298c99f4dc49f85c6696ee2fa92959c49de4ff478ec00a40b6ee2804c3b0c2.webp",
+      "alt": "introduce：介绍的词义插图"
+    },
+    {
+      "senseId": "fcd411e97f781214864c2f401e461f71e3fe5b199455becff4a4a779026afab3",
+      "wordId": "dict:sound",
+      "sourceId": "dict:sound",
+      "word": "sound",
+      "pos": "n.",
+      "meaning": "声音",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: sound; n.; 声音.\nPrimary scene: A bronze handbell actively ringing, tilted in a hand with the clapper clearly striking its inside edge. Broad curved sound-wave marks radiate from both sides of the vibrating bell, with a couple subtle motion lines at the rim. Focus on audible sound spreading from its source, no person listening and no musical notes.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1174d-8772-71c3-afa0-3e8924917ecf/exec-24a093c2-af1a-4c3e-9041-5217ac455526.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/sound.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/sound.webp",
+      "intendedSavedPath": "public/images/words/fc/fcd411e97f781214864c2f401e461f71e3fe5b199455becff4a4a779026afab3.webp",
+      "generatedAt": "2026-10-08T01:09:55.227234+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐张看图：手持金属铃倾斜摇响，铃舌撞击铃内边，碰撞白色短线与震动线可见，左右有明显向外扩散的蓝色声波。遮住词条仍直接理解铃发出的声音及传播，符合 sound 名词声音，无文字数字。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-08T01:09:55.295006+00:00",
+      "review": {
+        "decision": {
+          "code": "79c94640bb40",
+          "senseId": "fcd411e97f781214864c2f401e461f71e3fe5b199455becff4a4a779026afab3",
+          "word": "sound",
+          "pos": "n.",
+          "meaning": "声音",
+          "candidateSha256": "9a34f6e7e4f071457af2785f8423cf5440d45a896bdefa187cfc5e58aa9479ed",
+          "observations": "Hand grasps a brass handbell by wooden handle; clapper visibly contacts rim, motion strokes and blue radiating arcs surround bell, no text.",
+          "inferredMeaning": "ringing a bell, ringing sound, sound",
+          "textPresent": false,
+          "approved": true,
+          "reason": "手摇铃的铃舌触碰铃边，周围有发声的辐射弧线，声音的来源与传播同时可见，足以从响铃理解 sound n. 声音，无文字。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "手摇铃的铃舌触碰铃边，周围有发声的辐射弧线，声音的来源与传播同时可见，足以从响铃理解 sound n. 声音，无文字。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/fc/fcd411e97f781214864c2f401e461f71e3fe5b199455becff4a4a779026afab3.webp",
+      "alt": "sound：声音的词义插图"
     }
   ],
   "candidates": [
@@ -76,126 +536,163 @@
       "selfReviewedAt": "2026-10-07T10:38:12.671248+00:00",
       "review": {
         "decision": {
+          "code": "9458777d813e",
           "senseId": "5f2c953365561ec24b32bdd4ca782c9f0944c9581c56fe56f6bb82643cf4d1f5",
           "word": "prove",
           "pos": "v.",
           "meaning": "证明",
-          "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/prove.webp",
-          "id": "01",
-          "group": "a",
           "candidateSha256": "cb615dff572f2987436d3cc247c7876e91d20802e591412112a4eb815b17d064",
-          "observation": "男孩把细长透明容器里的水倒入宽矮容器，旁边女孩惊讶观看，桌上另有一杯水。",
-          "inferredMeaningBeforeMapping": "倒水、实验、比较容器容量",
+          "observations": "Boy pours water from a tall narrow clear glass into a wider low glass; another narrow half-filled glass stands nearby. Girl watches with wide eyes and open mouth; small surprise lines above her head, no text.",
+          "inferredMeaning": "pouring water, demonstrating different container shapes, surprise or curiosity",
           "textPresent": false,
           "approved": false,
-          "reason": "倒水与旁观惊讶能表达实验或容量比较，画面缺少被检验的命题及成立结果，不能独立辨认为动词证明。",
-          "reviewer": "/root",
-          "method": "image-first with prior task context known; individual images viewed before mapping and no generator prompts or self-review consulted",
-          "reviewedAt": "2026-10-07T10:47:25.879997+00:00"
+          "reason": "画面主要是把水倒进宽杯及旁人惊讶的反应，没有展示待证命题、可核对前后事实或证明完成的结果。可以理解倒水或容器实验，无法独立推断 prove v. 证明，需重做或待复核。"
         },
-        "evidencePath": "output/imagegen/batch-20261007-103337/review/a/decisions.json",
-        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
       },
       "finalRootReview": {
         "approved": false,
-        "reason": "Generator also retained uncertainty: 逐图查看：男孩向容器倒水，女孩惊讶观看，没有明确可见的待证命题及验证关系；遮词更容易读为倒水或实验，不能直观稳定理解证明。无文字，保留待重做。 Independent review: 倒水与旁观惊讶能表达实验或容量比较，画面缺少被检验的命题及成立结果，不能独立辨认为动词证明。",
-        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+        "reason": "Generator uncertainty retained: 逐图查看：男孩向容器倒水，女孩惊讶观看，没有明确可见的待证命题及验证关系；遮词更容易读为倒水或实验，不能直观稳定理解证明。无文字，保留待重做。 Cross-review: 画面主要是把水倒进宽杯及旁人惊讶的反应，没有展示待证命题、可核对前后事实或证明完成的结果。可以理解倒水或容器实验，无法独立推断 prove v. 证明，需重做或待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
       }
-    }
-  ],
-  "todo": [
-    {
-      "senseId": "3f7e441f7b1e82d68efb7dbb7b25faac789f61fb0141f07dab7a19c51d21ffeb",
-      "word": "fight",
-      "pos": "n.",
-      "meaning": "打架",
-      "desiredAssetPath": "public/images/words/3f/3f7e441f7b1e82d68efb7dbb7b25faac789f61fb0141f07dab7a19c51d21ffeb.webp"
-    },
-    {
-      "senseId": "6cee1ca11066d232260ac6fe372b040ca56d4d86584218466af1373ce003951e",
-      "word": "throw",
-      "pos": "v.",
-      "meaning": "投",
-      "desiredAssetPath": "public/images/words/6c/6cee1ca11066d232260ac6fe372b040ca56d4d86584218466af1373ce003951e.webp"
-    },
-    {
-      "senseId": "9de9b55c7b2cd811ad9c6df60e88f86d2fbd8bd27834e5595e49b606ff714f1d",
-      "word": "top",
-      "pos": "n.",
-      "meaning": "顶部",
-      "desiredAssetPath": "public/images/words/9d/9de9b55c7b2cd811ad9c6df60e88f86d2fbd8bd27834e5595e49b606ff714f1d.webp"
-    },
-    {
-      "senseId": "0cef6ec56fc999eac9a71906e2a8cf71f1917ca95baaf72549e312c4b9c34bca",
-      "word": "fill",
-      "pos": "v.",
-      "meaning": "装满",
-      "desiredAssetPath": "public/images/words/0c/0cef6ec56fc999eac9a71906e2a8cf71f1917ca95baaf72549e312c4b9c34bca.webp"
     },
     {
       "senseId": "d7bb38eb6aac0454cc16e9e9c7925ad01887930c2eeedabc6a7662f77fe84e94",
+      "wordId": "dict:knowledge",
+      "sourceId": "dict:knowledge",
       "word": "knowledge",
       "pos": "n.",
       "meaning": "知识",
-      "desiredAssetPath": "public/images/words/d7/d7bb38eb6aac0454cc16e9e9c7925ad01887930c2eeedabc6a7662f77fe84e94.webp"
-    },
-    {
-      "senseId": "a04293e24858d0b1a58ba02a4a6fda2b64ad4d5e62f9eac4c8f34f3a5fcc98fc",
-      "word": "drop",
-      "pos": "n.",
-      "meaning": "滴",
-      "desiredAssetPath": "public/images/words/a0/a04293e24858d0b1a58ba02a4a6fda2b64ad4d5e62f9eac4c8f34f3a5fcc98fc.webp"
-    },
-    {
-      "senseId": "d3256209ea9e3af389c52c51f7312e4440e56e9de2441b49c22cb84c934473f7",
-      "word": "blood",
-      "pos": "n.",
-      "meaning": "血",
-      "desiredAssetPath": "public/images/words/d3/d3256209ea9e3af389c52c51f7312e4440e56e9de2441b49c22cb84c934473f7.webp"
-    },
-    {
-      "senseId": "0a4d84d34b0005783d8fb5b9e7e13b1717daa72996d5919eb710a8c8dde38568",
-      "word": "push",
-      "pos": "n.",
-      "meaning": "推",
-      "desiredAssetPath": "public/images/words/0a/0a4d84d34b0005783d8fb5b9e7e13b1717daa72996d5919eb710a8c8dde38568.webp"
-    },
-    {
-      "senseId": "0ecb4421fcaba0bacf8c5fea546a97f1c0f7202a5341ff77e184d0d5a83ce3f8",
-      "word": "size",
-      "pos": "n.",
-      "meaning": "大小",
-      "desiredAssetPath": "public/images/words/0e/0ecb4421fcaba0bacf8c5fea546a97f1c0f7202a5341ff77e184d0d5a83ce3f8.webp"
-    },
-    {
-      "senseId": "f5298c99f4dc49f85c6696ee2fa92959c49de4ff478ec00a40b6ee2804c3b0c2",
-      "word": "introduce",
-      "pos": "v.",
-      "meaning": "介绍",
-      "desiredAssetPath": "public/images/words/f5/f5298c99f4dc49f85c6696ee2fa92959c49de4ff478ec00a40b6ee2804c3b0c2.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: knowledge; n.; 知识.\nPrimary scene: A curious learner understands nature through a large open book of entirely pictorial knowledge: simple clear drawings of a leaf, planet and butterfly life cycle, with no writing. Above the learner are small translucent mental images repeating the understood objects, and the learner confidently identifies an actual leaf held in one hand. Convey learned information and understanding, not decorative floating icons; no text whatsoever.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116ad-8609-7eb1-a573-79bd885280a3/exec-9515604d-0e39-4fae-960b-12b21973d841.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/knowledge.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/knowledge.webp",
+      "intendedSavedPath": "public/images/words/d7/d7bb38eb6aac0454cc16e9e9c7925ad01887930c2eeedabc6a7662f77fe84e94.webp",
+      "generatedAt": "2026-10-07T14:16:50.977977+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "逐图检查：女孩读图画书、手持叶片，头上思想泡重复书中叶片、行星和蝴蝶。无字但遮词首先可读学习、阅读或想象，不能稳定锁定名词知识；且部分生命周期箭头不够准确，保留待复核，不计完成。",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:16:51.009431+00:00",
+      "review": {
+        "decision": {
+          "code": "afa0ce8c3a61",
+          "senseId": "d7bb38eb6aac0454cc16e9e9c7925ad01887930c2eeedabc6a7662f77fe84e94",
+          "word": "knowledge",
+          "pos": "n.",
+          "meaning": "知识",
+          "candidateSha256": "db30c50b2d39dcf30cf9a6d4c35f56b319717f005edbdfc6151d578166994179",
+          "observations": "Girl holds a green leaf above an open illustrated book. Pages show leaf, planets and butterfly life cycle. Thought bubbles above head repeat the same three subjects, no writing.",
+          "inferredMeaning": "learning, knowledge, thinking about science, understanding from a book",
+          "textPresent": false,
+          "approved": false,
+          "reason": "书中科学图案与思想泡泡表现学习或思考科学内容，但读书、想象、学习和已经拥有知识之间缺少清楚区分线索。知识只是可能解释，knowledge n. 知识不能由画面稳妥确认，保留待复核。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 逐图检查：女孩读图画书、手持叶片，头上思想泡重复书中叶片、行星和蝴蝶。无字但遮词首先可读学习、阅读或想象，不能稳定锁定名词知识；且部分生命周期箭头不够准确，保留待复核，不计完成。 Cross-review: 书中科学图案与思想泡泡表现学习或思考科学内容，但读书、想象、学习和已经拥有知识之间缺少清楚区分线索。知识只是可能解释，knowledge n. 知识不能由画面稳妥确认，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "476a3427b04be9f047a27a0241ec002dae50c2746a55c6a723bb663dc8d629de",
+      "wordId": "dict:environment",
+      "sourceId": "dict:environment",
       "word": "environment",
       "pos": "n.",
       "meaning": "环境",
-      "desiredAssetPath": "public/images/words/47/476a3427b04be9f047a27a0241ec002dae50c2746a55c6a723bb663dc8d629de.webp"
-    },
-    {
-      "senseId": "fcd411e97f781214864c2f401e461f71e3fe5b199455becff4a4a779026afab3",
-      "word": "sound",
-      "pos": "n.",
-      "meaning": "声音",
-      "desiredAssetPath": "public/images/words/fc/fcd411e97f781214864c2f401e461f71e3fe5b199455becff4a4a779026afab3.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: environment; n.; 环境.\nPrimary scene: A small deer stands in the middle of its surrounding natural environment: a nearby tree provides shade, a small pond provides water, grassy ground and a gentle hill surround it. The composition shows the animal embedded in a coherent habitat with foreground and background surroundings, no unrelated scenery or symbolic globe.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1174d-8772-71c3-afa0-3e8924917ecf/exec-f5d0612b-5539-4c0c-bac5-148722303cee.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/environment.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/environment.webp",
+      "intendedSavedPath": "public/images/words/47/476a3427b04be9f047a27a0241ec002dae50c2746a55c6a723bb663dc8d629de.webp",
+      "generatedAt": "2026-10-07T20:27:56.541639+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "逐张看图：中央小鹿站在树、草、池塘与远山围绕的自然场景，无文字。环境元素真实连贯，但遮词第一识别仍是鹿或自然风景，动物与周围条件的关系不够明确，不能稳定辨认为环境，保留待复核，不计完成。",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T20:27:56.607692+00:00",
+      "review": {
+        "decision": {
+          "code": "e75c22846dc1",
+          "senseId": "476a3427b04be9f047a27a0241ec002dae50c2746a55c6a723bb663dc8d629de",
+          "word": "environment",
+          "pos": "n.",
+          "meaning": "环境",
+          "candidateSha256": "e97716970e79a1137f5be44a414a78341b89d6ad14d18b770b55c561add67373",
+          "observations": "Deer stands beside a tree and pond among grass, rocks and wildflowers, with distant forested hills and sky; no buildings, people or text.",
+          "inferredMeaning": "nature, natural landscape, wildlife, countryside",
+          "textPresent": false,
+          "approved": false,
+          "reason": "鹿、树、湖泊和山林构成清晰自然景色，但重点是风景和野生动物，没有足够线索区分 environment 环境与 nature 自然、landscape 风景或 habitat 栖息地。需待复核，不把相关风景视为精确义项已通过。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 逐张看图：中央小鹿站在树、草、池塘与远山围绕的自然场景，无文字。环境元素真实连贯，但遮词第一识别仍是鹿或自然风景，动物与周围条件的关系不够明确，不能稳定辨认为环境，保留待复核，不计完成。 Cross-review: 鹿、树、湖泊和山林构成清晰自然景色，但重点是风景和野生动物，没有足够线索区分 environment 环境与 nature 自然、landscape 风景或 habitat 栖息地。需待复核，不把相关风景视为精确义项已通过。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "fd9281789ffad294ec8ae422c1db53f18eba841f433a42c428cfcabe0e0373f5",
+      "wordId": "dict:note",
+      "sourceId": "dict:note",
       "word": "note",
       "pos": "n.",
       "meaning": "笔记",
-      "desiredAssetPath": "public/images/words/fd/fd9281789ffad294ec8ae422c1db53f18eba841f433a42c428cfcabe0e0373f5.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense: note; n.; 笔记.\nPrimary scene: A student makes pictorial notes in an open notebook while observing a real potted bean plant beside it. Notebook pages contain only small clear observational drawings of the same plant, leaf shape, roots and sprout sequence arranged in concise rows; a pencil is touching a newly drawn leaf. View over the shoulder makes the notebook central. Absolutely no letters, numbers, words or imitation writing.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral.\nComposition: one coherent clear scene centered within middle 70 percent with generous empty margins, fully visible and legible at small card size.\nConstraints: no letters, words, numerals, labels, logos, watermarks, borders or card UI. Semantic clarity for precisely this meaning is highest priority. Do not render any prompt text.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1174d-8772-71c3-afa0-3e8924917ecf/exec-c51ab2fe-ff5a-497f-a71b-9d1dde55bce0.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/a/source/note.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/a/candidates/note.webp",
+      "intendedSavedPath": "public/images/words/fd/fd9281789ffad294ec8ae422c1db53f18eba841f433a42c428cfcabe0e0373f5.webp",
+      "generatedAt": "2026-10-08T01:14:18.205422+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "逐张看图：人物观察盆栽豆苗，在本上精细绘制植物、叶片、根和发芽序列，无文字。画面可读为植物观察绘画或自然笔记，但所有页面都是完整彩色插画，遮词更像画植物而非明确的笔记，名词笔记的短记记录特征不足，保留待复核。",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-08T01:14:18.280496+00:00",
+      "review": {
+        "decision": {
+          "code": "818481e9c591",
+          "senseId": "fd9281789ffad294ec8ae422c1db53f18eba841f433a42c428cfcabe0e0373f5",
+          "word": "note",
+          "pos": "n.",
+          "meaning": "笔记",
+          "candidateSha256": "94bdfceb1e503ab21fcf4db7182aa000699b0bfed1552892f163482d941d5c5d",
+          "observations": "Person uses a green pencil to draw a leaf in open notebook beside a potted plant. Notebook includes detailed plant drawing, roots, leaves and sequence from seed to sprout. No written notes or text.",
+          "inferredMeaning": "drawing a plant, botanical illustration, recording observations in a notebook, taking visual study notes",
+          "textPresent": false,
+          "approved": false,
+          "reason": "能清楚看到在本子上画植物、叶片、根和发芽过程，但没有可区分笔记与绘画作品的记录结构。仅凭图首先理解为植物绘画或素描，note n. 笔记不够明确，保留待复核。"
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_b",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/a/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 逐张看图：人物观察盆栽豆苗，在本上精细绘制植物、叶片、根和发芽序列，无文字。画面可读为植物观察绘画或自然笔记，但所有页面都是完整彩色插画，遮词更像画植物而非明确的笔记，名词笔记的短记记录特征不足，保留待复核。 Cross-review: 能清楚看到在本子上画植物、叶片、根和发芽过程，但没有可区分笔记与绘画作品的记录结构。仅凭图首先理解为植物绘画或素描，note n. 笔记不够明确，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     }
   ],
+  "todo": [],
   "generationStatus": "stopped_shared_tool_connection_failure",
   "generationStoppedAt": "2026-10-07T10:43:12.227980+00:00",
   "generationSummary": {
@@ -206,8 +703,8 @@
     "ownToolErrors": 0,
     "stopReason": "Root reported built-in imagegen connection failed while generating practice; instructed all agents to stop further calls. No retry or fallback used."
   },
-  "recoveredBy": "20261007-103337",
-  "reviewedAt": "2026-10-07T10:49:55.405634+00:00",
+  "recoveredBy": "20261007-180920-resume",
+  "reviewedAt": "2026-10-08T01:25:13.527637+00:00",
   "generationStop": {
     "reason": "Built-in imagegen connection failure reported by root; no retries or fallback attempted",
     "at": "2026-10-07T10:52:01.945270+00:00",

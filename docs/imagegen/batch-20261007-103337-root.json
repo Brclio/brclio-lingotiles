@@ -2,8 +2,386 @@
   "mode": "built-in image_gen",
   "batch": "20261007-103337-root",
   "parentBatch": "20261007-103337",
-  "status": "partial_generation_interrupted",
-  "assets": [],
+  "status": "reviewed_partial",
+  "assets": [
+    {
+      "senseId": "83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87",
+      "wordId": "dict:example",
+      "sourceId": "dict:example",
+      "word": "example",
+      "pos": "n.",
+      "meaning": "例子",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: example; n.; 例子.\nPrimary scene: On a worktable a finished red paper crane stands on a small raised block as a clear sample; a teacher hand points directly to this sample, and two learners use it as their example while folding matching red paper cranes below. Make the finished example central and visually distinct from unfinished work, no written instructions.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-f6a5c59d-6e41-49ff-b227-900d3e2d3788.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/example.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/example.webp",
+      "intendedSavedPath": "public/images/words/83/83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87.webp",
+      "generatedAt": "2026-10-07T14:15:04.778576+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "中心展示一只已完成纸鹤，老师指向它，两个孩子依据同样样式折出纸鹤；作为供模仿的例子/样例关系明确，无文字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-root.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/example.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: example; n.; 例子.\nPrimary scene: A pottery learner works with an unfinished clay cup beside a single completed simple clay cup held up by a teacher as the model. Several visible details on the unfinished cup precisely match the completed example: wide handle, scalloped rim, rounded base. Focus on the completed exemplar and the imitation relationship; no words or classroom text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+        "selfReviewNotes": "已逐图查看：老师举起成品杯孩子仿做同款杯，模仿关系可见，但直接读为陶艺教学，名词例子还需额外解释，保留待修改。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 已逐图查看：老师举起成品杯孩子仿做同款杯，模仿关系可见，但直接读为陶艺教学，名词例子还需额外解释，保留待修改。 Independent review: 画面直接呈现成人教陶艺、孩子模仿制作；成品杯虽可作示范，但要把它理解为名词例子仍需额外概括，无法仅凭图片稳定辨认该义项。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:15:04.810342+00:00",
+      "review": {
+        "decision": {
+          "code": "f6c4646aa891",
+          "senseId": "83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87",
+          "word": "example",
+          "pos": "n.",
+          "meaning": "例子",
+          "candidateSha256": "95a020d3c96c7f1c557a5fdf47aa79472d577ce9ce86e95d77894d9351377e8b",
+          "observations": "成人指向台座上的完成纸鹤，两个孩子各拿折到一半的红纸鹤，看着中央成品学习。",
+          "inferredMeaning": "示范模型、照着例子折纸、学习折纸",
+          "approved": true,
+          "reason": "中央完成纸鹤被成人指示并单独摆在台座，两个孩子手中是同款未完成纸鹤，中央对象显然用作学习参照的例子，例子与仿照对象的关系直观可见，符合名词例子。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "中央完成纸鹤被成人指示并单独摆在台座，两个孩子手中是同款未完成纸鹤，中央对象显然用作学习参照的例子，例子与仿照对象的关系直观可见，符合名词例子。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/83/83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87.webp",
+      "alt": "example：例子的词义插图"
+    },
+    {
+      "senseId": "3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656",
+      "wordId": "dict:everyone",
+      "sourceId": "dict:everyone",
+      "word": "everyone",
+      "pos": "pron.",
+      "meaning": "每个人",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: everyone; pron.; 每个人.\nPrimary scene: A circle of six distinct people each holds an identical bright umbrella open in the rain. Every person is fully visible and every one has the umbrella; no excluded person, no extra background people. Emphasize the entire circle and the same condition applying to each individual.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-aa6784ab-30eb-44eb-9217-27eb10d36c1c.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/everyone.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/everyone.webp",
+      "intendedSavedPath": "public/images/words/3d/3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656.webp",
+      "generatedAt": "2026-10-07T14:17:43.893904+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "六个不同人物组成封闭圈，每个人各持相同黄色雨伞，所有成员均有同一条件，无被排除者；视觉量词关系覆盖每个人。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-root.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/everyone.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: everyone; pron.; 每个人.\nPrimary scene: An inclusive group of six distinct people in a single row, varied ages and appearances, each and every person raising one hand in response together. There are no excluded or unmarked people; a broad gentle enclosing arc spans the complete group. Make the complete inclusion of every individual visually explicit without writing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+        "selfReviewNotes": "已逐图查看：六名不同年龄外貌的人全部举手，覆盖每个个体但首读仍为举手或大家问候，不能稳定表达全称代词每个人。保留待复核，无文字。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 已逐图查看：六名不同年龄外貌的人全部举手，覆盖每个个体但首读仍为举手或大家问候，不能稳定表达全称代词每个人。保留待复核，无文字。 Independent review: 画中完整可见的六个人无一例外举手，同一动作分配给每一位，能够以有限群体表现每个人的全称指代。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:17:43.930447+00:00",
+      "review": {
+        "decision": {
+          "code": "593ea5389d61",
+          "senseId": "3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656",
+          "word": "everyone",
+          "pos": "pron.",
+          "meaning": "每个人",
+          "candidateSha256": "32510bbd13a059027be6ff10a518852f8995afb5132073562603f6e14d4606b3",
+          "observations": "六名不同年龄外貌的人围成圈站在雨中，每个人各自撑着同样醒目的黄色雨伞，没有遗漏者。",
+          "inferredMeaning": "人人都撑伞、所有人、每个人",
+          "approved": true,
+          "reason": "六人身份外貌不同且每人均各自撑同样醒目的黄伞，重复动作遍及封闭可见人群，无任何遗漏者，人人都的普遍指代关系可见，符合每个人。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "六人身份外貌不同且每人均各自撑同样醒目的黄伞，重复动作遍及封闭可见人群，无任何遗漏者，人人都的普遍指代关系可见，符合每个人。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/3d/3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656.webp",
+      "alt": "everyone：每个人的词义插图"
+    },
+    {
+      "senseId": "fb3b54ab36da47731e0d9aa60fffa4f3c49b9a266081e1b80ec5d5ea28d205e4",
+      "wordId": "dict:nearly",
+      "sourceId": "dict:nearly",
+      "word": "nearly",
+      "pos": "adv.",
+      "meaning": "几乎",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: nearly; adv.; 几乎.\nPrimary scene: A nearly completed circular jigsaw has only one small clearly matching piece left out immediately beside its tiny empty gap. The entire circular picture is already recognizable, and the final piece is about to be inserted by a hand. Almost complete, with an unmistakably very small remainder. No extra pieces and no letters.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-f39f37cc-9ee3-4770-9469-9bf00a535042.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/nearly.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/nearly.webp",
+      "intendedSavedPath": "public/images/words/fb/fb3b54ab36da47731e0d9aa60fffa4f3c49b9a266081e1b80ec5d5ea28d205e4.webp",
+      "generatedAt": "2026-10-07T14:36:02.019373+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "完整风景圆拼图只缺最后一小块，手中对应块即将填入，已接近完成仍差极小部分，几乎完成的程度关系明显。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-b.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/b/candidates/nearly.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"nearly\",\"pos\":\"adv.\",\"meaning\":\"几乎\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific visual scene: A child stretches a hand toward an apple on a low branch, fingertips stopping only a tiny visible gap below the apple, almost touching but definitely not touching. The child rises on tiptoe with one arm fully extended, showing nearly reaching the fruit. Keep the tiny remaining gap clear. One continuous scene with only child, small branch and apple.\nOutput: one square image, no montage or multi-card layout.",
+        "selfReviewNotes": "女孩踮脚伸到极限，指尖与苹果只差很小空隙且确实未接触，几乎够到的关系可见；交最终审核判断副词歧义。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "画面表达踮脚伸手够苹果，但尚未够到与几乎够到的程度区别不够稳定；首要识别为够取或努力，副词几乎容易依赖词条提示。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:36:02.055465+00:00",
+      "review": {
+        "decision": {
+          "code": "43b854323500",
+          "senseId": "fb3b54ab36da47731e0d9aa60fffa4f3c49b9a266081e1b80ec5d5ea28d205e4",
+          "word": "nearly",
+          "pos": "adv.",
+          "meaning": "几乎",
+          "candidateSha256": "ed17718d7701360bedebd82f3e3f573b709b40aa30b4dbe689b536a0594bef1f",
+          "observations": "圆形风景拼图几乎拼完，右侧只有一个空缺，手持形状匹配的最后一块靠近空缺。",
+          "inferredMeaning": "差一点完成、即将拼好、接近完整",
+          "approved": true,
+          "reason": "拼图已完成绝大部分，只留一个小缺口且最后一块就在手中，将完成而未完成的状态直接可见，能理解几乎完成，符合几乎的程度关系。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "拼图已完成绝大部分，只留一个小缺口且最后一块就在手中，将完成而未完成的状态直接可见，能理解几乎完成，符合几乎的程度关系。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/fb/fb3b54ab36da47731e0d9aa60fffa4f3c49b9a266081e1b80ec5d5ea28d205e4.webp",
+      "alt": "nearly：几乎的词义插图"
+    },
+    {
+      "senseId": "271b1fb5864530e7a9952d76f5f3e999d89bd619339d78c134f4f620bc65787a",
+      "wordId": "dict:culture",
+      "sourceId": "dict:culture",
+      "word": "culture",
+      "pos": "n.",
+      "meaning": "文化",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: culture; n.; 文化.\nPrimary scene: One cohesive community courtyard where elders pass shared cultural traditions to children: an elder plays a traditional bowed instrument as families perform a coordinated traditional dance, with an artisan teaching traditional woven patterns at the edge of the same gathering. Equal balance of music, dance and craft as inherited shared customs. No flags, text or decorative unrelated symbols.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-86361617-3b40-4cb9-8bd2-6b7dd6dcd427.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/culture.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/culture.webp",
+      "intendedSavedPath": "public/images/words/27/271b1fb5864530e7a9952d76f5f3e999d89bd619339d78c134f4f620bc65787a.webp",
+      "generatedAt": "2026-10-07T14:48:19.164377+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "同一社区中民族服饰、长幼共舞、传统乐器与祖辈教孩子织造同时呈现，共享并传承生活习俗和艺术，文化含义可见；无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-b.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/b/candidates/culture.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"culture\",\"pos\":\"n.\",\"meaning\":\"文化\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific visual scene: A coherent small traditional community workshop celebrating culture transmitted across generations: a grandparent demonstrates an intricate traditional ceramic pattern to two young people; a musician nearby plays a traditional string instrument, and a single ceremonial textile hangs behind them. All belong to one shared cultural gathering. Communicate shared arts, crafts and traditions passed on, no stereotype, national flags, lettering, collage or separate panels.\nOutput: one square image, no montage or multi-card layout.",
+        "selfReviewNotes": "老者教陶瓷绘画、后方演奏琵琶和传统织物表达传统文化活动，但主体更容易被理解为陶艺或绘画课，文化抽象总义仍需额外解释，保留待复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 老者教陶瓷绘画、后方演奏琵琶和传统织物表达传统文化活动，但主体更容易被理解为陶艺或绘画课，文化抽象总义仍需额外解释，保留待复核。 Independent review: 青花瓷绘制、传统器乐、织物图案与长者向孩子示范共同呈现一组文化实践，超出单一绘画动作，文化义项有多项直接线索支持。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:48:19.203644+00:00",
+      "review": {
+        "decision": {
+          "code": "110ff58e66b8",
+          "senseId": "271b1fb5864530e7a9952d76f5f3e999d89bd619339d78c134f4f620bc65787a",
+          "word": "culture",
+          "pos": "n.",
+          "meaning": "文化",
+          "candidateSha256": "7ff12ecc2db3b2e19074fe5cef5f6b226e090f41649793c5c3d10b77008973f9",
+          "observations": "多人穿传统服饰在院中跳舞；老者演奏弓弦乐器，另一老者指导孩子织布，布料有传统纹样。",
+          "inferredMeaning": "传统文化、民俗技艺、文化传承",
+          "approved": true,
+          "reason": "传统服饰、民间舞蹈、弓弦乐器演奏与长幼织布传习同时呈现，组合关系直观指向一个群体的文化和传承，不依靠单个装饰符号或文字，符合文化名词。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "传统服饰、民间舞蹈、弓弦乐器演奏与长幼织布传习同时呈现，组合关系直观指向一个群体的文化和传承，不依靠单个装饰符号或文字，符合文化名词。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/27/271b1fb5864530e7a9952d76f5f3e999d89bd619339d78c134f4f620bc65787a.webp",
+      "alt": "culture：文化的词义插图"
+    },
+    {
+      "senseId": "f83f7588f76ed25e789985621ca93f41d058ed662764efc47e763033793460db",
+      "wordId": "dict:energy",
+      "sourceId": "dict:energy",
+      "word": "energy",
+      "pos": "n.",
+      "meaning": "精力",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: energy; n.; 精力.\nPrimary scene: Two children after the same playground exercise: one still full of energy leaps springily with upright alert posture and eager smile, while the other sits slumped and exhausted wiping sweat beside the same skipping rope. Keep the energetic child dominant but both conditions clear, emphasizing available stamina rather than one specific sport.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-7a5745f9-c14b-4ad5-9037-1666997f0a8e.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/energy.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/energy.webp",
+      "intendedSavedPath": "public/images/words/f8/f83f7588f76ed25e789985621ca93f41d058ed662764efc47e763033793460db.webp",
+      "generatedAt": "2026-10-07T14:53:55.864820+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "同一运动场中女孩轻快跳起精神饱满，男孩坐下流汗疲惫，对比直接体现精力充沛与耗尽，未误画为电能。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-b.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/b/candidates/energy.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"energy\",\"pos\":\"n.\",\"meaning\":\"精力\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific visual scene: A lively, well-rested child energetically skipping rope with a high springy jump, upright alert posture, bright eyes and dynamic bent knees. The rope forms a clear loop and small movement strokes convey abundant personal energy. Only one child and skipping rope, no batteries, electricity symbols, food or text.\nOutput: one square image, no montage or multi-card layout.",
+        "selfReviewNotes": "女孩精神饱满腾空跳绳，能读出活力，但更直接表达跳绳动作，名词精力缺少足够区分线索，保留待复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 女孩精神饱满腾空跳绳，能读出活力，但更直接表达跳绳动作，名词精力缺少足够区分线索，保留待复核。 Independent review: 只看图首先读作跳绳或开心运动；没有精力充足与耗尽的具体对比或持续活动线索，不能将运动动作本身等同于精力。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:53:55.905247+00:00",
+      "review": {
+        "decision": {
+          "code": "68f814c44e02",
+          "senseId": "f83f7588f76ed25e789985621ca93f41d058ed662764efc47e763033793460db",
+          "word": "energy",
+          "pos": "n.",
+          "meaning": "精力",
+          "candidateSha256": "cb5cd88a05118e7f3b9c8511c79b5de39a55640c1978de5a7cfadf2923b75ffe",
+          "observations": "女孩举臂张口欢笑腾空跳起，地面有跳绳；男孩在旁坐地，闭眼流汗，用毛巾擦额头。",
+          "inferredMeaning": "精力充沛与疲惫的对比、体力或精力",
+          "approved": true,
+          "reason": "同一运动场景中女孩高高跳起欢笑挥拳，与男孩坐地疲倦擦汗鲜明对照，明确表现精力充沛和精力消耗，不只是单独运动动作，符合精力名词。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "同一运动场景中女孩高高跳起欢笑挥拳，与男孩坐地疲倦擦汗鲜明对照，明确表现精力充沛和精力消耗，不只是单独运动动作，符合精力名词。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/f8/f83f7588f76ed25e789985621ca93f41d058ed662764efc47e763033793460db.webp",
+      "alt": "energy：精力的词义插图"
+    },
+    {
+      "senseId": "9b56a31e38d318e814ebc98eef5c3237e460300e11114858e7e0b6057aeafa75",
+      "wordId": "dict:page",
+      "sourceId": "dict:page",
+      "word": "page",
+      "pos": "n.",
+      "meaning": "页",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: page; n.; 页.\nPrimary scene: Close view of an open thick blank book with one single thin paper page gently being turned between a thumb and finger. The lifted page is clearly separate from the stack and occupies the center of the image; both its front and curved edge visible. No printed marks at all, focus on the individual page.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1171c-36e8-7083-88c7-c4f7409d7754/exec-a039c34c-0fac-4692-809d-c285a5660b72.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/page.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/page.webp",
+      "intendedSavedPath": "public/images/words/9b/9b56a31e38d318e814ebc98eef5c3237e460300e11114858e7e0b6057aeafa75.webp",
+      "generatedAt": "2026-10-07T20:55:00.522925+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "逐图可见一本厚书中被拇指和手指捏起的一张独立薄纸，页边与下面纸叠分开，页的主体明确，无文字。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T20:55:00.598869+00:00",
+      "review": {
+        "decision": {
+          "code": "50d700d445ee",
+          "senseId": "9b56a31e38d318e814ebc98eef5c3237e460300e11114858e7e0b6057aeafa75",
+          "word": "page",
+          "pos": "n.",
+          "meaning": "页",
+          "candidateSha256": "a4e418588c6e32938944728ef4d1b603a7c97e15c83eea480d6d96ccee21f2cd",
+          "observations": "打开的厚书，手捏起一张空白书页将其翻起；单页和底下层叠纸页明显可分。",
+          "inferredMeaning": "书页、一页纸、翻页",
+          "approved": true,
+          "reason": "被手单独翻起的一张纸页与书的层叠页块明显分离，单页实体是焦点，无文字即可识别页，符合名词页。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "被手单独翻起的一张纸页与书的层叠页块明显分离，单页实体是焦点，无文字即可识别页，符合名词页。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/9b/9b56a31e38d318e814ebc98eef5c3237e460300e11114858e7e0b6057aeafa75.webp",
+      "alt": "page：页的词义插图"
+    },
+    {
+      "senseId": "94b510775e20eda002afb28bad0402d17441ddb5d1c6a87b3e77678ec6066adf",
+      "wordId": "dict:discuss",
+      "sourceId": "dict:discuss",
+      "word": "discuss",
+      "pos": "v.",
+      "meaning": "讨论",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: discuss; v.; 讨论.\nPrimary scene: Three peers seated face to face around a simple model playground on a table, actively discussing it together: one points to a proposed position, another gestures a different idea, the third listens and responds with open hands. Equal participation, attentive exchanged gazes, no lecture posture, no speech bubbles or written plans.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1171c-36e8-7083-88c7-c4f7409d7754/exec-9ad85624-e760-4874-b945-457dc1223d5b.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/discuss.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/discuss.webp",
+      "intendedSavedPath": "public/images/words/94/94b510775e20eda002afb28bad0402d17441ddb5d1c6a87b3e77678ec6066adf.webp",
+      "generatedAt": "2026-10-08T01:09:39.936728+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "三名同伴围着同一游乐场模型，一人指具体位置，中间人摊手表达，右侧托腮倾听并回应，共同商量与观点交流动作明确，无文字。",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-08T01:09:39.975622+00:00",
+      "review": {
+        "decision": {
+          "code": "f90279bfea19",
+          "senseId": "94b510775e20eda002afb28bad0402d17441ddb5d1c6a87b3e77678ec6066adf",
+          "word": "discuss",
+          "pos": "v.",
+          "meaning": "讨论",
+          "candidateSha256": "04acecfa6fae25208b7c00c494aaf5dc1a02e53cb6050f5058668424c7087122",
+          "observations": "三个孩子围坐在游乐场模型旁，一个指着设施，一个双手展开说话，另一人托下巴并以另一手回应，彼此注视。",
+          "inferredMeaning": "讨论模型或方案、交流想法、一起商议",
+          "approved": true,
+          "reason": "三人围绕同一模型，指点、张手讲述、托腮思考和回应同时可见，目光互相交流，表达共同讨论方案而非单向授课，符合动词讨论。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "三人围绕同一模型，指点、张手讲述、托腮思考和回应同时可见，目光互相交流，表达共同讨论方案而非单向授课，符合动词讨论。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/94/94b510775e20eda002afb28bad0402d17441ddb5d1c6a87b3e77678ec6066adf.webp",
+      "alt": "discuss：讨论的词义插图"
+    }
+  ],
   "candidates": [
     {
       "senseId": "ee3f1ec21a7460595e551710899c0e8d116de00c83ef9d176683c8e2f79af4bc",
@@ -37,133 +415,416 @@
       "selfReviewedAt": "2026-10-07T10:38:21.967118+00:00",
       "review": {
         "decision": {
+          "code": "eee580d03b65",
           "senseId": "ee3f1ec21a7460595e551710899c0e8d116de00c83ef9d176683c8e2f79af4bc",
           "word": "whole",
           "pos": "n.",
           "meaning": "全部",
-          "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/whole.webp",
-          "id": "01",
-          "group": "root",
           "candidateSha256": "d595c622e03c3f261d7eec07e9a111255f9fcfaf2ad87671c09ebb6e9d39604f",
-          "observation": "一只手倾斜举着空玻璃碗，下方盘子装着一堆红樱桃，碗里看不到剩余樱桃。",
-          "inferredMeaningBeforeMapping": "把碗里的樱桃全部倒出、空碗或樱桃",
-          "textPresent": false,
+          "observations": "一只手斜举着空透明碗，下方盘子堆着一盘樱桃，碗中没有剩余。",
+          "inferredMeaning": "倒出樱桃、倒空了、全部倒完",
           "approved": false,
-          "reason": "空碗与一盘樱桃可让人联想到倒完，但图中没有显示原有范围或完整转移过程；遮词首先也可理解为樱桃、倒出或空碗，名词全部仍需推断补足，不能稳定直接辨认。",
-          "reviewer": "/root/disk_audit",
-          "method": "image-first review; prior task context known, not fully blind; both images viewed individually before mapping",
-          "reviewedAt": "2026-10-07T10:48:41.921195+00:00"
+          "reason": "空碗与一盘樱桃可读为倒空或倒完，静态画面没有显示原集合范围，不能确认盘中正好是全部；名词全部仍有樱桃或倒出的歧义，保留待复核。",
+          "textPresent": false
         },
-        "evidencePath": "output/imagegen/batch-20261007-103337/review/root/decisions.json",
-        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
       },
       "finalRootReview": {
         "approved": false,
-        "reason": "Generator also retained uncertainty: 逐图查看：空碗与整盘樱桃可读倒完或全部倒出，但静止画面不能确定盘中是原碗的全部，名词全部仍依赖解释，保留待复核。无文字。 Independent review: 空碗与一盘樱桃可让人联想到倒完，但图中没有显示原有范围或完整转移过程；遮词首先也可理解为樱桃、倒出或空碗，名词全部仍需推断补足，不能稳定直接辨认。",
-        "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+        "reason": "Generator uncertainty retained: 逐图查看：空碗与整盘樱桃可读倒完或全部倒出，但静止画面不能确定盘中是原碗的全部，名词全部仍依赖解释，保留待复核。无文字。 Cross-review: 空碗与一盘樱桃可读为倒空或倒完，静态画面没有显示原集合范围，不能确认盘中正好是全部；名词全部仍有樱桃或倒出的歧义，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
       }
-    }
-  ],
-  "todo": [
+    },
     {
       "senseId": "213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184",
+      "wordId": "dict:practice",
+      "sourceId": "dict:practice",
       "word": "practice",
       "pos": "n.",
       "meaning": "实践",
-      "desiredAssetPath": "public/images/words/21/213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: practice; n.; 实践.\nPrimary scene: An apprentice is putting a learned knot technique into real use: a small open picture-only guide shows a rope knot, while the large dominant foreground shows their own hands tying that same secure knot to fasten an actual boat to a dock. Hands actively apply the pictured knowledge in a real situation, not copying an art object.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-3c689477-a3b6-4144-9401-b0b3879afcb8.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/practice.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/practice.webp",
+      "intendedSavedPath": "public/images/words/21/213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184.webp",
+      "generatedAt": "2026-10-07T14:08:40.851838+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "看图先见人物按图解实际系牢码头船绳，图解与手中实用绳结对应；学习知识在真实情境中实施的关系可见，符合实践名词，无文字数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-root.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/practice.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: practice; n.; 实践.\nPrimary scene: A young learner applies a simple pictured seed-planting demonstration to real soil: an open book shows a small wordless picture of hands putting seeds into soil, while the same learner is actually putting seeds into a real pot with their own muddy hands. Make the hands-on real work dominant and the matching theoretical picture small but clearly recognizable. No writing in the book.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+        "selfReviewNotes": "已逐图查看：书中播种示范与女孩亲手在真实泥土里播种一一对应，沾泥双手突出把图示知识付诸实际。实践的关系可见，无文字，待独立复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "女孩正在播种，旁边图示与动作相同，直接含义更像照着说明操作；实践与种植或模仿不能清楚区分，需额外解释理论付诸行动，保留待复核。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:08:40.885972+00:00",
+      "review": {
+        "decision": {
+          "code": "9955bb0438a3",
+          "senseId": "213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184",
+          "word": "practice",
+          "pos": "n.",
+          "meaning": "实践",
+          "candidateSha256": "ef7641072b17009a52da79fc2ddcaa5821b1c5008cee17c60d21977599bf245f",
+          "observations": "码头旁人物依照打开的无字绳结图解，用双手给系船木柱实际打绳结，旁边有船。",
+          "inferredMeaning": "照图打绳结、把所学方法用于实际系船",
+          "approved": false,
+          "reason": "人物确实把图解绳结用于真实系船，但直接动作是照着图解打绳结，可被理解为模仿、学习或操作说明；实践的抽象关系仍需额外说明，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "人物确实把图解绳结用于真实系船，但直接动作是照着图解打绳结，可被理解为模仿、学习或操作说明；实践的抽象关系仍需额外说明，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67",
+      "wordId": "dict:record",
+      "sourceId": "dict:record",
       "word": "record",
       "pos": "n.",
       "meaning": "记录",
-      "desiredAssetPath": "public/images/words/2d/2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67.webp"
-    },
-    {
-      "senseId": "83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87",
-      "word": "example",
-      "pos": "n.",
-      "meaning": "例子",
-      "desiredAssetPath": "public/images/words/83/83458183a87041c304325226d919d4169d632cf3cdf50253cc8d5ffa989e3d87.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: record; n.; 记录.\nPrimary scene: A naturalist keeps a visual record of the growth of one plant: a plain notebook on a table contains a clear sequence of small detailed drawings of that same plant from seedling to mature leaves, and the naturalist is adding the newest drawing while looking at the real plant beside it. No handwriting, no tally marks, no grids, no numbers; only observational pictures retained on paper.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-60009c4b-8776-4f71-ae3d-8b3047439940.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/record.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/record.webp",
+      "intendedSavedPath": "public/images/words/2d/2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67.webp",
+      "generatedAt": "2026-10-07T14:11:38.652671+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "画面是观察盆栽并画出植物生长序列，留存观察结果可解释为记录，但遮词更易直接读成画画或植物生长，记录义项不够唯一；保留复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-root.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/record.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: record; n.; 记录.\nPrimary scene: A runner crosses a finish ribbon while an observer immediately preserves the result in an open notebook using a clearly hand-drawn row of tiny runner silhouettes and tally strokes without numerals or letters. Show connection from observed event to permanent recorded mark with gaze and hand position; the notebook with successive observation marks is prominent.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+        "selfReviewNotes": "已逐图查看：观察跑步结果并记在本上的关系清楚，但本上竖线具有数字或计数符号性质，且前景胜利动作抢眼，严格无数字和词义直观要求下保留复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 已逐图查看：观察跑步结果并记在本上的关系清楚，但本上竖线具有数字或计数符号性质，且前景胜利动作抢眼，严格无数字和词义直观要求下保留复核。 Independent review: 前景夹板把不同跑者分别配以可见计数痕迹，记录员正在继续落笔，背景比赛提供被记录事件；纸上的记录对象与结果清楚，不靠字词。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:11:38.687025+00:00",
+      "review": {
+        "decision": {
+          "code": "7a13b0c1c006",
+          "senseId": "2d982c301bbf6c9432cfd60d8d79c16c34902b3f65795294bed1efedb243fb67",
+          "word": "record",
+          "pos": "n.",
+          "meaning": "记录",
+          "candidateSha256": "db4fbea1d1bb983ade1261f9f9c5fc2699db902538587a4523a2207f30dda7ea",
+          "observations": "人物看着盆栽，在打开的本上绘制同一种植物从种子到成熟的连续生长阶段，铅笔正在补画末端成熟植株。",
+          "inferredMeaning": "观察植物生长、绘制生长过程图、留下图画记录",
+          "approved": false,
+          "reason": "本中连续生长阶段支持留下观察资料，但人物正在画植物且页面像完整植物生长插画；遮词可优先理解绘画或生长过程，缺少能把名词记录与绘图清楚区分的线索，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 画面是观察盆栽并画出植物生长序列，留存观察结果可解释为记录，但遮词更易直接读成画画或植物生长，记录义项不够唯一；保留复核。 Cross-review: 本中连续生长阶段支持留下观察资料，但人物正在画植物且页面像完整植物生长插画；遮词可优先理解绘画或生长过程，缺少能把名词记录与绘图清楚区分的线索，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e",
+      "wordId": "dict:especially",
+      "sourceId": "dict:especially",
       "word": "especially",
       "pos": "adv.",
       "meaning": "尤其",
-      "desiredAssetPath": "public/images/words/f7/f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e.webp"
-    },
-    {
-      "senseId": "3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656",
-      "word": "everyone",
-      "pos": "pron.",
-      "meaning": "每个人",
-      "desiredAssetPath": "public/images/words/3d/3d5b1a171559a5b174d495b2fd79db2a4cc7cdf95633f4fc13cd31deda163656.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: especially; adv.; 尤其.\nPrimary scene: A child happily accepts a bowl containing many different fruits but leans forward with a much stronger delighted expression and both hands specifically toward the strawberries, while other fruits remain liked and available. A clear preference that singles out one member of the larger group, no words or symbolic hearts.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-331bfc92-674c-45f7-842f-8862079b09c5.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/especially.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/especially.webp",
+      "intendedSavedPath": "public/images/words/f7/f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e.webp",
+      "generatedAt": "2026-10-07T14:16:16.650077+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "孩子在混合水果盘中伸手拿草莓，能读出喜欢草莓或选择，缺少对其他水果也喜欢的可见关系，尤其的程度突出不能可靠区分；保留复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-root.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/root/candidates/especially.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square vocabulary-card illustration.\nExact target sense: especially; adv.; 尤其.\nPrimary scene: A gardener carefully waters several plants evenly, but gives markedly extra protective attention to one fragile seedling: that single seedling is surrounded by hands, a small protective shade, and richer healthy soil while all other plants are still clearly cared for. Make especially this one within the wider set a clear visual relation, not neglect of the rest.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted natural colors.\nComposition: one coherent educational illustration centered in middle 70 percent, generous empty margins; fully visible and clear at small size.\nConstraints: no letters, words, numerals, written labels, logos, watermarks, borders or card UI. No unrelated decoration. Communicate only this precise meaning through visible subjects and relationships.",
+        "selfReviewNotes": "已逐图查看：人物保护浇灌幼苗，周围植物也有水线，但无来源水流不自然，强调主要读为照料幼苗而非尤其关系。保留待修改。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 已逐图查看：人物保护浇灌幼苗，周围植物也有水线，但无来源水流不自然，强调主要读为照料幼苗而非尤其关系。保留待修改。 Independent review: 周围几株成熟植物统一由喷头浇灌，中央幼苗却获手工浇水、遮棚和手扶保护，针对其中一株额外照顾的对比突出尤其的程度关系。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:16:16.684512+00:00",
+      "review": {
+        "decision": {
+          "code": "e99a040aae38",
+          "senseId": "f774145e82d4e9415f7740675bacb973051486271385b8820150ca2590aa5b0e",
+          "word": "especially",
+          "pos": "adv.",
+          "meaning": "尤其",
+          "candidateSha256": "6ce45a3af3006303bb8c414f4454a9601b396c7c2e11d9e24fa4aa501ec393d9",
+          "observations": "男孩开心地把双手伸向混合水果盆中间的草莓，周边还有香蕉葡萄橙苹果梨蓝莓。",
+          "inferredMeaning": "选取草莓、最喜欢草莓、在多种水果中突出草莓",
+          "approved": false,
+          "reason": "双手抓取混合水果中的草莓突出偏爱或选择草莓，但缺少对整组都成立而对草莓更强的明确关系，尤其的程度强化只能补充推断，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 孩子在混合水果盘中伸手拿草莓，能读出喜欢草莓或选择，缺少对其他水果也喜欢的可见关系，尤其的程度突出不能可靠区分；保留复核。 Cross-review: 双手抓取混合水果中的草莓突出偏爱或选择草莓，但缺少对整组都成立而对草莓更强的明确关系，尤其的程度强化只能补充推断，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "d4757bc757138cf798ac0cb98e3a0e47cebe29cd031c1cb526fb8e29f49c0037",
+      "wordId": "dict:necessary",
+      "sourceId": "dict:necessary",
       "word": "necessary",
       "pos": "adj.",
       "meaning": "必要的",
-      "desiredAssetPath": "public/images/words/d4/d4757bc757138cf798ac0cb98e3a0e47cebe29cd031c1cb526fb8e29f49c0037.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: necessary; adj.; 必要的.\nPrimary scene: A diver fully underwater breathes through a clearly connected air hose leading to an air cylinder. A cutaway-like clear view of the air path shows air entering the mouthpiece with tiny bubbles; the diver deliberately holds the essential connected mouthpiece. Emphasize the indispensable breathing equipment, no danger or injury.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-0fd0e22f-0488-46d6-88bc-66a40ef0631f.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/necessary.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/necessary.webp",
+      "intendedSavedPath": "public/images/words/d4/d4757bc757138cf798ac0cb98e3a0e47cebe29cd031c1cb526fb8e29f49c0037.webp",
+      "generatedAt": "2026-10-07T14:18:51.753569+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "图可直接识别潜水员依靠气瓶呼吸，单图无法把必要的性质从潜水/呼吸设备中区分，且空气路径箭头增加解释性；保留复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-a.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/a/candidates/necessary.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense for planning only: necessary; adj.; 必要的. Do not render this text.\nPrimary scene: A simple stone bridge crosses a deep narrow stream; one indispensable center stone is missing so the bridge has a gap that prevents a traveler from crossing. Beside the gap, the traveler holds the exact wedge-shaped missing stone, whose silhouette matches the gap perfectly. The one missing essential piece and its unique fit are the clear focal point. Safe distance from water, no danger drama, no text or icons.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral. Clear subjects occupy middle 70 percent with generous breathing space, fully visible, readable at small card size.\nConstraints: faithfully express this exact sense and part of speech. No rendered words, letters, numerals, labels, logos, watermarks, decorative borders or card UI. Anatomically coherent people. One standalone image for one target only. No unrelated decoration.",
+        "selfReviewNotes": "已目视原图，旅行者抱石块面对石桥缺口，可读补桥或缺少一块；缺口偏窄而桥身仍完整悬立，不能可靠表达不具备就无法过桥的必要关系，保留待复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 已目视原图，旅行者抱石块面对石桥缺口，可读补桥或缺少一块；缺口偏窄而桥身仍完整悬立，不能可靠表达不具备就无法过桥的必要关系，保留待复核。 Independent review: 画面主要表达人要补齐桥面缺口。需解释拱桥原理才知道楔石是必要部件，必要属性没有直接呈现。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:18:51.788400+00:00",
+      "review": {
+        "decision": {
+          "code": "1773b44cd96c",
+          "senseId": "d4757bc757138cf798ac0cb98e3a0e47cebe29cd031c1cb526fb8e29f49c0037",
+          "word": "necessary",
+          "pos": "adj.",
+          "meaning": "必要的",
+          "candidateSha256": "56d26aeccd28dcb859a7bd572f629e8908f1d368b682435e0245b7178fb49aaa",
+          "observations": "水下潜水员背气瓶，通过嘴里的呼吸器呼吸，管道有箭头，嘴边向上冒气泡。",
+          "inferredMeaning": "潜水、在水下依靠气瓶呼吸、呼吸装备",
+          "approved": false,
+          "reason": "画面可直接辨认潜水员依靠气瓶呼吸，但没有显式呈现缺少此物便无法完成活动的对比或结果；必要的只能靠潜水常识推断，第一识别仍为潜水或呼吸装备，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 图可直接识别潜水员依靠气瓶呼吸，单图无法把必要的性质从潜水/呼吸设备中区分，且空气路径箭头增加解释性；保留复核。 Cross-review: 画面可直接辨认潜水员依靠气瓶呼吸，但没有显式呈现缺少此物便无法完成活动的对比或结果；必要的只能靠潜水常识推断，第一识别仍为潜水或呼吸装备，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "65d37394a1dff791f1bf4db6366da5b64c02c533f57d17ae37207a0572deebf6",
+      "wordId": "dict:unit",
+      "sourceId": "dict:unit",
       "word": "unit",
       "pos": "n.",
       "meaning": "单位",
-      "desiredAssetPath": "public/images/words/65/65d37394a1dff791f1bf4db6366da5b64c02c533f57d17ae37207a0572deebf6.webp"
-    },
-    {
-      "senseId": "fb3b54ab36da47731e0d9aa60fffa4f3c49b9a266081e1b80ec5d5ea28d205e4",
-      "word": "nearly",
-      "pos": "adv.",
-      "meaning": "几乎",
-      "desiredAssetPath": "public/images/words/fb/fb3b54ab36da47731e0d9aa60fffa4f3c49b9a266081e1b80ec5d5ea28d205e4.webp"
-    },
-    {
-      "senseId": "271b1fb5864530e7a9952d76f5f3e999d89bd619339d78c134f4f620bc65787a",
-      "word": "culture",
-      "pos": "n.",
-      "meaning": "文化",
-      "desiredAssetPath": "public/images/words/27/271b1fb5864530e7a9952d76f5f3e999d89bd619339d78c134f4f620bc65787a.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: unit; n.; 单位.\nPrimary scene: A wooden plank is being measured using identical plain blue blocks placed end to end with no gaps, exactly aligned to both ends. One matching blue block is held apart prominently as the repeated reference unit, while a hand checks that each piece has exactly the same length. No ruler ticks, numerals, or text.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-cc5061e0-87a4-427f-bd36-2f3bb87c3d05.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/unit.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/unit.webp",
+      "intendedSavedPath": "public/images/words/65/65d37394a1dff791f1bf4db6366da5b64c02c533f57d17ae37207a0572deebf6.webp",
+      "generatedAt": "2026-10-07T14:24:34.395463+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "相同蓝块首尾相接覆盖木板，一块被单独举起作为重复参照，体现把同样长度的块作为计量单位；无刻度数字。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-a.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/a/candidates/unit.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one independent square illustration for an English vocabulary memory card.\nExact target sense for planning only: unit; n.; 单位. Do not render this text.\nPrimary scene: A carpenter measures the length of one horizontal wooden board by lining up exactly equal small blue wooden cubes edge-to-edge along it. One same-size cube is slightly lifted by his hand at the end of the row, showing the repeated standard used for measuring. View from above at a slight angle. All cubes identical, unmarked, their repeated equal length visibly defines the measurement. No ruler digits or symbolic labels.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral. Clear subjects occupy middle 70 percent with generous breathing space, fully visible, readable at small card size.\nConstraints: faithfully express this exact sense and part of speech. No rendered words, letters, numerals, labels, logos, watermarks, decorative borders or card UI. Anatomically coherent people. One standalone image for one target only. No unrelated decoration.",
+        "selfReviewNotes": "已目视原图，相等蓝块沿木板排成行，但未对齐木板两端且无测量动作的明确线索，仍容易看作摆积木；单位作为计量基准没有被稳定突出，保留待复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 已目视原图，相等蓝块沿木板排成行，但未对齐木板两端且无测量动作的明确线索，仍容易看作摆积木；单位作为计量基准没有被稳定突出，保留待复核。 Independent review: 等大小积木成行但未明确测量端点和基准，易读摆积木或测量，无法稳定读成计量单位。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:24:34.429251+00:00",
+      "review": {
+        "decision": {
+          "code": "d259d5e16942",
+          "senseId": "65d37394a1dff791f1bf4db6366da5b64c02c533f57d17ae37207a0572deebf6",
+          "word": "unit",
+          "pos": "n.",
+          "meaning": "单位",
+          "candidateSha256": "ad98cec269e555a3aa1cb3d549f93b92ee191f959a24971f125c8c2da4dd6926",
+          "observations": "四个相同的蓝色长方体排成一条，左手另拿一个相同块，右手指着排列中的一块。",
+          "inferredMeaning": "等长重复块、一个组成部分、统一的小单位",
+          "approved": false,
+          "reason": "等长积木与单独同款块显示重复组成部分，但未明确作为度量单位衡量某个对象，也未显示统一计量尺度；容易读为积木、一个或部分，名词单位无法稳定独立辨认，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "等长积木与单独同款块显示重复组成部分，但未明确作为度量单位衡量某个对象，也未显示统一计量尺度；容易读为积木、一个或部分，名词单位无法稳定独立辨认，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "60456a029dfea6aaad99b06983d90e8a5931735cc63d5d1916f35b172369174f",
+      "wordId": "dict:chance",
+      "sourceId": "dict:chance",
       "word": "chance",
       "pos": "n.",
       "meaning": "机会",
-      "desiredAssetPath": "public/images/words/60/60456a029dfea6aaad99b06983d90e8a5931735cc63d5d1916f35b172369174f.webp"
-    },
-    {
-      "senseId": "f83f7588f76ed25e789985621ca93f41d058ed662764efc47e763033793460db",
-      "word": "energy",
-      "pos": "n.",
-      "meaning": "精力",
-      "desiredAssetPath": "public/images/words/f8/f83f7588f76ed25e789985621ca93f41d058ed662764efc47e763033793460db.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: chance; n.; 机会.\nPrimary scene: A small bird inside an otherwise closed cage notices that the door has just been left open, and is poised to fly through the single available opening toward freedom. Frame the newly available opening as the opportunity, not a bird already flying. No symbols, lettering or arrows.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-69e01425-ee92-4c3a-8284-b5d1e6137f6b.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/chance.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/chance.webp",
+      "intendedSavedPath": "public/images/words/60/60456a029dfea6aaad99b06983d90e8a5931735cc63d5d1916f35b172369174f.webp",
+      "generatedAt": "2026-10-07T14:51:20.109915+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "鸟在开着门的笼内朝外看，画面优先读成鸟笼/开放/自由，机会需要额外推理且鸟未表现即将利用开放，保留复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-b.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/b/candidates/chance.webp",
+        "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"chance\",\"pos\":\"n.\",\"meaning\":\"机会\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific visual scene: A child football player stands close to a goal, suddenly receiving the ball with a completely open route to score because the goalkeeper has dived far to one side. Freeze the moment just before the child takes the shot: a clear available opportunity, not already a success. Show the open goal, ball at foot, attentive child and goalkeeper away from the opening, minimal field details.\nOutput: one square image, no montage or multi-card layout.",
+        "selfReviewNotes": "球员脚下球与扑向一侧的门将形成空门机会，但仍可能仅读作足球射门，机会义不能稳定独立识别，保留待复核。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 球员脚下球与扑向一侧的门将形成空门机会，但仍可能仅读作足球射门，机会义不能稳定独立识别，保留待复核。 Independent review: 能够看到球门大部空出，但首要语义仍是足球射门；守门员已经扑倒而球还在脚边的时序也不自然，机会义项需要额外解释。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:51:20.143460+00:00",
+      "review": {
+        "decision": {
+          "code": "7e60c03669c5",
+          "senseId": "60456a029dfea6aaad99b06983d90e8a5931735cc63d5d1916f35b172369174f",
+          "word": "chance",
+          "pos": "n.",
+          "meaning": "机会",
+          "candidateSha256": "00acfe35e2c9fa56ccc21c1fc0071a240c8b5eb77236255932fa54432f5640b6",
+          "observations": "鸟站在打开笼门的鸟笼里朝门看，门外是明亮开阔的自然景色。",
+          "inferredMeaning": "打开鸟笼、可逃离或放飞的机会、自由",
+          "approved": false,
+          "reason": "鸟笼开门和鸟朝向开口可直接读为放鸟或自由，机会需要额外解释开门提供可能性，图片本身无法稳定区分机会与释放，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 鸟在开着门的笼内朝外看，画面优先读成鸟笼/开放/自由，机会需要额外推理且鸟未表现即将利用开放，保留复核。 Cross-review: 鸟笼开门和鸟朝向开口可直接读为放鸟或自由，机会需要额外解释开门提供可能性，图片本身无法稳定区分机会与释放，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "e0fcee3a50980a3bc3b82bcc88581ac2a522550d79e31576805800d5b287874d",
+      "wordId": "dict:standard",
+      "sourceId": "dict:standard",
       "word": "standard",
       "pos": "n.",
       "meaning": "标准",
-      "desiredAssetPath": "public/images/words/e0/e0fcee3a50980a3bc3b82bcc88581ac2a522550d79e31576805800d5b287874d.webp"
-    },
-    {
-      "senseId": "9b56a31e38d318e814ebc98eef5c3237e460300e11114858e7e0b6057aeafa75",
-      "word": "page",
-      "pos": "n.",
-      "meaning": "页",
-      "desiredAssetPath": "public/images/words/9b/9b56a31e38d318e814ebc98eef5c3237e460300e11114858e7e0b6057aeafa75.webp"
-    },
-    {
-      "senseId": "94b510775e20eda002afb28bad0402d17441ddb5d1c6a87b3e77678ec6066adf",
-      "word": "discuss",
-      "pos": "v.",
-      "meaning": "讨论",
-      "desiredAssetPath": "public/images/words/94/94b510775e20eda002afb28bad0402d17441ddb5d1c6a87b3e77678ec6066adf.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: standard; n.; 标准.\nPrimary scene: Quality control at a workshop: a fixed unmarked wooden gauge defines one exact required size for smooth wooden spheres. A row of correctly sized spheres fits the gauge precisely, while an obviously too-large sphere and too-small sphere are set aside. The fixed reference gauge and checking action dominate as the common criterion. No ticks, letters, numbers, check marks or crosses.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft natural light, restrained natural colors.\nComposition: clear central subjects within the middle 70 percent, generous quiet margins, visually legible as a small card.\nConstraints: no words, letters, numerals, written labels, logos, watermarks, borders or card UI. Semantic clarity for this exact sense is the highest priority. No unrelated decorations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116aa-ed92-73c3-a1a3-6ae0e5d46534/exec-1ec0bfcb-8622-4d80-8861-af4fbede4e1a.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/root/source/standard.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/root/candidates/standard.webp",
+      "intendedSavedPath": "public/images/words/e0/e0fcee3a50980a3bc3b82bcc88581ac2a522550d79e31576805800d5b287874d.webp",
+      "generatedAt": "2026-10-07T18:09:20.423530+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "逐图可见工匠将木球放在半圆量规上，与不同大小球比较；优先读成尺寸测量或木工，固定共同标准需要解释，保留复核。",
+      "previousCandidate": {
+        "metadataPath": "docs/imagegen/batch-20261007-020757-c.json",
+        "candidatePath": "output/imagegen/batch-20261007-020757/c/candidates/standard.webp",
+        "prompt": "Use case: scientific-educational. Asset type: one standalone square English-vocabulary illustration. The image must convey the exact target sense visually without needing a word or translation. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, natural muted green, blue and coral accents, soft daylight, clean shapes, accurate anatomy. Composition: one coherent scene centered within the middle 75 percent with generous empty margins, readable at small card size. No letters, numbers, written words, labels, logos, watermark, borders or card UI. No montage or collage. Target sense (for planning only, never render text): standard n. 标准. Scene: A potter in a simple workshop compares a freshly made plain cup against a rigid U-shaped sizing template, a physical quality standard. The template has no numbers or writing, just the exact required cup silhouette opening. One cup fits exactly in the central opening; a too-tall cup and a too-wide cup beside it visibly do not match. Potters hands hold the correct cup against the template. Focus on the fixed criterion that items must meet, not pottery decoration.",
+        "selfReviewNotes": "中央杯子符合固定开口模板，旁边两杯尺寸不同；但无文字时更容易理解为测量、模具或制作陶器，标准作为判定准则的含义仍不够独立明确。",
+        "finalRootReview": {
+          "approved": false,
+          "reason": "Generator also retained uncertainty: 中央杯子符合固定开口模板，旁边两杯尺寸不同；但无文字时更容易理解为测量、模具或制作陶器，标准作为判定准则的含义仍不够独立明确。 Independent review: 陶杯与模板对齐可表示匹配、尺寸测量或合适，标准作为抽象规则基准不能在无解释情况下稳定识别。",
+          "reviewedAt": "2026-10-07T08:16:58.004707+00:00"
+        }
+      },
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T20:55:00.658585+00:00",
+      "review": {
+        "decision": {
+          "code": "69ae863a29b8",
+          "senseId": "e0fcee3a50980a3bc3b82bcc88581ac2a522550d79e31576805800d5b287874d",
+          "word": "standard",
+          "pos": "n.",
+          "meaning": "标准",
+          "candidateSha256": "4533a5d47753f4f6b576039384e002a2c8a3d5e6a3b5f5d6a411f4b2d4cb7522",
+          "observations": "木工把一个木球放进木质半圆凹槽比对，前方有四个相同大小木球，两旁另有明显大球和小球。",
+          "inferredMeaning": "检验尺寸、大小是否符合、用模具比对",
+          "approved": false,
+          "reason": "凹槽与球的匹配能直观看成检验尺寸或形状适配，旁边等大球和大小球提供尺寸差异，但标准作为共同判定依据仍需解释，不能稳定区别于测量或大小比较，保留待复核。",
+          "textPresent": false
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/disk_audit",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/root/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: 逐图可见工匠将木球放在半圆量规上，与不同大小球比较；优先读成尺寸测量或木工，固定共同标准需要解释，保留复核。 Cross-review: 凹槽与球的匹配能直观看成检验尺寸或形状适配，旁边等大球和大小球提供尺寸差异，但标准作为共同判定依据仍需解释，不能稳定区别于测量或大小比较，保留待复核。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     }
   ],
+  "todo": [],
   "generationErrors": [
     {
       "senseId": "213899668735556c29869f96f85feb3d4e4ef969f269d03313a84c18107e3184",
@@ -176,8 +837,8 @@
       "reviewed": false
     }
   ],
-  "recoveredBy": "20261007-103337",
-  "reviewedAt": "2026-10-07T10:49:55.405634+00:00",
+  "recoveredBy": "20261007-180920-resume",
+  "reviewedAt": "2026-10-08T01:25:13.527637+00:00",
   "generationStop": {
     "reason": "Built-in imagegen connection failure reported by root; no retries or fallback attempted",
     "at": "2026-10-07T10:52:01.945270+00:00",

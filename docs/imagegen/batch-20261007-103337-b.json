@@ -2,7 +2,7 @@
   "mode": "built-in image_gen",
   "batch": "20261007-103337-b",
   "parentBatch": "20261007-103337",
-  "status": "partial_generation_interrupted",
+  "status": "reviewed_partial",
   "assets": [
     {
       "senseId": "c4c4f48d09fe0668cb8904d64062295adb63e4d04618979b85b2c1e3585e04af",
@@ -52,114 +52,596 @@
       },
       "savedPath": "public/images/words/c4/c4c4f48d09fe0668cb8904d64062295adb63e4d04618979b85b2c1e3585e04af.webp",
       "alt": "success：成功的词义插图"
-    }
-  ],
-  "candidates": [],
-  "todo": [
+    },
     {
       "senseId": "64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681",
+      "wordId": "dict:enter",
+      "sourceId": "dict:enter",
       "word": "enter",
       "pos": "v.",
       "meaning": "进入",
-      "desiredAssetPath": "public/images/words/64/64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show entering: side cutaway of a simple home doorway, an adult moving from the outdoor garden through the open front door into the indoor room, one foot already inside, body crossing the threshold, a hand pushing the door inward. Include a narrow strip of outdoor grass outside and a rug inside so the inward movement is obvious.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-06860d4e-e781-4ec6-9ec5-e286f2d02b6f.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/enter.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/enter.webp",
+      "intendedSavedPath": "public/images/words/64/64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681.webp",
+      "generatedAt": "2026-10-07T14:09:10.086207+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: adult steps from outdoor garden across open doorway into indoor room, leading foot on inside rug and trailing foot outside; action and direction clearly convey enter v. 进入 without text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:09:53.722946+00:00",
+      "review": {
+        "decision": {
+          "code": "0831b8c1f537",
+          "senseId": "64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681",
+          "candidateSha256": "0b1fea68d8cb96b961fdd66031dd0849546a10c5ae4b57ed7e7d666c24152699",
+          "observations": "A woman with a shoulder bag crosses the open front-door threshold from the garden into the house, one foot inside, hand holding the door.",
+          "inferredMeaning": "entering or coming into a house",
+          "approved": true,
+          "reason": "The woman is visibly crossing a threshold from outdoor garden into the interior, front foot inside and rear foot outside. Enter v. 进入 is communicated by direction and doorway action."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "The woman is visibly crossing a threshold from outdoor garden into the interior, front foot inside and rear foot outside. Enter v. 进入 is communicated by direction and doorway action.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/64/64d976d5ccc40aece2eb0b916b64dd136443920f95b91a662041f638ce638681.webp",
+      "alt": "enter：进入的词义插图"
     },
     {
       "senseId": "3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee",
+      "wordId": "dict:arrive",
+      "sourceId": "dict:arrive",
       "word": "arrive",
       "pos": "v.",
       "meaning": "到达",
-      "desiredAssetPath": "public/images/words/3e/3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show arriving at a destination: a traveler carrying a suitcase has just reached a house at the very end of a long winding path, stopped directly outside the front step, cheerfully greeted by the resident who has opened the door. Footprints along the path lead toward the traveler and terminate at the doorstep. Emphasize destination reached, not entering through it.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-ed35e6a1-4a5d-4f86-9a9a-283a20ecd727.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/arrive.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/arrive.webp",
+      "intendedSavedPath": "public/images/words/3e/3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee.webp",
+      "generatedAt": "2026-10-07T14:13:09.523483+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: traveler with suitcase has reached the house at the end of a path, footprints end beside him and resident greets at doorstep. He is stationary outside, distinguishing arrival from enter. Reached destination is understandable without words.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:14:20.925728+00:00",
+      "review": {
+        "decision": {
+          "code": "f19387a4389a",
+          "senseId": "3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee",
+          "candidateSha256": "71cb6a4fc546518c7e46f542d93bbd677759242d594e88d329e55be41dd0c838",
+          "observations": "A traveler with backpack and rolling suitcase stands at a cottage doorway, greeted by a smiling older woman; footprints lead along a winding country path toward the house.",
+          "inferredMeaning": "arriving at a destination; coming home or visiting",
+          "approved": true,
+          "reason": "Traveler, luggage and the path of footprints terminating at the welcoming destination show the endpoint of a journey. Arrive v. 到达 is legible; the traveler is at the doorway before entering."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "Traveler, luggage and the path of footprints terminating at the welcoming destination show the endpoint of a journey. Arrive v. 到达 is legible; the traveler is at the doorway before entering.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/3e/3ea47a39ea2df19fb369509e91bfda04adcc78f25fd0af524359f1092ca4ecee.webp",
+      "alt": "arrive：到达的词义插图"
     },
     {
       "senseId": "a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45",
+      "wordId": "dict:list",
+      "sourceId": "dict:list",
       "word": "list",
       "pos": "n.",
       "meaning": "目录",
-      "desiredAssetPath": "public/images/words/a8/a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45.webp"
-    },
-    {
-      "senseId": "5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d",
-      "word": "relation",
-      "pos": "n.",
-      "meaning": "关系",
-      "desiredAssetPath": "public/images/words/56/5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show a book directory or table of contents: an open book viewed close from above. The prominent left page is a neatly organized contents page, represented ONLY by several short horizontal painted strokes in separated rows, indented subrows, tiny circular bullet marks, and dotted leader lines pointing to colored page-edge tabs. The other page has a simple botanical chapter illustration. No recognizable letters or numbers anywhere, only nonlinguistic abstract line marks. Make the listing structure dominant.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-c269ea14-70bf-480b-ad5e-2044e322544d.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/list.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/list.webp",
+      "intendedSavedPath": "public/images/words/a8/a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45.webp",
+      "generatedAt": "2026-10-07T14:16:16.106810+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: open book has dominant left contents page of repeated indented item rows and dotted leader lines, visually distinct from continuous article paragraphs. No readable words or digits. Listing/contents structure is clear without labels.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:16:26.279049+00:00",
+      "review": {
+        "decision": {
+          "code": "75d7a1741b58",
+          "senseId": "a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45",
+          "candidateSha256": "9402e89ed9c2e5902bf4149bc0a520d66b5353e1131d89dd480dd50678f791db",
+          "observations": "An open botanical book shows a left page of five colored headings, indented short lines, dotted leaders and colored blocks at the right; right page has a flower. No readable words.",
+          "inferredMeaning": "table of contents or organized book contents; an index page",
+          "approved": true,
+          "reason": "Colored headings, indented entries and dotted leaders create a recognizable contents-list page inside a book, distinguished from continuous prose. List n. 目录 is supported without readable words."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "Colored headings, indented entries and dotted leaders create a recognizable contents-list page inside a book, distinguished from continuous prose. List n. 目录 is supported without readable words.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/a8/a8e6a8a546329848bec1f6084de604964659c8166e9b70c3af52bd681c990b45.webp",
+      "alt": "list：目录的词义插图"
     },
     {
       "senseId": "cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854",
+      "wordId": "dict:labour",
+      "sourceId": "dict:labour",
       "word": "labour",
       "pos": "n.",
       "meaning": "劳动",
-      "desiredAssetPath": "public/images/words/cf/cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show manual labour: a worker in simple work clothes and sturdy gloves uses a shovel with both hands to dig heavy soil, bent knees, planted feet and effort visible in the posture, a modest mound of turned earth beside them. Focus on the physical work itself, no farm scenery distractions.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-fb9687b8-28cd-45f8-9f18-81140b27e2f8.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/labour.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/labour.webp",
+      "intendedSavedPath": "public/images/words/cf/cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854.webp",
+      "generatedAt": "2026-10-07T14:29:09.383874+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: gloved worker visibly exerts physical effort with shovel in earth, knees braced and soil mound beside him. Manual labour meaning clear as concrete work vignette, no ambiguity with childbirth sense or text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:31:37.238220+00:00",
+      "review": {
+        "decision": {
+          "code": "3782d71d1531",
+          "senseId": "cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854",
+          "candidateSha256": "5cf18e92a6124f3067d3f98f63006fd237903024a2d5290b7f3820d8eef43721",
+          "observations": "A man in work clothes and gloves leans with bent knees over a shovel, lifting loose brown earth beside a pile of soil.",
+          "inferredMeaning": "digging with a shovel; manual work",
+          "approved": true,
+          "reason": "The worker uses his body and shovel to move soil, with effort, work clothes and soil pile together conveying physical labour. Labour n. 劳动 matches this visible manual-work scene."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "The worker uses his body and shovel to move soil, with effort, work clothes and soil pile together conveying physical labour. Labour n. 劳动 matches this visible manual-work scene.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/cf/cf261266e3e4b8d2df082a9f16e24cd648b036e45e61360f2cf25d257965c854.webp",
+      "alt": "labour：劳动的词义插图"
     },
     {
       "senseId": "2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32",
+      "wordId": "dict:dead",
+      "sourceId": "dict:dead",
       "word": "dead",
       "pos": "adj.",
       "meaning": "死的",
-      "desiredAssetPath": "public/images/words/22/2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show dead as the opposite of alive using two small potted plants close together: the dominant foreground plant is entirely dry, brittle brown and leafless with drooping snapped stems, dead brown leaves fallen on dry soil; beside it a smaller living green plant is upright with fresh leaves in a matching pot. No sleeping person or animal, no gore. The dead foreground plant must be visibly beyond wilting, completely lifeless.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-ed448fbc-ee39-4cb5-a36f-24f50a29e65a.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/dead.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/dead.webp",
+      "intendedSavedPath": "public/images/words/22/2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32.webp",
+      "generatedAt": "2026-10-07T14:41:43.832488+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: foreground plant entirely brown, brittle with broken stems and fallen dried leaves; nearby green living plant supplies a direct alive/dead contrast. Dead property visibly clear, no text or sleeping confusion.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:45:11.879140+00:00",
+      "review": {
+        "decision": {
+          "code": "ed9d4f294669",
+          "senseId": "2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32",
+          "candidateSha256": "d697d97d82052b1c78df01b4d444eafc674f30452e7fd00f0f94a1f352fa5e4b",
+          "observations": "A large potted plant at front has brown dry collapsed leaves and bare brittle stems; a smaller plant beside it has fresh upright green leaves.",
+          "inferredMeaning": "a dead or withered plant contrasted with a living plant",
+          "approved": true,
+          "reason": "The dominant plant is fully brown, dry, leaf-drooping and brittle with fallen leaves, contrasted against a healthy green plant. Dead adj. 死的 is visibly conveyed by plant condition and comparison."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "The dominant plant is fully brown, dry, leaf-drooping and brittle with fallen leaves, contrasted against a healthy green plant. Dead adj. 死的 is visibly conveyed by plant condition and comparison.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/22/2273992d0d6cc4540b6e3c8d74c90033f9cab957e0602aba650319db3503bd32.webp",
+      "alt": "dead：死的的词义插图"
     },
     {
       "senseId": "5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf",
+      "wordId": "dict:round",
+      "sourceId": "dict:round",
       "word": "round",
       "pos": "n.",
       "meaning": "圆",
-      "desiredAssetPath": "public/images/words/5f/5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show one clear round circle: a single large flat filled coral-red circle painted cleanly in the center of warm blank paper, perfect closed circular outline, no depth, no sphere highlight, no other shapes or symbols. Subtle hand-painted gouache texture within the disc; small colored-pencil edge.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-7bbc028c-02dc-4bcb-b712-584e680b28be.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/round.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/round.webp",
+      "intendedSavedPath": "public/images/words/5f/5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf.webp",
+      "generatedAt": "2026-10-07T14:46:07.359209+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: single flat circular disc with closed round contour and no depth cues, text or competing objects; directly conveys assigned noun 圆.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:46:21.389341+00:00",
+      "review": {
+        "decision": {
+          "code": "e0a8276c8e5d",
+          "senseId": "5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf",
+          "candidateSha256": "a56bdff14f4332635008cf77bda8fda589be4cdceab8f0f58188a5531c42c5f8",
+          "observations": "A single large solid bright coral-red circle is centered on plain cream paper, with lightly painted texture and no other objects.",
+          "inferredMeaning": "red; a red circle or round shape",
+          "approved": true,
+          "reason": "The single clean filled circle with no other object directly shows a round/circle shape, supporting the exact provided noun round n. 圆. Red is incidental and no text is present."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "The single clean filled circle with no other object directly shows a round/circle shape, supporting the exact provided noun round n. 圆. Red is incidental and no text is present.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/5f/5f3d8ed3364011679ea37123e5b1a548d54544c64f15c1bac413720f8513b7bf.webp",
+      "alt": "round：圆的词义插图"
     },
     {
       "senseId": "dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17",
+      "wordId": "dict:article",
+      "sourceId": "dict:article",
       "word": "article",
       "pos": "n.",
       "meaning": "文章",
-      "desiredAssetPath": "public/images/words/df/dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show a written article as a single coherent feature on an open magazine: close top-down page view, one broad abstract title-like painted stroke, one small picture of a bird under it, followed by a clear body arranged in continuous paragraph-shaped blocks of short unreadable horizontal gray strokes. The whole feature occupies one page and is framed by generous blank margins. No actual letters, words, numbers or readable text, no scattered items or list layout.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-519607c1-329c-4caa-9d1c-3f3c6f19b28e.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/article.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/article.webp",
+      "intendedSavedPath": "public/images/words/df/dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17.webp",
+      "generatedAt": "2026-10-07T14:48:05.656058+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: coherent page feature with title-shaped stroke, one picture and three continuous paragraph blocks makes a written article visually clear. No actual readable letters or numbers; differs from list/contents layout.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:48:21.040117+00:00",
+      "review": {
+        "decision": {
+          "code": "025ad171fe6a",
+          "senseId": "dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17",
+          "candidateSha256": "f1ea4ba6b0faa1ca98049bb0146c5e1d24de38d3c1087ae1cb725f5ebd4562fe",
+          "observations": "An open book has a bird picture at the top of the right-hand page and several aligned gray paragraph-like lines below; no readable words.",
+          "inferredMeaning": "a book page; an illustrated article or passage",
+          "approved": true,
+          "reason": "The illustrated page has one image followed by multiple continuous paragraph blocks, making a written article/passage clear without readable text. This supports article n. 文章; no competing dictionary-item layout."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "The illustrated page has one image followed by multiple continuous paragraph blocks, making a written article/passage clear without readable text. This supports article n. 文章; no competing dictionary-item layout.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/df/dfe23acff0bd1e5e2647a51597f2ea40e3504bdde4058eba27fe3ea118740a17.webp",
+      "alt": "article：文章的词义插图"
     },
     {
       "senseId": "3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f",
+      "wordId": "dict:save",
+      "sourceId": "dict:save",
       "word": "save",
       "pos": "n.",
       "meaning": "救球",
-      "desiredAssetPath": "public/images/words/33/3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show a football goalkeeper save: goal net clearly behind, a fully visible goalkeeper diving sideways across the mouth of goal, both gloved hands securely catching a black-and-white football just before it can enter the goal, body airborne, a few motion strokes show the shot coming toward the goal. Ball in gloves outside the goal line, no scored goal. No jersey letters or numbers.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-ac4d4ae4-ec87-4eb4-8351-47e40473dab4.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/save.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/save.webp",
+      "intendedSavedPath": "public/images/words/33/3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f.webp",
+      "generatedAt": "2026-10-07T14:50:23.751506+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: fully visible airborne goalkeeper catches incoming football with both gloves in front of goal net. Ball is held rather than scored; clear football save event for noun 救球, distinct from money saving or rescue.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:51:24.655226+00:00",
+      "review": {
+        "decision": {
+          "code": "3fdf027c2350",
+          "senseId": "3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f",
+          "candidateSha256": "bbdb10a6239c386595955c3c839fe09300673ce79a22a1e504f56f8350cd706b",
+          "observations": "A goalkeeper is airborne sideways before a soccer net, both gloved hands contacting and stopping a soccer ball.",
+          "inferredMeaning": "saving a goal; catching or stopping a ball",
+          "approved": true,
+          "reason": "A diving goalkeeper physically stops a ball immediately before a goal net. Goalkeeping save n. 救球 is the unmistakable sports event; this does not substitute another meaning of save."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "A diving goalkeeper physically stops a ball immediately before a goal net. Goalkeeping save n. 救球 is the unmistakable sports event; this does not substitute another meaning of save.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/33/3323f97c224320f278831ab7b015f05a3b94791571cffc7e1852f89e38e6103f.webp",
+      "alt": "save：救球的词义插图"
     },
     {
       "senseId": "43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299",
+      "wordId": "dict:treatment",
+      "sourceId": "dict:treatment",
       "word": "treatment",
       "pos": "n.",
       "meaning": "治疗",
-      "desiredAssetPath": "public/images/words/43/43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show medical treatment: a nurse in plain scrubs carefully applying a fresh clean bandage around a seated child's mildly grazed knee, one hand holding bandage roll and other securing the dressing; child relaxed and reassured, small unlabelled first aid tray beside them. No gore, no examination-only gesture; actual ongoing care is the dominant action.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-4ac84b00-4035-4dae-8463-7f530bdc478b.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/treatment.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/treatment.webp",
+      "intendedSavedPath": "public/images/words/43/43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299.webp",
+      "generatedAt": "2026-10-07T18:09:20.555907+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Visual check: nurse in plain scrubs actively wraps a bandage around seated child knee, with first-aid kit beside them. Ongoing care clearly conveys treatment n. 治疗 rather than an examination. No text; reviewed remains false pending final independent review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T19:52:33.499433+00:00",
+      "review": {
+        "decision": {
+          "code": "c3f93ad8eebc",
+          "senseId": "43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299",
+          "candidateSha256": "04fad5a4cde01807b526051e46ec6ff0d8ffeeb3e1df9620431ad4b9cce93015",
+          "observations": "A medical worker in blue kneels beside a seated child and carefully wraps a white bandage around the child knee; open medical kit nearby.",
+          "inferredMeaning": "medical treatment; bandaging an injured knee; caring for a patient",
+          "approved": true,
+          "reason": "A medical worker actively applies a knee bandage to a seated child with a medical kit present. This is a concrete recognizable treatment n. 治疗, not merely an injured person or consultation."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "A medical worker actively applies a knee bandage to a seated child with a medical kit present. This is a concrete recognizable treatment n. 治疗, not merely an injured person or consultation.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/43/43062faf07e74b7a9e232dd52d330140e39b326378f715a5c5c5a2135b4d1299.webp",
+      "alt": "treatment：治疗的词义插图"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d",
+      "wordId": "dict:relation",
+      "sourceId": "dict:relation",
+      "word": "relation",
+      "pos": "n.",
+      "meaning": "关系",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show a family relationship: a small grandmother, parent and child sit close together with warm facial resemblance, the parent embracing the grandmother with one arm and the child with the other; a simple framed family portrait behind repeats their same three faces. Focus on connection between people, neutral domestic background, no symbols or written explanations.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-40f9-7d53-85b0-4a07af1f7276/exec-c69e506f-307b-475a-ad37-1e3a8ec708df.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/relation.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/relation.webp",
+      "intendedSavedPath": "public/images/words/56/5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d.webp",
+      "generatedAt": "2026-10-07T14:18:10.309848+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Visual check: clear affectionate three-generation family portrait, but blind image is more readily family or relatives than the exact abstract relation n. 关系. General relationship meaning remains ambiguous; retain for semantic review and do not count ready.",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:18:23.981856+00:00",
+      "review": {
+        "decision": {
+          "code": "fb706139c50b",
+          "senseId": "5616b6912e93ec339613929398e765caff97d4364f0c34f72e1a3ad147820b3d",
+          "candidateSha256": "57739922e0a70324c409f3d8e6e0459c2936b5a767d6ec32b949e8c2d0208b98",
+          "observations": "An older woman, an adult woman and a girl sit close together on a sofa with arms around each other; a framed photo of the same three hangs behind.",
+          "inferredMeaning": "family; three generations; relatives together",
+          "approved": false,
+          "reason": "The three generations and repeated framed portrait clearly show family/relatives, but do not independently convey generic relation n. 关系. The scene selects a narrower family meaning and needs the target supplied to reinterpret it as relationship."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: Visual check: clear affectionate three-generation family portrait, but blind image is more readily family or relatives than the exact abstract relation n. 关系. General relationship meaning remains ambiguous; retain for semantic review and do not count ready. Cross-review: The three generations and repeated framed portrait clearly show family/relatives, but do not independently convey generic relation n. 关系. The scene selects a narrower family meaning and needs the target supplied to reinterpret it as relationship.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "78ac8a862275ef6f9adc5bce27f36588fb2194ddddb87b8b3d94c9e44b7e3b7d",
+      "wordId": "dict:beyond",
+      "sourceId": "dict:beyond",
       "word": "beyond",
       "pos": "prep.",
       "meaning": "超过",
-      "desiredAssetPath": "public/images/words/78/78ac8a862275ef6f9adc5bce27f36588fb2194ddddb87b8b3d94c9e44b7e3b7d.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show beyond a boundary: a child stands at a low wooden fence, reaching one arm over it toward a bright red ball lying clearly on the far side of the fence, farther away than the child's reach. Compose in perspective so the fence crosses the middle, child on near side and ball well beyond it on far side. The spatial relation past a visible limit must be unmistakable. No arrows or lettering.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-932c-7832-b25d-39fc410953f5/exec-cc922138-4db6-4ca1-83dd-3221cc5b96c6.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/beyond.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/beyond.webp",
+      "intendedSavedPath": "public/images/words/78/78ac8a862275ef6f9adc5bce27f36588fb2194ddddb87b8b3d94c9e44b7e3b7d.webp",
+      "generatedAt": "2026-10-07T21:28:47.793289+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Visual check: child clearly stands on near side of wooden fence and reaches over it toward red ball far past fence and outside reach. Visible limit and separated far side directly show spatial beyond/exceeding the boundary (prep. 超过). No text. Final reviewer should confirm this spatial interpretation of supplied Chinese sense.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T21:28:55.316138+00:00",
+      "review": {
+        "decision": {
+          "code": "76a5c5f4eacb",
+          "senseId": "78ac8a862275ef6f9adc5bce27f36588fb2194ddddb87b8b3d94c9e44b7e3b7d",
+          "candidateSha256": "38504a4e422bdb8267a7aedb56093e60a6c35634b695c0a7e47b9470a578f28e",
+          "observations": "A child on the near side of a wooden fence stretches one arm toward a red ball lying far away on the other side in grass.",
+          "inferredMeaning": "beyond a fence; out of reach; trying to reach a distant ball",
+          "approved": false,
+          "reason": "The ball is clearly on the far side of a fence and out of the child reach, which primarily depicts spatial beyond/在另一边 or inaccessible. The supplied exact meaning 超过 requires a visible exceeded extent or limit; this mapping remains ambiguous rather than unequivocal."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "The ball is clearly on the far side of a fence and out of the child reach, which primarily depicts spatial beyond/在另一边 or inaccessible. The supplied exact meaning 超过 requires a visible exceeded extent or limit; this mapping remains ambiguous rather than unequivocal.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "543a5e506aa734e7cada224db6be2fb6532464723e0ff202448c964a0ac1fc30",
+      "wordId": "dict:organisation",
+      "sourceId": "dict:organisation",
       "word": "organisation",
       "pos": "n.",
       "meaning": "组织",
-      "desiredAssetPath": "public/images/words/54/543a5e506aa734e7cada224db6be2fb6532464723e0ff202448c964a0ac1fc30.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show an organized community volunteer group: four volunteers wearing matching plain green vests gather around a leader at a table, working together in distinct coordinated roles packing clean food parcels for a community pantry. Leader distributing supplies, two volunteers packing and one carrying a finished parcel to a neat stack. Same small simple leaf emblem on vests, no text. The coordinated group acting as a single organization is central.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-932c-7832-b25d-39fc410953f5/exec-f2a36e44-bfc1-411b-b9d7-412588682aea.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/organisation.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/organisation.webp",
+      "intendedSavedPath": "public/images/words/54/543a5e506aa734e7cada224db6be2fb6532464723e0ff202448c964a0ac1fc30.webp",
+      "generatedAt": "2026-10-07T23:29:43.983225+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Visual check: four people in matching leaf-emblem green vests coordinate food parcel packing with distinct roles. The image clearly conveys volunteer teamwork, but image alone does not distinguish organisation n. 组织 from a team or volunteering event. Retain pending semantic review, reviewed false; do not count ready.",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T23:30:22.149789+00:00",
+      "review": {
+        "decision": {
+          "code": "7b0cbc938869",
+          "senseId": "543a5e506aa734e7cada224db6be2fb6532464723e0ff202448c964a0ac1fc30",
+          "candidateSha256": "2999f7f580413782ca025c152b4633be0e1599c89866b31c4d07f0f35729445d",
+          "observations": "Four adults in matching green vests pack canned food, pasta and fruit into cardboard boxes together around a table; several packed boxes stand nearby.",
+          "inferredMeaning": "volunteers packing food donations; teamwork or cooperation",
+          "approved": false,
+          "reason": "Matching volunteers packing donation boxes show cooperation and charity work. A stable organisation as an entity is not visually established, and the dominant image-only inference is volunteers/teamwork rather than organisation n. 组织."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: Visual check: four people in matching leaf-emblem green vests coordinate food parcel packing with distinct roles. The image clearly conveys volunteer teamwork, but image alone does not distinguish organisation n. 组织 from a team or volunteering event. Retain pending semantic review, reviewed false; do not count ready. Cross-review: Matching volunteers packing donation boxes show cooperation and charity work. A stable organisation as an entity is not visually established, and the dominant image-only inference is volunteers/teamwork rather than organisation n. 组织.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "6b29765ed03feb81d4e40cb77406c9e38bfaa6285de2e37e984ac9005e69520f",
+      "wordId": "dict:manage",
+      "sourceId": "dict:manage",
       "word": "manage",
       "pos": "v.",
       "meaning": "处理",
-      "desiredAssetPath": "public/images/words/6b/6b29765ed03feb81d4e40cb77406c9e38bfaa6285de2e37e984ac9005e69520f.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show someone handling and managing a busy practical task: an adult at a central worktable calmly sorting a messy pile of several incoming parcels into three orderly stacks, directing an assistant carrying away a completed stack, while placing the next package in its appropriate stack. Face focused and confident, clear progression from mixed incoming pile to handled organized outgoing stacks. No labels, numbers, charts, text or check marks.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-932c-7832-b25d-39fc410953f5/exec-670e666f-4e2d-42da-ba44-75beea4032a4.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/manage.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/manage.webp",
+      "intendedSavedPath": "public/images/words/6b/6b29765ed03feb81d4e40cb77406c9e38bfaa6285de2e37e984ac9005e69520f.webp",
+      "generatedAt": "2026-10-08T01:08:29.128115+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Visual check: adult moves parcels from messy pile to orderly stacks while assistant carries completed boxes. Action is clear as sorting or handling parcels, but the supplied broad manage v. 处理 is not uniquely inferable from the image and directing assistant is not visible. Retain pending semantic review; reviewed false and not ready.",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-08T01:08:37.012161+00:00",
+      "review": {
+        "decision": {
+          "code": "aab22e87937e",
+          "senseId": "6b29765ed03feb81d4e40cb77406c9e38bfaa6285de2e37e984ac9005e69520f",
+          "candidateSha256": "c962923cd32dfefb73b65b4d5bf58fcd66da79fd5d5136af9d08c6b96ea547a4",
+          "observations": "A woman in an apron moves parcels from an untidy mixed heap at left into neat separated stacks on the table; another worker carries stacked boxes behind.",
+          "inferredMeaning": "sorting or organizing parcels; handling packages",
+          "approved": false,
+          "reason": "The visible action is sorting or stacking parcels from a mixed heap. It can be an example of handling work, but generic manage v. 处理 cannot be inferred distinctly from sorting/packing. Retain for revision rather than equating a related activity with the target."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: Visual check: adult moves parcels from messy pile to orderly stacks while assistant carries completed boxes. Action is clear as sorting or handling parcels, but the supplied broad manage v. 处理 is not uniquely inferable from the image and directing assistant is not visible. Retain pending semantic review; reviewed false and not ready. Cross-review: The visible action is sorting or stacking parcels from a mixed heap. It can be an example of handling work, but generic manage v. 处理 cannot be inferred distinctly from sorting/packing. Retain for revision rather than equating a related activity with the target.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "b38dbb0379928d5c84b0d894897a13db9dc1ffe8bc4a33afb21fffcc14145d52",
+      "wordId": "dict:serious",
+      "sourceId": "dict:serious",
       "word": "serious",
       "pos": "adj.",
       "meaning": "严肃的",
-      "desiredAssetPath": "public/images/words/b3/b38dbb0379928d5c84b0d894897a13db9dc1ffe8bc4a33afb21fffcc14145d52.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: square English vocabulary memory card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper; subject centered within middle 70%, generous blank margins, muted natural colors and soft daylight. Semantic clarity must dominate ornament. No letters, numbers, readable writing, labels, logos, watermarks, borders or card UI. Show a serious expression: waist-up portrait of an adult listening attentively with a sober unsmiling face, straight closed mouth, level focused eyes, gently lowered brows without anger, upright composed posture and hands still together on a table. Neutral understated indoor backdrop, no jokes, smiles, tears, exaggerated rage, illness or unrelated symbolism.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-932c-7832-b25d-39fc410953f5/exec-06566493-28fc-43e5-b544-25aca37901ce.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/b/source/serious.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/b/candidates/serious.webp",
+      "intendedSavedPath": "public/images/words/b3/b38dbb0379928d5c84b0d894897a13db9dc1ffe8bc4a33afb21fffcc14145d52.webp",
+      "generatedAt": "2026-10-08T01:09:52.351727+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Visual check: adult sits upright with hands composed together, attentive level eyes and sober closed unsmiling mouth. Restrained lowered brows show seriousness without anger or sadness; no written text. serious adj. 严肃的 is visually clear. reviewed remains false pending independent final review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-08T01:10:16.372150+00:00",
+      "review": {
+        "decision": {
+          "code": "0699725f48a4",
+          "senseId": "b38dbb0379928d5c84b0d894897a13db9dc1ffe8bc4a33afb21fffcc14145d52",
+          "candidateSha256": "741f71d6fb0effbff6d1ef82e119f2561d64790b00557085bc2225f72702b587",
+          "observations": "An adult woman sits at a table with hands clasped, neutral closed mouth and intent gaze to one side in a quiet interior.",
+          "inferredMeaning": "a serious or thoughtful woman; listening attentively",
+          "approved": false,
+          "reason": "The seated woman has a neutral closed mouth and attentive gaze, but no strongly solemn, stern or serious expression or situation. Calm, thoughtful and listening are equally likely. Serious adj. 严肃的 is not clear enough from the image alone."
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "/root/generate_c",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/b/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "The seated woman has a neutral closed mouth and attentive gaze, but no strongly solemn, stern or serious expression or situation. Calm, thoughtful and listening are equally likely. Serious adj. 严肃的 is not clear enough from the image alone.",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     }
   ],
-  "recoveredBy": "20261007-103337",
-  "reviewedAt": "2026-10-07T10:49:55.405634+00:00",
+  "todo": [],
+  "recoveredBy": "20261007-180920-resume",
+  "reviewedAt": "2026-10-08T01:25:13.527637+00:00",
   "generationStop": {
     "reason": "Built-in imagegen connection failure reported by root; no retries or fallback attempted",
     "at": "2026-10-07T10:52:01.945270+00:00",
     "pendingGeneration": 14
-  }
+  },
+  "resumeCompletedAt": "2026-10-08T01:10:16.456689+00:00",
+  "resumeRun": "run20261007-180920-resume"
 }

@@ -2,7 +2,7 @@
   "mode": "built-in image_gen",
   "batch": "20261007-103337-c",
   "parentBatch": "20261007-103337",
-  "status": "partial_generation_interrupted",
+  "status": "reviewed_partial",
   "assets": [
     {
       "senseId": "87c53ecf2f7853281a01ee6af8faa7825b5cb9c2332678ea3b2bb597ee604369",
@@ -52,114 +52,664 @@
       },
       "savedPath": "public/images/words/87/87c53ecf2f7853281a01ee6af8faa7825b5cb9c2332678ea3b2bb597ee604369.webp",
       "alt": "difficulty：困难的词义插图"
-    }
-  ],
-  "candidates": [],
-  "todo": [
+    },
     {
       "senseId": "de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca",
+      "wordId": "dict:machine",
+      "sourceId": "dict:machine",
       "word": "machine",
       "pos": "n.",
       "meaning": "机器",
-      "desiredAssetPath": "public/images/words/de/de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"machine\", \"pos\": \"n.\", \"meaning\": \"机器\"}. Depict this exact sense only, but never print the target words. Scene: A compact recognizable industrial mechanical machine standing alone: sturdy metal housing, two large exposed interlocking gears driven by an electric motor, a short conveyor carrying plain wooden blocks through rollers. Three-quarter view makes the moving mechanism and machine structure clear. No robot face and no tool personification. Keep a single integrated machine dominant.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-ca3a2e09-14bf-4a1e-9410-3c944d5f6458.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/machine.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/machine.webp",
+      "intendedSavedPath": "public/images/words/de/de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca.webp",
+      "generatedAt": "2026-10-07T14:09:26.862695+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Image-only check passes: dominant integrated motor, gears, rollers and conveyor clearly identify a machine. Exact machine n. 机器 fits. No text or competing subject.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:10:35.720805+00:00",
+      "review": {
+        "decision": {
+          "code": "73f6ae8f6aae",
+          "senseId": "de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca",
+          "candidateSha256": "8e1ba5dc7d002189547fd77186b73b43bfec298fe2e9902f96669f4962aad381",
+          "observations": "One industrial metal device with motor, exposed interlocking gears, rollers and a conveyor carrying wooden blocks.",
+          "inferredMeaning": "machine",
+          "approved": true,
+          "reason": "电机、啮合齿轮、滚筒与传送台组成一台具体机械装置，机器外形明确。",
+          "target": {
+            "word": "machine",
+            "pos": "n.",
+            "meaning": "机器"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "电机、啮合齿轮、滚筒与传送台组成一台具体机械装置，机器外形明确。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/de/de4482c1ce483f6a8369cf1336aed063f97f58f0736efa9d54656cd8a9b4afca.webp",
+      "alt": "machine：机器的词义插图"
     },
     {
       "senseId": "f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61",
+      "wordId": "dict:compare",
+      "sourceId": "dict:compare",
       "word": "compare",
       "pos": "v.",
       "meaning": "比较",
-      "desiredAssetPath": "public/images/words/f9/f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"compare\", \"pos\": \"v.\", \"meaning\": \"比较\"}. Depict this exact sense only, but never print the target words. Scene: A thoughtful child holds two otherwise similar apples side by side at the same height, one clearly larger than the other. The child carefully looks between the apples, with a focused evaluating expression. Both hands, both apples and the face are prominent; the deliberate side-by-side examination must read as comparing rather than eating, shopping or offering.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-8bf162c0-c4a1-461b-b6de-d5ae97dfc610.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/compare.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/compare.webp",
+      "intendedSavedPath": "public/images/words/f9/f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61.webp",
+      "generatedAt": "2026-10-07T14:13:41.869169+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Image-only check passes: child deliberately holds large and small apples side by side with evaluating gaze and raised brow, clearly comparing their sizes. Exact compare v. 比较 fits; no eating or text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:14:57.886761+00:00",
+      "review": {
+        "decision": {
+          "code": "0fbc9610813d",
+          "senseId": "f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61",
+          "candidateSha256": "21eb5a1a069b22a6cb559a6bf3c641a6c452f26802ab90f2fdb9764ddab0211f",
+          "observations": "A child holds differently sized red apples side by side at equal height and looks thoughtfully between them.",
+          "inferredMeaning": "compare or evaluate two sizes",
+          "approved": true,
+          "reason": "两只不同大小的苹果同高并列，人物眼神在其间审视，明确比较动作，区别于吃或递苹果。",
+          "target": {
+            "word": "compare",
+            "pos": "v.",
+            "meaning": "比较"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "两只不同大小的苹果同高并列，人物眼神在其间审视，明确比较动作，区别于吃或递苹果。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/f9/f951bafc7e4ae83279c10dd23e14d0410b3ef09e55267fee6e441fe085c61c61.webp",
+      "alt": "compare：比较的词义插图"
     },
     {
       "senseId": "ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2",
+      "wordId": "dict:lady",
+      "sourceId": "dict:lady",
       "word": "lady",
       "pos": "n.",
       "meaning": "淑女",
-      "desiredAssetPath": "public/images/words/ef/ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"lady\", \"pos\": \"n.\", \"meaning\": \"淑女\"}. Depict this exact sense only, but never print the target words. Scene: A graceful adult woman in a simple elegant knee-length dress and small brimmed hat sits upright on a garden bench, ankles together, gently offering a polite open-hand greeting. Her refined calm posture, neat clothing and warm expression clearly convey a courteous lady. One adult woman dominates; no royalty symbols, no fashion runway and no sexualized details.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-b07c9434-00b2-4ae7-8233-b7eb20fcc395.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/lady.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/lady.webp",
+      "intendedSavedPath": "public/images/words/ef/ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2.webp",
+      "generatedAt": "2026-10-07T14:15:59.162921+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Image-only check passes for lady n. 淑女: courteous adult woman with upright graceful posture, neat modest dress and hat, closed knees and gentle greeting. Refined manner distinguishes the intended sense; no text or royalty.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:16:19.036667+00:00",
+      "review": {
+        "decision": {
+          "code": "41c22bfe0b56",
+          "senseId": "ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2",
+          "candidateSha256": "32946c3f9d6425544bfbaaedc51101cdb80431e92e23c7ce26174bacc4ecd4db",
+          "observations": "An adult woman in neat blue dress and hat sits upright with ankles together on a garden bench, gently raising an open hand in greeting.",
+          "inferredMeaning": "courteous elegant lady",
+          "approved": true,
+          "reason": "端正坐姿、整洁裙帽与从容礼貌招呼共同呈现淑女典型外观与仪态。",
+          "target": {
+            "word": "lady",
+            "pos": "n.",
+            "meaning": "淑女"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "端正坐姿、整洁裙帽与从容礼貌招呼共同呈现淑女典型外观与仪态。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/ef/ef165ecd0c8c762752e4468bfee845dde2863ec95c15df783aec7035ac159ab2.webp",
+      "alt": "lady：淑女的词义插图"
     },
     {
       "senseId": "ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e",
+      "wordId": "dict:disease",
+      "sourceId": "dict:disease",
       "word": "disease",
       "pos": "n.",
       "meaning": "疾病",
-      "desiredAssetPath": "public/images/words/ec/ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"disease\", \"pos\": \"n.\", \"meaning\": \"疾病\"}. Depict this exact sense only, but never print the target words. Scene: A sick child lies in bed under a light blanket, flushed cheeks and small rash spots visible on face and forearm, fatigued expression. A caring doctor in a plain white coat listens to the chest with a stethoscope. A plain tissue box is beside the bed. The disease and medical illness are unmistakable, without injuries, blood or medical writing.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-ea2b7835-ec53-4f7e-a717-19de37e8bf99.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/disease.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/disease.webp",
+      "intendedSavedPath": "public/images/words/ec/ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e.webp",
+      "generatedAt": "2026-10-07T14:17:27.127226+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Image-only check passes: visibly ill child with rash and fatigue resting in bed under medical examination communicates disease/illness rather than injury. Exact disease n. 疾病 fits, no text.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:17:40.821134+00:00",
+      "review": {
+        "decision": {
+          "code": "6bb2d99b1159",
+          "senseId": "ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e",
+          "candidateSha256": "86047893b524ae1a59675077e4f3108edc4b76415f2fa51054d148ab1e750c3f",
+          "observations": "A flushed unhappy child with red rash spots lies under a blanket while a doctor listens to the chest using a stethoscope.",
+          "inferredMeaning": "illness, disease",
+          "approved": true,
+          "reason": "皮疹、潮红与卧床状态突出病症，医生听诊辅助限定为疾病，无受伤混淆。",
+          "target": {
+            "word": "disease",
+            "pos": "n.",
+            "meaning": "疾病"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "皮疹、潮红与卧床状态突出病症，医生听诊辅助限定为疾病，无受伤混淆。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/ec/ecc7def19fcb10839ab4802a9ef540f7fed19541ebb5da436285eca233fad83e.webp",
+      "alt": "disease：疾病的词义插图"
     },
     {
       "senseId": "dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11",
+      "wordId": "dict:task",
+      "sourceId": "dict:task",
       "word": "task",
       "pos": "n.",
       "meaning": "工作",
-      "desiredAssetPath": "public/images/words/dc/dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11.webp"
-    },
-    {
-      "senseId": "97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00",
-      "word": "ability",
-      "pos": "n.",
-      "meaning": "能力",
-      "desiredAssetPath": "public/images/words/97/97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"task\", \"pos\": \"n.\", \"meaning\": \"工作\"}. Depict this exact sense only, but never print the target words. Scene: A child concentrates on an assigned household task: folding a pile of freshly washed towels on a low table, with a laundry basket of unfolded towels on one side and a neat completed stack on the other. Both hands actively fold one towel. The bounded piece of work and unfinished-to-completed progression are obvious. No decorative house details.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-2882b515-b562-48a9-b0fe-c36500b73f78.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/task.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/task.webp",
+      "intendedSavedPath": "public/images/words/dc/dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11.webp",
+      "generatedAt": "2026-10-07T14:24:52.034123+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Image-only check passes: active towel folding between unfinished basket and finished stack communicates a concrete piece of work/household task. Exact task n. 工作 fits. No text or decorative distraction.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:29:33.491468+00:00",
+      "review": {
+        "decision": {
+          "code": "6f57ea195947",
+          "senseId": "dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11",
+          "candidateSha256": "7a28082aed17bc5db2575a793b0e7ce62568be5a9c21ab1400ee1d6209046dce",
+          "observations": "A child actively folds a towel with both hands between an unfinished laundry basket and a stack of finished folded towels.",
+          "inferredMeaning": "household work, folding laundry",
+          "approved": true,
+          "reason": "双手正在完成叠毛巾工作，待做衣物与已完成堆叠限定一项实际工作，符合当前工作名词义。",
+          "target": {
+            "word": "task",
+            "pos": "n.",
+            "meaning": "工作"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "双手正在完成叠毛巾工作，待做衣物与已完成堆叠限定一项实际工作，符合当前工作名词义。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/dc/dc076f1b194cd9537ad3fdfa6b9f728378112aca08c0a6fa6bd394840df18a11.webp",
+      "alt": "task：工作的词义插图"
     },
     {
       "senseId": "a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2",
+      "wordId": "dict:behaviour",
+      "sourceId": "dict:behaviour",
       "word": "behaviour",
       "pos": "n.",
       "meaning": "行为",
-      "desiredAssetPath": "public/images/words/a4/a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2.webp"
-    },
-    {
-      "senseId": "208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a",
-      "word": "feeling",
-      "pos": "n.",
-      "meaning": "摸",
-      "desiredAssetPath": "public/images/words/20/208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"behaviour\", \"pos\": \"n.\", \"meaning\": \"行为\"}. Depict this exact sense only, but never print the target words. Scene: Two children at a low play table demonstrate clearly contrasting behaviour within one continuous scene: one child gently offers a toy to a smaller child with a kind face and calm open hand, while another child angrily grabs a different toy from a playmate, who looks upset. The focus is on how people act toward others, with clear hands and expressions. No moral labels or symbols.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-c3c246af-9134-4cd3-a00f-ec8cf3c17e4e.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/behaviour.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/behaviour.webp",
+      "intendedSavedPath": "public/images/words/a4/a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2.webp",
+      "generatedAt": "2026-10-07T14:48:10.467297+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Image-only check passes: contrasting kind sharing and angry grabbing make conduct toward others the focus. Exact behaviour n. 行为 fits through visible good and bad behaviour without labels; actions and reactions remain legible at 640px.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T14:48:56.839283+00:00",
+      "review": {
+        "decision": {
+          "code": "30eb725a841d",
+          "senseId": "a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2",
+          "candidateSha256": "ca311e917690ce9bad4436992234e763b4f7594d6390ba6e23953ab6cd218b14",
+          "observations": "Four children at a table: one willingly hands a toy car to a smiling child, while another angrily snatches a teddy from an upset playmate.",
+          "inferredMeaning": "contrasting sharing and grabbing behavior",
+          "approved": true,
+          "reason": "同一场景并列分享和抢夺，手部动作与表情对比突出人与人相处时的行为。",
+          "target": {
+            "word": "behaviour",
+            "pos": "n.",
+            "meaning": "行为"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "同一场景并列分享和抢夺，手部动作与表情对比突出人与人相处时的行为。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/a4/a4c4fd67de25f20cee9fbf27747d702cb2bfb0f2877d15eaaedc6fe673fd44d2.webp",
+      "alt": "behaviour：行为的词义插图"
     },
     {
       "senseId": "1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084",
+      "wordId": "dict:pretty",
+      "sourceId": "dict:pretty",
       "word": "pretty",
       "pos": "adj.",
       "meaning": "漂亮的",
-      "desiredAssetPath": "public/images/words/1c/1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084.webp"
-    },
-    {
-      "senseId": "bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926",
-      "word": "everybody",
-      "pos": "pron.",
-      "meaning": "每个人",
-      "desiredAssetPath": "public/images/words/bb/bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"pretty\", \"pos\": \"adj.\", \"meaning\": \"漂亮的\"}. Depict this exact sense only, but never print the target words. Scene: A simple pretty floral dress displayed on a modest wooden dress form, with softly flowing fabric, graceful shape and tiny hand-painted pastel flower motifs. A child nearby gazes at the dress with delighted admiration, hands lightly clasped. The pleasing visual beauty is the clear property; no luxury branding, no sparkles obscuring the form and no words.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-2d00d4ee-9f39-4576-bebf-26bef784184b.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/pretty.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/pretty.webp",
+      "intendedSavedPath": "public/images/words/1c/1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084.webp",
+      "generatedAt": "2026-10-07T15:20:46.946052+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Viewed individually: a graceful pastel floral dress dominates while a child gazes upward with delighted admiration. Beauty is visibly foregrounded and supports pretty adj. 漂亮的 without text. Pending independent final review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T19:52:32.153111+00:00",
+      "review": {
+        "decision": {
+          "code": "a5d6b83bee87",
+          "senseId": "1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084",
+          "candidateSha256": "600f15448d3e4103eb3b30738f4c5b158a36c4a02ffddcecfafa0e5ac56448d4",
+          "observations": "A child with clasped hands looks admiringly at a graceful floral dress displayed on a wooden dress form.",
+          "inferredMeaning": "a pretty dress, beauty being admired",
+          "approved": true,
+          "reason": "清晰的花裙外形与孩子欣赏的表情共同突出漂亮的可见性质，区别于单独的裙子。",
+          "target": {
+            "word": "pretty",
+            "pos": "adj.",
+            "meaning": "漂亮的"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "清晰的花裙外形与孩子欣赏的表情共同突出漂亮的可见性质，区别于单独的裙子。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/1c/1c7be546267bf1a54c35dce670793f34071f43847b88f225cc11cb9a0257f084.webp",
+      "alt": "pretty：漂亮的的词义插图"
     },
     {
       "senseId": "00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6",
+      "wordId": "dict:hall",
+      "sourceId": "dict:hall",
       "word": "hall",
       "pos": "n.",
       "meaning": "门厅",
-      "desiredAssetPath": "public/images/words/00/00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6.webp"
-    },
-    {
-      "senseId": "671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1",
-      "word": "skill",
-      "pos": "n.",
-      "meaning": "技术",
-      "desiredAssetPath": "public/images/words/67/671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"hall\", \"pos\": \"n.\", \"meaning\": \"门厅\"}. Depict this exact sense only, but never print the target words. Scene: The entry hall just inside a house front door, viewed from the open exterior doorway: a small uncluttered interior vestibule with coat hooks holding one coat, a shoe bench with a pair of shoes underneath, an umbrella stand, and the start of a staircase leading deeper into the house. The open front door and entry doormat clearly establish an entrance hall, not a living room or long corridor.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-b197-7021-9cc3-de144565df82/exec-5b4d37c4-4b9b-4aac-8f3e-65f1e1f9fe32.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/hall.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/hall.webp",
+      "intendedSavedPath": "public/images/words/00/00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6.webp",
+      "generatedAt": "2026-10-08T00:16:42.662097+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Viewed individually at 640px: open front door, threshold and doormat lead directly into a compact entry space with coat hooks, shoe bench, umbrella stand and stairs. Clearly an entrance hall rather than living room or corridor; hall n. 门厅 fits. No text. Pending independent final review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-08T01:08:37.040094+00:00",
+      "review": {
+        "decision": {
+          "code": "fe0ccccb4515",
+          "senseId": "00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6",
+          "candidateSha256": "8c2b5ca09ab49533c9a7405275940bd09eb2b16d48bcb8762b46f605489c9353",
+          "observations": "View through an open front door into an entrance area with doormat, coat hooks, shoes under a bench, umbrella stand and stairway.",
+          "inferredMeaning": "entrance hall or foyer",
+          "approved": true,
+          "reason": "打开的外门、门垫、衣帽钩、鞋凳与室内楼梯构成入口门厅，场所特征准确。",
+          "target": {
+            "word": "hall",
+            "pos": "n.",
+            "meaning": "门厅"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "打开的外门、门垫、衣帽钩、鞋凳与室内楼梯构成入口门厅，场所特征准确。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/00/00fa6921700f9bb7f3fa6c8b02c137106803e502bc0c6e5dd3d0990e6e63b5f6.webp",
+      "alt": "hall：门厅的词义插图"
     },
     {
       "senseId": "45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8",
+      "wordId": "dict:message",
+      "sourceId": "dict:message",
       "word": "message",
       "pos": "n.",
       "meaning": "消息",
-      "desiredAssetPath": "public/images/words/45/45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"message\", \"pos\": \"n.\", \"meaning\": \"消息\"}. Depict this exact sense only, but never print the target words. Scene: A close view of a hand holding a smartphone as a new message arrives: the screen shows one large empty rounded speech bubble with a little tail and a small envelope symbol just above it. A second tiny phone farther behind suggests the sender, connected only by a subtle curved dotted path. No readable text, no alphabet letters, no digits, no app logos. The incoming communication should be immediately clear.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-b197-7021-9cc3-de144565df82/exec-02cf85fc-3fbc-4512-8921-ec3ae4f34f63.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/message.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/message.webp",
+      "intendedSavedPath": "public/images/words/45/45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8.webp",
+      "generatedAt": "2026-10-08T01:16:44.433427+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "selfReviewNotes": "Viewed individually at 640px: a phone prominently displays a blank speech bubble and envelope with arrival marks, linked by a dotted communication path to a distant sender holding a phone. Clearly received electronic message; exact message n. 消息 fits. No written text. Pending independent final review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-08T01:17:13.433426+00:00",
+      "review": {
+        "decision": {
+          "code": "3891716f4316",
+          "senseId": "45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8",
+          "candidateSha256": "248ff59773a07367afba97b55f6a7242073655dd11e97eac8449a32c75e4b966",
+          "observations": "A held mobile phone displays an envelope arrival icon and blank speech bubble; a dotted path connects another person using a phone.",
+          "inferredMeaning": "a sent or received message",
+          "approved": true,
+          "reason": "手机上有信封到达和无字消息气泡，另一个发信人通过虚线关联，明确消息而非普通电话。",
+          "target": {
+            "word": "message",
+            "pos": "n.",
+            "meaning": "消息"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": true,
+        "reason": "手机上有信封到达和无字消息气泡，另一个发信人通过虚线关联，明确消息而非普通电话。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "savedPath": "public/images/words/45/45d8423294cb35fc186cb1d697f1fdd2162307ab8608c87fca224c8b2454bbd8.webp",
+      "alt": "message：消息的词义插图"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00",
+      "wordId": "dict:ability",
+      "sourceId": "dict:ability",
+      "word": "ability",
+      "pos": "n.",
+      "meaning": "能力",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"ability\", \"pos\": \"n.\", \"meaning\": \"能力\"}. Depict this exact sense only, but never print the target words. Scene: A child confidently and successfully crosses a short set of playground monkey bars, grasping a bar firmly with one hand while reaching the next with the other, feet suspended safely close to the soft ground. An adult watches with a pleased expression from the side. Make physical capability and control obvious rather than a fall or struggle. Keep the scene simple.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-5b95190c-979a-4f70-b1b2-b977c9836f35.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/ability.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/ability.webp",
+      "intendedSavedPath": "public/images/words/97/97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00.webp",
+      "generatedAt": "2026-10-07T14:41:21.636640+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Exact ability n. 能力 can be exemplified by successful monkey bars, but image-only reading is more likely playing/climbing; no capability contrast or clearly achieved challenge. Keep pending visual revision and do not count ready.",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:43:39.421828+00:00",
+      "review": {
+        "decision": {
+          "code": "808af2c6ca2c",
+          "senseId": "97e539d4464d55515ec61a7016cfed9f6d9b7873c7c4c88ddff2ec8f1c17ab00",
+          "candidateSha256": "1788aa000310eaae8547f49333825d26cf634d31f2baa197c72aa9d84ffd8c37",
+          "observations": "A smiling child hangs and moves between monkey-bar rungs while a nearby adult smiles and claps.",
+          "inferredMeaning": "monkey bars, successful climbing or physical strength",
+          "approved": false,
+          "reason": "攀横杆动作与鼓掌可直观表达运动或成功，泛指能力需要额外解释。",
+          "target": {
+            "word": "ability",
+            "pos": "n.",
+            "meaning": "能力"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: Exact ability n. 能力 can be exemplified by successful monkey bars, but image-only reading is more likely playing/climbing; no capability contrast or clearly achieved challenge. Keep pending visual revision and do not count ready. Cross-review: 攀横杆动作与鼓掌可直观表达运动或成功，泛指能力需要额外解释。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
+    },
+    {
+      "senseId": "208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a",
+      "wordId": "dict:feeling",
+      "sourceId": "dict:feeling",
+      "word": "feeling",
+      "pos": "n.",
+      "meaning": "摸",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"feeling\", \"pos\": \"n.\", \"meaning\": \"摸\"}. Depict this exact sense only, but never print the target words. Scene: Close view of a person with eyes gently closed, carefully feeling the texture of a soft knitted scarf using the pads of their fingertips. Fingers visibly press and stroke the ridged wool fabric; the other hand holds the scarf still. Main focus is tactile touching with the hand. No heart symbols, emotional scene or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a116af-76c4-7242-b391-6f6c9cd90fb7/exec-b8c16d1e-3b9b-4907-83f5-16c73b5deb02.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/feeling.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/feeling.webp",
+      "intendedSavedPath": "public/images/words/20/208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a.webp",
+      "generatedAt": "2026-10-07T14:50:12.553088+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Exact supplied feeling n. 摸 remains lexical/POS uncertain. Image shows fingertips on wool but could read simply wearing or enjoying a warm scarf; tactile exploration is not unmistakable without the word. Retain pending review, not ready.",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-07T14:50:33.250318+00:00",
+      "review": {
+        "decision": {
+          "code": "2e9457b361fb",
+          "senseId": "208b9717d73beb35b614dc858c9093f28dd5e76dd696891e3c8d7284aa7afc9a",
+          "candidateSha256": "cf2bbde33ce77303fdc1fe1ae3c153a0b0c258b66a6c061cf3bf6c81b0ead1ae",
+          "observations": "Eyes closed, a person rubs the textured knitted scarf at the neck with finger pads while the other hand holds it.",
+          "inferredMeaning": "feeling texture by touch; also a warm scarf",
+          "approved": true,
+          "reason": "闭眼以指腹按摸织物的触觉动作清楚，符合当前摸义而不是情感。",
+          "target": {
+            "word": "feeling",
+            "pos": "n.",
+            "meaning": "摸"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: Exact supplied feeling n. 摸 remains lexical/POS uncertain. Image shows fingertips on wool but could read simply wearing or enjoying a warm scarf; tactile exploration is not unmistakable without the word. Retain pending review, not ready. Cross-review: 闭眼以指腹按摸织物的触觉动作清楚，符合当前摸义而不是情感。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
+    },
+    {
+      "senseId": "bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926",
+      "wordId": "dict:everybody",
+      "sourceId": "dict:everybody",
+      "word": "everybody",
+      "pos": "pron.",
+      "meaning": "每个人",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"everybody\", \"pos\": \"pron.\", \"meaning\": \"每个人\"}. Depict this exact sense only, but never print the target words. Scene: A small group of six children sit together in a semicircle at a picnic, and every single child holds one identical red apple. All six children and all six apples must be clearly visible with nobody empty-handed or excluded. An adult stands just behind with an empty basket after distributing the apples. Make universal inclusion the key idea, no hidden people.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-b197-7021-9cc3-de144565df82/exec-497ffd6e-812e-4f73-99cf-eedfee32ca7a.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/everybody.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/everybody.webp",
+      "intendedSavedPath": "public/images/words/bb/bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926.webp",
+      "generatedAt": "2026-10-07T20:28:28.789698+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Viewed individually at 640px: all six seated children each visibly hold one red apple, with no seated child excluded; an adult holds the empty distribution basket. Universal inclusion across the clearly bounded child group supports everybody pron. 每个人. No text. Pending independent final review; adult is distributor rather than recipient.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-07T20:28:39.529656+00:00",
+      "review": {
+        "decision": {
+          "code": "7b99db216a05",
+          "senseId": "bb4d8116284d981993a3749f075c5a5b782fa378bc0baaeb488077846c2e2926",
+          "candidateSha256": "6db60ac51173b8cc000c2fdcbf7ced8b07ebd6c4eef53fba255cab5c341dacde",
+          "observations": "Six smiling children each hold a red apple while an adult behind them holds an empty basket; the group is seated on a picnic blanket.",
+          "inferredMeaning": "apples distributed to children; a picnic group",
+          "approved": false,
+          "reason": "孩子各有苹果，但成人没有，主体更像野餐或分发苹果；每个人的全称范围不清，不能可靠推断代词。",
+          "target": {
+            "word": "everybody",
+            "pos": "pron.",
+            "meaning": "每个人"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "孩子各有苹果，但成人没有，主体更像野餐或分发苹果；每个人的全称范围不清，不能可靠推断代词。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
+    },
+    {
+      "senseId": "671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1",
+      "wordId": "dict:skill",
+      "sourceId": "dict:skill",
+      "word": "skill",
+      "pos": "n.",
+      "meaning": "技术",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"skill\", \"pos\": \"n.\", \"meaning\": \"技术\"}. Depict this exact sense only, but never print the target words. Scene: A skilled woodworker carefully carves a smooth curved wooden spoon using a small hand carving tool, with precise steady hand placement. One rough wooden blank and one beautifully finished spoon lie beside the hands on the workbench. Close clear view of fine controlled technique, delicate wood shavings and the expertly shaped result. No power machine and no writing.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-b197-7021-9cc3-de144565df82/exec-26134937-100a-4948-a298-2af30d99f5aa.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/skill.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/skill.webp",
+      "intendedSavedPath": "public/images/words/67/671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1.webp",
+      "generatedAt": "2026-10-08T01:10:38.049441+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Viewed individually at 640px: careful spoon carving, rough blank and a polished spoon clearly show woodworking/craft. Fine hand control can exemplify skill, but without target context the dominant reading is carving a spoon rather than generic skill n. 技术. Retain for final review or revision; do not count ready.",
+      "generatorDecision": "defer",
+      "selfReviewedAt": "2026-10-08T01:15:39.344104+00:00",
+      "review": {
+        "decision": {
+          "code": "0f02a2a191c0",
+          "senseId": "671a2e1fedd341a93e561110cd52d3dd3d97708712112661828257f967161fb1",
+          "candidateSha256": "7205aa489d610047d5c4926e4bd85b951b0d544c8b673d525d9108db79f0667c",
+          "observations": "Close-up of skilled hands using a curved blade to carve a wooden spoon, with shavings, raw wood and a completed spoon nearby.",
+          "inferredMeaning": "woodcarving or making a spoon",
+          "approved": false,
+          "reason": "雕刻木勺的动作清楚，但图像首先表达雕刻或木工；泛指技术需从动作成功程度额外推断。",
+          "target": {
+            "word": "skill",
+            "pos": "n.",
+            "meaning": "技术"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "Generator uncertainty retained: Viewed individually at 640px: careful spoon carving, rough blank and a polished spoon clearly show woodworking/craft. Fine hand control can exemplify skill, but without target context the dominant reading is carving a spoon rather than generic skill n. 技术. Retain for final review or revision; do not count ready. Cross-review: 雕刻木勺的动作清楚，但图像首先表达雕刻或木工；泛指技术需从动作成功程度额外推断。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     },
     {
       "senseId": "9a96d10ee1f08fc240bf3a7b8b5ae327291cbe72a0c1a1ec6a981ca494a25abe",
+      "wordId": "dict:nor",
+      "sourceId": "dict:nor",
       "word": "nor",
       "pos": "conj.",
       "meaning": "也不",
-      "desiredAssetPath": "public/images/words/9a/9a96d10ee1f08fc240bf3a7b8b5ae327291cbe72a0c1a1ec6a981ca494a25abe.webp"
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational. Asset type: one square vocabulary memory-card illustration. Style: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted green, blue and coral as appropriate. One clear subject or tightly related scene centered within the middle 70 percent with generous empty margins; readable on a small card. No letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects. Semantic clarity is more important than decoration. Exact target sense: {\"word\": \"nor\", \"pos\": \"conj.\", \"meaning\": \"也不\"}. Depict this exact sense only, but never print the target words. Scene: A child sits at a table with two separate small bowls, one containing carrots and one containing broccoli. The child looks away with lips closed and pushes BOTH bowls away simultaneously using both open hands. Both rejected food choices and the two-handed rejection are equally clear, communicating neither one nor the other. No words, crosses, letters or numbers.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1178e-b197-7021-9cc3-de144565df82/exec-ccef4341-d2ae-4369-b0b1-16cddc3c4db6.png",
+      "originalLocalPath": "output/imagegen/batch-20261007-103337/c/source/nor.png",
+      "candidatePath": "output/imagegen/batch-20261007-103337/c/candidates/nor.webp",
+      "intendedSavedPath": "public/images/words/9a/9a96d10ee1f08fc240bf3a7b8b5ae327291cbe72a0c1a1ec6a981ca494a25abe.webp",
+      "generatedAt": "2026-10-08T01:18:50.057201+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "selfReviewNotes": "Viewed individually at 640px: child turns face away with closed lips, both open hands reject two distinct bowls of carrots and broccoli, with both bowls shown moving outward. Both choices are rejected, supporting neither one nor the other / nor conj. 也不. No written text or crosses. Pending independent final review.",
+      "generatorDecision": "pass",
+      "selfReviewedAt": "2026-10-08T01:19:05.063583+00:00",
+      "review": {
+        "decision": {
+          "code": "2113afa322bf",
+          "senseId": "9a96d10ee1f08fc240bf3a7b8b5ae327291cbe72a0c1a1ec6a981ca494a25abe",
+          "candidateSha256": "86a6481f9f728504c0d17de8ece9993fc3b71b514b327947b7691a103ccced73",
+          "observations": "A frowning child extends both palms to push away separate bowls of carrots and broccoli.",
+          "inferredMeaning": "refuses both foods, dislikes vegetables",
+          "approved": false,
+          "reason": "人物同时拒绝两盘食物，可读不喜欢或两者都不；缺少前后否定的连接关系，不能直观确认连词也不。",
+          "target": {
+            "word": "nor",
+            "pos": "conj.",
+            "meaning": "也不"
+          }
+        },
+        "method": "image-first context-aware cross-review",
+        "reviewer": "root",
+        "evidencePath": "output/imagegen/batch-20261007-103337/20261007-180920-resume/review/c/decisions.json",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      },
+      "finalRootReview": {
+        "approved": false,
+        "reason": "人物同时拒绝两盘食物，可读不喜欢或两者都不；缺少前后否定的连接关系，不能直观确认连词也不。",
+        "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
+      }
     }
   ],
+  "todo": [],
   "generationStop": {
     "reason": "Built-in imagegen connection failure reported by root; no retries or fallback attempted",
     "at": "2026-10-07T10:52:01.945270+00:00",
     "pendingGeneration": 14
   },
-  "recoveredBy": "20261007-103337",
-  "reviewedAt": "2026-10-07T10:49:55.405634+00:00"
+  "recoveredBy": "20261007-180920-resume",
+  "reviewedAt": "2026-10-08T01:25:13.527637+00:00"
 }
