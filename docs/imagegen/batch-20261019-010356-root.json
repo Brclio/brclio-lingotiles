@@ -1,0 +1,738 @@
+{
+  "runId": "20261019-010356",
+  "threadId": "01a151ac-a8da-7c70-9be6-36387a5f4773",
+  "startedAt": "2026-10-19T01:03:56.355803+00:00",
+  "batchPath": "output/imagegen/batch-20261019-010356",
+  "token": "a4bff2b1-ad1d-4c3a-923f-432124a1d912",
+  "batchId": "20261019-010356",
+  "group": "root",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "reviewed_with_semantic_deferrals",
+  "claimed": [
+    {
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "desiredAssetPath": "public/images/words/b4/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp"
+    },
+    {
+      "senseId": "47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645",
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "desiredAssetPath": "public/images/words/47/47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645.webp"
+    },
+    {
+      "senseId": "0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1",
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "desiredAssetPath": "public/images/words/0a/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp"
+    },
+    {
+      "senseId": "7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c",
+      "word": "would",
+      "pos": "v.",
+      "meaning": "将",
+      "desiredAssetPath": "public/images/words/7d/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.webp"
+    },
+    {
+      "senseId": "ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb",
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "desiredAssetPath": "public/images/words/ba/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp"
+    },
+    {
+      "senseId": "ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7",
+      "word": "when",
+      "pos": "conj.",
+      "meaning": "当...的时候",
+      "desiredAssetPath": "public/images/words/ef/ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7.webp"
+    },
+    {
+      "senseId": "4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace",
+      "word": "quite",
+      "pos": "adv.",
+      "meaning": "相当",
+      "desiredAssetPath": "public/images/words/4f/4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace.webp"
+    },
+    {
+      "senseId": "54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd",
+      "word": "meet",
+      "pos": "n.",
+      "meaning": "会",
+      "desiredAssetPath": "public/images/words/54/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp"
+    },
+    {
+      "senseId": "6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6",
+      "word": "full",
+      "pos": "n.",
+      "meaning": "全部",
+      "desiredAssetPath": "public/images/words/6e/6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6.webp"
+    },
+    {
+      "senseId": "00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1",
+      "word": "others",
+      "pos": "pron.",
+      "meaning": "其他人",
+      "desiredAssetPath": "public/images/words/00/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.webp"
+    },
+    {
+      "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+      "word": "open",
+      "pos": "n.",
+      "meaning": "公开",
+      "desiredAssetPath": "public/images/words/49/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp"
+    },
+    {
+      "senseId": "7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c",
+      "word": "including",
+      "pos": "prep.",
+      "meaning": "包含",
+      "desiredAssetPath": "public/images/words/77/7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c.webp"
+    },
+    {
+      "senseId": "67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb",
+      "word": "yesterday",
+      "pos": "n.",
+      "meaning": "昨天",
+      "desiredAssetPath": "public/images/words/67/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp"
+    },
+    {
+      "senseId": "4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097",
+      "word": "April",
+      "pos": "n.",
+      "meaning": "四月",
+      "desiredAssetPath": "public/images/words/4b/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.webp"
+    },
+    {
+      "senseId": "6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d",
+      "word": "June",
+      "pos": "n.",
+      "meaning": "六月",
+      "desiredAssetPath": "public/images/words/6a/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.webp"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd",
+      "wordId": "dict:meet",
+      "sourceId": "dict:meet",
+      "word": "meet",
+      "pos": "n.",
+      "meaning": "会",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: meet / n. / 会.\nPrimary request: An organized track-and-field athletics meet at a small outdoor stadium: several distinct lanes with runners starting a race in the foreground, a clear high-jump bar and landing mat to one side, an athlete throwing a discus far behind, and a few spectators in tiered stands. The whole coordinated sporting gathering is central. Accurate separate equipment, no scores, lettering or numbers.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-2e0c08b8-60dc-4785-a230-c220a501f32d.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+      "intendedSavedPath": "public/images/words/54/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+      "generatedAt": "2026-10-19T01:12:39.394579+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "c3f852b391eac602abfa6d72b6fd2cf1fad386b111a67040939bf82ea68ba487",
+      "bytes": 123494,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/root/candidates/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+        "reason": "Fresh 640px visual inspection shows participants around a meeting table, one speaker gesturing to a flip chart and others listening with notebooks. The target n. 会 is concretely a meeting/gathering; no language is needed for that reading. English meet noun is potentially narrower, so leave final approval to independent review.",
+        "independentReviews": [
+          {
+            "reviewer": "/root/generate_b",
+            "reviewedAt": "2026-10-18T23:24:31.537787+00:00",
+            "senseId": "54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd",
+            "word": "meet",
+            "pos": "n.",
+            "meaning": "会",
+            "candidatePath": "output/imagegen/batch-20261018-130336/root/candidates/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+            "decision": "defer",
+            "reviewed": false,
+            "observations": "已用view_image查看实际640px候选：六名成年人围会议桌讨论，笔记本、麦克风与空白展示板清楚表现普通会议。没有运动、比赛或体育会线索。英语meet作名词通常为运动会/比赛聚会，此图支持meeting；对当前meet n.会不能同时确信英中对应。按不确定保留待复核要求defer，不计完成。无可读文字数字。",
+            "evidencePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/root-independent-review.json"
+          }
+        ]
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Actual 640px inspection shows runners, high jump, discus and spectators together in organized track-and-field competition. It directly reads sports meet, an event/gathering matching meet n. 会; no greeting or business-meeting ambiguity. Await independent exact-sense check.",
+      "selfReviewedAt": "2026-10-19T01:12:58.533055+00:00",
+      "independentReviews": [
+        {
+          "senseId": "54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd",
+          "word": "meet",
+          "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+          "decision": "pass",
+          "observations": "已实际逐张查看640px图：田径场前景四名运动员从起跑器起跑，后方同时有掷铁饼、跳高与看台观众和裁判。多项竞技在同一场地构成田径运动会。图中无文字数字。",
+          "reason": "画面明确表现田径比赛集会，符合meet作名词的运动会义，也对应当前中文会这一聚会事件；与meeting普通会议区分清楚。审核前已暴露映射，不声称盲审。",
+          "reviewedAt": "2026-10-19T01:24:30.757033+00:00",
+          "reviewer": "/root/disk_audit",
+          "evidencePath": "output/imagegen/batch-20261019-010356/root-independent-a.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/54/54d3b3e7beeeb1664b41a03732c1790a5a5df7c47125dae62cee003b69f736cd.webp",
+      "sha256": "c3f852b391eac602abfa6d72b6fd2cf1fad386b111a67040939bf82ea68ba487",
+      "finalReviewNotes": "已实际逐张查看640px图：田径场前景四名运动员从起跑器起跑，后方同时有掷铁饼、跳高与看台观众和裁判。多项竞技在同一场地构成田径运动会。图中无文字数字。 画面明确表现田径比赛集会，符合meet作名词的运动会义，也对应当前中文会这一聚会事件；与meeting普通会议区分清楚。审核前已暴露映射，不声称盲审。"
+    },
+    {
+      "senseId": "67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb",
+      "wordId": "dict:yesterday",
+      "sourceId": "dict:yesterday",
+      "word": "yesterday",
+      "pos": "n.",
+      "meaning": "昨天",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: yesterday / n. / 昨天.\nPrimary request: A child wakes at sunrise and looks toward a bedside picture calendar with exactly two successive day-pages. The present front page shows the same sunrise and waking child, while the immediately preceding turned-back page shows that child flying a kite in daylight, with a small complete sun-to-moon day arc above it. Highlight the just-previous completed day and the turn into the current morning. No written dates or digits.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-d0886c39-c51d-4583-add2-459de00b5b23.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp",
+      "intendedSavedPath": "public/images/words/67/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp",
+      "generatedAt": "2026-10-19T01:17:12.990633+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "2a0cafa0c91e24e89d1f8b24497d4173f3c935a3c4325d7036e58df7b949d59f",
+      "bytes": 105232,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp",
+        "reason": "Actual image shows a faded sunset watering scene and the same child waking at sunrise. A remembered previous evening is plausible, but 昨天 is not uniquely established against last night, memory, or a two-time routine; no clear exact day reference.",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Actual 640px view shows waking child at present sunrise matching front calendar day, with immediately turned-back preceding page showing kite play and a complete sun-to-moon arc. The single previous completed day is directly contrasted to current morning, supporting 昨天. Await independent check for ambiguity.",
+      "selfReviewedAt": "2026-10-19T01:17:38.010066+00:00",
+      "independentReviews": [
+        {
+          "senseId": "67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb",
+          "word": "yesterday",
+          "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp",
+          "decision": "pass",
+          "observations": "已实际查看640px图：日出卧室里男孩刚起床，桌面翻页日历当前页画着同一刚起床场景；前一页卷在上方，画男孩白天放风筝、太阳到月亮的单日变化，向下翻页箭头把前一整天连至当前清晨。无文字数字。",
+          "reason": "当前实际场景与日历当前页一一对应，前页显示已经结束的上一白天及夜晚，连续一夜与相邻翻页明确锚定昨天而非一般过去。符合yesterday n.昨天；审核前已暴露映射，不声称盲审。",
+          "reviewedAt": "2026-10-19T01:25:18.926653+00:00",
+          "reviewer": "/root/disk_audit",
+          "evidencePath": "output/imagegen/batch-20261019-010356/root-independent-a.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/67/67078d7e4489b3a731fe8bd6cef4b470e17c93840ae8a227fccff114cc1b7ebb.webp",
+      "sha256": "2a0cafa0c91e24e89d1f8b24497d4173f3c935a3c4325d7036e58df7b949d59f",
+      "finalReviewNotes": "已实际查看640px图：日出卧室里男孩刚起床，桌面翻页日历当前页画着同一刚起床场景；前一页卷在上方，画男孩白天放风筝、太阳到月亮的单日变化，向下翻页箭头把前一整天连至当前清晨。无文字数字。 当前实际场景与日历当前页一一对应，前页显示已经结束的上一白天及夜晚，连续一夜与相邻翻页明确锚定昨天而非一般过去。符合yesterday n.昨天；审核前已暴露映射，不声称盲审。"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53",
+      "wordId": "dict:be",
+      "sourceId": "dict:be",
+      "word": "be",
+      "pos": "v.",
+      "meaning": "是",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: be / v. / 是.\nPrimary request: A child in a striped shirt stands immediately beside a life-size mirror; the reflection exactly matches the child, clothing, pose and face. A single broad equals-shaped pictorial mark made of two unlettered strokes joins the real child and matching reflection, emphasizing that these are the same person. Keep the child and reflected identity central, no other activity.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-9aa1d05b-35f6-4887-832e-52f1fc0565f4.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp",
+      "intendedSavedPath": "public/images/words/b4/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp",
+      "generatedAt": "2026-10-19T01:06:55.491761+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "f91aa966377b2c9e1c1a68d063b8c9e8d7fffcb9cb46da5092563f3ac5414145",
+      "bytes": 65282,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/root/candidates/b4459493af2962363696dcda968b7eb27c7234f5e97cb76fd896d96123eeae53.webp",
+        "reason": "Actual 640px image shows a doctor holding a matching portrait while a child points at it. First reading is doctor, portrait, or identity recognition, not the copula 是. Cannot infer exact grammatical sense without labels; retain semantic deferral.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual 640px view: child and mirror reflection joined by equals sign. Image conveys reflection or sameness; copula 是 is not recoverable without grammatical language. Keep semantic deferral.",
+      "selfReviewedAt": "2026-10-19T01:07:15.760686+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual 640px view: child and mirror reflection joined by equals sign. Image conveys reflection or sameness; copula 是 is not recoverable without grammatical language. Keep semantic deferral."
+    },
+    {
+      "senseId": "47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645",
+      "wordId": "dict:by",
+      "sourceId": "dict:by",
+      "word": "by",
+      "pos": "prep.",
+      "meaning": "被",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: by / prep. / 被.\nPrimary request: A small seated child is clearly the recipient of a haircut: an adult hairdresser behind the chair is actively cutting the child's hair with scissors and comb. A restrained curved pictorial arrow goes from the hairdresser's working hand to the clipped hair on the child, putting the acted-upon child foremost. Show the agent performing the action and passive recipient unmistakably.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-3383f9cb-1c9d-459d-99b4-5e1e6fbe5cfa.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645.webp",
+      "intendedSavedPath": "public/images/words/47/47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645.webp",
+      "generatedAt": "2026-10-19T01:07:38.493428+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "0b46445482954c9081eb7a3c48dc9a643699cca9e934fa4fb357d157b9725923",
+      "bytes": 67648,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/root/candidates/47bc14389d13f02f2db5d5c49e777ef9d6959b483194e00859578c2cd5af1645.webp",
+        "reason": "Actual candidate viewed at 640px: an adult braids a seated child’s hair. Hair-braiding and care are explicit; the passive-agent grammatical relation 被 cannot be recovered without the word. Retain semantic deferral.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual 640px inspection shows hairdresser cutting a child hair, with an arrow. Haircut and agent-recipient action are clear, but the passive grammatical marker 被 cannot be inferred by picture alone; retain unapproved.",
+      "selfReviewedAt": "2026-10-19T01:07:53.368516+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual 640px inspection shows hairdresser cutting a child hair, with an arrow. Haircut and agent-recipient action are clear, but the passive grammatical marker 被 cannot be inferred by picture alone; retain unapproved."
+    },
+    {
+      "senseId": "0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1",
+      "wordId": "dict:will",
+      "sourceId": "dict:will",
+      "word": "will",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: will / v. / 将.\nPrimary request: One coherent scene: a child stands indoors at a doorway fully dressed in a raincoat and boots, poised to take a first step outside but not yet stepping. A translucent thought cloud above the child shows the very same child about to splash in a rain puddle outside. Make the unperformed anticipated near-future action distinct from the present waiting child; no words or time labels.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-b51e12b8-c19b-46d0-8cb8-e66b8e322a9e.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp",
+      "intendedSavedPath": "public/images/words/0a/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp",
+      "generatedAt": "2026-10-19T01:08:19.076048+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "932f9614d7715bc8325beb067b59a12b2bca00691e21caa4ef2a36224d921c00",
+      "bytes": 120392,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/0a576a6cd35e47011071ded75ca96af0494d459085d4a02f34a8a9eec48cace1.webp",
+        "reason": "Viewed actual 640px image: planting a seed followed by watering a seedling linked by an arrow. This reads as plant growth or a gardening sequence; the future auxiliary 将 is not uniquely apparent without language. Retain unapproved.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual candidate shows a child preparing at rainy doorway and imagining splashing. Anticipation or desire is visible, but the auxiliary 将 cannot be identified independently from wanting or imagining; future grammar remains ambiguous.",
+      "selfReviewedAt": "2026-10-19T01:08:36.515472+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual candidate shows a child preparing at rainy doorway and imagining splashing. Anticipation or desire is visible, but the auxiliary 将 cannot be identified independently from wanting or imagining; future grammar remains ambiguous."
+    },
+    {
+      "senseId": "7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c",
+      "wordId": "dict:would",
+      "sourceId": "dict:would",
+      "word": "would",
+      "pos": "v.",
+      "meaning": "将",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: would / v. / 将.\nPrimary request: One coherent scene: a child sitting on a windowsill looks at dark rain clouds with a picnic basket beside them. In a cloud-shaped imagined scene, the same child pictures a future sunny picnic with the same basket. Main child remains waiting, with intended action shown only as an imagined future. Depict the future auxiliary sense rather than willingness or a conditional choice.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-b60336e8-e894-4144-a53b-61ec60e097f9.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.webp",
+      "intendedSavedPath": "public/images/words/7d/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.webp",
+      "generatedAt": "2026-10-19T01:09:01.045255+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "0cf7c2c5c69c6e8dc6e6e3f12f9e6546eb6400a58dfc3fa878e36dd59dbc3119",
+      "bytes": 118272,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/7dbc2fe397611086d3091331be9dc413a493991e009ffa31244d62dcf613800c.webp",
+        "reason": "Viewed actual 640px image: a child carries a picnic basket, then eats at a picnic blanket. Clear picnic sequence, but no visual evidence of a future auxiliary or its earlier-time viewpoint. 将 cannot be inferred independently.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual 640px view: child waits at rainy window and imagines a sunny picnic. This reads longing, daydream or weather contrast; no earlier-time future auxiliary viewpoint is visible. Would / 将 remains unsupported.",
+      "selfReviewedAt": "2026-10-19T01:09:22.581952+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual 640px view: child waits at rainy window and imagines a sunny picnic. This reads longing, daydream or weather contrast; no earlier-time future auxiliary viewpoint is visible. Would / 将 remains unsupported."
+    },
+    {
+      "senseId": "ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb",
+      "wordId": "dict:so",
+      "sourceId": "dict:so",
+      "word": "so",
+      "pos": "adv.",
+      "meaning": "如此",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: so / adv. / 如此.\nPrimary request: A child demonstrates the precise height of a very large sunflower by raising one flat hand exactly level with its flower head. Beside them another child looks directly between the flat hand and the sunflower. The measured extent of the gesture is central; show a matching dotted pictorial guide from hand height to flower height without numerals or rulers.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-51f74178-e223-4f13-9d34-8b2a5ebbbcf2.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp",
+      "intendedSavedPath": "public/images/words/ba/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp",
+      "generatedAt": "2026-10-19T01:09:48.432612+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "ea31c57468a19c31f37594246b22df8d5bde6d4a96639ddcae96eefda23244b2",
+      "bytes": 71574,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/ba6fc27709f91df484ce3357a043eda04fc4e9984a0f0e7d1ec0b10b07374bdb.webp",
+        "reason": "Actual image shows a child spreading arms behind a giant pumpkin beside a small pumpkin. Direct reading is big, huge, or size comparison. The demonstrative degree adverb 如此 is not uniquely readable from the image alone.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual image shows child measuring sunflower height with hand and dotted guide. Height or tall is the direct reading; demonstrative degree adverb 如此 requires explanatory grammar. Retain unapproved.",
+      "selfReviewedAt": "2026-10-19T01:10:03.329233+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual image shows child measuring sunflower height with hand and dotted guide. Height or tall is the direct reading; demonstrative degree adverb 如此 requires explanatory grammar. Retain unapproved."
+    },
+    {
+      "senseId": "ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7",
+      "wordId": "dict:when",
+      "sourceId": "dict:when",
+      "word": "when",
+      "pos": "conj.",
+      "meaning": "当...的时候",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: when / conj. / 当...的时候.\nPrimary request: A single clear doorway scene at the exact instant rain begins: the first raindrops fall and a child simultaneously opens an umbrella directly under those drops. Make the umbrella visibly halfway through opening and a few fresh drops striking it, showing the two events happening together at onset. No separate panels or text.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-d31635fe-5f79-4ec1-a832-6d41fee9ba42.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7.webp",
+      "intendedSavedPath": "public/images/words/ef/ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7.webp",
+      "generatedAt": "2026-10-19T01:10:30.918743+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "f950e5f91fc7dbde637fd94bff8fdf6ce3e7bd01f0eafb0e4c1f18eb03217f84",
+      "bytes": 131660,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/ef5a8105f5ee0d81a88c85a69a381f3142d474e627e747f55f9b5a76ce86bbc7.webp",
+        "reason": "Actual image shows a child standing with an already open umbrella in the rain. The onset or simultaneity relation is absent, so first reading is rain or umbrella, not the conjunction 当...的时候.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual 640px image shows a girl holding an open umbrella in rain. The intended opening instant or temporal conjunction relation is not clear; rain or umbrella dominate. Exact 当...的时候 cannot be inferred alone.",
+      "selfReviewedAt": "2026-10-19T01:10:47.133873+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual 640px image shows a girl holding an open umbrella in rain. The intended opening instant or temporal conjunction relation is not clear; rain or umbrella dominate. Exact 当...的时候 cannot be inferred alone."
+    },
+    {
+      "senseId": "4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace",
+      "wordId": "dict:quite",
+      "sourceId": "dict:quite",
+      "word": "quite",
+      "pos": "adv.",
+      "meaning": "相当",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: quite / adv. / 相当.\nPrimary request: A child after a brisk walk has visibly flushed cheeks and modest sweat, pauses with hands resting on knees; beside the child is a small unnumbered pictorial energy meter nearly but not completely filled. Show a distinctly substantial degree of tiredness while still alert and upright. Avoid collapse or extreme exhaustion.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-e859aafe-cd3d-442e-aa02-1516f2b270c5.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace.webp",
+      "intendedSavedPath": "public/images/words/4f/4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace.webp",
+      "generatedAt": "2026-10-19T01:11:19.516989+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "93818923568e460e719764710fbf917b77d2a70f545c1ad70e781f43dced7ebd",
+      "bytes": 72402,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/4fcf8ea670cbc36e483df77b72e679643c5c27cb8770003e723e1981f5c40ace.webp",
+        "reason": "Actual image shows a heavily bundled shivering child, frost, and a low thermometer. Cold is clear; the degree adverb 相当 is not distinguishable from very, extremely, or simply cold. No exact-sense approval.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual image shows sweating tired boy with an almost-full battery symbol. Tiredness is clear, but the battery conflicts with fatigue and degree adv. 相当 cannot be distinguished from very or simply tired. Semantic deferral.",
+      "selfReviewedAt": "2026-10-19T01:12:06.023737+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual image shows sweating tired boy with an almost-full battery symbol. Tiredness is clear, but the battery conflicts with fatigue and degree adv. 相当 cannot be distinguished from very or simply tired. Semantic deferral."
+    },
+    {
+      "senseId": "6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6",
+      "wordId": "dict:full",
+      "sourceId": "dict:full",
+      "word": "full",
+      "pos": "n.",
+      "meaning": "全部",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: full / n. / 全部.\nPrimary request: A farmer transfers every apple from an open shallow crate into one large round basket. All the apples from the crate are now in the basket, and the crate is plainly empty with its bottom completely visible; the farmer's hands present the complete gathered collection. Emphasize the entirety and no leftover apples, with a simple encompassing curved outline around the basket.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-c3624a84-2afe-4532-a02e-ed9a030b6245.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6.webp",
+      "intendedSavedPath": "public/images/words/6e/6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6.webp",
+      "generatedAt": "2026-10-19T01:13:22.433671+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "429fe12517089bf13a70ba25716f6be49b854f24cae4b67760bb0cc5b94bd9fa",
+      "bytes": 81714,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/6e2738823a0d9051b7ef0bdede27003d5fc91da7662c6999a6390724c93c4eb6.webp",
+        "reason": "Actual image is simply two hands holding a basket of apples. It gives no initial set or remainder that establishes 全部 as an entirety; first reading is basket or apples or full. The noun sense is unproven.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual 640px view shows an empty crate, arrow and farmer holding full apple basket. Transfer or harvest is visible but the initial complete set is unspecified; 全部 as entirety is not directly established, and full noun pairing remains uncertain.",
+      "selfReviewedAt": "2026-10-19T01:13:48.356015+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual 640px view shows an empty crate, arrow and farmer holding full apple basket. Transfer or harvest is visible but the initial complete set is unspecified; 全部 as entirety is not directly established, and full noun pairing remains uncertain."
+    },
+    {
+      "senseId": "00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1",
+      "wordId": "dict:others",
+      "sourceId": "dict:others",
+      "word": "others",
+      "pos": "pron.",
+      "meaning": "其他人",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: others / pron. / 其他人.\nPrimary request: One child stands in the foreground inside a small pale circular floor spot. Across a clear gap, all the other children stand together inside one larger pale floor spot; the foreground child gestures with an open palm toward that entire separate group. The distinction between one individual and the remaining people should be immediately visible.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-c3efc545-a928-4722-bd90-056e73f2fea6.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.webp",
+      "intendedSavedPath": "public/images/words/00/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.webp",
+      "generatedAt": "2026-10-19T01:14:20.033111+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "d22975bb7118c566e8eadc37d915636c7282c68846dcec9d81469aa638e681d1",
+      "bytes": 57974,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/00d243e8ea73025f421ff87bed7d5edfcb4a1098951f159fb7c3f26e72b7d4e1.webp",
+        "reason": "Actual image shows a boy with a ball greeting four waving friends. People and a separate group are clear, but it reads greeting or friends; the contrast required for pronoun 其他人 is not independently specified.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual image shows one boy introducing or gesturing to a group of friends. Two floor spots separate them, but other people versus all remaining people is not uniquely established. Greeting or introducing friends is the immediate reading.",
+      "selfReviewedAt": "2026-10-19T01:14:48.010703+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual image shows one boy introducing or gesturing to a group of friends. Two floor spots separate them, but other people versus all remaining people is not uniquely established. Greeting or introducing friends is the immediate reading."
+    },
+    {
+      "senseId": "498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120",
+      "wordId": "dict:open",
+      "sourceId": "dict:open",
+      "word": "open",
+      "pos": "n.",
+      "meaning": "公开",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: open / n. / 公开.\nPrimary request: A person opens a previously closed wooden display case toward a small gathered public audience. The case front is now completely open, and everyone can see the same clearly lit treasure inside; every observer has an unobstructed sightline. Center the act of making previously hidden contents publicly visible. No secrecy gestures or written notices.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-7751d9cd-df76-4cde-908c-2851902402b7.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+      "intendedSavedPath": "public/images/words/49/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+      "generatedAt": "2026-10-19T01:15:16.617743+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "f2ef45f5371f13dd4ea7ce6ed12cd21d1b0203c32586509ad88a398de4252362",
+      "bytes": 104976,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/498b65e482bd04713e7df520725b2abecdf9fc874934cb4f741ad63185d2e120.webp",
+        "reason": "Actual image shows a woman speaking to an outdoor audience with a blank illustrated board. Public speech or outdoor meeting is apparent; disclosure/openness 公开 as the exact noun sense is not uniquely established. Keep deferred.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual image shows guide opening a crown display cabinet to visitors. The direct reading is exhibit or opening a cabinet, not noun 公开 or being in the open. Earlier hidden state is absent and noun sense is uncertain.",
+      "selfReviewedAt": "2026-10-19T01:15:42.611187+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual image shows guide opening a crown display cabinet to visitors. The direct reading is exhibit or opening a cabinet, not noun 公开 or being in the open. Earlier hidden state is absent and noun sense is uncertain."
+    },
+    {
+      "senseId": "7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c",
+      "wordId": "dict:including",
+      "sourceId": "dict:including",
+      "word": "including",
+      "pos": "prep.",
+      "meaning": "包含",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: including / prep. / 包含.\nPrimary request: A transparent open picnic hamper visibly contains four distinct items: a bread loaf, an apple, a cheese wedge, and a bottle of water. Emphasize that the apple is one included member of the whole hamper contents by a soft thin ring around it within the larger visible hamper outline. All items remain inside the same container, no hand choosing or removing anything.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-c49a3a99-49f6-46fe-a3b2-65851e5be2a7.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c.webp",
+      "intendedSavedPath": "public/images/words/77/7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c.webp",
+      "generatedAt": "2026-10-19T01:16:08.078182+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "34e39b030062f2946778ee0fd1628a183775bdc758beb0465e814475cf452c65",
+      "bytes": 107320,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/7731ceeebe3e1f3f2058cd4182dc99d8c17401f3e9facb0bfe03620ddce0d67c.webp",
+        "reason": "Actual image shows a hand pointing at an apple among foods in a basket. This strongly reads apple, food basket, or choosing an apple. Set membership can be explained afterwards, but the prep. 包含 is not self-evident without language.",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Actual view shows food basket with ring around apple. A selected apple among foods is clear; inclusion relation is only a possible explanation and not directly distinguishable from apple or selection. Keep semantic deferral.",
+      "selfReviewedAt": "2026-10-19T01:16:39.492453+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: Actual view shows food basket with ring around apple. A selected apple among foods is clear; inclusion relation is only a possible explanation and not directly distinguishable from apple or selection. Keep semantic deferral."
+    },
+    {
+      "senseId": "4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097",
+      "wordId": "dict:april",
+      "sourceId": "dict:april",
+      "word": "April",
+      "pos": "n.",
+      "meaning": "四月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: April / n. / 四月.\nPrimary request: A wide open picture calendar shows exactly twelve equal blank month tiles arranged in one clear horizontal row. Visually group the tiles by four gentle season backgrounds, three tiles per season: winter snow, spring blossoms, summer sun, autumn leaves. The fourth tile from the left is prominently raised and coral outlined, with spring rain and a blooming tulip pictured inside. All twelve tiles fully visible and evenly separated; no other tabs, no dates, no numbers, no lettering.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-cdc99e19-0d2c-4f7b-80af-8d4569ce90b2.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.webp",
+      "intendedSavedPath": "public/images/words/4b/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.webp",
+      "generatedAt": "2026-10-19T01:18:04.616613+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "3a5db205b8db5e79403f90afe2fab9c46cac28878d2ba3ddfd049368f0a02776",
+      "bytes": 56108,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.webp",
+        "reason": "Actual image shows spring blossoms, rain and an umbrella beneath thirteen blank hanging tabs, with the fourth emphasized. Wrong annual tab count and spring associations do not uniquely identify 四月 without labels.",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Actual 640px inspection confirms exactly twelve separated calendar tiles and exactly fourth highlighted. Rainy tulip season supports spring, with no labels or digits. An ordered annual calendar fourth month plausibly conveys April; require independent check of directness at card size.",
+      "selfReviewedAt": "2026-10-19T01:19:06.739804+00:00",
+      "independentReviews": [
+        {
+          "senseId": "4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097",
+          "word": "April",
+          "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/4b084fa7e71caf613c049e69e5b01aa992c1bff837f662b273e2dcb3fe75f097.webp",
+          "decision": "defer",
+          "observations": "已实际查看640px图：木框挂着十二张细长四季风景页，第四张珊瑚框突出，画雨滴与红郁金香；前三张雪景，后面春花、晴夏、秋叶。无文字数字或月历日期格。",
+          "reason": "十二页与第四突出数量位置准确，但遮词直观首读春雨或郁金香。需先把风景条约定为从一月起算的十二个月再计数，缺少独立明确的四月锚点；April n.四月仍不能仅画面稳定理解。审核前已暴露映射，不声称盲审。",
+          "reviewedAt": "2026-10-19T01:25:53.608430+00:00",
+          "reviewer": "/root/disk_audit",
+          "evidencePath": "output/imagegen/batch-20261019-010356/root-independent-a.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Independent: 十二页与第四突出数量位置准确，但遮词直观首读春雨或郁金香。需先把风景条约定为从一月起算的十二个月再计数，缺少独立明确的四月锚点；April n.四月仍不能仅画面稳定理解。审核前已暴露映射，不声称盲审。"
+    },
+    {
+      "senseId": "6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d",
+      "wordId": "dict:june",
+      "sourceId": "dict:june",
+      "word": "June",
+      "pos": "n.",
+      "meaning": "六月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: ONE independent square vocabulary illustration for a small learning game card.\nExact target sense: June / n. / 六月.\nPrimary request: A wide open picture calendar shows exactly twelve equal blank month tiles arranged in one clear horizontal row. Group them by four season backgrounds, three tiles per season: winter snow, spring flowers, summer sun, autumn leaves. The sixth tile from the left is prominently raised and coral outlined, showing warm sunlight and strawberries. All twelve tiles fully visible and evenly separated, selected slot is exactly sixth; no dates, digits, text, extra pages, or extra tabs.\nStyle: hand-painted gouache with colored pencil texture on warm off-white paper. Center the semantic subject in the middle 75 percent with generous margins; soft natural lighting and restrained clear colors. Prioritize precise readable meaning over decoration.\nConstraints: One single image for this single sense. No letters, English or Chinese words, numerals, labels, logos, watermark, card UI, ornamental border or unrelated objects. Pictorial arrows and simple unlabeled relationship marks only where specified. Do not draw the target word or translation.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ac-a8da-7c70-9be6-36387a5f4773/exec-cf35156d-4e30-47e3-89e1-f91c69e5e891.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/root/source/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.webp",
+      "intendedSavedPath": "public/images/words/6a/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.webp",
+      "generatedAt": "2026-10-19T01:19:35.998856+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "fd0dd4236d3f0c68ca0abe0eab9ae55c1a8c6d9510fb9be02b68596129deafd8",
+      "bytes": 47408,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-root.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root/candidates/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.webp",
+        "reason": "Actual image shows a seasonal picture calendar, a summer landscape page and children leaving school. The selected sixth page cannot be reliably counted among overlapping leaves; 六月 is indistinguishable from summer or holidays without labels.",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Actual 640px image has exactly twelve visible separated month tiles and sixth outlined; strawberries and sun add early summer context. Calendar sixth month supports June without words; independent reviewer must confirm no excessive inference at small size.",
+      "selfReviewedAt": "2026-10-19T01:20:12.652944+00:00",
+      "independentReviews": [
+        {
+          "senseId": "6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d",
+          "word": "June",
+          "candidatePath": "output/imagegen/batch-20261019-010356/root/candidates/6ab18396856811e13bbc3c54603d549104d7ec52f4a7fdbf2d6b35d2fc4e754d.webp",
+          "decision": "defer",
+          "observations": "已实际查看640px图：横排木框四季图卡，依次雪松、枯树、雪山、粉花、郁金香、草莓太阳高亮、向日葵、海滩、橙树、红枫、黄林。可辨独立框共十一格，草莓太阳在第六格。无文字数字。",
+          "reason": "第六高亮位置吻合但全年序列仅十一格；海滩一格较宽却无分隔，不能当两个独立月份。遮词首读夏季草莓晴天，且月份映射需额外推断，June n.六月未准确直观表达，保留待复核。审核前已暴露映射，不声称盲审。",
+          "reviewedAt": "2026-10-19T01:26:40.501737+00:00",
+          "reviewer": "/root/disk_audit",
+          "evidencePath": "output/imagegen/batch-20261019-010356/root-independent-a.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Independent: 第六高亮位置吻合但全年序列仅十一格；海滩一格较宽却无分隔，不能当两个独立月份。遮词首读夏季草莓晴天，且月份映射需额外推断，June n.六月未准确直观表达，保留待复核。审核前已暴露映射，不声称盲审。"
+    }
+  ],
+  "failures": [],
+  "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+  "generationSummary": {
+    "requested": 15,
+    "generated": 15,
+    "approved": 2,
+    "deferred": 13,
+    "missingGeneration": 0
+  }
+}

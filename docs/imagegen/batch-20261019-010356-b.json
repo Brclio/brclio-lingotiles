@@ -1,0 +1,740 @@
+{
+  "runId": "20261019-010356",
+  "threadId": "01a151ac-a8da-7c70-9be6-36387a5f4773",
+  "startedAt": "2026-10-19T01:03:56.355803+00:00",
+  "batchPath": "output/imagegen/batch-20261019-010356",
+  "token": "a4bff2b1-ad1d-4c3a-923f-432124a1d912",
+  "batchId": "20261019-010356",
+  "group": "b",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "reviewed_with_semantic_deferrals",
+  "claimed": [
+    {
+      "senseId": "b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c",
+      "word": "Chinese",
+      "pos": "n.",
+      "meaning": "中文",
+      "desiredAssetPath": "public/images/words/b2/b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c.webp"
+    },
+    {
+      "senseId": "8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a",
+      "word": "august",
+      "pos": "n.",
+      "meaning": "八月",
+      "desiredAssetPath": "public/images/words/8d/8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a.webp"
+    },
+    {
+      "senseId": "6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a",
+      "word": "sweet",
+      "pos": "n.",
+      "meaning": "甜蜜",
+      "desiredAssetPath": "public/images/words/6a/6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a.webp"
+    },
+    {
+      "senseId": "cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c",
+      "word": "English",
+      "pos": "n.",
+      "meaning": "英语",
+      "desiredAssetPath": "public/images/words/cc/cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c.webp"
+    },
+    {
+      "senseId": "fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0",
+      "word": "cream",
+      "pos": "n.",
+      "meaning": "乳酪",
+      "desiredAssetPath": "public/images/words/fd/fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0.webp"
+    },
+    {
+      "senseId": "c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70",
+      "word": "yours",
+      "pos": "pron.",
+      "meaning": "你的",
+      "desiredAssetPath": "public/images/words/c5/c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70.webp"
+    },
+    {
+      "senseId": "64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a",
+      "word": "dear",
+      "pos": "n.",
+      "meaning": "亲爱的人",
+      "desiredAssetPath": "public/images/words/64/64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a.webp"
+    },
+    {
+      "senseId": "14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94",
+      "word": "uncle",
+      "pos": "n.",
+      "meaning": "叔父",
+      "desiredAssetPath": "public/images/words/14/14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94.webp"
+    },
+    {
+      "senseId": "2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68",
+      "word": "Tuesday",
+      "pos": "n.",
+      "meaning": "星期二",
+      "desiredAssetPath": "public/images/words/25/2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68.webp"
+    },
+    {
+      "senseId": "d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8",
+      "word": "aunt",
+      "pos": "n.",
+      "meaning": "阿姨",
+      "desiredAssetPath": "public/images/words/d5/d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8.webp"
+    },
+    {
+      "senseId": "ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226",
+      "word": "feet",
+      "pos": "n.",
+      "meaning": "尺",
+      "desiredAssetPath": "public/images/words/ff/ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226.webp"
+    },
+    {
+      "senseId": "f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604",
+      "word": "just",
+      "pos": "adv.",
+      "meaning": "刚刚",
+      "desiredAssetPath": "public/images/words/f4/f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604.webp"
+    },
+    {
+      "senseId": "46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9",
+      "word": "thing",
+      "pos": "n.",
+      "meaning": "事物",
+      "desiredAssetPath": "public/images/words/46/46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9.webp"
+    },
+    {
+      "senseId": "f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6",
+      "word": "even",
+      "pos": "adv.",
+      "meaning": "甚至",
+      "desiredAssetPath": "public/images/words/f1/f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6.webp"
+    },
+    {
+      "senseId": "324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8",
+      "word": "such",
+      "pos": "adj.",
+      "meaning": "如此的",
+      "desiredAssetPath": "public/images/words/32/324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8.webp"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c",
+      "wordId": "dict:chinese",
+      "sourceId": "dict:chinese",
+      "word": "Chinese",
+      "pos": "n.",
+      "meaning": "中文",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"Chinese\", \"pos\": \"n.\", \"meaning\": \"中文\"}.\nPrimary scene: A Chinese language speaking lesson, not calligraphy: two children listen and speak with a friendly adult in one simple interaction. Their empty rounded speech bubbles contain only a small accurate red silhouette of mainland China with a tiny five-star flag motif, never any writing or imitation strokes. Mouths visibly speaking, ears listening. Make the language association the subject rather than geography or decoration.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-1df49903-cac3-4bba-9f1f-3c995c4e56c2.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c.webp",
+      "intendedSavedPath": "public/images/words/b2/b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c.webp",
+      "generatedAt": "2026-10-19T01:09:04.435657+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "d04f8bc4b5a8cd6ed0df1d65c9bae5f39caeb0460ea25316ca180c1c4c8c7a66",
+      "bytes": 81066,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c.webp",
+        "reason": "已查看640px候选：师生对话、书本与毛笔砚台清楚，但书和气泡为仿字笔画。画面也可能是书法课、语言课，不能仅凭图排除日语等或稳定识别中文，待重做复核，不计完成。",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px候选：师生嘴部说话、交流手势明确，两个说话气泡直接包含中国轮廓与中国旗，组合指向说中文而非单独地理或书法，无字；初步通过，交独立审核判断语言符号是否足够直观。",
+      "selfReviewedAt": "2026-10-19T01:09:18.769428+00:00",
+      "independentReviews": [
+        {
+          "senseId": "b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c",
+          "word": "Chinese",
+          "group": "b",
+          "decision": "pass",
+          "observations": "Teacher and two children visibly converse; both spoken bubbles contain China map with Chinese flag motif, no words.",
+          "reason": "Spoken bubbles attach the China cue specifically to language being spoken; learning conversation scene makes 中文 the direct contextual reading.",
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-19T01:21:39.086Z",
+          "mappingExposure": "Task mapping already known; actual individual view, no blind claim",
+          "evidencePath": "output/imagegen/batch-20261019-010356/main-independent-reviews.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/b2/b212b0adfb88ae7e522ed45895434ccf52b2c3be8cb9b5b72c784871241f9e4c.webp",
+      "sha256": "d04f8bc4b5a8cd6ed0df1d65c9bae5f39caeb0460ea25316ca180c1c4c8c7a66",
+      "finalReviewNotes": "Teacher and two children visibly converse; both spoken bubbles contain China map with Chinese flag motif, no words. Spoken bubbles attach the China cue specifically to language being spoken; learning conversation scene makes 中文 the direct contextual reading."
+    },
+    {
+      "senseId": "cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c",
+      "wordId": "dict:english",
+      "sourceId": "dict:english",
+      "word": "English",
+      "pos": "n.",
+      "meaning": "英语",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"English\", \"pos\": \"n.\", \"meaning\": \"英语\"}.\nPrimary scene: An English-language conversation lesson, not geography: a child with an open mouth speaking and a friendly adult listening, then responding. Two empty rounded speech bubbles contain only a small clear Union Jack and a small clear United States flag as nonverbal language cues, both bubbles connected to the mouths. No words or imitation letters. Only a simple open blank book on the table; no globe.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-1d3beca0-45bb-4679-a09f-11f30260efef.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c.webp",
+      "intendedSavedPath": "public/images/words/cc/cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c.webp",
+      "generatedAt": "2026-10-19T01:11:46.226509+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "c3b1f52cb0ad4812791a25ad99cf7f429059503ebc3b655b686ddcab0d97c445",
+      "bytes": 75750,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c.webp",
+        "reason": "已查看640px候选：师生围书对话和地球仪能表达语言学习、口语或地理课，但声波气泡和英美地图不能独立证明英语这一具体语言。遮词仍不清楚，保留待复核。无可读文字。",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px：师生相向开口交谈，气泡含清晰英美两国旗，空白书本为语言课语境，无文字；可直接联想到说英语，初步通过并交独立复核。",
+      "selfReviewedAt": "2026-10-19T01:12:01.029706+00:00",
+      "independentReviews": [
+        {
+          "senseId": "cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c",
+          "word": "English",
+          "group": "b",
+          "decision": "pass",
+          "observations": "Child and teacher converse over a blank book; UK and US flags appear inside their speech bubbles.",
+          "reason": "Flags placed in actual speech bubbles link English-speaking countries to the spoken language, distinguishing 英语 from generic travel or national objects.",
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-19T01:21:39.089Z",
+          "mappingExposure": "Task mapping already known; actual individual view, no blind claim",
+          "evidencePath": "output/imagegen/batch-20261019-010356/main-independent-reviews.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/cc/cc7a7019916537fe886c272912d1f78cc031d932ee3a5bd37fc415f46f56883c.webp",
+      "sha256": "c3b1f52cb0ad4812791a25ad99cf7f429059503ebc3b655b686ddcab0d97c445",
+      "finalReviewNotes": "Child and teacher converse over a blank book; UK and US flags appear inside their speech bubbles. Flags placed in actual speech bubbles link English-speaking countries to the spoken language, distinguishing 英语 from generic travel or national objects."
+    },
+    {
+      "senseId": "2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68",
+      "wordId": "dict:tuesday",
+      "sourceId": "dict:tuesday",
+      "word": "Tuesday",
+      "pos": "n.",
+      "meaning": "星期二",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"Tuesday\", \"pos\": \"n.\", \"meaning\": \"星期二\"}.\nPrimary scene: A single seven-day week in one horizontal row of seven empty calendar pockets, the first five pockets each show the same small schoolhouse silhouette, the last two show a small home and resting pillow. The second pocket from the left is coral colored, enlarged and clearly pointed at by a child’s fingertip. All other pockets muted. A school week begins with its first schoolday, the second schoolday is highlighted. No letters, numerals, labels, date writing or other marks.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-95691733-1b96-4d2b-9d4c-25196fab0561.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68.webp",
+      "intendedSavedPath": "public/images/words/25/2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68.webp",
+      "generatedAt": "2026-10-19T01:16:54.314896+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "8e5787b407288d2d75be7a162e7039495a2148b9d53363235e84600807add776",
+      "bytes": 57822,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/c/candidates/2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68.webp",
+        "reason": "实际查看640px WebP：七个空白日格的第二格被手指指向且呈日出图案，排列与主体清楚，无文字；但没有周一起始证据，也可读为星期一或第二天、日出，无法唯一传达Tuesday星期二。保留待复核，不计完成。",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px：一周恰七格，前五格学校，最后两格居家休息，第二个学校日呈珊瑚色且被孩子指向；周一起始由连续五个上学日和末两天休息支持，无字，初步可识别星期二，交独立复核。",
+      "selfReviewedAt": "2026-10-19T01:17:12.186239+00:00",
+      "independentReviews": [
+        {
+          "senseId": "2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68",
+          "word": "Tuesday",
+          "group": "b",
+          "decision": "pass",
+          "observations": "Seven clearly separated week cards: five school days followed by home and pillow; second school day highlighted.",
+          "reason": "Complete five-school-day plus two-weekend-day sequence anchors Monday-first week; second weekday is Tuesday. All seven positions visibly correct, no text required.",
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-19T01:22:46.605Z",
+          "evidencePath": "output/imagegen/batch-20261019-010356/main-independent-reviews.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/25/2570af5135dc2c96c5b9395c7d1a957f017502b540a36ab193a3e588c37eab68.webp",
+      "sha256": "8e5787b407288d2d75be7a162e7039495a2148b9d53363235e84600807add776",
+      "finalReviewNotes": "Seven clearly separated week cards: five school days followed by home and pillow; second school day highlighted. Complete five-school-day plus two-weekend-day sequence anchors Monday-first week; second weekday is Tuesday. All seven positions visibly correct, no text required."
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a",
+      "wordId": "dict:august",
+      "sourceId": "dict:august",
+      "word": "august",
+      "pos": "n.",
+      "meaning": "八月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"august\", \"pos\": \"n.\", \"meaning\": \"八月\"}.\nPrimary scene: A single clear visual calendar of a complete year represented by a simple chain of exactly twelve blank monthly paper leaves. The eighth leaf is coral, larger and being turned forward by a hand; the seven preceding leaves are visibly folded back, four remaining leaves follow. A small ripe summer sunflower belongs only to the highlighted eighth month. No written numerals, no letter marks. The visual focus is the eighth month of a twelve-month year, not flowers.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-61ba3d52-b724-44e7-9070-0a889296036a.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a.webp",
+      "intendedSavedPath": "public/images/words/8d/8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a.webp",
+      "generatedAt": "2026-10-19T01:09:58.808893+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "15b4ee9e3f12849c3fe9838bb324ab33b574c022bf90ff9be8c16430df7fb0ce",
+      "bytes": 50204,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/8db724d8f262d1b094d1704204e55bc01cef8db0d6ca23855b189fc55d0d6e3a.webp",
+        "reason": "已查看640px候选：空白翻页台历有一页珊瑚色，旁为向日葵。即使按第八页约定数页，仍需额外解释才对应八月；只看主体更可能识别向日葵或夏季，不能直接识别august n.八月，待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：完整季节页链与突出向日葵页清楚，无字，但页数排序仍需逐页计数和约定，画面更直接表示夏季或向日葵；不能独立唯一识别八月，保留待复核，不计完成。",
+      "selfReviewedAt": "2026-10-19T01:10:09.671006+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：完整季节页链与突出向日葵页清楚，无字，但页数排序仍需逐页计数和约定，画面更直接表示夏季或向日葵；不能独立唯一识别八月，保留待复核，不计完成。"
+    },
+    {
+      "senseId": "6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a",
+      "wordId": "dict:sweet",
+      "sourceId": "dict:sweet",
+      "word": "sweet",
+      "pos": "n.",
+      "meaning": "甜蜜",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"sweet\", \"pos\": \"n.\", \"meaning\": \"甜蜜\"}.\nPrimary scene: The emotional noun sense of sweetness or tender happiness: a young adult rests affectionately against a beloved partner on a simple bench; both have soft delighted smiles and close trusting body language, one gently holds the other’s hands against their heart. The warmth and tenderness between two people is the visual subject, not candy, food, romance symbols or floating hearts.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-640e48a2-0377-48aa-ac87-640a70539d24.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a.webp",
+      "intendedSavedPath": "public/images/words/6a/6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a.webp",
+      "generatedAt": "2026-10-19T01:10:41.054938+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "1063a7b8812f79a7487905666b31ec735b6a4d8fb03c0183c8d4bc4330f481d0",
+      "bytes": 85424,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/6aded161e8c9689942ccb3ddd064ce41647e675d8af6060ca39ec2290dba725a.webp",
+        "reason": "已查看640px候选：母子相拥闭眼微笑，温柔幸福清楚；但更直接是拥抱、母爱或亲情，无法仅凭图稳定区分sweet n.甜蜜这一抽象名词，保留待复核。无文字。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：情侣相依、握手和微笑表达亲密与幸福，无字；但画面主体仍是情侣或相拥动作，抽象名词sweet n.甜蜜不能稳定单独辨识，保留待复核。",
+      "selfReviewedAt": "2026-10-19T01:10:55.281576+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：情侣相依、握手和微笑表达亲密与幸福，无字；但画面主体仍是情侣或相拥动作，抽象名词sweet n.甜蜜不能稳定单独辨识，保留待复核。"
+    },
+    {
+      "senseId": "fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0",
+      "wordId": "dict:cream",
+      "sourceId": "dict:cream",
+      "word": "cream",
+      "pos": "n.",
+      "meaning": "乳酪",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"cream\", \"pos\": \"n.\", \"meaning\": \"乳酪\"}.\nPrimary scene: Depict the supplied Chinese noun meaning dairy cheese (乳酪) literally: one recognizable pale golden cheese wheel with a clean wedge cut out and the wedge resting in front, creamy firm interior and a few natural small holes, a tiny plain milk jug behind as dairy context. Not whipped cream, not icing, not ice cream. The cheese is isolated and immediately identifiable. Semantic note for generation: the supplied English spelling is cream but this asset must portray the supplied Chinese sense 乳酪; do not put any text in the picture.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-08dd8ee9-33ee-46b2-98d3-b7459f492109.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0.webp",
+      "intendedSavedPath": "public/images/words/fd/fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0.webp",
+      "generatedAt": "2026-10-19T01:12:34.258147+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "cbebad9e78068acbdaa7e32df3e8ac3a58e03420de6fa11dc633c952b73f146a",
+      "bytes": 44684,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/fd67b4abd015235abb2f57faa21aaa578f37715559063052667362e5c8a367c0.webp",
+        "reason": "已查看640px候选：奶酪轮与带孔切块清楚表达乳酪，无文字。但英文cream与中文乳酪义项疑似词库错配，不能同时确认英文与中文对应，保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：带孔金黄乳酪轮、切块和牛奶壶清晰，无字，图像能表达乳酪；但cream通常对应奶油，当前英文中文配对不确定，无法确认两者同时正确，保留词义待复核，不计完成。",
+      "selfReviewedAt": "2026-10-19T01:12:45.112028+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：带孔金黄乳酪轮、切块和牛奶壶清晰，无字，图像能表达乳酪；但cream通常对应奶油，当前英文中文配对不确定，无法确认两者同时正确，保留词义待复核，不计完成。"
+    },
+    {
+      "senseId": "c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70",
+      "wordId": "dict:yours",
+      "sourceId": "dict:yours",
+      "word": "yours",
+      "pos": "pron.",
+      "meaning": "你的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"yours\", \"pos\": \"pron.\", \"meaning\": \"你的\"}.\nPrimary scene: Second-person possession shown from the viewer’s first-person viewpoint: a friendly child facing directly toward the viewer returns a distinctive coral backpack into the viewer’s outstretched hands. In the lower foreground, a matching coral small pouch is visibly attached to the viewer’s own jacket, and the bag’s shoulder strap is already around the viewer’s arm, making it their existing belonging being handed back. The child points to the viewer, not to their own chest. No gift wrap and no extra backpacks.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-355363e7-01f6-44fb-876e-e224f5c43f5a.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70.webp",
+      "intendedSavedPath": "public/images/words/c5/c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70.webp",
+      "generatedAt": "2026-10-19T01:13:30.912931+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "f15b68a54a5e7557e1ac8052b4073c1581d73b274884870b13f3beb1121f715e",
+      "bytes": 93096,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70.webp",
+        "reason": "已查看640px候选：第一视角递蓝书包并指向孩子，孩子触胸伸手，能表示归还或给你，也可表示他的、我的或礼物；孩子肩上另有背带增添歧义。第二人称所有关系yours pron.你的不能只凭图稳定确定，待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px：第一视角双手接住书包，包带已绕接收者手腕，同色小包固定在接收者衣袖，正面孩子明确指向观看者；同一物品归属和第二人称线索比单纯送礼更明确，无字，初步通过交独立复核。",
+      "selfReviewedAt": "2026-10-19T01:13:45.680136+00:00",
+      "independentReviews": [
+        {
+          "senseId": "c51434134ee204ea832255503db7f46c908252c42ce1fcdf28b619e10dc5cf70",
+          "word": "yours",
+          "group": "b",
+          "decision": "defer",
+          "observations": "Boy hands a red backpack toward first-person recipient and points to viewer.",
+          "reason": "Giving or receiving is direct; no evidence establishes prior ownership or yours as possession. Could equally mean give or take.",
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-19T01:22:46.605Z",
+          "evidencePath": "output/imagegen/batch-20261019-010356/main-independent-reviews.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Independent: Giving or receiving is direct; no evidence establishes prior ownership or yours as possession. Could equally mean give or take."
+    },
+    {
+      "senseId": "64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a",
+      "wordId": "dict:dear",
+      "sourceId": "dict:dear",
+      "word": "dear",
+      "pos": "n.",
+      "meaning": "亲爱的人",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"dear\", \"pos\": \"n.\", \"meaning\": \"亲爱的人\"}.\nPrimary scene: A cherished person, noun sense: an elderly woman smiles lovingly at her lifelong husband, who is the central clearly visible full person. She holds his hand close to her cheek; he looks warmly back with a familiar kind expression. Focus on the husband as a beloved person, with a natural tender couple interaction; no floating hearts, no text, no symbols and no food.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-a799d2d8-c963-481c-b848-8ecd2ad8195a.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a.webp",
+      "intendedSavedPath": "public/images/words/64/64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a.webp",
+      "generatedAt": "2026-10-19T01:14:50.507730+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "0cba74f00b7ef730eff51c80519058b1c72195d406a00677336e8eac4f0eaf02",
+      "bytes": 83166,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/64fe56bca4915d2ede36d4cb7528aca4a5b3e1aa9053290ab9f6d993d644a66a.webp",
+        "reason": "已查看640px候选：青年伴侣牵手、亲密微笑，亲爱关系可见；但图更直接表达情侣、爱人或牵手，未稳定将其中人物识别为dear n.亲爱的人，仍有名词指代歧义，保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：老年夫妻深情相视、握手贴面清楚，可理解相伴和亲爱；但没有稳定指定某一人为名词亲爱的人，画面首先是夫妻恩爱或牵手，保留待复核，不计完成。",
+      "selfReviewedAt": "2026-10-19T01:15:11.864170+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：老年夫妻深情相视、握手贴面清楚，可理解相伴和亲爱；但没有稳定指定某一人为名词亲爱的人，画面首先是夫妻恩爱或牵手，保留待复核，不计完成。"
+    },
+    {
+      "senseId": "14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94",
+      "wordId": "dict:uncle",
+      "sourceId": "dict:uncle",
+      "word": "uncle",
+      "pos": "n.",
+      "meaning": "叔父",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"uncle\", \"pos\": \"n.\", \"meaning\": \"叔父\"}.\nPrimary scene: A very clear three-generation family relationship illustration integrated as one hand-painted family tree, with no words. At top a pair of grandparents. A branching line connects them to two adult sons below: left son is visibly older and stands with his spouse; right son is visibly younger and alone, highlighted by a gentle coral halo behind his portrait. Only the older left son and spouse connect down to a small child. The child warmly waves toward the younger paternal brother. Keep all connections unambiguous and no crossed lines; show younger paternal uncle relation.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-f2203c93-d250-4757-a431-1ce2dea7ae04.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94.webp",
+      "intendedSavedPath": "public/images/words/14/14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94.webp",
+      "generatedAt": "2026-10-19T01:15:55.598259+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "dc5e06dd0ca68bbcd04c624e49d21ac81306122a70b743d1320d77ac254b61af",
+      "bytes": 48584,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/candidates/14a46d4eaa839cea7dcb6c9e78099d5504eea86923b6b4c97772a7f14b9a8f94.webp",
+        "reason": "已查看640px候选：三代关系树，祖辈连到两个成年男子，左侧夫妻连到孩子，孩子与右侧年轻男子招手，较直接提示叔伯关系。但父系连接和年龄只靠布局外貌推断，无法稳定排除伯父等，精确叔父仍待独立复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：祖辈分支连两名男子，左侧夫妻连孩子，右侧男子被高亮，叔伯关系较清楚；但父亲与叔父年龄外观近似，不能稳定确认父亲弟弟而排除伯父，精确叔父义仍待复核。",
+      "selfReviewedAt": "2026-10-19T01:16:11.600259+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：祖辈分支连两名男子，左侧夫妻连孩子，右侧男子被高亮，叔伯关系较清楚；但父亲与叔父年龄外观近似，不能稳定确认父亲弟弟而排除伯父，精确叔父义仍待复核。"
+    },
+    {
+      "senseId": "d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8",
+      "wordId": "dict:aunt",
+      "sourceId": "dict:aunt",
+      "word": "aunt",
+      "pos": "n.",
+      "meaning": "阿姨",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"aunt\", \"pos\": \"n.\", \"meaning\": \"阿姨\"}.\nPrimary scene: A very clear maternal-aunt family relationship as one simple hand-painted family tree, no words. Top: two grandparents together. One branching line connects them to two adult daughters with a clear family resemblance. Left daughter stands with her spouse; only this couple connects down to a small child. The right daughter is highlighted with a gentle coral halo, and she smiles and waves to the child, who reaches toward her. Show the mother’s sister relationship through clean unambiguous family lines, not just a random adult woman visiting.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-451b1eb0-140c-42ac-aba3-9fbbff798d1e.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8.webp",
+      "intendedSavedPath": "public/images/words/d5/d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8.webp",
+      "generatedAt": "2026-10-19T01:17:58.011406+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "8b2477841370f2841fb0e7804e9a3a09ce4c0b633de24fe9765e227721a1d669",
+      "bytes": 50080,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/c/candidates/d5b8cec5aca0154653170ab9266dd0b8228edaee61a04d2851f31203ce58a3b8.webp",
+        "reason": "实际查看640px WebP：老年女性、相貌相似的两名成年女性与孩子清楚，送玩具互动自然，无字；但图像没有确定母女及姐妹的关系结构，右侧女性仍可能是母亲、朋友或照护者，阿姨精确身份不能仅由画面确认。待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：三代家族关系和高亮成年女性清晰，但上方左分支箭头落在男子头顶，不能明确显示两姐妹，右侧可能是姑母；阿姨母系关系仍有歧义，保留待复核。",
+      "selfReviewedAt": "2026-10-19T01:18:18.838955+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：三代家族关系和高亮成年女性清晰，但上方左分支箭头落在男子头顶，不能明确显示两姐妹，右侧可能是姑母；阿姨母系关系仍有歧义，保留待复核。"
+    },
+    {
+      "senseId": "ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226",
+      "wordId": "dict:feet",
+      "sourceId": "dict:feet",
+      "word": "feet",
+      "pos": "n.",
+      "meaning": "尺",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"feet\", \"pos\": \"n.\", \"meaning\": \"尺\"}.\nPrimary scene: A carpentry length-measuring scene centered on a traditional folding rule made of three consecutive equal foot-length sections. Each section is subdivided into exactly twelve equal small intervals using thin tick marks only, with a distinct thicker boundary between sections; no printed numbers or letters. Rule laid straight against the edge of a wooden board, carpenter’s hands steady the ends. The measurement sections are the focus, not human feet or shoes; imperial feet unit, not metric centimeter subdivisions.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-83824563-d859-4311-aefa-1f5b20664dc3.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226.webp",
+      "intendedSavedPath": "public/images/words/ff/ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226.webp",
+      "generatedAt": "2026-10-19T01:19:06.920032+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "9ca0daf4482f986351c8025a1ef3b31ba68b57d0bb7646cad1b5044acae9a1e9",
+      "bytes": 85094,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/c/candidates/ffa344528efbedba14809b749dc53e1896dee38ce12b77b5ca5829032bfb6226.webp",
+        "reason": "实际查看640px：折叠尺分三段贴木板测长，测量动作清楚且无字；但刻度和段长没有可独立识别为英尺的依据，亦可表示厘米或普通尺，无法仅看图确认feet n.尺。保留待复核，不计完成。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：三段折叠木尺测木板，物体和动作清楚且无字；然而各段刻度不提供稳定十二英寸证据，仍只能读为尺子或测长，英尺单位feet不能直观区分，待复核。",
+      "selfReviewedAt": "2026-10-19T01:19:24.296416+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：三段折叠木尺测木板，物体和动作清楚且无字；然而各段刻度不提供稳定十二英寸证据，仍只能读为尺子或测长，英尺单位feet不能直观区分，待复核。"
+    },
+    {
+      "senseId": "f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604",
+      "wordId": "dict:just",
+      "sourceId": "dict:just",
+      "word": "just",
+      "pos": "adv.",
+      "meaning": "刚刚",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"just\", \"pos\": \"adv.\", \"meaning\": \"刚刚\"}.\nPrimary scene: Convey an event that has happened just a moment ago: a child has just stepped indoors out of heavy rain. The front door is still swinging shut directly behind them, fresh drops are still falling from the raincoat, a trail of fresh wet footprints leads from the doorway to their current position, and one hand has only just removed the dripping hood. Show the immediate aftermath and tiny elapsed time in one scene, not a long walk, no clocks or timelines or writing.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-ae1e7e4d-8f5a-42e2-ade9-11d146e86866.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604.webp",
+      "intendedSavedPath": "public/images/words/f4/f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604.webp",
+      "generatedAt": "2026-10-19T01:20:14.702679+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "c79cf5f6ab74b3ca4b81ca68eb993746515f82b0de5fbad994d04be78a53b773",
+      "bytes": 126184,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/c/candidates/f4e0aed67e4ba19e09b90f0354ed504d618411a69cd9222ff3cc593d28bdf604.webp",
+        "reason": "实际查看640px：孩子离开水洼、靴底滴水与新湿脚印清晰，无字；可读为踩水、脚印或刚走过，但画面主体仍是走路，时间副词just 刚刚不能仅由此明确区分。保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：孩子穿滴水雨衣进屋、门外下雨、脚印鲜湿，可推断刚进门；但主体仍是雨天进屋或湿衣，时间副词刚刚不能脱离推断单独明确，保留待复核。",
+      "selfReviewedAt": "2026-10-19T01:20:36.734485+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：孩子穿滴水雨衣进屋、门外下雨、脚印鲜湿，可推断刚进门；但主体仍是雨天进屋或湿衣，时间副词刚刚不能脱离推断单独明确，保留待复核。"
+    },
+    {
+      "senseId": "46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9",
+      "wordId": "dict:thing",
+      "sourceId": "dict:thing",
+      "word": "thing",
+      "pos": "n.",
+      "meaning": "事物",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"thing\", \"pos\": \"n.\", \"meaning\": \"事物\"}.\nPrimary scene: The broad noun thing, a tangible thing whose exact category is deliberately unimportant: a curious child picks up one unfamiliar but simple everyday object from a table, examines it with a puzzled neutral face and gestures toward it with the other hand. The object is a smooth small wooden tool with a handle and rounded end, clearly a real physical item yet not an obvious named toy or kitchen utensil. Isolate the tangible thing in focus, no question marks, no labels, no decorative icons.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-bcadab66-6d08-4b92-bce9-b46ed5f6f2fb.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9.webp",
+      "intendedSavedPath": "public/images/words/46/46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9.webp",
+      "generatedAt": "2026-10-19T01:21:45.129351+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "81774e31b70398b986fbb6b99d53a205d8d1b2b12a772131149d78762455aa22",
+      "bytes": 65758,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/c/candidates/46feeb09e549a37e35fd3ea78487010a9101824eae96e6a7791fb3cc566021c9.webp",
+        "reason": "实际查看640px：手掌呈示石头、木勺、编织球三件物体，无字且对象清楚；图可理解为几件东西，但广义thing事物的范围不明确，也可能只读为物品展示或选择，精确泛指义需解释，暂待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：孩子拿起木质圆头小物并疑惑观察，物体清楚且无字；画面更直接是木玩具、沙锤或好奇，泛指事物的名词概念没有可独立辨认线索，保留待复核。",
+      "selfReviewedAt": "2026-10-19T01:22:06.017427+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：孩子拿起木质圆头小物并疑惑观察，物体清楚且无字；画面更直接是木玩具、沙锤或好奇，泛指事物的名词概念没有可独立辨认线索，保留待复核。"
+    },
+    {
+      "senseId": "f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6",
+      "wordId": "dict:even",
+      "sourceId": "dict:even",
+      "word": "even",
+      "pos": "adv.",
+      "meaning": "甚至",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"even\", \"pos\": \"adv.\", \"meaning\": \"甚至\"}.\nPrimary scene: Unexpected inclusion at the extreme: on one small stage three older schoolchildren have already succeeded at lifting identical large light foam cubes above their heads. At the end of the same row an extremely small toddler also holds an identical cube above their head, while the other children look toward the toddler with visible surprise and delight. Make the repeated same successful action unmistakable and the tiny youngest child an unexpected additional participant. No superhero imagery and no text.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-c8764803-e64c-4b6d-a640-fcc77b0439c7.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6.webp",
+      "intendedSavedPath": "public/images/words/f1/f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6.webp",
+      "generatedAt": "2026-10-19T01:22:52.857855+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "ec6ebe203f8aa8fe57caf1eb30ed3caa7581c2cdc6b0a479cde6136f5243693e",
+      "bytes": 58654,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/c/candidates/f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6.webp",
+        "reason": "实际查看640px：幼童跨低木梁、年长孩子惊讶鼓励清楚，可表达小孩也能做到的惊讶；但不能确认较大孩子已做相同动作，画面首先读为迈过障碍或惊喜，even甚至的递进包含关系仍不明确。待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px：三名高个儿童与最小幼童均举起同类方块，其他儿童转看幼童并惊喜，幼童作为最小的意外包含者较明确；无字，能初步传达连幼童甚至也做到的递进，交独立复核。",
+      "selfReviewedAt": "2026-10-19T01:23:15.041990+00:00",
+      "independentReviews": [
+        {
+          "senseId": "f1ea106797ad0e70fc0608abbac5da2025635495bea84cf9b10989ebe60391b6",
+          "word": "even",
+          "group": "b",
+          "decision": "defer",
+          "observations": "Three older children and a toddler all lift cubes overhead; toddler cube is visibly smaller.",
+          "reason": "Group lifting is direct but no expectation, inclusion surprise or equivalent difficulty is established. Smaller cube weakens even-the-toddler contrast; exact 甚至 needs explanation.",
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-19T01:27:10.826Z",
+          "evidencePath": "output/imagegen/batch-20261019-010356/main-independent-reviews.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Independent: Group lifting is direct but no expectation, inclusion surprise or equivalent difficulty is established. Smaller cube weakens even-the-toddler contrast; exact 甚至 needs explanation."
+    },
+    {
+      "senseId": "324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8",
+      "wordId": "dict:such",
+      "sourceId": "dict:such",
+      "word": "such",
+      "pos": "adj.",
+      "meaning": "如此的",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary learning illustration.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, natural muted green, blue and coral. One clear subject or closely related scene, centered in middle 70 percent, generous empty space, clear at small card size.\nConstraints: no letters, numbers, written labels, fake writing, logos, watermarks, borders or card UI. No unrelated objects. Do not create a collage or multiple assets.\nExact target sense: {\"word\": \"such\", \"pos\": \"adj.\", \"meaning\": \"如此的\"}.\nPrimary scene: A demonstrated kind or degree, the adjective sense such or 如此的: a teacher holds up one elaborate coral paper crane as a concrete example, a child follows the teacher’s pointing hand and holds a newly folded crane of precisely the same shape and coral color. Several simple plain cranes at the edge provide a restrained contrast. Focus on the specific example being indicated and the matching quality of the child’s example, not merely the action of folding. No text, arrows, question marks or symbols.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151b0-aacf-7162-b626-6c62e39e9d89/exec-14f3c86c-fa27-44d3-8ad6-58588bde7762.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/b/source/324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/b/candidates/324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8.webp",
+      "intendedSavedPath": "public/images/words/32/324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8.webp",
+      "generatedAt": "2026-10-19T01:23:58.887401+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "cc1168783dfa072c0caa6cbd9dc4a55ad6923875680c4a6ebf188d144c20888c",
+      "bytes": 89812,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-c.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/c/candidates/324e66e643004e681f117fc7af7444eef0114a5bd601243a68970237480df7a8.webp",
+        "reason": "实际查看640px：巨大南瓜与小南瓜对比、孩子张臂惊叹直观，但画面直接读为很大或巨型，such adj.如此的所指程度关系没有可独立识别证据。待复核，不计完成。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px：老师指向红色纸鹤、孩子拿着同色相似纸鹤，无字；直接可读为折纸教学、同样或模仿，such adj.如此的的指示和程度关系仍需解释，保留待复核。",
+      "selfReviewedAt": "2026-10-19T01:24:26.330892+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px：老师指向红色纸鹤、孩子拿着同色相似纸鹤，无字；直接可读为折纸教学、同样或模仿，such adj.如此的的指示和程度关系仍需解释，保留待复核。"
+    }
+  ],
+  "failures": [],
+  "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+  "generationSummary": {
+    "requested": 15,
+    "generated": 15,
+    "approved": 3,
+    "deferred": 12,
+    "missingGeneration": 0
+  }
+}

@@ -1,0 +1,753 @@
+{
+  "runId": "20261019-010356",
+  "threadId": "01a151ac-a8da-7c70-9be6-36387a5f4773",
+  "startedAt": "2026-10-19T01:03:56.355803+00:00",
+  "batchPath": "output/imagegen/batch-20261019-010356",
+  "token": "a4bff2b1-ad1d-4c3a-923f-432124a1d912",
+  "batchId": "20261019-010356",
+  "group": "a",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "reviewed_with_semantic_deferrals",
+  "claimed": [
+    {
+      "senseId": "e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f",
+      "word": "march",
+      "pos": "n.",
+      "meaning": "三月",
+      "desiredAssetPath": "public/images/words/e1/e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f.webp"
+    },
+    {
+      "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+      "word": "nice",
+      "pos": "adj.",
+      "meaning": "美好的",
+      "desiredAssetPath": "public/images/words/d0/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp"
+    },
+    {
+      "senseId": "1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c",
+      "word": "please",
+      "pos": "adv.",
+      "meaning": "请",
+      "desiredAssetPath": "public/images/words/1a/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.webp"
+    },
+    {
+      "senseId": "97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c",
+      "word": "answer",
+      "pos": "n.",
+      "meaning": "答案",
+      "desiredAssetPath": "public/images/words/97/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp"
+    },
+    {
+      "senseId": "c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e",
+      "word": "July",
+      "pos": "n.",
+      "meaning": "七月",
+      "desiredAssetPath": "public/images/words/c8/c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e.webp"
+    },
+    {
+      "senseId": "a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8",
+      "word": "October",
+      "pos": "n.",
+      "meaning": "十月",
+      "desiredAssetPath": "public/images/words/a7/a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8.webp"
+    },
+    {
+      "senseId": "d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b",
+      "word": "September",
+      "pos": "n.",
+      "meaning": "九月",
+      "desiredAssetPath": "public/images/words/d7/d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b.webp"
+    },
+    {
+      "senseId": "53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961",
+      "word": "January",
+      "pos": "n.",
+      "meaning": "一月",
+      "desiredAssetPath": "public/images/words/53/53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961.webp"
+    },
+    {
+      "senseId": "dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182",
+      "word": "Sunday",
+      "pos": "n.",
+      "meaning": "星期日",
+      "desiredAssetPath": "public/images/words/df/dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182.webp"
+    },
+    {
+      "senseId": "abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00",
+      "word": "November",
+      "pos": "n.",
+      "meaning": "十一月",
+      "desiredAssetPath": "public/images/words/ab/abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00.webp"
+    },
+    {
+      "senseId": "7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a",
+      "word": "December",
+      "pos": "n.",
+      "meaning": "十二月",
+      "desiredAssetPath": "public/images/words/7c/7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a.webp"
+    },
+    {
+      "senseId": "bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32",
+      "word": "tomorrow",
+      "pos": "n.",
+      "meaning": "明天",
+      "desiredAssetPath": "public/images/words/bf/bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32.webp"
+    },
+    {
+      "senseId": "cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb",
+      "word": "Saturday",
+      "pos": "n.",
+      "meaning": "星期六",
+      "desiredAssetPath": "public/images/words/cb/cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb.webp"
+    },
+    {
+      "senseId": "bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806",
+      "word": "sentence",
+      "pos": "n.",
+      "meaning": "句子",
+      "desiredAssetPath": "public/images/words/bc/bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806.webp"
+    },
+    {
+      "senseId": "9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f",
+      "word": "February",
+      "pos": "n.",
+      "meaning": "二月",
+      "desiredAssetPath": "public/images/words/9d/9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f.webp"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+      "wordId": "dict:nice",
+      "sourceId": "dict:nice",
+      "word": "nice",
+      "pos": "adj.",
+      "meaning": "美好的",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"nice\",\"pos\":\"adj.\",\"meaning\":\"美好的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the visible quality lovely, pleasant, beautiful. A child and grandparent relax together on a bench beside a clear small pond in an inviting sunlit garden, a butterfly hovers by flowering plants, the child smiles peacefully and savors the lovely day. Soft comfortable sunshine, harmonious fresh colors, calm inviting space and visibly delighted faces create an unmistakably pleasant beautiful moment. Keep scene simple and appealing; do not make it an action of giving or merely an isolated object.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-831228a4-5759-4919-8f7c-1608bf986265.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+      "intendedSavedPath": "public/images/words/d0/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+      "generatedAt": "2026-10-19T01:09:08.001369+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "c2fca91f7eacbaabd498717aa39fff36dca7e580de1c8e395c152d048e34480e",
+      "bytes": 153300,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/a/candidates/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+        "reason": "恢复逐张查看640px候选：温暖阳光、繁花、清澈湖泊与悠闲赏景人物共同表现美好宜人的景色；遮词首读美好景致，与nice adj.美好的相符；无文字数字，留给主智能体独立复核。",
+        "independentReviews": [
+          {
+            "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+            "decision": "pass",
+            "notes": "Viewed actual 640px: serene sunlit lake, flowers, mountains and a relaxed couple; visually pleasant, beautiful and inviting with no contrary cues. This directly conveys the broad visible adjective 美好的 rather than an unrelated symbol.",
+            "evidencePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root-independent-a.json",
+            "reviewer": "root",
+            "reviewedAt": "2026-10-18T23:23:26.865487+00:00"
+          },
+          {
+            "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+            "word": "nice",
+            "pos": "adj.",
+            "meaning": "美好的",
+            "candidatePath": "output/imagegen/batch-20261018-130336/a/candidates/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+            "decision": "defer",
+            "reviewed": false,
+            "observations": "实际查看640px WebP：两人背对观者坐在长椅上，前方湖面、蓝天太阳、远山建筑，前景大量花卉、树木、石径与花架。画面平静漂亮，无文字数字。",
+            "semanticAssessment": "已知目标映射，非盲审。场景能传达宜人和美好感，但遮词后第一主体更像湖景、花园、风景或情侣休息；人物表情不可见，装饰花卉多，缺少把形容词性质从具体风景中清楚凸显的线索。nice adj.美好的仍可能需提示才能确定，按含糊保留待复核。",
+            "evidencePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/b/a-extra-independent-review.json",
+            "reviewer": "/root/generate_b",
+            "reviewedAt": "2026-10-18T23:27:36.650493+00:00"
+          }
+        ]
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px图：祖孙在花园长椅相视微笑，蝴蝶、鲜花、清澈荷塘与柔和阳光组成宜人美好的日常一刻；遮词可直接感知美好宜人的质量，符合nice adj.美好的。无可读文字数字；交主智能体复核。",
+      "selfReviewedAt": "2026-10-19T01:09:22.961351+00:00",
+      "independentReviews": [
+        {
+          "senseId": "d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b",
+          "word": "nice",
+          "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+          "decision": "pass",
+          "observations": "实际查看640px：花园盛开、清澈池水、蝴蝶和树荫中，祖孙在长椅上相依微笑，画面整体舒适、愉快而美好，无文字。",
+          "reason": "环境和人物体验共同呈现美好的可见状态，适合作为nice adj.美好的的具体场景；没有不一致义项。",
+          "reviewer": "generate_b independent visual review; saw candidate before exact sense comparison; not blind review",
+          "reviewedAt": "2026-10-19T01:26:39.143468+00:00",
+          "evidencePath": "output/imagegen/batch-20261019-010356/a-independent-b.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/d0/d06a1d65a896eec1a4344693ea1298789b9e63c92716e70604e9b3ba8e05450b.webp",
+      "sha256": "c2fca91f7eacbaabd498717aa39fff36dca7e580de1c8e395c152d048e34480e",
+      "finalReviewNotes": "实际查看640px：花园盛开、清澈池水、蝴蝶和树荫中，祖孙在长椅上相依微笑，画面整体舒适、愉快而美好，无文字。 环境和人物体验共同呈现美好的可见状态，适合作为nice adj.美好的的具体场景；没有不一致义项。"
+    },
+    {
+      "senseId": "97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c",
+      "wordId": "dict:answer",
+      "sourceId": "dict:answer",
+      "word": "answer",
+      "pos": "n.",
+      "meaning": "答案",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"answer\",\"pos\":\"n.\",\"meaning\":\"答案\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the correct answer to a clear visual question. A teacher presents a plain board with a simple black silhouette of a recognizable rabbit. Three real animal figurines, a rabbit, a duck and a fish, sit on a table. A child confidently lifts the matching rabbit figurine and points it toward the exact matching silhouette while teacher nods approval. The uniquely correct match is foreground and coral highlighted, alternatives remain visible in muted color. No question marks, checkmarks, letters or numbers. Clear solved-question relationship rather than mere play with toys.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-d3b3c4b9-bc18-4c85-ad96-86d7b40e4f51.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp",
+      "intendedSavedPath": "public/images/words/97/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp",
+      "generatedAt": "2026-10-19T01:10:39.143337+00:00",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "27d940c774c9f64632d438c3f1cfb33af1b1ed1ee0c869955e823a423a34510d",
+      "bytes": 64976,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp",
+        "reason": "逐张查看640px成图：拼板仅余星形缺口，孩子持唯一吻合星形片，其他位置均完成；遮词可读出这个问题的正确解答，对应answer n.答案。无文字数字，提交独立复核判断是否足够直接。",
+        "independentReviews": [
+          {
+            "senseId": "97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c",
+            "decision": "defer",
+            "notes": "Viewed actual 640px: child puts a star into its matching puzzle cutout. A correct fit is clear; primary reading is puzzle, matching or shape, and the noun 答案 is indirect without an identifiable question.",
+            "evidencePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root-independent-a.json",
+            "reviewer": "root",
+            "reviewedAt": "2026-10-18T23:23:26.865487+00:00"
+          }
+        ]
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px图：老师出示兔子轮廓题，孩子从兔鸭鱼候选中举起与轮廓一致的兔子，老师竖拇指认可。可见题目与唯一正确所选对象的关系，答案以名词对象呈现；无文字数字，交独立复核其抽象义明确度。",
+      "selfReviewedAt": "2026-10-19T01:10:56.498668+00:00",
+      "independentReviews": [
+        {
+          "senseId": "97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c",
+          "word": "answer",
+          "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp",
+          "decision": "pass",
+          "observations": "实际查看640px：白板给出兔子剪影，桌上有鸭鱼选项，孩子举起对应兔子，老师微笑竖拇指，无文字。",
+          "reason": "给定题目、多个候选与被确认的正确选择均可见，直接支持答案这一名词义，而不只是兔子展示或泛泛回答动作。",
+          "reviewer": "generate_b independent visual review; saw candidate before exact sense comparison; not blind review",
+          "reviewedAt": "2026-10-19T01:26:39.143908+00:00",
+          "evidencePath": "output/imagegen/batch-20261019-010356/a-independent-b.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "savedPath": "public/images/words/97/97dfb6437a9d43d458948218a09bb0ef7bf2a4630e6b8933e50cd6cdd9b9ee7c.webp",
+      "sha256": "27d940c774c9f64632d438c3f1cfb33af1b1ed1ee0c869955e823a423a34510d",
+      "finalReviewNotes": "实际查看640px：白板给出兔子剪影，桌上有鸭鱼选项，孩子举起对应兔子，老师微笑竖拇指，无文字。 给定题目、多个候选与被确认的正确选择均可见，直接支持答案这一名词义，而不只是兔子展示或泛泛回答动作。"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f",
+      "wordId": "dict:march",
+      "sourceId": "dict:march",
+      "word": "march",
+      "pos": "n.",
+      "meaning": "三月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"march\",\"pos\":\"n.\",\"meaning\":\"三月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the third month of a complete year. A large physical annual calendar dominates, formed from exactly twelve miniature monthly calendar leaves arranged in a clear left-to-right continuous row, with a quiet seasonal panorama behind: winter snow at the beginning, spring blossoms, summer green, autumn leaves, returning snow at the end. Each leaf has a tiny blank date grid. Exactly the THIRD leaf is lifted forward and brightly coral, all other leaves muted gray. Directly below this highlighted third month a close-up branch of pale pink early spring blossom and thawing snow. The beginning of the annual row has a small New Year party hat, the end has a snowy decorated fir tree; these anchor the year visually. No text, letters, numerals, labels, or written marks. Entire twelve-month sequence clearly legible and count accurate; emphasize the highlighted third month, not a general garden scene.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-ca31b400-a941-4ba0-810e-03b947e3587f.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f.webp",
+      "intendedSavedPath": "public/images/words/e1/e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f.webp",
+      "generatedAt": "2026-10-19T01:08:21.099767+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "a7b201ab30f7909983ccd41d71584253812d9e4b0ff516cf696ab74a80da0d48",
+      "bytes": 104684,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/a/candidates/e1dc750ffa725bb182f75097742ebc6b490c21cc51c80d7317525480f3a2d39f.webp",
+        "reason": "恢复逐张查看640px候选：早春番红花和融雪可识别，顶部共有13枚页签不是12个月，空白月历无法唯一确认三月；保留待复核，未重新生成。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：十二本空白月历按四季排成行，第三本突出，前景早春花枝与融雪。第三个月可经计数和全年顺序推断，但遮词首读早春与月历，仍依赖额外约定才识别三月，保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:08:40.736461+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：十二本空白月历按四季排成行，第三本突出，前景早春花枝与融雪。第三个月可经计数和全年顺序推断，但遮词首读早春与月历，仍依赖额外约定才识别三月，保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c",
+      "wordId": "dict:please",
+      "sourceId": "dict:please",
+      "word": "please",
+      "pos": "adv.",
+      "meaning": "请",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"please\",\"pos\":\"adv.\",\"meaning\":\"请\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict a polite request before receiving anything. A small child faces a parent at a dining table, holding an empty drinking cup toward the parent while tilting head gently, smiling modestly, and keeping the free hand over the chest in a respectful requesting gesture. The parent holds a water pitcher but has not poured yet, listening to the child. Body language must express asking politely, not demanding, thanking, or offering a drink. Closely connect request, cup, and water without speech bubbles or any words.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-828c6dbc-64db-4ba1-8018-693e17658188.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.webp",
+      "intendedSavedPath": "public/images/words/1a/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.webp",
+      "generatedAt": "2026-10-19T01:09:55.765260+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "4c4b9f316859d3b42fbfd47a3b77f677ec53db1a0bd503feb8ba029770e5f11f",
+      "bytes": 77682,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.webp",
+        "reason": "逐张查看640px实际WebP：孩子看向持水壶的成人，空杯明确请求对象；掌心向上、另一手贴胸与礼貌倾身表现请的语气，画面并未开始倒水或感谢。遮词可读礼貌请求，请；无文字数字，待独立复核。",
+        "independentReviews": [
+          {
+            "senseId": "1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c",
+            "decision": "defer",
+            "notes": "Viewed actual 640px: child gestures toward an adult holding water; requesting a drink is possible, but the spoken politeness marker 请 cannot be inferred independently from asking or wanting water.",
+            "evidencePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/root-independent-a.json",
+            "reviewer": "root",
+            "reviewedAt": "2026-10-18T23:23:26.865487+00:00"
+          }
+        ]
+      },
+      "generatorDecision": "pass",
+      "selfReviewNotes": "实际查看640px图：孩子一手把空杯递向持水壶的母亲，另一手贴胸，抬头温和微笑，母亲尚未倒水；主体动作清楚表现礼貌请求，请，而非索取后感谢。无文字数字，提交独立复核。",
+      "selfReviewedAt": "2026-10-19T01:10:11.740996+00:00",
+      "independentReviews": [
+        {
+          "senseId": "1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c",
+          "word": "please",
+          "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/1a4537ffdd5377e9860174a647977088593a09ec577a620dbdb8733a8a7be53c.webp",
+          "decision": "defer",
+          "observations": "实际查看640px：孩子一手触胸，一手递出空玻璃杯，微笑看向拿水壶的成人，无文字。",
+          "reason": "画面能看出请求加水或口渴，但触胸微笑不足以稳定区别礼貌标记请与普通请求；please adv.请仍依赖补充语言解释，保留待复核。",
+          "reviewer": "generate_b independent visual review; saw candidate before exact sense comparison; not blind review",
+          "reviewedAt": "2026-10-19T01:26:39.143905+00:00",
+          "evidencePath": "output/imagegen/batch-20261019-010356/a-independent-b.json"
+        }
+      ],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Independent: 画面能看出请求加水或口渴，但触胸微笑不足以稳定区别礼貌标记请与普通请求；please adv.请仍依赖补充语言解释，保留待复核。"
+    },
+    {
+      "senseId": "c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e",
+      "wordId": "dict:july",
+      "sourceId": "dict:july",
+      "word": "July",
+      "pos": "n.",
+      "meaning": "七月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"July\",\"pos\":\"n.\",\"meaning\":\"七月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the seventh month of a complete year. A large physical annual calendar dominates, exactly twelve miniature monthly calendar leaves in a single left-to-right row. Behind them a continuous seasonal panorama changes from winter snow through spring blossoms, summer beach and autumn leaves back to winter snow. Exactly the SEVENTH leaf projects forward in bright coral, with a tiny blank date grid; all eleven others muted. Beneath this highlighted seventh month: bright midsummer beach, child in straw hat eating watermelon beside a shallow blue sea. First end anchored by small new-year party hat, last end by snowy decorated fir. Accurate twelve leaves, clearly seventh highlighted. No text, letters or numerals anywhere.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-46cf63a8-913b-4adf-a24e-9dd1a8cbe9e4.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e.webp",
+      "intendedSavedPath": "public/images/words/c8/c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e.webp",
+      "generatedAt": "2026-10-19T01:11:30.392348+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "47014838c2ff2c62f448da29f71594f8dc36b90b79fd3e9d56f6b5b7fa4fe67a",
+      "bytes": 126590,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/c890c3f4372f5f53372ab637abbffee0a21bc83b54513b5c475a33a9539a3f1e.webp",
+        "reason": "逐张查看640px成图：海滩烈日西瓜与孩子玩水首先表达夏季；顶部实际13枚页签，虽第七突出也非12个月结构。31空格月历没有日期锚点，不能仅图唯一确定七月。无文字数字，待复核，不计完成。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：孩子夏日海滩吃西瓜，顶部年度月历中第七页突出，但实际13个月页而非12。主读为夏季海滩，不足以独立确认July n.七月；保留语义修改。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:12:00.379468+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：孩子夏日海滩吃西瓜，顶部年度月历中第七页突出，但实际13个月页而非12。主读为夏季海滩，不足以独立确认July n.七月；保留语义修改。无文字数字。"
+    },
+    {
+      "senseId": "a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8",
+      "wordId": "dict:october",
+      "sourceId": "dict:october",
+      "word": "October",
+      "pos": "n.",
+      "meaning": "十月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"October\",\"pos\":\"n.\",\"meaning\":\"十月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the tenth month of a complete year. A large physical annual calendar dominates, exactly twelve miniature monthly calendar leaves in a single left-to-right row. A continuous quiet seasonal panorama changes from winter snow through spring blossoms and summer green to autumn leaves and winter again. Exactly the TENTH leaf projects forward in bright coral, all others muted. Below this highlighted tenth month: orange maple leaves, ripe pumpkin and a carved jack-o-lantern with a simple face on an autumn doorstep. First end anchored by small new-year party hat, last end by snowy decorated fir. Count exactly twelve leaves, highlight tenth. No text, numerals or lettering.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-03ad6339-1413-42d9-b726-535b88d76d51.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8.webp",
+      "intendedSavedPath": "public/images/words/a7/a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8.webp",
+      "generatedAt": "2026-10-19T01:12:32.740394+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "f0cf86aaf044a8467362d28b95b433d20e04dab39d7a64cc52011418221804d2",
+      "bytes": 113918,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/a70dde7f069fd4b518fa5f180e185ff28ff6ece8e8afb297818b3598331cc4c8.webp",
+        "reason": "逐张查看640px成图：秋叶南瓜与山林明确表现秋季，12枚页签第10枚突出，月历似31空格；但必须先假定页签代表从一月排序的全年再计数，遮词首读秋天而非十月，未直观唯一表达October n.十月。无文字数字，待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：秋枫、南瓜灯与全年挂历，突出页前有十页且后有两页，共13页，位置也非第十。遮词首先为万圣节或秋天，不能准确确认October n.十月，保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:12:49.549001+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：秋枫、南瓜灯与全年挂历，突出页前有十页且后有两页，共13页，位置也非第十。遮词首先为万圣节或秋天，不能准确确认October n.十月，保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b",
+      "wordId": "dict:september",
+      "sourceId": "dict:september",
+      "word": "September",
+      "pos": "n.",
+      "meaning": "九月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"September\",\"pos\":\"n.\",\"meaning\":\"九月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the ninth month of a complete year. A large physical annual calendar dominates, exactly twelve miniature monthly calendar leaves in a single left-to-right row. Behind them a continuous quiet seasonal panorama goes from winter snow through spring flowers, summer green, autumn leaves and winter snow. Exactly the NINTH leaf projects forward bright coral, all others muted. Directly below highlighted ninth leaf: a child carrying a new school bag enters a school gate beneath first golden autumn leaves. The complete annual sequence must remain dominant. Start anchored by New Year party hat, end by snowy decorated fir tree. Exactly twelve leaves and ninth highlighted. No letters, numbers, writing.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-91150c1f-9d76-46d4-9605-5be711c6827b.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b.webp",
+      "intendedSavedPath": "public/images/words/d7/d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b.webp",
+      "generatedAt": "2026-10-19T01:13:17.666681+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "b9c62ab359a008fd8ea091620de6888b5bb491c914a837fff708848dcb001d4e",
+      "bytes": 116046,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/d723e805fe26837383f3acfb10062e2cc78d16b239186db8534c9be019b4c59b.webp",
+        "reason": "逐张查看640px成图：孩子背包进校与初秋叶色首读上学或开学；顶部13枚页签非12个月，空日历仅四行七列非30天。无法仅图确定September n.九月；无文字数字，保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：十二张四季图页第九张突出，女孩背包入校，秋色明确；各页无可辨月历结构，遮词主读开学或秋天，九月需先把图页约定为月份再计数，未能直接确认September n.九月。保留语义修改，无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:13:36.412272+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：十二张四季图页第九张突出，女孩背包入校，秋色明确；各页无可辨月历结构，遮词主读开学或秋天，九月需先把图页约定为月份再计数，未能直接确认September n.九月。保留语义修改，无文字数字。"
+    },
+    {
+      "senseId": "53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961",
+      "wordId": "dict:january",
+      "sourceId": "dict:january",
+      "word": "January",
+      "pos": "n.",
+      "meaning": "一月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"January\",\"pos\":\"n.\",\"meaning\":\"一月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the FIRST month of a new complete year. The large fresh annual calendar is the dominant object, exactly twelve miniature monthly calendar leaves in a single left-to-right row; the FIRST leaf is lifted forward bright coral while the remaining eleven are muted. A discarded old yearly calendar is visibly rolled up at the lower left, and a small party hat with a few confetti shapes plus a snowy window establishes a new year starting. Behind the annual row a continuous seasonal panorama moves from winter snow through spring flowers, summer, autumn leaves and returns to winter, establishing the whole year. Every date square empty; no text, numerals, lettering or labels.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-7c88a1f6-8049-4158-993d-6eaa212ba188.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961.webp",
+      "intendedSavedPath": "public/images/words/53/53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961.webp",
+      "generatedAt": "2026-10-19T01:14:16.855999+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "cf77042ba643ce86324b022d9f24a27d7752c207dd4cf2a57993041ecfb5a6d8",
+      "bytes": 130208,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/53d1c7af096104fa997ad3c49ff6a8ff330340346f2216fe9065f9cbe9d0e961.webp",
+        "reason": "逐张查看640px实际成图：冬雪窗景与持新台历儿童首读冬季；12枚页签第一突出，31空格月历存在，但须假定页签为月份再推理，不能仅画面独立确定January n.一月。无文字数字，保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：雪窗、庆祝帽和丢弃旧历，年历第一张突出，能读新年开始；实际有13张月页，首张日期为28格而非一月31天。新年或冬季不等于January n.一月，保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:14:38.721168+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：雪窗、庆祝帽和丢弃旧历，年历第一张突出，能读新年开始；实际有13张月页，首张日期为28格而非一月31天。新年或冬季不等于January n.一月，保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182",
+      "wordId": "dict:sunday",
+      "sourceId": "dict:sunday",
+      "word": "Sunday",
+      "pos": "n.",
+      "meaning": "星期日",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"Sunday\",\"pos\":\"n.\",\"meaning\":\"星期日\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict Sunday as the final restful day in a recognizable weekly school schedule. A physical blank seven-column weekly calendar dominates, its first five columns carry school bag miniatures, the sixth has a soccer ball, and exactly the SEVENTH final column is pulled forward and warm coral. Beneath that final day a family has a leisurely morning breakfast together while a schoolbag and neatly prepared school uniform wait nearby for the next morning. A small church in the distant outdoor view offers a secondary Sunday clue. Exactly seven columns, first five workdays then two rest days; no letters, numbers, labels or religious text.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-87a48f74-eeda-4e97-8d7f-5f95626f1877.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182.webp",
+      "intendedSavedPath": "public/images/words/df/dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182.webp",
+      "generatedAt": "2026-10-19T01:15:16.849203+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "c4ebeeb0fe811087627edea67c39d7a213c4a290ab51bb23a5822ed4066e1967",
+      "bytes": 113526,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/dff6ee1c4d2c76b5d48fd31b49f112a6e168459fe0845611e5034340b29c3182.webp",
+        "reason": "逐张查看640px实际图：七列周结构、前五书包、第六足球、第七家庭早餐且突出，画面关系清楚；但需预设一周从周一开始和五日学制，遮词首读家庭早餐或周末，无法无解释唯一识别Sunday n.星期日。无文字数字，待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：七列周表前五书包、第六球、第七太阳高亮；家庭早餐，椅上待用校服书包，窗外教堂。能辨周末休息，仍需约定周一起算才能映射Sunday n.星期日，太阳和教堂均不能唯一证明具体星期；保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:15:42.076402+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：七列周表前五书包、第六球、第七太阳高亮；家庭早餐，椅上待用校服书包，窗外教堂。能辨周末休息，仍需约定周一起算才能映射Sunday n.星期日，太阳和教堂均不能唯一证明具体星期；保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00",
+      "wordId": "dict:november",
+      "sourceId": "dict:november",
+      "word": "November",
+      "pos": "n.",
+      "meaning": "十一月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"November\",\"pos\":\"n.\",\"meaning\":\"十一月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the eleventh month of a complete year. A physical annual calendar dominates, exactly twelve miniature monthly calendar leaves in one left-to-right row over a continuous seasonal panorama winter snow, spring blossoms, summer green, autumn leaves and winter again. Exactly the ELEVENTH leaf is lifted forward bright coral, all others muted; only one month remains after it. Beneath this highlighted eleventh month: a late-autumn family meal with roast turkey, orange pumpkins and golden fallen leaves outside a frosty window. The meal is a secondary clue, the year and penultimate month are primary. Start anchored by party hat, end by decorated snowy fir. Exactly twelve leaves. No text, numbers or labels.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-2a3e74d7-0a0a-46d9-9f51-4bb6642ab039.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00.webp",
+      "intendedSavedPath": "public/images/words/ab/abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00.webp",
+      "generatedAt": "2026-10-19T01:16:16.930629+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "f7e3e5311b483b9fef1dbb1f52c8ac2ed3d561675d627f1a3267638bb23e8998",
+      "bytes": 142384,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/abf0774d78857affd3135a068424b154c19198fe05bfbe94a0e4603bfe4cfc00.webp",
+        "reason": "逐张查看640px实际图：霜地枯枝落叶首先表达晚秋初冬；12枚页签第11枚突出，月历实际四行七列28格非30天。不能无文字独立确认November n.十一月，保留待复核；无文字数字。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：一家人吃烤火鸡，南瓜与霜窗表现感恩节或晚秋；年度图条实际13页，突出倒数第二页却为第十二，不是十一月。精确November n.十一月无法仅凭图稳定识别；无文字数字，保留待复核。",
+      "selfReviewedAt": "2026-10-19T01:17:04.945911+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：一家人吃烤火鸡，南瓜与霜窗表现感恩节或晚秋；年度图条实际13页，突出倒数第二页却为第十二，不是十一月。精确November n.十一月无法仅凭图稳定识别；无文字数字，保留待复核。"
+    },
+    {
+      "senseId": "7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a",
+      "wordId": "dict:december",
+      "sourceId": "dict:december",
+      "word": "December",
+      "pos": "n.",
+      "meaning": "十二月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"December\",\"pos\":\"n.\",\"meaning\":\"十二月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the LAST month of a complete year. A large physical annual calendar dominates: exactly twelve miniature monthly calendar leaves in a continuous left-to-right row; the final TWELFTH leaf is lifted forward bright coral, all earlier leaves faded. A continuous seasonal panorama behind the row passes from snowy New Year beginning, to spring flowers, summer green, autumn gold, and snowy winter at the final month. Directly beneath highlighted last leaf: an outdoor decorated evergreen tree, a wrapped present and softly falling snow, establishing year-end Christmas season. Every date grid blank; no text, numerals, labels, logos, written marks.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-59e1d18e-2037-4752-ac14-6b740a60e1df.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a.webp",
+      "intendedSavedPath": "public/images/words/7c/7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a.webp",
+      "generatedAt": "2026-10-19T01:17:40.720004+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "56fd7c9d3e2d91397ccfd418b685479ce1982cae6a5ae99de209986a2fe52b70",
+      "bytes": 107438,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/7cc069045f8e7430ca00ec32a6673fdfb2e189d6d4f8b115bbaec1400e417c8a.webp",
+        "reason": "逐张查看640px实际图：雪夜常青树装饰与窗内灯光首先表示冬季或圣诞节，顶部实际13枚页签非12个月；空白日期无法独立证明十二月。December n.十二月未准确表达，无文字数字，保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：四季长景下最后月页突出，雪地圣诞树与礼物明确；实际13页且无日期标识，遮词首读圣诞节或冬季，全年结束也无法唯一确定December n.十二月；保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:18:08.802686+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：四季长景下最后月页突出，雪地圣诞树与礼物明确；实际13页且无日期标识，遮词首读圣诞节或冬季，全年结束也无法唯一确定December n.十二月；保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32",
+      "wordId": "dict:tomorrow",
+      "sourceId": "dict:tomorrow",
+      "word": "tomorrow",
+      "pos": "n.",
+      "meaning": "明天",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"tomorrow\",\"pos\":\"n.\",\"meaning\":\"明天\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the very next day after tonight in ONE connected scene, not separate panels. Foreground left: a child in pajamas at bedtime sits on bed, hands together ready to sleep, beside a dark window with crescent moon. The bed and room continue seamlessly across the scene into the bright next morning on the right, where the SAME child now dressed is stepping out toward a rising sun with a prepared schoolbag. A single broad gentle curved transition arc follows the moon setting across sleeping child to sunrise, showing exactly one sleep-night before the next morning. The future right half is coral bright while bedtime remains blue muted. No thought bubble, calendar, writing, numbers or clock numerals.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-da52be99-85cd-46d1-a5e6-46a74195b189.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32.webp",
+      "intendedSavedPath": "public/images/words/bf/bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32.webp",
+      "generatedAt": "2026-10-19T01:18:48.455040+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "d41ae2c9046dbc5bdd70e84150ef22065f650a06449b9f3f1aa969d92e768217",
+      "bytes": 101194,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/bf9d36b28abb6ab1572baa61e2c11569ea6bf8565055ed72dab757e0a68b8c32.webp",
+        "reason": "逐张查看640px实际图：夜晚孩子准备野餐篮，思想泡泡中同一孩子在日出时出门，有现在夜晚与未来白天的关系；仍可解释为计划野餐或憧憬，不能独立确认恰是次日而非更远将来。tomorrow n.明天保留待复核；无文字数字。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：同一孩子左侧月夜入睡，右侧日出背包上学，以弧形连接夜晚到早晨。直接可读一夜之后的早晨，但仍可解日常作息或起床上学，缺少相对于今天的明天定位，tomorrow n.明天保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:19:13.882344+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：同一孩子左侧月夜入睡，右侧日出背包上学，以弧形连接夜晚到早晨。直接可读一夜之后的早晨，但仍可解日常作息或起床上学，缺少相对于今天的明天定位，tomorrow n.明天保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb",
+      "wordId": "dict:saturday",
+      "sourceId": "dict:saturday",
+      "word": "Saturday",
+      "pos": "n.",
+      "meaning": "星期六",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"Saturday\",\"pos\":\"n.\",\"meaning\":\"星期六\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict Saturday as the first resting day after five school days. A physical blank seven-column weekly calendar dominates. First five columns each have a schoolbag miniature, sixth has a soccer ball and is lifted forward warm coral, seventh remains muted with a breakfast bowl. Directly below the highlighted SIXTH day a child joyfully puts schoolbag in a cupboard and takes a soccer ball toward a sunny park; no school uniform worn. A clearly finished line of five school days lies to left, one final rest day remains to right. Exactly seven columns. No letters, numbers, writing or labels.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-94fc6ffa-76c6-4ba2-8637-2f2d9ca49210.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb.webp",
+      "intendedSavedPath": "public/images/words/cb/cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb.webp",
+      "generatedAt": "2026-10-19T01:19:49.107980+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "b3f920c9deafa6076c00e81d75452e495972b8aa2a000cf756c72c25fb70c21c",
+      "bytes": 102002,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/cbc83ddebb804cd3c73b3801af1dddd3a3db0af50958d88d98476cfb632d8bbb.webp",
+        "reason": "逐张查看640px实际图：七列里前五书包、第六足球突出、第七早餐碗，孩子放包拿球出门，体现上学后休息玩球；仍须预设周一为首日及五日学制，遮词首读周末或踢球，不能无解释唯一确定Saturday n.星期六。无文字数字，待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：七列中前五书包，第六足球高亮，第七早餐；男孩收起书包拿球去球场。能读结束上学后的首个休息日，但仍依赖周一起算和五天学制，遮词更直接为周末踢球而非唯一Saturday n.星期六，保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:20:14.421018+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：七列中前五书包，第六足球高亮，第七早餐；男孩收起书包拿球去球场。能读结束上学后的首个休息日，但仍依赖周一起算和五天学制，遮词更直接为周末踢球而非唯一Saturday n.星期六，保留待复核。无文字数字。"
+    },
+    {
+      "senseId": "bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806",
+      "wordId": "dict:sentence",
+      "sourceId": "dict:sentence",
+      "word": "sentence",
+      "pos": "n.",
+      "meaning": "句子",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"sentence\",\"pos\":\"n.\",\"meaning\":\"句子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict one complete spoken statement as a single grammatical unit without any actual writing. A child points at a real scene of a dog fetching a red ball. Above the child, ONE large clean speech bubble contains exactly three pictorial units in a horizontal sequence: the same dog, a clear fetching action with its mouth, and the same red ball. All three picture units joined in ONE uninterrupted speech ribbon, enclosed in one complete bubble ending with a small circular punctuation dot. A teacher places both open hands around the entire bubble to show one complete utterance rather than isolated words. No letters, written words, numerals, labels or extra bubbles. Keep dog action and single complete message readily visible.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-b42b50cd-32f7-479f-8251-545c108594e0.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806.webp",
+      "intendedSavedPath": "public/images/words/bc/bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806.webp",
+      "generatedAt": "2026-10-19T01:20:54.526167+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "1c79aff81389df633e715a8cca6d55b08c206038115f828e8bf5e70f42024998",
+      "bytes": 111828,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-a.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/20261018-230756-resume/a/candidates/bc92bb20423f7d5e2baa8531bfe366757b71023b90f813590cec2e24e52a3806.webp",
+        "reason": "逐张查看640px实际图：三张女孩、吃苹果、苹果图卡放在桌上，男孩说话，泡泡中重复图卡序列；可读描述女孩吃苹果或语言练习，但没有独立可识别的句子这一语言单位。sentence n.句子未直观确定，保留待复核；无文字数字。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：男孩指着叼球的狗，老师双手框住话泡，泡内狗、取球动作、球和句点形成图像序列。可读描述狗取球或语言练习，但没有文字时无法直观区分句子、短语、故事等语言单位，sentence n.句子保留待复核。无可读文字数字。",
+      "selfReviewedAt": "2026-10-19T01:21:25.145695+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：男孩指着叼球的狗，老师双手框住话泡，泡内狗、取球动作、球和句点形成图像序列。可读描述狗取球或语言练习，但没有文字时无法直观区分句子、短语、故事等语言单位，sentence n.句子保留待复核。无可读文字数字。"
+    },
+    {
+      "senseId": "9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f",
+      "wordId": "dict:february",
+      "sourceId": "dict:february",
+      "word": "February",
+      "pos": "n.",
+      "meaning": "二月",
+      "stageId": "primary",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"February\",\"pos\":\"n.\",\"meaning\":\"二月\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nConcrete scene design:\nDepict the second and shortest month of a complete year. A large physical annual calendar dominates: exactly twelve miniature monthly calendar leaves in a single left-to-right row over a continuous seasonal panorama winter-spring-summer-autumn-winter. The SECOND leaf is lifted forward bright coral; its date grid is precisely FOUR ROWS BY SEVEN COLUMNS of empty squares, clearly a notably shorter month than nearby leaves. All eleven other leaves muted and slightly taller. Beneath highlighted second leaf: melting snow and a small flowering snowdrop, with a simple heart-shaped gift as secondary late-winter clue. No text, numerals, letters, labels. Exactly twelve leaves, only second highlighted.\nGenerate only ONE independent square image. Do not print the target word or meaning.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a151ae-bd38-7842-937e-b4ab47a8c5d2/exec-5a15dc08-7b99-44d4-bd90-484ef0fa80c8.png",
+      "originalLocalPath": "output/imagegen/batch-20261019-010356/a/source/9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f.png",
+      "candidatePath": "output/imagegen/batch-20261019-010356/a/candidates/9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f.webp",
+      "intendedSavedPath": "public/images/words/9d/9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f.webp",
+      "generatedAt": "2026-10-19T01:22:09.714098+00:00",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "candidateSha256": "14fc8d61965be33904fffa4bb6b5e1abc3eab8948c34e1a51a595a38b4be710b",
+      "bytes": 114998,
+      "dimensions": [
+        640,
+        640
+      ],
+      "previousCandidate": {
+        "batch": "docs/imagegen/batch-20261018-130336-b.json",
+        "candidatePath": "output/imagegen/batch-20261018-130336/b/candidates/9d60c95c4acb90d4b1d1f8cd1e85cbc3081e2b7fdd29d768eab5da975e6d5b7f.webp",
+        "reason": "已看640px WebP：日历实际为四行六列24格而非28格；雪花莲与融雪只传达冬末早春。遮住词义不能确定二月，保留待复核。",
+        "independentReviews": []
+      },
+      "generatorDecision": "defer",
+      "selfReviewNotes": "实际查看640px图：十二张四季月页第二张高亮，融雪雪花莲和心形礼盒为冬末或情人节；高亮日期网格未呈四行七列28格。二月仍需从约定全年顺序和节日猜测，遮词不能直接唯一确认February n.二月，保留待复核。无文字数字。",
+      "selfReviewedAt": "2026-10-19T01:22:46.777389+00:00",
+      "independentReviews": [],
+      "reviewMethod": "Generator individually viewed every actual 640px candidate. Every proposed pass additionally viewed independently by root or another agent. Task mappings were exposed; no blind review claimed. Every completed decision must agree; ambiguous or uncertain senses remain unreviewed.",
+      "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+      "finalReviewNotes": "Generator: 实际查看640px图：十二张四季月页第二张高亮，融雪雪花莲和心形礼盒为冬末或情人节；高亮日期网格未呈四行七列28格。二月仍需从约定全年顺序和节日猜测，遮词不能直接唯一确认February n.二月，保留待复核。无文字数字。"
+    }
+  ],
+  "failures": [],
+  "finalReviewedAt": "2026-10-19T01:35:44.175025+00:00",
+  "generationSummary": {
+    "requested": 15,
+    "generated": 15,
+    "approved": 2,
+    "deferred": 13,
+    "missingGeneration": 0
+  }
+}
