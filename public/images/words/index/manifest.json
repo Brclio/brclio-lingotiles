@@ -1,9 +1,9 @@
 {
   "version": 1,
   "total": 100000,
-  "ready": 1130,
-  "pending": 98870,
-  "revision": "fd7a3c512b90ccd3",
+  "ready": 1133,
+  "pending": 98867,
+  "revision": "39e2a5bf48b2b5b3",
   "buckets": {
     "10": {
       "path": "images/words/index/10.json",
@@ -42,8 +42,8 @@
     },
     "17": {
       "path": "images/words/index/17.json",
-      "count": 4,
-      "sha256": "a0dd143247dddadb7125c3ec62316de0ce3b39346f682143532a327ccd843a31"
+      "count": 5,
+      "sha256": "c21670644192bfe102a9e7ada6c0b3a6ed480b6fa8586a40b411c967467c38cc"
     },
     "18": {
       "path": "images/words/index/18.json",
@@ -942,8 +942,8 @@
     },
     "bd": {
       "path": "images/words/index/bd.json",
-      "count": 2,
-      "sha256": "666793939d5561110626f489af700f9d6a639eda62733173d9a96a20e6e1bb0f"
+      "count": 3,
+      "sha256": "922c4840bb6f34c77c6412dbd95e18d0a1c321de1946d3b52c5d030e3f06d205"
     },
     "be": {
       "path": "images/words/index/be.json",
@@ -1187,8 +1187,8 @@
     },
     "ee": {
       "path": "images/words/index/ee.json",
-      "count": 4,
-      "sha256": "6d451396cd4f82dd67664e325a80ebe0be0c29d1a1fd78521359f336c042cf58"
+      "count": 5,
+      "sha256": "bb48300b7c546bf1a8fc7b41007178a8dbf0979bd4b1e7c2cb5d6e5446c2f6e0"
     },
     "ef": {
       "path": "images/words/index/ef.json",
