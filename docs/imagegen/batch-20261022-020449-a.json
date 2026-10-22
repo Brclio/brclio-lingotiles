@@ -298,6 +298,54 @@
       "finalReviewNotes": "Opened the actual 640px WebP with view_image; known mapping, not blind. With vocabulary text hidden, ascending indoor treads, risers, landing and handrail clearly depict stairs, noun 楼梯. No labels or competing subject; recognizable at small size.",
       "savedPath": "public/images/words/4b/4b4ae9f6b25a7d31373e799ce30aae02b483dfce8013ae659e9a0b7fb2587274.webp",
       "sha256": "653abe23e624217362deeb2450fbb3cc2a0bc9ae0fb9760ad45f85d3976ce38c"
+    },
+    {
+      "senseId": "b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7",
+      "wordId": "dict:boss",
+      "sourceId": "dict:boss",
+      "word": "boss",
+      "pos": "n.",
+      "meaning": "老板",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\": \"boss\", \"pos\": \"n.\", \"meaning\": \"老板\"}.\nPrimary request: communicate this exact word sense directly with the scene, without needing any words.\nScene and subject: An office manager seated behind the main desk in a modest office, confidently assigning a folder of work to two adult employees standing in front of the desk and listening attentively. The manager is the clear authority figure; the employees hold work folders. Clear workplace management relationship, friendly neutral expressions, no classroom elements.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition/framing: a single centered scene in the middle 70 percent, generous warm-white empty margins, clean silhouette and simple readable forms for a small memory card. Soft natural daylight, muted natural green, blue and coral where appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated decorative objects. Do not include the target word or Chinese translation. One distinct illustration only.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a161c6-4a77-7bb0-9b9e-207ebfc66138/exec-8168b2d0-f310-4bd4-a6b8-28a04f385677.png",
+      "originalLocalPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/a/source/b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7.png",
+      "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/a/candidates/b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7.webp",
+      "intendedSavedPath": "public/images/words/b1/b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7.webp",
+      "generatedAt": "2026-10-22T04:09:26.997293+00:00",
+      "generatedByRunId": "20261022-040112",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "c6a86365264fa5ae264f5eff83f995ade4e8a963ec1097531aca5721cda15c71",
+      "bytes": 74254,
+      "dimensions": [
+        640,
+        640
+      ],
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Viewed optimized 640px candidate: suited manager behind main office desk assigns folder to two standing staff with work folders. Visible authority relationship supports boss n. 老板; no text or unrelated elements. Generator-aware inspection; independent review still required.",
+      "selfReviewedAt": "2026-10-22T04:11:54.681987+00:00",
+      "independentReviews": [
+        {
+          "senseId": "b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7",
+          "word": "boss",
+          "pos": "n.",
+          "meaning": "老板",
+          "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/a/candidates/b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7.webp",
+          "sha256": "c6a86365264fa5ae264f5eff83f995ade4e8a963ec1097531aca5721cda15c71",
+          "decision": "pass",
+          "notes": "Actually opened the individual optimized 640px WebP with view_image. Exact known mapping boss / n. / 老板; this was not blind review. With word and gloss absent, the central office authority sits behind the executive desk, hands a work folder to two attentive standing employees, and gives instructions with his free hand. The coordinated hierarchy and assignment gesture communicate the boss occupation rather than a generic business portrait. Faces, folder and posture remain legible at small size; no visible letters, numbers or labels.",
+          "reviewedAt": "2026-10-22T04:33:19.033097+00:00",
+          "reviewer": "/root/recovery_audit",
+          "inspectedActualFile": true,
+          "reviewedIndependently": true
+        }
+      ],
+      "reviewMethod": "Actual individual optimized WebP viewed by generator and separate reviewer with known exact mapping. No blind review claim. Any uncertainty or disagreement is deferred.",
+      "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
+      "finalReviewNotes": "Actually opened the individual optimized 640px WebP with view_image. Exact known mapping boss / n. / 老板; this was not blind review. With word and gloss absent, the central office authority sits behind the executive desk, hands a work folder to two attentive standing employees, and gives instructions with his free hand. The coordinated hierarchy and assignment gesture communicate the boss occupation rather than a generic business portrait. Faces, folder and posture remain legible at small size; no visible letters, numbers or labels.",
+      "savedPath": "public/images/words/b1/b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7.webp",
+      "sha256": "c6a86365264fa5ae264f5eff83f995ade4e8a963ec1097531aca5721cda15c71"
     }
   ],
   "candidates": [],
@@ -318,21 +366,6 @@
     }
   ],
   "todo": [
-    {
-      "senseId": "b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7",
-      "wordId": "dict:boss",
-      "sourceId": "dict:boss",
-      "word": "boss",
-      "pos": "n.",
-      "meaning": "老板",
-      "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"boss\",\"pos\":\"n.\",\"meaning\":\"老板\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/b1/b1f7bcb1bbd360d885b542bd2702c1ee77bf8448bbdb7f256cdd160a1c06bff7.webp",
-      "status": "pending_tool_retry",
-      "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
-    },
     {
       "senseId": "0a03e6dbd32bf28cc6128d143c954470f8a4057cd4db1d492a73b57223dae1d6",
       "wordId": "dict:discovery",
@@ -516,13 +549,25 @@
   ],
   "generationSummary": {
     "requested": 15,
-    "generated": 2,
-    "approved": 2,
+    "generated": 3,
+    "approved": 3,
     "deferred": 0,
-    "missingGeneration": 13,
+    "missingGeneration": 12,
     "batchTargetComplete": false
   },
   "stoppedAt": "2026-10-22T02:33:09.286158+00:00",
-  "finalReviewedAt": "2026-10-22T02:41:17.394748+00:00",
-  "stopReason": "Stopped new calls after group c first built-in imagegen call returned a network error. Preserved all returned images and pending claims; no retry or API fallback."
+  "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
+  "stopReason": "Recovery stopped new calls after furniture built-in imagegen returned network response decoding error. All returned images saved and individually reviewed. No retry or CLI/API fallback.",
+  "recoveryRuns": [
+    {
+      "runId": "20261022-040112",
+      "threadId": "01a161c1-5e9f-7821-939f-9ad1065f8854",
+      "startedAt": "2026-10-22T04:01:12.483076+00:00",
+      "batchId": "20261022-020449",
+      "batchPath": "output/imagegen/batch-20261022-020449",
+      "token": "9c3fcff5-8570-4267-ba55-a402e33732e1",
+      "recovery": true
+    }
+  ],
+  "recoveryToken": "9c3fcff5-8570-4267-ba55-a402e33732e1"
 }

@@ -206,7 +206,54 @@
       "status": "pending"
     }
   ],
-  "assets": [],
+  "assets": [
+    {
+      "senseId": "66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6",
+      "wordId": "dict:lab",
+      "sourceId": "dict:lab",
+      "word": "lab",
+      "pos": "n.",
+      "meaning": "实验室",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: lab / n. / 实验室.\nPrimary request: A clearly recognizable chemistry laboratory interior: one long workbench holding a microscope, a rack of glass test tubes and a conical flask of blue liquid. Behind it a lab-coated scientist wearing safety goggles carefully uses a dropper over a beaker. A modest sink and laboratory cabinets anchor the setting. The laboratory room and scientific equipment are primary, no classroom desks.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper. Soft natural daylight, muted natural colors. Centered subject in middle70percent, generous margins, clear silhouette readable on a small card.\nConstraints: no text, letters, numerals, written labels, logos, watermarks, borders or card UI; no unrelated props.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a161c1-5e9f-7821-939f-9ad1065f8854/exec-659a5866-b4ac-44d7-b3ef-1ff5699b951d.png",
+      "originalLocalPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/root/source/66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6.png",
+      "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/root/candidates/66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6.webp",
+      "intendedSavedPath": "public/images/words/66/66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6.webp",
+      "generatedAt": "2026-10-22T04:14:15.642630+00:00",
+      "generatedByRunId": "20261022-040112",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "c1d9f1b897f99c7735bc7524042c72d505cc3cd4ea034b64e967ba853b7181c3",
+      "bytes": 98272,
+      "dimensions": [
+        640,
+        640
+      ],
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Opened actual640px optimized WebP individually. Lab coat and goggles, dropper/beaker, microscope, test tubes and cabinet workbench make a recognizable laboratory room. No text or unrelated medical/patient scene. Known mapping, no blind claim; independent review required.",
+      "selfReviewedAt": "2026-10-22T04:34:58.681110+00:00",
+      "independentReviews": [
+        {
+          "senseId": "66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6",
+          "word": "lab",
+          "pos": "n.",
+          "meaning": "实验室",
+          "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/root/candidates/66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6.webp",
+          "sha256": "c1d9f1b897f99c7735bc7524042c72d505cc3cd4ea034b64e967ba853b7181c3",
+          "decision": "pass",
+          "notes": "Opened and inspected the optimized 640px image with known word/sense mapping; this is not a blind review. A person wearing a lab coat, eye protection and gloves uses a dropper over a beaker at a fitted laboratory bench, surrounded by a microscope, test-tube rack, flasks and laboratory cabinets. These mutually reinforcing concrete apparatus and room features directly communicate a laboratory, rather than a generic doctor or classroom. The characteristic microscope and glassware remain prominent at small-card scale. No letters, numbers, labels or logos visible. Supports lab n. 实验室.",
+          "reviewedAt": "2026-10-22T04:29:08.208916+00:00",
+          "reviewer": "generate_a independent reviewer; known mapping; visually inspected via view_image"
+        }
+      ],
+      "reviewMethod": "Actual individual optimized WebP viewed by generator and separate reviewer with known exact mapping. No blind review claim. Any uncertainty or disagreement is deferred.",
+      "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
+      "finalReviewNotes": "Opened and inspected the optimized 640px image with known word/sense mapping; this is not a blind review. A person wearing a lab coat, eye protection and gloves uses a dropper over a beaker at a fitted laboratory bench, surrounded by a microscope, test-tube rack, flasks and laboratory cabinets. These mutually reinforcing concrete apparatus and room features directly communicate a laboratory, rather than a generic doctor or classroom. The characteristic microscope and glassware remain prominent at small-card scale. No letters, numbers, labels or logos visible. Supports lab n. 实验室.",
+      "savedPath": "public/images/words/66/66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6.webp",
+      "sha256": "c1d9f1b897f99c7735bc7524042c72d505cc3cd4ea034b64e967ba853b7181c3"
+    }
+  ],
   "candidates": [
     {
       "senseId": "01b4ace44dbf98e124ed6c311e33766b3666db9922cf028280266f9e51cbb13c",
@@ -251,10 +298,7 @@
       "reviewMethod": "Each actual candidate viewed individually by its generator, then by independent agent c. Known mappings; no blind review claim. Uncertainty or disagreement remains reviewed:false.",
       "finalReviewedAt": "2026-10-22T02:41:17.394748+00:00",
       "finalReviewNotes": "Opened the actual 640px WebP with view_image; word, pos and Chinese meaning were known, so this was not blind review. Several overflowing apple baskets and filled bowls for a family communicate abundance, but with the word/meaning hidden the dominant reading is apples/harvest/family. The precise target n. 充分 is not sufficiently unambiguous from this scene; keep for semantic review rather than count ready."
-    }
-  ],
-  "failures": [],
-  "todo": [
+    },
     {
       "senseId": "bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2",
       "wordId": "dict:suggestion",
@@ -263,28 +307,70 @@
       "pos": "n.",
       "meaning": "提议",
       "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"suggestion\",\"pos\":\"n.\",\"meaning\":\"提议\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/bd/bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2.webp",
-      "status": "pending_tool_retry",
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for a vocabulary memory card.\nExact target sense: suggestion / n. / 提议.\nPrimary request: a clear concrete scene of one person proposing an idea to a small group. Three children are paused at a narrow garden stream where their footpath is interrupted. One child, facing the two others, raises one index finger with a thoughtful bright expression and with the other hand presents a short wooden plank spanning the stream as a proposed little bridge; the two listening children turn toward that child and consider the proposed solution. The proposing gesture and listeners are the focus. Show a proposed option being offered, before anyone crosses or builds; no labor or rescue scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft natural light, muted green, blue and coral. One tightly related scene centered within middle70percent, generous empty margins and readable small-card silhouettes.\nConstraints: no words, letters, numerals, speech balloons, labels, logos, watermark, borders or card UI. No lightbulb icon or other symbolic shortcut. No unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a161c1-5e9f-7821-939f-9ad1065f8854/exec-0d7bb0c0-c227-4ca5-9a7e-68a4ec214ec9.png",
+      "originalLocalPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/root/source/bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2.png",
+      "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/root/candidates/bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2.webp",
+      "intendedSavedPath": "public/images/words/bd/bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2.webp",
+      "generatedAt": "2026-10-22T04:05:14.464910+00:00",
+      "generatedByRunId": "20261022-040112",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "status": "pending_visual_revision",
+      "candidateSha256": "ea9030d1f337871e64c4cdc209fcc287b4339a54e0430d47877393a288fdd453",
+      "bytes": 93530,
+      "dimensions": [
+        640,
+        640
+      ],
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Viewed actual640px optimized WebP individually. Boy offers plank across stream with raised idea/proposal gesture while two listeners consider it; the social offering and proposed solution are legible without text. Known mapping; no blind review claimed. Independent semantic check still required.",
+      "selfReviewedAt": "2026-10-22T04:08:28.488705+00:00",
+      "independentReviews": [
+        {
+          "senseId": "bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2",
+          "word": "suggestion",
+          "pos": "n.",
+          "meaning": "提议",
+          "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/root/candidates/bd2f0a8401ea9c34eeca57d1056dfd5f75203c2404f53ab59cb926cea775e3a2.webp",
+          "sha256": "ea9030d1f337871e64c4cdc209fcc287b4339a54e0430d47877393a288fdd453",
+          "decision": "defer",
+          "notes": "Opened and inspected the optimized 640px image with known word/sense mapping; this is not a blind review. A child holds a plank beside a stream, raises an index finger, and addresses two attentive companions. This plausibly depicts proposing a plank bridge, but image-only reading can just as readily be an idea, planning, explaining, or bridge-building. The difference between a proposal offered to others and a general idea is not sufficiently explicit for the exact noun 提议. Small-card arrangement is readable and no text is visible, but semantic ambiguity requires deferral.",
+          "reviewedAt": "2026-10-22T04:29:08.208396+00:00",
+          "reviewer": "generate_a independent reviewer; known mapping; visually inspected via view_image"
+        }
+      ],
+      "reviewMethod": "Actual individual optimized WebP viewed by generator and separate reviewer with known exact mapping. No blind review claim. Any uncertainty or disagreement is deferred.",
+      "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
+      "finalReviewNotes": "Opened and inspected the optimized 640px image with known word/sense mapping; this is not a blind review. A child holds a plank beside a stream, raises an index finger, and addresses two attentive companions. This plausibly depicts proposing a plank bridge, but image-only reading can just as readily be an idea, planning, explaining, or bridge-building. The difference between a proposal offered to others and a general idea is not sufficiently explicit for the exact noun 提议. Small-card arrangement is readable and no text is visible, but semantic ambiguity requires deferral."
+    }
+  ],
+  "failures": [
+    {
+      "senseId": "e91d52d9720b509594baa78d026c9dfbe5b4aef31f002e9560eb769b1f2ac2fc",
+      "word": "metre",
+      "recordedAt": "2026-10-22T04:08:28.536828+00:00",
+      "reason": "A text-free ruler cannot communicate the exact unit metre rather than centimetre, inch, length or measurement. No unambiguous scene chosen; hold before generation, reviewed:false.",
+      "type": "semantic_hold",
+      "runId": "20261022-040112"
     },
     {
-      "senseId": "66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6",
-      "wordId": "dict:lab",
-      "sourceId": "dict:lab",
-      "word": "lab",
-      "pos": "n.",
-      "meaning": "实验室",
-      "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"lab\",\"pos\":\"n.\",\"meaning\":\"实验室\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/66/66411569b526b53b81affccb029f4ce3964b59770a2b84e06b2fa10e4125fbf6.webp",
-      "status": "pending_tool_retry",
-      "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "senseId": "df763185645ca5ac1fc3e68be3ba9e35e55d90b61c92f6fc746149d753f9d00d",
+      "word": "inch",
+      "recordedAt": "2026-10-22T04:08:28.582105+00:00",
+      "reason": "Exact unit inch cannot be distinguished from centimetre or generic small length in a text-free image without numerals or labels. Hold before generation, reviewed:false.",
+      "type": "semantic_hold",
+      "runId": "20261022-040112"
     },
+    {
+      "senseId": "b962d65f74906a6c98ee04f034e815c5e6cbbc98900a4633e8ca7d3e6d6446ce",
+      "word": "poem",
+      "recordedAt": "2026-10-22T04:08:28.626217+00:00",
+      "reason": "An unlabelled open book or reciting person cannot distinguish poem from prose, story or speech without text. No unambiguous text-free design; semantic hold, reviewed:false.",
+      "type": "semantic_hold",
+      "runId": "20261022-040112"
+    }
+  ],
+  "todo": [
     {
       "senseId": "e91d52d9720b509594baa78d026c9dfbe5b4aef31f002e9560eb769b1f2ac2fc",
       "wordId": "dict:metre",
@@ -296,9 +382,9 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"metre\",\"pos\":\"n.\",\"meaning\":\"公尺\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
       "desiredAssetPath": "public/images/words/e9/e91d52d9720b509594baa78d026c9dfbe5b4aef31f002e9560eb769b1f2ac2fc.webp",
-      "status": "pending_tool_retry",
+      "status": "pending_semantic_review",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "A text-free ruler cannot communicate the exact unit metre rather than centimetre, inch, length or measurement. No unambiguous scene chosen; hold before generation, reviewed:false."
     },
     {
       "senseId": "ada327855d92f0d65feeb764391b423e68190c9dc3771d49e1b524a23d8512a6",
@@ -401,9 +487,9 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"inch\",\"pos\":\"n.\",\"meaning\":\"英寸\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
       "desiredAssetPath": "public/images/words/df/df763185645ca5ac1fc3e68be3ba9e35e55d90b61c92f6fc746149d753f9d00d.webp",
-      "status": "pending_tool_retry",
+      "status": "pending_semantic_review",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Exact unit inch cannot be distinguished from centimetre or generic small length in a text-free image without numerals or labels. Hold before generation, reviewed:false."
     },
     {
       "senseId": "7e0dbd4d874e41a15597ae79b01d0c44ecbe36e5593d1939bc9cf7e5d8107598",
@@ -431,9 +517,9 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"poem\",\"pos\":\"n.\",\"meaning\":\"诗\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
       "desiredAssetPath": "public/images/words/b9/b962d65f74906a6c98ee04f034e815c5e6cbbc98900a4633e8ca7d3e6d6446ce.webp",
-      "status": "pending_tool_retry",
+      "status": "pending_semantic_review",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "An unlabelled open book or reciting person cannot distinguish poem from prose, story or speech without text. No unambiguous text-free design; semantic hold, reviewed:false."
     },
     {
       "senseId": "c928efd67771e7ac022d9bbaeb28a3854f3c39a99c7ea396f83a745cf503cdd6",
@@ -466,14 +552,26 @@
       "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
     }
   ],
-  "finalReviewedAt": "2026-10-22T02:41:17.394748+00:00",
+  "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
   "generationSummary": {
     "requested": 15,
-    "generated": 1,
-    "approved": 0,
-    "deferred": 1,
-    "missingGeneration": 14,
+    "generated": 3,
+    "approved": 1,
+    "deferred": 2,
+    "missingGeneration": 12,
     "batchTargetComplete": false
   },
-  "stopReason": "Stopped new calls after group c first built-in imagegen call returned a network error. Preserved all returned images and pending claims; no retry or API fallback."
+  "stopReason": "Recovery stopped new calls after furniture built-in imagegen returned network response decoding error. All returned images saved and individually reviewed. No retry or CLI/API fallback.",
+  "recoveryRuns": [
+    {
+      "runId": "20261022-040112",
+      "threadId": "01a161c1-5e9f-7821-939f-9ad1065f8854",
+      "startedAt": "2026-10-22T04:01:12.483076+00:00",
+      "batchId": "20261022-020449",
+      "batchPath": "output/imagegen/batch-20261022-020449",
+      "token": "9c3fcff5-8570-4267-ba55-a402e33732e1",
+      "recovery": true
+    }
+  ],
+  "recoveryToken": "9c3fcff5-8570-4267-ba55-a402e33732e1"
 }

@@ -252,11 +252,7 @@
       "finalReviewNotes": "Opened the actual 640px WebP with view_image; known mapping, not blind. Reviewed against the supplied noun pale / n. / 栅栏, not the pale-color adjective. Repeated pointed wooden pales joined by horizontal rails surround a garden, clearly conveying fence/enclosure. No text or color-adjective-only substitute; fence remains dominant at small size.",
       "savedPath": "public/images/words/d2/d27d680f8a804028dc3542898386cb687fa9226a235c9b57f09e93884865b4b1.webp",
       "sha256": "75aedb4a4f2ca3310b81b2bea311ab8d93bd1b722e25c4d9c2959a59d063e134"
-    }
-  ],
-  "candidates": [],
-  "failures": [],
-  "todo": [
+    },
     {
       "senseId": "797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe",
       "wordId": "dict:laboratory",
@@ -265,13 +261,48 @@
       "pos": "n.",
       "meaning": "实验室",
       "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"laboratory\",\"pos\":\"n.\",\"meaning\":\"实验室\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/79/797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe.webp",
-      "status": "pending_tool_retry",
-      "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
-    },
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square vocabulary illustration for a small English-learning memory card.\nExact target sense: {\"word\": \"laboratory\", \"pos\": \"n.\", \"meaning\": \"实验室\"}.\nPrimary request: Make the precise target sense understandable from the image alone, without seeing the English word or Chinese definition.\nScene and subject: A small, clearly recognizable scientific laboratory workbench: a large optical microscope is the central subject, with a neatly arranged test-tube rack, glass beaker, flask, and pipette on a clean lab bench. Behind it only a faint plain laboratory cabinet. All glassware is blank without graduations or labels. Emphasize this as an experimental science room, not a kitchen or medical exam room.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, gentle natural light, natural muted green, blue and coral colors.\nComposition/framing: square, centered coherent scene in the middle 70 percent, generous blank warm-white margins, clear silhouettes and essential features readable on a small card.\nConstraints: one image for this one sense; no collage, panels, card border or UI; no letters, numbers, text, labels, logos or watermarks anywhere; no unrelated decorative objects. Do not render the prompt or the target word.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a161c6-914a-7262-831c-1f578bf4043c/exec-80e45a2d-5ba1-4188-acb1-b88dedc60090.png",
+      "originalLocalPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/source/797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe.png",
+      "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/candidates/797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe.webp",
+      "intendedSavedPath": "public/images/words/79/797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe.webp",
+      "generatedAt": "2026-10-22T04:08:43.864169+00:00",
+      "generatedByRunId": "20261022-040112",
+      "reviewed": true,
+      "status": "approved",
+      "candidateSha256": "2427d35ed37c1b1e27127e50e73cd0c6148d6aae71e8ae13fa70decb6ee86835",
+      "bytes": 56652,
+      "dimensions": [
+        640,
+        640
+      ],
+      "generatorDecision": "pass",
+      "selfReviewNotes": "Viewed optimized 640px WebP: microscope, test tubes and flasks on a bench with lab cabinetry clearly establish a scientific laboratory room; no text or misleading clinical scene. Exact noun sense is recognizable.",
+      "selfReviewedAt": "2026-10-22T04:13:29.883153+00:00",
+      "independentReviews": [
+        {
+          "senseId": "797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe",
+          "word": "laboratory",
+          "pos": "n.",
+          "meaning": "实验室",
+          "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/candidates/797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe.webp",
+          "sha256": "2427d35ed37c1b1e27127e50e73cd0c6148d6aae71e8ae13fa70decb6ee86835",
+          "decision": "pass",
+          "notes": "Actually opened the individual optimized 640px WebP with view_image. Exact known mapping laboratory / n. / 实验室; this was not blind review. A microscope, a rack of liquid-filled test tubes, laboratory flasks, beaker and dropper occupy a lab workbench, with reagent glassware in wall cabinets. This coherent experimental workspace clearly conveys laboratory without needing any vocabulary text. Equipment silhouettes are clear at small size and there is no readable text or numerical scale.",
+          "reviewedAt": "2026-10-22T04:33:19.034526+00:00",
+          "reviewer": "/root/recovery_audit",
+          "inspectedActualFile": true,
+          "reviewedIndependently": true
+        }
+      ],
+      "reviewMethod": "Actual individual optimized WebP viewed by generator and separate reviewer with known exact mapping. No blind review claim. Any uncertainty or disagreement is deferred.",
+      "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
+      "finalReviewNotes": "Actually opened the individual optimized 640px WebP with view_image. Exact known mapping laboratory / n. / 实验室; this was not blind review. A microscope, a rack of liquid-filled test tubes, laboratory flasks, beaker and dropper occupy a lab workbench, with reagent glassware in wall cabinets. This coherent experimental workspace clearly conveys laboratory without needing any vocabulary text. Equipment silhouettes are clear at small size and there is no readable text or numerical scale.",
+      "savedPath": "public/images/words/79/797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe.webp",
+      "sha256": "2427d35ed37c1b1e27127e50e73cd0c6148d6aae71e8ae13fa70decb6ee86835"
+    }
+  ],
+  "candidates": [
     {
       "senseId": "c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252",
       "wordId": "dict:symbol",
@@ -280,13 +311,47 @@
       "pos": "n.",
       "meaning": "符号",
       "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"symbol\",\"pos\":\"n.\",\"meaning\":\"符号\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/c5/c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252.webp",
-      "status": "pending_tool_retry",
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square vocabulary illustration for a small English-learning memory card.\nExact target sense: {\"word\": \"symbol\", \"pos\": \"n.\", \"meaning\": \"符号\"}.\nPrimary request: Make the precise target sense understandable from the image alone, without seeing the English word or Chinese definition.\nScene and subject: One large hand-painted red heart symbol centered on a blank cream paper card held by a hand. The heart is a deliberately flat familiar pictorial sign representing love, with a small ordinary heart-shaped pendant next to it to reinforce the represented idea. Do not make an anatomical organ, religious sign or alphabet character. Focus on the familiar graphical heart symbol itself.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, gentle natural light, natural muted green, blue and coral colors.\nComposition/framing: square, centered coherent scene in the middle 70 percent, generous blank warm-white margins, clear silhouettes and essential features readable on a small card.\nConstraints: one image for this one sense; no collage, panels, card border or UI; no letters, numbers, text, labels, logos or watermarks anywhere; no unrelated decorative objects. Do not render the prompt or the target word.\n",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a161c6-914a-7262-831c-1f578bf4043c/exec-16bf9e80-f573-4b1a-92ba-bf948e655be3.png",
+      "originalLocalPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/source/c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252.png",
+      "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/candidates/c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252.webp",
+      "intendedSavedPath": "public/images/words/c5/c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252.webp",
+      "generatedAt": "2026-10-22T04:18:12.348717+00:00",
+      "generatedByRunId": "20261022-040112",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
-    },
+      "status": "pending_visual_revision",
+      "candidateSha256": "213eca3e31e4d647a05e4240fee8a2581eaab64d14609ce56aee20997d33996d",
+      "bytes": 43668,
+      "dimensions": [
+        640,
+        640
+      ],
+      "generatorDecision": "defer",
+      "selfReviewNotes": "Viewed optimized 640px WebP. The drawn heart is recognizable, but with the target hidden the strongest readings are heart or love. The general noun symbol is not sufficiently distinguished; retain for visual revision, do not count ready.",
+      "selfReviewedAt": "2026-10-22T04:19:16.938380+00:00",
+      "independentReviews": [
+        {
+          "senseId": "c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252",
+          "word": "symbol",
+          "pos": "n.",
+          "meaning": "符号",
+          "candidatePath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/candidates/c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252.webp",
+          "sha256": "213eca3e31e4d647a05e4240fee8a2581eaab64d14609ce56aee20997d33996d",
+          "decision": "defer",
+          "notes": "Actually opened the individual optimized 640px WebP with view_image. Exact known mapping symbol / n. / 符号; this was not blind review. A hand holds a card bearing a large painted red heart, beside a matching heart pendant. With the target hidden, the dominant reading is heart, love, or heart-shaped jewelry. The drawing-to-object similarity does not make the abstract relation of a sign standing for an idea explicit, and could simply show a heart design. Exact generic 符号 remains too ambiguous; keep reviewed:false and do not count ready. The image itself is legible and has no letters or numbers.",
+          "reviewedAt": "2026-10-22T04:33:19.034837+00:00",
+          "reviewer": "/root/recovery_audit",
+          "inspectedActualFile": true,
+          "reviewedIndependently": true
+        }
+      ],
+      "reviewMethod": "Actual individual optimized WebP viewed by generator and separate reviewer with known exact mapping. No blind review claim. Any uncertainty or disagreement is deferred.",
+      "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
+      "finalReviewNotes": "Actually opened the individual optimized 640px WebP with view_image. Exact known mapping symbol / n. / 符号; this was not blind review. A hand holds a card bearing a large painted red heart, beside a matching heart pendant. With the target hidden, the dominant reading is heart, love, or heart-shaped jewelry. The drawing-to-object similarity does not make the abstract relation of a sign standing for an idea explicit, and could simply show a heart design. Exact generic 符号 remains too ambiguous; keep reviewed:false and do not count ready. The image itself is legible and has no letters or numbers."
+    }
+  ],
+  "failures": [],
+  "todo": [
     {
       "senseId": "10f243dc403988b028454a295abc050a1ce7c953969915a5cfaef40ce70dd4ba",
       "wordId": "dict:wet",
@@ -300,7 +365,7 @@
       "desiredAssetPath": "public/images/words/10/10f243dc403988b028454a295abc050a1ce7c953969915a5cfaef40ce70dd4ba.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a",
@@ -315,7 +380,7 @@
       "desiredAssetPath": "public/images/words/de/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "d0e5511061bacfc836608021882ca36c3528a0583350f0c120368c4fa782bea6",
@@ -330,7 +395,7 @@
       "desiredAssetPath": "public/images/words/d0/d0e5511061bacfc836608021882ca36c3528a0583350f0c120368c4fa782bea6.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "dbd25b0f07fcab76773f3860be6f38eaf8c24b2691a37b63e1fdbda1998055b0",
@@ -345,7 +410,7 @@
       "desiredAssetPath": "public/images/words/db/dbd25b0f07fcab76773f3860be6f38eaf8c24b2691a37b63e1fdbda1998055b0.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "8a0f5d9b3ad040bbde93c7137620bd2857f174d8ff12e67c2640f4a12d26b560",
@@ -360,7 +425,7 @@
       "desiredAssetPath": "public/images/words/8a/8a0f5d9b3ad040bbde93c7137620bd2857f174d8ff12e67c2640f4a12d26b560.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "e3c1c8594cd5f9bc066ffcf4f20c697f794bf0d76e94ea93787705012e3c0eec",
@@ -375,7 +440,7 @@
       "desiredAssetPath": "public/images/words/e3/e3c1c8594cd5f9bc066ffcf4f20c697f794bf0d76e94ea93787705012e3c0eec.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "8ab862584e3579e5c1a7f4d2b100c8ee56d195b826e5202fd168505c4ef14f4e",
@@ -390,7 +455,7 @@
       "desiredAssetPath": "public/images/words/8a/8ab862584e3579e5c1a7f4d2b100c8ee56d195b826e5202fd168505c4ef14f4e.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "50c53f9ad10ab999a06331669e9367a54c79e10994c524e33ad91874d467b707",
@@ -405,7 +470,7 @@
       "desiredAssetPath": "public/images/words/50/50c53f9ad10ab999a06331669e9367a54c79e10994c524e33ad91874d467b707.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "56f2187f2775c23fa3e5a30c2fea546566e9c83f8979e699f4956ce97abb7849",
@@ -420,7 +485,7 @@
       "desiredAssetPath": "public/images/words/56/56f2187f2775c23fa3e5a30c2fea546566e9c83f8979e699f4956ce97abb7849.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "0c29f0de27857e093b6bfef7c596921a60de26e77b7618a226f69fa5154abc5f",
@@ -435,7 +500,7 @@
       "desiredAssetPath": "public/images/words/0c/0c29f0de27857e093b6bfef7c596921a60de26e77b7618a226f69fa5154abc5f.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "64f3ad888e0c67d3be56ca871cb04ce7b4c06c7a3fc1e51e08bff380502c9c04",
@@ -450,7 +515,7 @@
       "desiredAssetPath": "public/images/words/64/64f3ad888e0c67d3be56ca871cb04ce7b4c06c7a3fc1e51e08bff380502c9c04.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     },
     {
       "senseId": "df6658a61ae27f0e607a2bb3749d8093db352c10d0afe9c1054354e6ddfdcbdd",
@@ -465,18 +530,41 @@
       "desiredAssetPath": "public/images/words/df/df6658a61ae27f0e607a2bb3749d8093db352c10d0afe9c1054354e6ddfdcbdd.webp",
       "status": "pending_tool_retry",
       "reviewed": false,
-      "reason": "Not attempted after a peer built-in imagegen network failure; preserve this claim for a future independent run. No image generated."
+      "reason": "Not attempted after STOP-c built-in imagegen network failure. Existing saved candidates preserved; no retry or API fallback."
     }
   ],
   "stoppedAt": "2026-10-22T02:27:42.116703+00:00",
-  "stopReason": "Stopped new calls after group c first built-in imagegen call returned a network error. Preserved all returned images and pending claims; no retry or API fallback.",
-  "finalReviewedAt": "2026-10-22T02:41:17.394748+00:00",
+  "stopReason": "Recovery stopped new calls after furniture built-in imagegen returned network response decoding error. All returned images saved and individually reviewed. No retry or CLI/API fallback.",
+  "finalReviewedAt": "2026-10-22T04:56:31.075178+00:00",
   "generationSummary": {
     "requested": 15,
-    "generated": 1,
-    "approved": 1,
-    "deferred": 0,
-    "missingGeneration": 14,
+    "generated": 3,
+    "approved": 2,
+    "deferred": 1,
+    "missingGeneration": 12,
     "batchTargetComplete": false
-  }
+  },
+  "recoveryRuns": [
+    {
+      "runId": "20261022-040112",
+      "threadId": "01a161c1-5e9f-7821-939f-9ad1065f8854",
+      "startedAt": "2026-10-22T04:01:12.483076+00:00",
+      "batchId": "20261022-020449",
+      "batchPath": "output/imagegen/batch-20261022-020449",
+      "token": "9c3fcff5-8570-4267-ba55-a402e33732e1",
+      "recovery": true
+    }
+  ],
+  "recoveryToken": "9c3fcff5-8570-4267-ba55-a402e33732e1",
+  "preparedPrompts": {
+    "797d711040a1c1b2be3b693b554854ffea1c1d6be52682df4d507d3b18b073fe": {
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square vocabulary illustration for a small English-learning memory card.\nExact target sense: {\"word\": \"laboratory\", \"pos\": \"n.\", \"meaning\": \"实验室\"}.\nPrimary request: Make the precise target sense understandable from the image alone, without seeing the English word or Chinese definition.\nScene and subject: A small, clearly recognizable scientific laboratory workbench: a large optical microscope is the central subject, with a neatly arranged test-tube rack, glass beaker, flask, and pipette on a clean lab bench. Behind it only a faint plain laboratory cabinet. All glassware is blank without graduations or labels. Emphasize this as an experimental science room, not a kitchen or medical exam room.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, gentle natural light, natural muted green, blue and coral colors.\nComposition/framing: square, centered coherent scene in the middle 70 percent, generous blank warm-white margins, clear silhouettes and essential features readable on a small card.\nConstraints: one image for this one sense; no collage, panels, card border or UI; no letters, numbers, text, labels, logos or watermarks anywhere; no unrelated decorative objects. Do not render the prompt or the target word.\n",
+      "promptPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/laboratory.prompt.txt"
+    },
+    "c5749bc51a580beab828fd05cbddd5faf1c2845fdba6d602bd0981c84ff76252": {
+      "prompt": "Use case: scientific-educational\nAsset type: one standalone square vocabulary illustration for a small English-learning memory card.\nExact target sense: {\"word\": \"symbol\", \"pos\": \"n.\", \"meaning\": \"符号\"}.\nPrimary request: Make the precise target sense understandable from the image alone, without seeing the English word or Chinese definition.\nScene and subject: One large hand-painted red heart symbol centered on a blank cream paper card held by a hand. The heart is a deliberately flat familiar pictorial sign representing love, with a small ordinary heart-shaped pendant next to it to reinforce the represented idea. Do not make an anatomical organ, religious sign or alphabet character. Focus on the familiar graphical heart symbol itself.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, gentle natural light, natural muted green, blue and coral colors.\nComposition/framing: square, centered coherent scene in the middle 70 percent, generous blank warm-white margins, clear silhouettes and essential features readable on a small card.\nConstraints: one image for this one sense; no collage, panels, card border or UI; no letters, numbers, text, labels, logos or watermarks anywhere; no unrelated decorative objects. Do not render the prompt or the target word.\n",
+      "promptPath": "output/imagegen/batch-20261022-020449/resume-20261022-040112/b/symbol.prompt.txt"
+    }
+  },
+  "recoveryStopReason": "Peer STOP-c network failure observed before wet preparation; group b stopped after two saved images."
 }
