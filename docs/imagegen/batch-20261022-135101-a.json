@@ -7,7 +7,7 @@
   "group": "a",
   "mode": "built-in image_gen",
   "tool": "image_gen",
-  "status": "partial_after_connection_failure",
+  "status": "published_with_semantic_deferrals",
   "claimed": [
     {
       "senseId": "b43f7cee8da14a29988af59dea6db761764ca9abebf1b77bb03cc9bc51106819",
@@ -111,7 +111,9 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"pride\",\"pos\":\"n.\",\"meaning\":\"骄傲\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
       "desiredAssetPath": "public/images/words/d4/d40410045f9ffaef452c64177e2c7fc241498ef2c8b0e914ed7fe0f7c8ed6fd2.webp",
-      "status": "pending_tool_retry"
+      "status": "continued_in_later_batch",
+      "continuedInRunId": "20261022-230610",
+      "continuedInMetadata": "docs/imagegen/batch-20261022-230610-b.json"
     },
     {
       "senseId": "dc7f48b4d6fd49a10826eb2ca7d3726cd8345045ea04b6474d3b62b54459c547",
@@ -176,7 +178,9 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"license\",\"pos\":\"n.\",\"meaning\":\"执照\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
       "desiredAssetPath": "public/images/words/97/9793feeebd075f63628be3d223f85adbc099462e4758081d6535de95dbedeaf2.webp",
-      "status": "pending_tool_retry"
+      "status": "continued_in_later_batch",
+      "continuedInRunId": "20261022-230610",
+      "continuedInMetadata": "docs/imagegen/batch-20261022-230610-c.json"
     },
     {
       "senseId": "914c589a4fa16d79100eb487b68fc250a616248ac20ad2204ee095fbfd543feb",
@@ -202,7 +206,9 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"pleasant\",\"pos\":\"adj.\",\"meaning\":\"愉快的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
       "desiredAssetPath": "public/images/words/0e/0ee730c3eee4e152531019c9b1205eb2ca20f8d582624979179839864529e90f.webp",
-      "status": "pending_tool_retry"
+      "status": "continued_in_later_batch",
+      "continuedInRunId": "20261022-230610",
+      "continuedInMetadata": "docs/imagegen/batch-20261022-230610-root.json"
     }
   ],
   "assets": [
@@ -680,21 +686,6 @@
   ],
   "todo": [
     {
-      "senseId": "d40410045f9ffaef452c64177e2c7fc241498ef2c8b0e914ed7fe0f7c8ed6fd2",
-      "wordId": "dict:pride",
-      "sourceId": "dict:pride",
-      "word": "pride",
-      "pos": "n.",
-      "meaning": "骄傲",
-      "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"pride\",\"pos\":\"n.\",\"meaning\":\"骄傲\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/d4/d40410045f9ffaef452c64177e2c7fc241498ef2c8b0e914ed7fe0f7c8ed6fd2.webp",
-      "status": "pending_tool_retry",
-      "reviewed": false,
-      "reason": "Built-in imagegen failed during recovery: image generation failed: connection failed: error sending request. No image source returned. Stop further generation globally; no retry or API fallback."
-    },
-    {
       "senseId": "dc7f48b4d6fd49a10826eb2ca7d3726cd8345045ea04b6474d3b62b54459c547",
       "wordId": "dict:percent",
       "sourceId": "dict:percent",
@@ -723,41 +714,11 @@
       "status": "pending_semantic_review",
       "reviewed": false,
       "reason": "until/直到是时间关系介词；单幅无文字场景难以同时清楚呈现某动作持续和指定截止事件，普通等待或路径终点会替换精确时间义项。保留待语义方案复核。"
-    },
-    {
-      "senseId": "9793feeebd075f63628be3d223f85adbc099462e4758081d6535de95dbedeaf2",
-      "wordId": "dict:license",
-      "sourceId": "dict:license",
-      "word": "license",
-      "pos": "n.",
-      "meaning": "执照",
-      "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"license\",\"pos\":\"n.\",\"meaning\":\"执照\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/97/9793feeebd075f63628be3d223f85adbc099462e4758081d6535de95dbedeaf2.webp",
-      "status": "pending_tool_retry",
-      "reviewed": false,
-      "reason": "Not generated before global connection stop"
-    },
-    {
-      "senseId": "0ee730c3eee4e152531019c9b1205eb2ca20f8d582624979179839864529e90f",
-      "wordId": "dict:pleasant",
-      "sourceId": "dict:pleasant",
-      "word": "pleasant",
-      "pos": "adj.",
-      "meaning": "愉快的",
-      "stageId": "junior",
-      "curated": false,
-      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"pleasant\",\"pos\":\"adj.\",\"meaning\":\"愉快的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
-      "desiredAssetPath": "public/images/words/0e/0ee730c3eee4e152531019c9b1205eb2ca20f8d582624979179839864529e90f.webp",
-      "status": "pending_tool_retry",
-      "reviewed": false,
-      "reason": "Not generated before global connection stop"
     }
   ],
   "recoveryRunId": "20261022-215713-resume",
   "recoveryThreadId": "01a16570-d723-7d11-82d6-7ec41f23140c",
-  "updatedAt": "2026-10-22T22:29:06.395212+00:00",
+  "updatedAt": "2026-10-23T01:06:26.577801+00:00",
   "generationStopped": true,
   "generationStopReason": "Built-in connection failure; no CLI/API or dense retry",
   "verification": {
@@ -770,5 +731,11 @@
     "baselineReady": 1171,
     "ready": 1196,
     "manifestRevision": "d212e0c044c83547"
-  }
+  },
+  "continuedClaims": [
+    "0ee730c3eee4e152531019c9b1205eb2ca20f8d582624979179839864529e90f",
+    "9793feeebd075f63628be3d223f85adbc099462e4758081d6535de95dbedeaf2",
+    "d40410045f9ffaef452c64177e2c7fc241498ef2c8b0e914ed7fe0f7c8ed6fd2"
+  ],
+  "continuationRunId": "20261022-230610"
 }

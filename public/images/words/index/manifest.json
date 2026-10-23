@@ -1,9 +1,9 @@
 {
   "version": 1,
   "total": 100000,
-  "ready": 1196,
-  "pending": 98804,
-  "revision": "d212e0c044c83547",
+  "ready": 1239,
+  "pending": 98761,
+  "revision": "44a5690bd93ef94b",
   "buckets": {
     "10": {
       "path": "images/words/index/10.json",
@@ -77,8 +77,8 @@
     },
     "24": {
       "path": "images/words/index/24.json",
-      "count": 2,
-      "sha256": "42bee5a3d21d5f93e59ebd0f6d769baad9a16e99b9676d9afe01b5604bfcc7a3"
+      "count": 4,
+      "sha256": "259af282d7deb245bd4bd20554dfb51861555b557904cea8fdb51fb79102e7c3"
     },
     "25": {
       "path": "images/words/index/25.json",
@@ -132,8 +132,8 @@
     },
     "35": {
       "path": "images/words/index/35.json",
-      "count": 8,
-      "sha256": "d6a9d199dfddc65abadc0918f6d973a9331865fa82ebca9d6bc825380a2edf0c"
+      "count": 9,
+      "sha256": "04b0f5e83d67e21f67e061537fa6b35871c06337161a1fa8a6e0e0c9e1969847"
     },
     "36": {
       "path": "images/words/index/36.json",
@@ -147,8 +147,8 @@
     },
     "38": {
       "path": "images/words/index/38.json",
-      "count": 3,
-      "sha256": "46b4978cd0946389c17b4061571823a0b9f040cfd82065f1c44083ee383518ec"
+      "count": 4,
+      "sha256": "60af7c2e5b71de6286dc871600fc5a822a14b8b0a9fa96050b6854b4e39a5029"
     },
     "39": {
       "path": "images/words/index/39.json",
@@ -172,8 +172,8 @@
     },
     "43": {
       "path": "images/words/index/43.json",
-      "count": 3,
-      "sha256": "bff8731d66733ba551058fb608ac3202f6202d9af84f44fba23a61dda8dbb680"
+      "count": 4,
+      "sha256": "ba5bdccf218a8d6364626dcf4998a437c440732250332918b3270a1ae545dcd0"
     },
     "44": {
       "path": "images/words/index/44.json",
@@ -182,8 +182,8 @@
     },
     "45": {
       "path": "images/words/index/45.json",
-      "count": 4,
-      "sha256": "989c673b6f759716784c0df8e1ab0077efc93d7dacf6b51e4d9362941fa42a1d"
+      "count": 5,
+      "sha256": "c3eb1b616510f9221f37a36b0dd50af06f90c8b7076d48d63267719c437dfb8a"
     },
     "46": {
       "path": "images/words/index/46.json",
@@ -217,8 +217,8 @@
     },
     "52": {
       "path": "images/words/index/52.json",
-      "count": 7,
-      "sha256": "c96b21569b12771a7aee9ed48a12a55e6e97cc2e1276f27745fcdb6c72d231e4"
+      "count": 8,
+      "sha256": "a63ce0e2cfefa8ac68b09f98ab58b2baee9ae31c144ab5a0f00fe25e69ad2240"
     },
     "53": {
       "path": "images/words/index/53.json",
@@ -242,8 +242,8 @@
     },
     "57": {
       "path": "images/words/index/57.json",
-      "count": 2,
-      "sha256": "a4d2f883c69c571439528dae7c0e291280c7cdbf35f15d49358823ee54e160e9"
+      "count": 4,
+      "sha256": "bb9a6000f1e273c230d27eca0bc06680d612693b21f7e283f81fcaffe14aca39"
     },
     "58": {
       "path": "images/words/index/58.json",
@@ -277,8 +277,8 @@
     },
     "64": {
       "path": "images/words/index/64.json",
-      "count": 3,
-      "sha256": "8174983594c6e728d7c86f2383434d8915fec178b9d8d2b3a145c8737e06a52c"
+      "count": 4,
+      "sha256": "f0c13fb0d9b92a5e343f48e063605427d955764d3c81e65f624849c513916df0"
     },
     "65": {
       "path": "images/words/index/65.json",
@@ -287,8 +287,8 @@
     },
     "66": {
       "path": "images/words/index/66.json",
-      "count": 3,
-      "sha256": "c0512fb86dc8927ee49daa12202d1c6537d8e470c2aaf8f26ccf8e72b21d72c1"
+      "count": 4,
+      "sha256": "e63f017006e535aec2e532b844ff20cb932db5550402a4cd3f36c064fb45bebd"
     },
     "67": {
       "path": "images/words/index/67.json",
@@ -317,8 +317,8 @@
     },
     "72": {
       "path": "images/words/index/72.json",
-      "count": 8,
-      "sha256": "b233c0defca81044050b9ce0bc9cda86f16582cc73e0cdd500d0fa72e85d6f68"
+      "count": 10,
+      "sha256": "a7f07361052faf73d098e6608fb65fe09a584b5eff73ddb0aa09ef9e958206ad"
     },
     "73": {
       "path": "images/words/index/73.json",
@@ -337,8 +337,8 @@
     },
     "76": {
       "path": "images/words/index/76.json",
-      "count": 7,
-      "sha256": "cd8b24000e46fabb47f996f57e9de82939bea23dfdc78005da0f277af848495e"
+      "count": 8,
+      "sha256": "904881e6a3ed95d6bfd3df16d9606ea987254ec7bcb8857b07fb4337d84c9b6c"
     },
     "77": {
       "path": "images/words/index/77.json",
@@ -347,8 +347,8 @@
     },
     "78": {
       "path": "images/words/index/78.json",
-      "count": 5,
-      "sha256": "c546868b19184dcfe98105a15c21efaee31c44870732d09092c8684ec3f42005"
+      "count": 6,
+      "sha256": "35f7a3878d33d6d4453eb0265028891abe2f9d7f889155862bcad80913d46016"
     },
     "79": {
       "path": "images/words/index/79.json",
@@ -367,8 +367,8 @@
     },
     "82": {
       "path": "images/words/index/82.json",
-      "count": 6,
-      "sha256": "02975eff35db9e18466a9dd0eb40959c4228dea9fbfe5346ce75f5466270cc9e"
+      "count": 8,
+      "sha256": "37e49f0b0a2468d1892f9e17155ab9906851f0535d0b22e4e039e4cf1a343333"
     },
     "83": {
       "path": "images/words/index/83.json",
@@ -392,8 +392,8 @@
     },
     "87": {
       "path": "images/words/index/87.json",
-      "count": 5,
-      "sha256": "25727d4bc713b96cba795ac8560ba82ddbe2d2bc3d2df83a333198e9cbc26cd8"
+      "count": 6,
+      "sha256": "3cea735aa8e41655b8b2610894939310d1d32c5848576aed8614e8d455a458be"
     },
     "88": {
       "path": "images/words/index/88.json",
@@ -432,13 +432,13 @@
     },
     "95": {
       "path": "images/words/index/95.json",
-      "count": 7,
-      "sha256": "8d151fe55b3ff8fd0d66edf75d13748c37741e4b7d1a91a4528e1b6ef820cc03"
+      "count": 8,
+      "sha256": "4267412b01431f3620e82a17b393774e8c01eba0274b4fc6d4c2290d05be2a54"
     },
     "96": {
       "path": "images/words/index/96.json",
-      "count": 4,
-      "sha256": "f61adc5cfa59a84393dd7b696875d23f56d688ac072d3f0452f3e8752e59f93c"
+      "count": 5,
+      "sha256": "b206c4812a07b3c25ad34babb5388780cde000488ddce952fc353d6e740f2688"
     },
     "97": {
       "path": "images/words/index/97.json",
@@ -462,8 +462,8 @@
     },
     "01": {
       "path": "images/words/index/01.json",
-      "count": 4,
-      "sha256": "0715a5be4fa59f58ef0b00b41eb78caa6290598f41cb8f8b3f2b5b30f8191053"
+      "count": 5,
+      "sha256": "ea4dee01f707a9b7f6ff497883ae6499c7f831fed26d9a1dc71bfbae1f43a042"
     },
     "02": {
       "path": "images/words/index/02.json",
@@ -477,8 +477,8 @@
     },
     "04": {
       "path": "images/words/index/04.json",
-      "count": 4,
-      "sha256": "6a5f905709b56dc52693bd5d063ae1998ff4fbc8cd2ca19b1f45786be79f4921"
+      "count": 5,
+      "sha256": "746110f99c6a1a85cda7ac0960bd7039eaf7cbd8e8c9cf062c7a36d460c494ac"
     },
     "05": {
       "path": "images/words/index/05.json",
@@ -492,8 +492,8 @@
     },
     "07": {
       "path": "images/words/index/07.json",
-      "count": 5,
-      "sha256": "df18a2645e39e8dc61bf77fec421c7883f92e2114357283e412f47967e9570c7"
+      "count": 6,
+      "sha256": "11c2f3e4db1849a90a93360d733cd76e4222baae70af0ac044cd4d30de84f24b"
     },
     "08": {
       "path": "images/words/index/08.json",
@@ -517,8 +517,8 @@
     },
     "0c": {
       "path": "images/words/index/0c.json",
-      "count": 3,
-      "sha256": "dae6e2d04f8968b1af3e6982f74c5c66f62fd8977dc13115b0cefd423c014083"
+      "count": 4,
+      "sha256": "38ed25b7e7a6bb166f064eeb869a959ee1f83378d3d7e1a51e39ab09f72bc74d"
     },
     "0d": {
       "path": "images/words/index/0d.json",
@@ -642,8 +642,8 @@
     },
     "4d": {
       "path": "images/words/index/4d.json",
-      "count": 4,
-      "sha256": "0d2c50e208f39241f7b434723410bbc4ececad7bb80678739c655b26ced03b6c"
+      "count": 5,
+      "sha256": "199c9a81fcce05d307b65b60be5cbea4d2fc3ddf1400e4864fe15ece8623b796"
     },
     "4e": {
       "path": "images/words/index/4e.json",
@@ -687,8 +687,8 @@
     },
     "6a": {
       "path": "images/words/index/6a.json",
-      "count": 6,
-      "sha256": "294227571de2dde94763614ed96f5d83c9ba281e7cafd68f65ee18af5ba9770c"
+      "count": 7,
+      "sha256": "b3872a3a63dd9fc55230371e442d1914a58083421dd28d78a254f44188259206"
     },
     "6b": {
       "path": "images/words/index/6b.json",
@@ -717,18 +717,23 @@
     },
     "7a": {
       "path": "images/words/index/7a.json",
-      "count": 6,
-      "sha256": "73da8332ff62203eed270e3029aa7dd798f0488f442499636059a436b9b96a79"
+      "count": 7,
+      "sha256": "16bd925bb7caebbf883a44532675e06b914aa5c9737c821428f21931fcf2b507"
     },
     "7b": {
       "path": "images/words/index/7b.json",
-      "count": 6,
-      "sha256": "249347a2c3ad1646118dd1d126e7e8f6949c85cf9869f3f0502f15697a946d53"
+      "count": 7,
+      "sha256": "37ce0bac3f76e48e881a75f10871c6b9050ff74807c8847b63cb43907c2baeba"
     },
     "7c": {
       "path": "images/words/index/7c.json",
       "count": 6,
       "sha256": "b23880e817c4f507677402c5cd4d90ad2bda2302fedc211c081dad3dece400b7"
+    },
+    "7d": {
+      "path": "images/words/index/7d.json",
+      "count": 1,
+      "sha256": "cace047755a347d26e7a35ab0719da4efaec4e5d255d539262ef80cb1444ae35"
     },
     "7e": {
       "path": "images/words/index/7e.json",
@@ -782,8 +787,8 @@
     },
     "9c": {
       "path": "images/words/index/9c.json",
-      "count": 8,
-      "sha256": "7e4028e5d1254955d38eb57afbef0f7fb5a900f1c2f4fde262837bc4584dbdf7"
+      "count": 9,
+      "sha256": "596eacf751d2b29f099d394f5d8ff6a78f0e3bb5e87875be516928d383fd421e"
     },
     "9d": {
       "path": "images/words/index/9d.json",
@@ -857,8 +862,8 @@
     },
     "ac": {
       "path": "images/words/index/ac.json",
-      "count": 7,
-      "sha256": "10b8e06ae047cf1177c8dcb5ca43008ccfda814928f6540ab193be205bddfd9e"
+      "count": 8,
+      "sha256": "0f43f3aa0c344bab660926b961e20a999f5d758ff0dc9551af7163f6a4211076"
     },
     "ad": {
       "path": "images/words/index/ad.json",
@@ -877,8 +882,8 @@
     },
     "b0": {
       "path": "images/words/index/b0.json",
-      "count": 7,
-      "sha256": "88f608337ae44120991e078ecd0060f837fb3381928f0ca06e300452061d2134"
+      "count": 8,
+      "sha256": "6dd1d2d8366da5ed16723697c7d7c6b52f4d681282ac281b1f4c54ee17595cfc"
     },
     "b1": {
       "path": "images/words/index/b1.json",
@@ -887,8 +892,8 @@
     },
     "b2": {
       "path": "images/words/index/b2.json",
-      "count": 8,
-      "sha256": "b077539d06fb5af0630e28d4642ad24cfcdb509c04980a629c293756f509a90d"
+      "count": 9,
+      "sha256": "28d14ff1f933f1704bc2a3e310ea4cdc0238e3a291a15887f16b0c17bc83a2df"
     },
     "b3": {
       "path": "images/words/index/b3.json",
@@ -927,8 +932,8 @@
     },
     "ba": {
       "path": "images/words/index/ba.json",
-      "count": 6,
-      "sha256": "84d58cf9d7b62aa22e9952344d1a32c173a8c14f225bc673f4ee61c5ae70c4ab"
+      "count": 7,
+      "sha256": "c3821b8b00ae817d6bb496770732a34e734065b32dfb72e9714428b1a8f4ecfe"
     },
     "bb": {
       "path": "images/words/index/bb.json",
@@ -962,8 +967,8 @@
     },
     "c1": {
       "path": "images/words/index/c1.json",
-      "count": 2,
-      "sha256": "5e322ed7d21f9f596ca6efee17d37283a0593ffc2bb2fba9290fa1faeed0dccf"
+      "count": 3,
+      "sha256": "c0856ea662ceea13be3f081dd87cf8a5744c2061b8aa33e5826638378f2d4ad1"
     },
     "c2": {
       "path": "images/words/index/c2.json",
@@ -997,13 +1002,13 @@
     },
     "c8": {
       "path": "images/words/index/c8.json",
-      "count": 4,
-      "sha256": "0a1602e4e9c64d5bf26daef0bf3cfd992753d8fdf521e94886d3dce07f164add"
+      "count": 5,
+      "sha256": "542b2f28efaf1b0fc1b9d58183ce6332a6900a327c1f54fe22330a9b91ce1895"
     },
     "c9": {
       "path": "images/words/index/c9.json",
-      "count": 2,
-      "sha256": "918c350a4afe15174732d5d6670527c43caed2c6a77d09ba8cc43e50170b582c"
+      "count": 3,
+      "sha256": "69093022cef0de68a02dba2c46da36a546680863225ac742b75cb57ab7b2da56"
     },
     "ca": {
       "path": "images/words/index/ca.json",
@@ -1017,8 +1022,8 @@
     },
     "cc": {
       "path": "images/words/index/cc.json",
-      "count": 5,
-      "sha256": "4015e891cd4c4715a7d4198b89454a1b443fe0a97c9b532adb1fca546b61f4c8"
+      "count": 6,
+      "sha256": "677d609dacd70de259e18d9c8e89e629a9f5465ca8f6db7381f98bfd483c0f73"
     },
     "cd": {
       "path": "images/words/index/cd.json",
@@ -1062,8 +1067,8 @@
     },
     "d5": {
       "path": "images/words/index/d5.json",
-      "count": 6,
-      "sha256": "a5dba0d66e6ffe60911750cd25a7155f238f64a3ff788ed4efd773654875ba4a"
+      "count": 7,
+      "sha256": "d86339970a990922d8bc73afae2c9f8a7cff208c19a59626e8ede06d10f2421e"
     },
     "d6": {
       "path": "images/words/index/d6.json",
@@ -1117,8 +1122,8 @@
     },
     "e0": {
       "path": "images/words/index/e0.json",
-      "count": 3,
-      "sha256": "3a88c1eff9efeac2a4dc340348360e4a610e1ed43ae29ca794ada7681ef9e1bd"
+      "count": 4,
+      "sha256": "475606c36e3ae832e344e6e53e5ca2e86d83f9247d06a370ddc30a95a04fc8b0"
     },
     "e1": {
       "path": "images/words/index/e1.json",
@@ -1172,8 +1177,8 @@
     },
     "eb": {
       "path": "images/words/index/eb.json",
-      "count": 5,
-      "sha256": "28a4781a5bd65675da8620a0f95d183cedd19a4746def149bd46ad24872d4eff"
+      "count": 6,
+      "sha256": "7d2e93dfcee0c73898e4c331e385f5ac18c412177e7b065b1b7a651d115908fd"
     },
     "ec": {
       "path": "images/words/index/ec.json",
@@ -1202,8 +1207,8 @@
     },
     "f1": {
       "path": "images/words/index/f1.json",
-      "count": 4,
-      "sha256": "8084724e8ec6cc78ce66cddd71e03bdd0d764794449ee4d1c279b8e00dfd209a"
+      "count": 5,
+      "sha256": "5490429da59bc81ef5cf5cc053b7ed4f1fb54eccf938f9e3a1f98cda8925bbb9"
     },
     "f2": {
       "path": "images/words/index/f2.json",
@@ -1262,8 +1267,8 @@
     },
     "fd": {
       "path": "images/words/index/fd.json",
-      "count": 4,
-      "sha256": "2217cc4d719af07c3d8b7c5d449a4f2757175503e5a0d73bcb8908bcbbd49538"
+      "count": 5,
+      "sha256": "01ae709d3a5dbe45ff0e66187328f9eedb6e3acfd41317c3ea8a8a8472f10b6c"
     },
     "fe": {
       "path": "images/words/index/fe.json",
