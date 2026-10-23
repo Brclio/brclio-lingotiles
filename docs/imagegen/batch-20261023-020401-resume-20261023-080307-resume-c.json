@@ -1,0 +1,111 @@
+{
+  "runId": "20261023-080307-resume",
+  "threadId": "01a167c3-7e89-7b81-a71f-a88094d1957f",
+  "startedAt": "2026-10-23T08:03:07.685609+00:00",
+  "batchPath": "output/imagegen/batch-20261023-020401",
+  "recoveryPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume",
+  "group": "c",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "integrated_reviewed_partial_batch",
+  "claimed": [
+    {
+      "senseId": "b0c062d9deb1b75209bd54311c8318f6a232dc3ec5378ce659d6f166a24cabe5",
+      "wordId": "dict:grandchild",
+      "sourceId": "dict:grandchild",
+      "word": "grandchild",
+      "pos": "n.",
+      "meaning": "孙",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"grandchild\",\"pos\":\"n.\",\"meaning\":\"孙\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b0/b0c062d9deb1b75209bd54311c8318f6a232dc3ec5378ce659d6f166a24cabe5.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "1c4381080e6b31fce19b288106f575991cbcf05c7da3ec8204631906c7570300",
+      "wordId": "dict:balloon",
+      "sourceId": "dict:balloon",
+      "word": "balloon",
+      "pos": "n.",
+      "meaning": "气球",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"balloon\",\"pos\":\"n.\",\"meaning\":\"气球\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/1c/1c4381080e6b31fce19b288106f575991cbcf05c7da3ec8204631906c7570300.webp",
+      "status": "pending_generation"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "b0c062d9deb1b75209bd54311c8318f6a232dc3ec5378ce659d6f166a24cabe5",
+      "wordId": "dict:grandchild",
+      "sourceId": "dict:grandchild",
+      "word": "grandchild",
+      "pos": "n.",
+      "meaning": "孙",
+      "stageId": "junior",
+      "desiredAssetPath": "public/images/words/b0/b0c062d9deb1b75209bd54311c8318f6a232dc3ec5378ce659d6f166a24cabe5.webp",
+      "prompt": "Use case: scientific-educational\nAsset type: one square image for a small English vocabulary card.\nExact target sense: grandchild, noun, Chinese meaning 孙 (the young grandson in a three-generation family).\nPrimary request: show one clear family scene in which the GRANDSON is unmistakably the focal child and his relationship through his father to his grandfather is visible without any writing.\nScene: a quiet family visit, with exactly three male family members together. In the center foreground, a cheerful six-year-old boy with dark curly hair reaches up and hugs his elderly grandfather, who has clearly gray hair, deep smile lines and a gentle stooped posture. Immediately behind the boy is his father, about thirty-five with dark hair, whose one hand rests affectionately on his own father's shoulder and whose other hand rests on his son's shoulder. The three have related facial features, and the age progression elderly grandfather -> adult father -> small boy is visually unmistakable. The small boy is the brightest and most prominent focal figure, fully visible. Keep the grandfather seated on a simple low garden bench and the father standing, so all three faces are close together and the child's small size is clear. Tender natural family affection.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted green and blue with a little coral.\nComposition: a single tightly related centered scene inside the middle 70 percent, generous empty warm-white margins. Simple readable forms at 160px thumbnail size. No extra people or unrelated objects.\nConstraints: absolutely no letters, numbers, written labels, symbols, captions, logo, watermark, borders, diagram, arrows, speech bubbles or card UI. Do not show just an elderly person and a child: all three generations must appear clearly.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a167ca-e7b1-7823-a2d0-d64e4987c8e3/exec-b39ee2e0-37df-4b25-8440-5e04088871cd.png",
+      "sourceCopy": "output/imagegen/batch-20261023-020401/20261023-080307-resume/c/grandchild-source.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/c/grandchild.webp",
+      "savedPath": "public/images/words/b0/b0c062d9deb1b75209bd54311c8318f6a232dc3ec5378ce659d6f166a24cabe5.webp",
+      "reviewed": true,
+      "status": "ready",
+      "generatedAt": "2026-10-23T08:16:12.442233+00:00",
+      "generationTool": "image_gen",
+      "generationMode": "built-in image_gen",
+      "provisionalApproved": true,
+      "visualReview": {
+        "reviewedAt": "2026-10-23T08:20:06.853827+00:00",
+        "method": "Actual view_image of optimized 640x640 WebP with word and meaning hidden; compare visual subject to exact target sense.",
+        "result": "provisional_approved",
+        "evidence": "Exactly three related-looking male generations are clearly visible: gray-haired wrinkled grandfather seated, dark-haired adult father behind with hand on grandfather shoulder and young boy, and coral-shirted small boy embracing grandfather in the foreground. The boy is the bright central focal child; his small stature against both older generations makes grandson relationship readable. No text, numbers, logos or unrelated props. Facial ages and hugging action remain legible at 640px.",
+        "limitation": "Kinship is inferred from the tightly related three-generation family scene; primary agent must independently confirm grandson is readable."
+      },
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/c/grandchild-source.png",
+      "sha256": "c9e46a8ec28ecd03ae30da4d402c637841e7283349fa84dfd3bf4bc14c605ec6",
+      "candidateSha256": "c9e46a8ec28ecd03ae30da4d402c637841e7283349fa84dfd3bf4bc14c605ec6",
+      "sourceSha256": "76704079e6f8fb43edcb34e24e32f1e00c2ad97a1a6b82c96f3d044869676b75",
+      "bytes": 86044,
+      "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "independentVisualReview": {
+        "passed": true,
+        "method": "Actual view_image inspection of saved optimized image, exact word/POS/meaning and interpretation without target labels; known mapping, not a blind test",
+        "reviewer": "root",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "reason": "Actual 640px image has three related-looking male generations: elderly gray wrinkled grandfather, adult father, and focal small boy embracing grandfather. The explicit three-generation family arrangement and child-grandfather interaction convey 孙 rather than just generic child.",
+        "sha256": "c9e46a8ec28ecd03ae30da4d402c637841e7283349fa84dfd3bf4bc14c605ec6"
+      },
+      "finalReview": {
+        "passed": true,
+        "runId": "20261023-080307-resume",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "method": "Agreement of generator actual visual review and independent second viewer; exact sense, source and image hashes checked"
+      }
+    }
+  ],
+  "candidates": [],
+  "failures": [],
+  "todo": [
+    {
+      "senseId": "1c4381080e6b31fce19b288106f575991cbcf05c7da3ec8204631906c7570300",
+      "word": "balloon",
+      "status": "pending_generation_deferred_global_tool_failure",
+      "reason": "Primary agent requested global stop after group b built-in imagegen connection failure. No balloon imagegen call was issued.",
+      "preparedPromptPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/c/balloon-prepared-prompt.txt"
+    }
+  ],
+  "updatedAt": "2026-10-23T08:34:25.357456+00:00",
+  "localProcessingNotes": [
+    "Initial system python3 lacked PIL; saved successfully using bundled dependency Python with PIL. No imagegen retry."
+  ],
+  "completionSummary": {
+    "assigned": 2,
+    "approved": 1,
+    "pendingGeneration": 1
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "runId": "20261023-020401",
+  "threadId": "01a1667d-06a1-7f31-b1b5-758e541e2870",
+  "startedAt": "2026-10-23T02:04:01.577242+00:00",
+  "batchPath": "output/imagegen/batch-20261023-020401",
+  "token": "00ae8eef-da6f-4587-85e4-8c7419a1a0c0",
+  "group": "b",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "integrated_reviewed_partial_batch",
+  "claimed": [
+    {
+      "senseId": "ba4ebaa9faa3f68cccf4a4eb8f7bbe3045d2a27ad094dcbe318fae27d72c90dd",
+      "wordId": "dict:shy",
+      "sourceId": "dict:shy",
+      "word": "shy",
+      "pos": "n.",
+      "meaning": "惊跳",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"shy\",\"pos\":\"n.\",\"meaning\":\"惊跳\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ba/ba4ebaa9faa3f68cccf4a4eb8f7bbe3045d2a27ad094dcbe318fae27d72c90dd.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: shy, n., 惊跳 — a sudden startled sideways jump, not bashfulness.\nPrimary request: a horse visibly making a sudden frightened sideways leap away from an umbrella that has abruptly sprung open on the ground beside it. Show the horse's wide startled eye, raised head, ears back, and all four hooves briefly off the ground in a sideways recoil. A small puff of disturbed dust and a subtle curved movement stroke make the abrupt jump clear. Keep this a single moment and simple two-object scene.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper.\nComposition: centered fully visible horse and umbrella in middle 70 percent, generous blank margins, readable small; soft daylight, muted natural colors.\nConstraints: no letters, numbers, labels, logos, watermarks, borders or UI. No shy person, no violence, no unrelated decorative objects."
+    },
+    {
+      "senseId": "f6eb7e5c57f38cbf55826264fbb2de0abf9d46cca583b580054a44f445af81ed",
+      "wordId": "dict:eighth",
+      "sourceId": "dict:eighth",
+      "word": "eighth",
+      "pos": "num.",
+      "meaning": "第八",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"eighth\",\"pos\":\"num.\",\"meaning\":\"第八\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/f6/f6eb7e5c57f38cbf55826264fbb2de0abf9d46cca583b580054a44f445af81ed.webp",
+      "status": "semantic_hold",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: eighth, ordinal numeral, 第八.\nPrimary request: show a single orderly queue of EXACTLY EIGHT small ducklings walking towards the left. The first seven ducklings are equally pale muted blue, each clearly separated and fully visible. The final duckling, the eighth from the leading left end, is coral orange and slightly more prominent. A low simple wooden gate at far left clearly establishes where the queue starts, with the seven blue ducklings ahead of the coral duckling waiting its turn. No other ducks, no overlap, exactly seven blue and one coral duckling. The point is the ordinal position at the back of an eight-member queue, not a collection of eight objects.\nStyle: hand-painted gouache and subtle colored-pencil texture, warm off-white paper, soft daylight.\nComposition: one gently curving continuous row, countable at small size, middle 70 percent, generous margins.\nConstraints: no letters, numerals, written labels, arrows with writing, logos, watermarks, borders or UI."
+    },
+    {
+      "senseId": "cee20eff004bc0c74900359ea746f5cce101e105a33c3b9885d55e83fbb49314",
+      "wordId": "dict:cruel",
+      "sourceId": "dict:cruel",
+      "word": "cruel",
+      "pos": "adj.",
+      "meaning": "残酷的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"cruel\",\"pos\":\"adj.\",\"meaning\":\"残酷的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ce/cee20eff004bc0c74900359ea746f5cce101e105a33c3b9885d55e83fbb49314.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration.\nExact target sense: cruel, adjective, 残酷的.\nPrimary request: a clearly mean older child deliberately crushing a younger child's lovingly made small sandcastle with one foot, grinning coldly while looking directly at the sad crying younger child beside the broken castle. Show the cruelty in the deliberate destructive action, the smirk and the victim's tears; no accident. Non-graphic child-safe scene. The older child's raised heel presses down through the castle tower while the younger child reaches helplessly toward the broken creation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper.\nComposition: tight simple centered scene with just the two children and sandcastle; fully visible in middle 70 percent with generous empty margin; soft daylight and muted colors.\nConstraints: no letters, numbers, text, logos, watermarks, borders, UI, blood, injuries or unrelated objects."
+    },
+    {
+      "senseId": "8b04aef3edc2cd3c0a2e5f70aa3677a498d56c260211885f2b6a93f239290df1",
+      "wordId": "dict:pioneer",
+      "sourceId": "dict:pioneer",
+      "word": "pioneer",
+      "pos": "n.",
+      "meaning": "先锋",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"pioneer\",\"pos\":\"n.\",\"meaning\":\"先锋\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/8b/8b04aef3edc2cd3c0a2e5f70aa3677a498d56c260211885f2b6a93f239290df1.webp",
+      "status": "semantic_hold",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration.\nExact target sense: pioneer, n., 先锋 — the first person who opens a way for others.\nPrimary request: one brave lead explorer visibly breaking a new narrow path through dense untouched tall grass, pushing the stems aside with both hands and stepping forward into unbroken vegetation. Behind this person, two travelers follow in the freshly opened narrow trail. The leading person's forward position and the new path being opened must be unmistakable. Simple neutral everyday exploration, no weapons or flags.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted green blue and coral.\nComposition: centered tightly related scene fully visible in middle 70 percent with generous empty space; leading person large, followers smaller; readable small.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI or unrelated decoration."
+    },
+    {
+      "senseId": "ec580887aa8b6139552039009c638a9b434c64ae290e906c0f95e8a180d68e45",
+      "wordId": "dict:wheat",
+      "sourceId": "dict:wheat",
+      "word": "wheat",
+      "pos": "n.",
+      "meaning": "小麦",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"wheat\",\"pos\":\"n.\",\"meaning\":\"小麦\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ec/ec580887aa8b6139552039009c638a9b434c64ae290e906c0f95e8a180d68e45.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration.\nExact target sense: wheat, n., 小麦.\nPrimary request: a small upright sheaf of ripe golden wheat stalks with characteristic plump wheat grain heads, short fine awns, alternating oval kernels along each compact spike, slender dry stems and a few narrow leaves. Add three loose wheat grains at the base to clarify the cereal plant. Botanically recognizable common wheat, not rice, barley, oats, corn, grass seed or bread.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, natural golden ochre.\nComposition: entire sheaf centered within middle 70 percent, generous empty paper margins, plant details readable small.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI or unrelated objects."
+    },
+    {
+      "senseId": "10d76c9e3e19f96e6b505a82c756e2f75c000a001f004cbd681378c159777652",
+      "wordId": "dict:robot",
+      "sourceId": "dict:robot",
+      "word": "robot",
+      "pos": "n.",
+      "meaning": "机械人",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"robot\",\"pos\":\"n.\",\"meaning\":\"机械人\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/10/10d76c9e3e19f96e6b505a82c756e2f75c000a001f004cbd681378c159777652.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: robot, n., 机械人.\nPrimary request: one friendly clearly mechanical humanoid robot standing upright, with a rounded metal head, simple two camera eyes, metal torso, visible elbow and knee hinges, mechanical segmented fingers and broad metal feet. A small open inset in the torso shows a few visible gears to make its machine nature clear. A physical machine person, not a human wearing a costume, not a toy box, not an animal.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted silver blue and coral.\nComposition: full body centered in middle 70 percent, generous blank paper margins, simple silhouette legible small.\nConstraints: no letters, numbers, text, symbols, logos, watermarks, borders, UI or unrelated objects."
+    },
+    {
+      "senseId": "8d473cfa00eb9d354d95751f72e9fe886ad106839dc85ef481b8cf19e0dffd28",
+      "wordId": "dict:kilometre",
+      "sourceId": "dict:kilometre",
+      "word": "kilometre",
+      "pos": "n.",
+      "meaning": "公里",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"kilometre\",\"pos\":\"n.\",\"meaning\":\"公里\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/8d/8d473cfa00eb9d354d95751f72e9fe886ad106839dc85ef481b8cf19e0dffd28.webp",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "52562fa02449fe1fdc48eb84df5693be9de3f88dd6635aa15ea312c225944d5a",
+      "wordId": "dict:cheer",
+      "sourceId": "dict:cheer",
+      "word": "cheer",
+      "pos": "n.",
+      "meaning": "愉快",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"cheer\",\"pos\":\"n.\",\"meaning\":\"愉快\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/52/52562fa02449fe1fdc48eb84df5693be9de3f88dd6635aa15ea312c225944d5a.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: cheer, n., 愉快 — a feeling of happy good spirits, not shouting encouragement.\nPrimary request: a cheerful little child sitting relaxed on a low garden bench with feet dangling, eyes bright and laughing, face and posture showing uncomplicated delight. The child joyfully holds a small flower while a friendly puppy at their feet wags its tail and nuzzles their knee. Warm gentle happiness is the single subject; no crowd, contest, applause, cheering gestures or reward trophies.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted green blue and coral.\nComposition: simple intimate scene centered fully visible in middle 70 percent with generous empty margins; expressive face readable small.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI or unrelated decoration."
+    },
+    {
+      "senseId": "80e8bb2f2206c1c485a95b70114ef9dff33db049f8da63bac6ef28809ebb3e58",
+      "wordId": "dict:awake",
+      "sourceId": "dict:awake",
+      "word": "awake",
+      "pos": "adj.",
+      "meaning": "醒着的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"awake\",\"pos\":\"adj.\",\"meaning\":\"醒着的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/80/80e8bb2f2206c1c485a95b70114ef9dff33db049f8da63bac6ef28809ebb3e58.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: awake, adj., 醒着的.\nPrimary request: one young child lying in bed at night with eyes WIDE OPEN, head raised alertly from the pillow and blanket up to the waist, looking directly at a small crescent moon visible in a simple bedroom window. The child's two eyes are clearly open and attentive, hands resting on top of the blanket. Emphasize being awake while in bed at nighttime, not getting out of bed, dreaming, yawning, sleeping or fear.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft dim moonlight, muted blue and cream with coral pajamas.\nComposition: close simple side view of child's face and upper body on bed, window small and secondary, centered middle 70 percent with generous empty margins, open eyes readable small.\nConstraints: no letters, numbers, clocks, text, labels, logos, watermarks, borders, UI or unrelated objects."
+    },
+    {
+      "senseId": "8845566a51afa964b3e753389e647cb4e7800fe31d2b83650719aa6fe5fd1c65",
+      "wordId": "dict:grandparent",
+      "sourceId": "dict:grandparent",
+      "word": "grandparent",
+      "pos": "n.",
+      "meaning": "祖父母",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"grandparent\",\"pos\":\"n.\",\"meaning\":\"祖父母\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/88/8845566a51afa964b3e753389e647cb4e7800fe31d2b83650719aa6fe5fd1c65.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: grandparent, n., 祖父母.\nPrimary request: warm three-generation family vignette. An elderly grandmother and elderly grandfather sit together on a simple low sofa, both visibly gray-haired with gentle age lines, embracing their little grandchild seated between them. One middle-aged adult parent stands behind with a hand resting on the elderly woman's shoulder, making the generational relationship clear. Emphasize the two grandparents as the large central subjects, not just generic old people.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted blue green and coral.\nComposition: compact four-person family group centered middle 70 percent, full heads and hands visible, generous blank paper margins and no room clutter; clearly distinct young, middle-aged and elderly generations.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI, family tree graphics or unrelated decoration."
+    },
+    {
+      "senseId": "5bbebb88fbcb6825f0d0890326889416855658acd0ed0a10b414ec81b73b6589",
+      "wordId": "dict:thread",
+      "sourceId": "dict:thread",
+      "word": "thread",
+      "pos": "n.",
+      "meaning": "线",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"thread\",\"pos\":\"n.\",\"meaning\":\"线\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/5b/5bbebb88fbcb6825f0d0890326889416855658acd0ed0a10b414ec81b73b6589.webp",
+      "status": "ready",
+      "actualPrompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration for a small learning card.\nExact target sense: thread, n., 线.\nPrimary request: show a single small wooden sewing-thread spool wound with very fine coral-red thread, with a long thin loose end clearly unwinding in a broad loose curve across the blank paper and passing through the eye of one plain metal sewing needle. Make the very fine continuous filament the most visible focal subject, clearly much thinner than yarn, rope or wire. Real sewing thread, not a computer conversation or a drawn geometric line.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural colors.\nComposition: close clear still life, spool and long loose thread centered in middle 70 percent, generous blank paper margins; filament readable at small size.\nConstraints: no letters, numerals, words, labels, logos, watermark, borders, UI or unrelated objects."
+    },
+    {
+      "senseId": "a17640790e21be1e2406b7be4a0024ba2ca07970379b84b49629794e98b95160",
+      "wordId": "dict:headache",
+      "sourceId": "dict:headache",
+      "word": "headache",
+      "pos": "n.",
+      "meaning": "头痛",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"headache\",\"pos\":\"n.\",\"meaning\":\"头痛\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/a1/a17640790e21be1e2406b7be4a0024ba2ca07970379b84b49629794e98b95160.webp",
+      "status": "pending_generation"
+    },
+    {
+      "senseId": "949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017",
+      "wordId": "dict:fantastic",
+      "sourceId": "dict:fantastic",
+      "word": "fantastic",
+      "pos": "adj.",
+      "meaning": "奇妙的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"fantastic\",\"pos\":\"adj.\",\"meaning\":\"奇妙的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/94/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "71b43f485d6c60193b5fa8b1396cafd91d3f9711d163e1f5b511f8541132af29",
+      "wordId": "dict:invention",
+      "sourceId": "dict:invention",
+      "word": "invention",
+      "pos": "n.",
+      "meaning": "发明",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"invention\",\"pos\":\"n.\",\"meaning\":\"发明\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/71/71b43f485d6c60193b5fa8b1396cafd91d3f9711d163e1f5b511f8541132af29.webp",
+      "status": "pending_generation"
+    },
+    {
+      "senseId": "1c4381080e6b31fce19b288106f575991cbcf05c7da3ec8204631906c7570300",
+      "wordId": "dict:balloon",
+      "sourceId": "dict:balloon",
+      "word": "balloon",
+      "pos": "n.",
+      "meaning": "气球",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"balloon\",\"pos\":\"n.\",\"meaning\":\"气球\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/1c/1c4381080e6b31fce19b288106f575991cbcf05c7da3ec8204631906c7570300.webp",
+      "status": "pending_generation"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "ba4ebaa9faa3f68cccf4a4eb8f7bbe3045d2a27ad094dcbe318fae27d72c90dd",
+      "word": "shy",
+      "pos": "n.",
+      "meaning": "惊跳",
+      "wordId": "dict:shy",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: shy, n., 惊跳 — a sudden startled sideways jump, not bashfulness.\nPrimary request: a horse visibly making a sudden frightened sideways leap away from an umbrella that has abruptly sprung open on the ground beside it. Show the horse's wide startled eye, raised head, ears back, and all four hooves briefly off the ground in a sideways recoil. A small puff of disturbed dust and a subtle curved movement stroke make the abrupt jump clear. Keep this a single moment and simple two-object scene.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper.\nComposition: centered fully visible horse and umbrella in middle 70 percent, generous blank margins, readable small; soft daylight, muted natural colors.\nConstraints: no letters, numbers, labels, logos, watermarks, borders or UI. No shy person, no violence, no unrelated decorative objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16681-7a35-7911-8597-6bed3d7fb106/exec-c0c36fc0-1106-4c34-b2bc-2a33a36211a6.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a16681-7a35-7911-8597-6bed3d7fb106/exec-c0c36fc0-1106-4c34-b2bc-2a33a36211a6.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/b/ba4ebaa9faa3f68cccf4a4eb8f7bbe3045d2a27ad094dcbe318fae27d72c90dd.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/b/ba4ebaa9faa3f68cccf4a4eb8f7bbe3045d2a27ad094dcbe318fae27d72c90dd.webp",
+      "savedPath": "public/images/words/ba/ba4ebaa9faa3f68cccf4a4eb8f7bbe3045d2a27ad094dcbe318fae27d72c90dd.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "马瞪眼向侧方跃离打开的伞，四蹄离地，惊跳的姿态和诱因明确。",
+        "runId": "20261023-060431-resume"
+      },
+      "generatedAt": "2026-10-23T02:11:36.190156+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "resumeVisualReview": {
+        "reviewedAt": "2026-10-23T04:11:25.438703+00:00",
+        "method": "Actual view_image of existing 640px WebP, target masked semantic check",
+        "reason": "马睁大眼四蹄腾空、朝远离张开雨伞的方向惊跳，能清楚表达惊跳。"
+      },
+      "sha256": "b9b2fe9186f575afed47851307b586274c3b68ad63a683ed32bb9ca71e1296fc",
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T02:12:42.530128+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target visual semantic check.",
+          "reason": "640px实际图中马因地上的张开雨伞惊起、四蹄离地，眼睛睁大且身体向旁侧回避，尘土及运动线显示突然惊跳；没有害羞人物或文字。与 n./惊跳一致。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "A horse recoils sideways into a startled leap away from an abruptly open umbrella, with alarmed wide eyes and airborne tucked legs. It depicts the exact noun 惊跳 rather than the adjective shy/害羞.",
+        "sha256": "b9b2fe9186f575afed47851307b586274c3b68ad63a683ed32bb9ca71e1296fc",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "b9b2fe9186f575afed47851307b586274c3b68ad63a683ed32bb9ca71e1296fc",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 51094,
+      "sourceSha256": "fa62ceb89a38fdd9effdd1b76a8454294069142959a13cd1ee6b77d7c8c534cd"
+    },
+    {
+      "senseId": "cee20eff004bc0c74900359ea746f5cce101e105a33c3b9885d55e83fbb49314",
+      "word": "cruel",
+      "pos": "adj.",
+      "meaning": "残酷的",
+      "wordId": "dict:cruel",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration.\nExact target sense: cruel, adjective, 残酷的.\nPrimary request: a clearly mean older child deliberately crushing a younger child's lovingly made small sandcastle with one foot, grinning coldly while looking directly at the sad crying younger child beside the broken castle. Show the cruelty in the deliberate destructive action, the smirk and the victim's tears; no accident. Non-graphic child-safe scene. The older child's raised heel presses down through the castle tower while the younger child reaches helplessly toward the broken creation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper.\nComposition: tight simple centered scene with just the two children and sandcastle; fully visible in middle 70 percent with generous empty margin; soft daylight and muted colors.\nConstraints: no letters, numbers, text, logos, watermarks, borders, UI, blood, injuries or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16681-7a35-7911-8597-6bed3d7fb106/exec-aff31ff8-1117-4f32-9c35-141eba1f7107.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a16681-7a35-7911-8597-6bed3d7fb106/exec-aff31ff8-1117-4f32-9c35-141eba1f7107.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/b/cee20eff004bc0c74900359ea746f5cce101e105a33c3b9885d55e83fbb49314.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/b/cee20eff004bc0c74900359ea746f5cce101e105a33c3b9885d55e83fbb49314.webp",
+      "savedPath": "public/images/words/ce/cee20eff004bc0c74900359ea746f5cce101e105a33c3b9885d55e83fbb49314.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "大孩子带恶意笑容故意踩碎沙堡，小孩流泪伸手，残酷行为及受害关系清楚。",
+        "runId": "20261023-060431-resume"
+      },
+      "generatedAt": "2026-10-23T02:22:07.355114+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "resumeVisualReview": {
+        "reviewedAt": "2026-10-23T04:11:25.438703+00:00",
+        "method": "Actual view_image of existing 640px WebP, target masked semantic check",
+        "reason": "男孩恶意冷笑踩碎沙堡，女孩哭泣阻拦，清楚表现残酷的性质。"
+      },
+      "sha256": "dc39c657f76101bfc7c6b67e0144310a949958c2a0dfe9237a80e0f7f8a845e5",
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T02:23:28.653222+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target visual semantic check.",
+          "reason": "实际图中大孩子带恶意冷笑故意踩碎小孩子的沙堡，后者流泪阻止，动作和表情清楚表达残酷、无情的性质；没有伤害血腥或文字。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "A maliciously grinning boy deliberately stamps on a smaller crying child's sandcastle. Intentional harm plus the victim's visible distress clearly conveys 残酷的 rather than ordinary play or an accident.",
+        "sha256": "dc39c657f76101bfc7c6b67e0144310a949958c2a0dfe9237a80e0f7f8a845e5",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "dc39c657f76101bfc7c6b67e0144310a949958c2a0dfe9237a80e0f7f8a845e5",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 49384,
+      "sourceSha256": "792a20705bbc492837cf0f0e266c306ea8e3641730eb97b1f9009011153c0103"
+    },
+    {
+      "senseId": "ec580887aa8b6139552039009c638a9b434c64ae290e906c0f95e8a180d68e45",
+      "word": "wheat",
+      "pos": "n.",
+      "meaning": "小麦",
+      "wordId": "dict:wheat",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration.\nExact target sense: wheat, n., 小麦.\nPrimary request: a small upright sheaf of ripe golden wheat stalks with characteristic plump wheat grain heads, short fine awns, alternating oval kernels along each compact spike, slender dry stems and a few narrow leaves. Add three loose wheat grains at the base to clarify the cereal plant. Botanically recognizable common wheat, not rice, barley, oats, corn, grass seed or bread.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, natural golden ochre.\nComposition: entire sheaf centered within middle 70 percent, generous empty paper margins, plant details readable small.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-ad81c905-6ec3-4816-a884-cad072384396.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-ad81c905-6ec3-4816-a884-cad072384396.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/raw/ec580887aa8b6139552039009c638a9b434c64ae290e906c0f95e8a180d68e45.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/candidates/ec580887aa8b6139552039009c638a9b434c64ae290e906c0f95e8a180d68e45.webp",
+      "savedPath": "public/images/words/ec/ec580887aa8b6139552039009c638a9b434c64ae290e906c0f95e8a180d68e45.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T04:14:40.322486+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "e9041d9f5b98f2c144a64643ff4883c76de59d6a86c274d0317a352b9ef73577",
+      "rawSha256": "23574351e49ca4ede939dc383e32c6d6e138675f0ab0f43e82886efae732a1c7",
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "金黄紧实麦穗有成列椭圆麦粒、细茎和窄叶，地面有麦粒，可识别小麦。",
+        "runId": "20261023-060431-resume"
+      },
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T04:15:11.617533+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check. Awaiting independent parent cross-review.",
+          "reason": "实际640px图为金黄色紧实麦穗，椭圆麦粒成列贴近穗轴，细茎窄叶与地面麦粒清楚，无文字及无关元素，能识别小麦。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "Dominant golden compact seed heads show paired plump wheat grains along stalks, narrow leaves and awns; loose grains below support crop identity. Clear 小麦 rather than rice or a generic flower.",
+        "sha256": "e9041d9f5b98f2c144a64643ff4883c76de59d6a86c274d0317a352b9ef73577",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "e9041d9f5b98f2c144a64643ff4883c76de59d6a86c274d0317a352b9ef73577",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 68554,
+      "sourceSha256": "23574351e49ca4ede939dc383e32c6d6e138675f0ab0f43e82886efae732a1c7"
+    },
+    {
+      "senseId": "10d76c9e3e19f96e6b505a82c756e2f75c000a001f004cbd681378c159777652",
+      "word": "robot",
+      "pos": "n.",
+      "meaning": "机械人",
+      "wordId": "dict:robot",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: robot, n., 机械人.\nPrimary request: one friendly clearly mechanical humanoid robot standing upright, with a rounded metal head, simple two camera eyes, metal torso, visible elbow and knee hinges, mechanical segmented fingers and broad metal feet. A small open inset in the torso shows a few visible gears to make its machine nature clear. A physical machine person, not a human wearing a costume, not a toy box, not an animal.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted silver blue and coral.\nComposition: full body centered in middle 70 percent, generous blank paper margins, simple silhouette legible small.\nConstraints: no letters, numbers, text, symbols, logos, watermarks, borders, UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-25e8c7dc-4942-48cc-9ced-cd0653e1f6ab.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-25e8c7dc-4942-48cc-9ced-cd0653e1f6ab.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/raw/10d76c9e3e19f96e6b505a82c756e2f75c000a001f004cbd681378c159777652.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/candidates/10d76c9e3e19f96e6b505a82c756e2f75c000a001f004cbd681378c159777652.webp",
+      "savedPath": "public/images/words/10/10d76c9e3e19f96e6b505a82c756e2f75c000a001f004cbd681378c159777652.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T04:15:59.697957+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "5891aa42e2e9e9f3f339ef20a76676707414d8ba0f835d06c478ba8ffdeb0b6d",
+      "rawSha256": "3d6550ad0aac5765ffa2850eb0af794004beebd0fe856538f29be81bc6489159",
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "金属人形机器全身清楚，机械关节及胸口齿轮直接表达机械人。",
+        "runId": "20261023-060431-resume"
+      },
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T04:16:20.809770+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check. Awaiting independent parent cross-review.",
+          "reason": "实际640px图为完整金属人形机器，机械关节和胸口齿轮清楚，轮廓简洁，直接表达机械人，无文字。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "Clearly humanoid metal machine with jointed mechanical limbs, bolts, visible chest gears and manufactured head/eyes. Exact noun 机械人 immediately identifiable without text.",
+        "sha256": "5891aa42e2e9e9f3f339ef20a76676707414d8ba0f835d06c478ba8ffdeb0b6d",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "5891aa42e2e9e9f3f339ef20a76676707414d8ba0f835d06c478ba8ffdeb0b6d",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 53514,
+      "sourceSha256": "3d6550ad0aac5765ffa2850eb0af794004beebd0fe856538f29be81bc6489159"
+    },
+    {
+      "senseId": "52562fa02449fe1fdc48eb84df5693be9de3f88dd6635aa15ea312c225944d5a",
+      "word": "cheer",
+      "pos": "n.",
+      "meaning": "愉快",
+      "wordId": "dict:cheer",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: cheer, n., 愉快 — a feeling of happy good spirits, not shouting encouragement.\nPrimary request: a cheerful little child sitting relaxed on a low garden bench with feet dangling, eyes bright and laughing, face and posture showing uncomplicated delight. The child joyfully holds a small flower while a friendly puppy at their feet wags its tail and nuzzles their knee. Warm gentle happiness is the single subject; no crowd, contest, applause, cheering gestures or reward trophies.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted green blue and coral.\nComposition: simple intimate scene centered fully visible in middle 70 percent with generous empty margins; expressive face readable small.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI or unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-3a130990-f50f-4bb2-904a-a99c0e238e0b.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-3a130990-f50f-4bb2-904a-a99c0e238e0b.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/raw/52562fa02449fe1fdc48eb84df5693be9de3f88dd6635aa15ea312c225944d5a.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/candidates/52562fa02449fe1fdc48eb84df5693be9de3f88dd6635aa15ea312c225944d5a.webp",
+      "savedPath": "public/images/words/52/52562fa02449fe1fdc48eb84df5693be9de3f88dd6635aa15ea312c225944d5a.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T04:20:52.145366+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "26bd9b30f1c1f9f6166adf97f4688dab2f90f62fb82b09e9ab689da950b5f47d",
+      "rawSha256": "0b7a887aee13604a9d3fb587748352f93c41a0025169bee2581ce7042570befa",
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "女孩笑容开朗姿态放松，小狗亲昵，无喝彩动作，可读为愉快心情。",
+        "runId": "20261023-060431-resume"
+      },
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T04:28:08.858288+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check. Awaiting independent parent cross-review.",
+          "reason": "实际640px图女孩笑容开朗、姿态放松，亲昵小狗强化愉快心情，没有竞赛喝彩动作；可表达n.愉快，花园装饰稍多但情绪主体清晰。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "Laughing smiling child in relaxed delighted posture with playful dog and flowers conveys the emotional state 愉快. It does not substitute the other sense cheering at an event; no text.",
+        "sha256": "26bd9b30f1c1f9f6166adf97f4688dab2f90f62fb82b09e9ab689da950b5f47d",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "26bd9b30f1c1f9f6166adf97f4688dab2f90f62fb82b09e9ab689da950b5f47d",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 98098,
+      "sourceSha256": "0b7a887aee13604a9d3fb587748352f93c41a0025169bee2581ce7042570befa"
+    },
+    {
+      "senseId": "80e8bb2f2206c1c485a95b70114ef9dff33db049f8da63bac6ef28809ebb3e58",
+      "word": "awake",
+      "pos": "adj.",
+      "meaning": "醒着的",
+      "wordId": "dict:awake",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: awake, adj., 醒着的.\nPrimary request: one young child lying in bed at night with eyes WIDE OPEN, head raised alertly from the pillow and blanket up to the waist, looking directly at a small crescent moon visible in a simple bedroom window. The child's two eyes are clearly open and attentive, hands resting on top of the blanket. Emphasize being awake while in bed at nighttime, not getting out of bed, dreaming, yawning, sleeping or fear.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft dim moonlight, muted blue and cream with coral pajamas.\nComposition: close simple side view of child's face and upper body on bed, window small and secondary, centered middle 70 percent with generous empty margins, open eyes readable small.\nConstraints: no letters, numbers, clocks, text, labels, logos, watermarks, borders, UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-8ae2d8ed-4c60-431c-a7ec-d6e8b6e095c9.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-8ae2d8ed-4c60-431c-a7ec-d6e8b6e095c9.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/raw/80e8bb2f2206c1c485a95b70114ef9dff33db049f8da63bac6ef28809ebb3e58.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/candidates/80e8bb2f2206c1c485a95b70114ef9dff33db049f8da63bac6ef28809ebb3e58.webp",
+      "savedPath": "public/images/words/80/80e8bb2f2206c1c485a95b70114ef9dff33db049f8da63bac6ef28809ebb3e58.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T04:39:36.909261+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "182e4c572d33ee02fe8a2ce93f85a5b42d37ee75cc82dfb482afbd1da11eb7f7",
+      "rawSha256": "be53a26394cd60b5873f4c4dd8679a29377cdfe8d2995e6610d2e4aba82dac34",
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "孩子夜间在床上睁眼抬头看窗外，无睡眠符号，清醒状态清楚。",
+        "runId": "20261023-060431-resume"
+      },
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T04:46:12.503911+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check. Awaiting independent parent cross-review.",
+          "reason": "实际640px图孩子夜间在床上睁大眼睛看窗外，神态清醒且无睡眠符号，床铺与月夜形成明确对照，能表达醒着的。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "Child lies propped up in bed at night with clearly open eyes and attentive gaze toward the window. Bedtime setting contrasts with visible alertness, directly conveying 醒着的.",
+        "sha256": "182e4c572d33ee02fe8a2ce93f85a5b42d37ee75cc82dfb482afbd1da11eb7f7",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "182e4c572d33ee02fe8a2ce93f85a5b42d37ee75cc82dfb482afbd1da11eb7f7",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 75254,
+      "sourceSha256": "be53a26394cd60b5873f4c4dd8679a29377cdfe8d2995e6610d2e4aba82dac34"
+    },
+    {
+      "senseId": "8845566a51afa964b3e753389e647cb4e7800fe31d2b83650719aa6fe5fd1c65",
+      "word": "grandparent",
+      "pos": "n.",
+      "meaning": "祖父母",
+      "wordId": "dict:grandparent",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: grandparent, n., 祖父母.\nPrimary request: warm three-generation family vignette. An elderly grandmother and elderly grandfather sit together on a simple low sofa, both visibly gray-haired with gentle age lines, embracing their little grandchild seated between them. One middle-aged adult parent stands behind with a hand resting on the elderly woman's shoulder, making the generational relationship clear. Emphasize the two grandparents as the large central subjects, not just generic old people.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted blue green and coral.\nComposition: compact four-person family group centered middle 70 percent, full heads and hands visible, generous blank paper margins and no room clutter; clearly distinct young, middle-aged and elderly generations.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI, family tree graphics or unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-4550c879-fe05-47f9-b870-a10d9c68f2f3.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-4550c879-fe05-47f9-b870-a10d9c68f2f3.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/raw/8845566a51afa964b3e753389e647cb4e7800fe31d2b83650719aa6fe5fd1c65.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/candidates/8845566a51afa964b3e753389e647cb4e7800fe31d2b83650719aa6fe5fd1c65.webp",
+      "savedPath": "public/images/words/88/8845566a51afa964b3e753389e647cb4e7800fe31d2b83650719aa6fe5fd1c65.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T04:50:55.742614+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "aa5f106be3c399bcbd3447f77cb3b165651279715fa0dbdd75a9cc124a04c420",
+      "rawSha256": "06e88fe092c65500c22e2ca7901d397105a7cc2cd5d1f2322137ab13e895abc7",
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "白发祖父母拥坐幼童，中年母亲站后搭肩，三代家庭关系清楚。",
+        "runId": "20261023-060431-resume"
+      },
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T04:51:31.701058+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check. Awaiting independent parent cross-review.",
+          "reason": "实际640px图有白发祖父祖母与幼童拥坐，中年母亲站后搭肩，三代年龄层次和家庭关系清楚，能识别祖父母。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "An elderly grey-haired man and woman embrace a young child while an adult parent stands behind, visibly establishing three generations. The elderly pair is dominant; exact noun 祖父母 is clear.",
+        "sha256": "aa5f106be3c399bcbd3447f77cb3b165651279715fa0dbdd75a9cc124a04c420",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "aa5f106be3c399bcbd3447f77cb3b165651279715fa0dbdd75a9cc124a04c420",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 92340,
+      "sourceSha256": "06e88fe092c65500c22e2ca7901d397105a7cc2cd5d1f2322137ab13e895abc7"
+    },
+    {
+      "senseId": "5bbebb88fbcb6825f0d0890326889416855658acd0ed0a10b414ec81b73b6589",
+      "word": "thread",
+      "pos": "n.",
+      "meaning": "线",
+      "wordId": "dict:thread",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration for a small learning card.\nExact target sense: thread, n., 线.\nPrimary request: show a single small wooden sewing-thread spool wound with very fine coral-red thread, with a long thin loose end clearly unwinding in a broad loose curve across the blank paper and passing through the eye of one plain metal sewing needle. Make the very fine continuous filament the most visible focal subject, clearly much thinner than yarn, rope or wire. Real sewing thread, not a computer conversation or a drawn geometric line.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural colors.\nComposition: close clear still life, spool and long loose thread centered in middle 70 percent, generous blank paper margins; filament readable at small size.\nConstraints: no letters, numerals, words, labels, logos, watermark, borders, UI or unrelated objects.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1675d-4359-7632-bb4c-32d204330d80/exec-805d6804-1ff8-4506-86a0-fbf7c5a578b2.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a1675d-4359-7632-bb4c-32d204330d80/exec-805d6804-1ff8-4506-86a0-fbf7c5a578b2.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/b/raw/5bbebb88fbcb6825f0d0890326889416855658acd0ed0a10b414ec81b73b6589.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/b/candidates/5bbebb88fbcb6825f0d0890326889416855658acd0ed0a10b414ec81b73b6589.webp",
+      "savedPath": "public/images/words/5b/5bbebb88fbcb6825f0d0890326889416855658acd0ed0a10b414ec81b73b6589.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T06:28:38.054228+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "cf9b5cc169d1e99fc147ae109bda9973b2f40bd23716d5f1e618d454a7b05617",
+      "rawSha256": "cae3327c18ce097a6d26f295702ed831065b5706c8fd7f4973e6ce9c82af1c88",
+      "visualReview": {
+        "status": "passed_provisional",
+        "reviewedAt": "2026-10-23T06:29:32.102640+00:00",
+        "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "细红色缝纫线绕木线轴并有长散线，旁边细针穿线，加强线而非毛线绳索的语义；无线条文字标注，640px可辨。散线与穿针线有分段，但不妨碍线的物体识别。",
+        "runId": "20261023-060431-resume"
+      },
+      "independentVisualReview": {
+        "passed": true,
+        "reason": "A fine continuous red strand unwinds from a sewing spool and passes through a metal needle eye. Thinness, spool winding and needle distinguish 线 from thick rope or wire; clear at 640px and no text.",
+        "sha256": "cf9b5cc169d1e99fc147ae109bda9973b2f40bd23716d5f1e618d454a7b05617",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "cf9b5cc169d1e99fc147ae109bda9973b2f40bd23716d5f1e618d454a7b05617",
+      "status": "ready",
+      "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+      "bytes": 29366,
+      "sourceSha256": "cae3327c18ce097a6d26f295702ed831065b5706c8fd7f4973e6ce9c82af1c88"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "f6eb7e5c57f38cbf55826264fbb2de0abf9d46cca583b580054a44f445af81ed",
+      "word": "eighth",
+      "pos": "num.",
+      "meaning": "第八",
+      "wordId": "dict:eighth",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square vocabulary illustration.\nExact target sense: eighth, ordinal numeral, 第八.\nPrimary request: show a single orderly queue of EXACTLY EIGHT small ducklings walking towards the left. The first seven ducklings are equally pale muted blue, each clearly separated and fully visible. The final duckling, the eighth from the leading left end, is coral orange and slightly more prominent. A low simple wooden gate at far left clearly establishes where the queue starts, with the seven blue ducklings ahead of the coral duckling waiting its turn. No other ducks, no overlap, exactly seven blue and one coral duckling. The point is the ordinal position at the back of an eight-member queue, not a collection of eight objects.\nStyle: hand-painted gouache and subtle colored-pencil texture, warm off-white paper, soft daylight.\nComposition: one gently curving continuous row, countable at small size, middle 70 percent, generous margins.\nConstraints: no letters, numerals, written labels, arrows with writing, logos, watermarks, borders or UI.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16681-7a35-7911-8597-6bed3d7fb106/exec-2b9edeb8-13fa-4c4e-a16a-0c0b6e232396.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a16681-7a35-7911-8597-6bed3d7fb106/exec-2b9edeb8-13fa-4c4e-a16a-0c0b6e232396.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/b/f6eb7e5c57f38cbf55826264fbb2de0abf9d46cca583b580054a44f445af81ed.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/b/f6eb7e5c57f38cbf55826264fbb2de0abf9d46cca583b580054a44f445af81ed.webp",
+      "reviewed": false,
+      "provisionalApproved": false,
+      "visualReview": {
+        "status": "semantic_hold",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "实际图八只蓝鸭加一只橙鸭，共九只；橙鸭在第九位，与第八精确义项冲突。保留原图不重生。",
+        "runId": "20261023-060431-resume"
+      },
+      "generatedAt": "2026-10-23T02:16:48.106781+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "resumeVisualReview": {
+        "reviewedAt": "2026-10-23T04:11:25.438703+00:00",
+        "method": "Actual view_image of existing 640px WebP, target masked semantic check",
+        "reason": "队列实为8只蓝鸭加1只橙鸭，橙鸭为第九，仍拒绝。"
+      },
+      "sha256": "14a2416cad9f92b99e4c6b29a45b683d60eda9c06c106c41e07a189aefa27247",
+      "reviewHistory": [
+        {
+          "status": "needs_review",
+          "reviewedAt": "2026-10-23T02:18:58.133832+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target visual semantic check.",
+          "reason": "实际640px图共9只鸭：8只蓝鸭在前，橙色鸭排第九。与第八不符，不能通过。图面背景也过多。保留候选不计完成。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": false,
+        "reason": "Counting left to right gives eight blue ducklings followed by one orange duckling: the highlighted duckling is ninth, not eighth. No alternate explicit counting direction fixes an eighth-position highlight. Hold; ordinal is factually incorrect.",
+        "sha256": "14a2416cad9f92b99e4c6b29a45b683d60eda9c06c106c41e07a189aefa27247",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "14a2416cad9f92b99e4c6b29a45b683d60eda9c06c106c41e07a189aefa27247",
+      "status": "semantic_hold",
+      "rejectionReason": "Counting left to right gives eight blue ducklings followed by one orange duckling: the highlighted duckling is ninth, not eighth. No alternate explicit counting direction fixes an eighth-position highlight. Hold; ordinal is factually incorrect.",
+      "sourceSha256": "887a335bee0b1837ee3422f06d6edd7484ba24780367a70ae6a1560b809442ed"
+    },
+    {
+      "senseId": "8b04aef3edc2cd3c0a2e5f70aa3677a498d56c260211885f2b6a93f239290df1",
+      "word": "pioneer",
+      "pos": "n.",
+      "meaning": "先锋",
+      "wordId": "dict:pioneer",
+      "stageId": "junior",
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration.\nExact target sense: pioneer, n., 先锋 — the first person who opens a way for others.\nPrimary request: one brave lead explorer visibly breaking a new narrow path through dense untouched tall grass, pushing the stems aside with both hands and stepping forward into unbroken vegetation. Behind this person, two travelers follow in the freshly opened narrow trail. The leading person's forward position and the new path being opened must be unmistakable. Simple neutral everyday exploration, no weapons or flags.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted green blue and coral.\nComposition: centered tightly related scene fully visible in middle 70 percent with generous empty space; leading person large, followers smaller; readable small.\nConstraints: no letters, numbers, text, labels, logos, watermarks, borders, UI or unrelated decoration.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-7c8ba16a-2a3f-49d0-b9cc-7fd44ceab91a.png",
+      "nativeSource": "/Users/huangjiabao/.codex/generated_images/01a166f2-2be1-7c70-ba9f-3546209c7cfe/exec-7c8ba16a-2a3f-49d0-b9cc-7fd44ceab91a.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/raw/8b04aef3edc2cd3c0a2e5f70aa3677a498d56c260211885f2b6a93f239290df1.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-040748-resume/b/candidates/8b04aef3edc2cd3c0a2e5f70aa3677a498d56c260211885f2b6a93f239290df1.webp",
+      "reviewed": false,
+      "provisionalApproved": false,
+      "generatedAt": "2026-10-23T04:12:38.996878+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sha256": "71e2610a104faa316ce39324aea48cdb33d1dd96625c05826fda0d90fc49b560",
+      "rawSha256": "2e0f1ad55c11802d7573710cef1b1b7803679f28ef905661da70fe7c3eccf41d",
+      "visualReview": {
+        "status": "semantic_hold",
+        "reviewedAt": "2026-10-23T06:17:16.257611+00:00",
+        "method": "Actual view_image of existing individual 640px WebP; masked-target semantic check; awaiting independent parent cross-review.",
+        "reason": "人物拨草领队，但可直接误认普通徒步或带路；尚不能稳定区分先锋与领队，待主智能体独立复核。",
+        "runId": "20261023-060431-resume"
+      },
+      "reviewHistory": [
+        {
+          "status": "passed_provisional",
+          "reviewedAt": "2026-10-23T04:13:04.644415+00:00",
+          "method": "Actual view_image of saved optimized 640px WebP; masked-target semantic check. Awaiting independent parent cross-review.",
+          "reason": "实际640px图前方人物用双手拨开未开垦高草，为身后的两名旅行者开路，领先开路与跟随关系清晰，可表达先锋；背景略多，交主独立复核。"
+        }
+      ],
+      "independentVisualReview": {
+        "passed": false,
+        "reason": "The leading backpacker walks through tall vegetation with two hikers behind. This establishes a hiking leader or trail guide, but no visible evidence distinguishes the first person opening a previously unexplored route or a pioneer/先锋. Semantic ambiguity remains without the target label.",
+        "sha256": "71e2610a104faa316ce39324aea48cdb33d1dd96625c05826fda0d90fc49b560",
+        "reportPath": "output/imagegen/batch-20261023-020401/20261023-060431-resume/a/b-cross-review.json",
+        "checkedAt": "2026-10-23T06:41:12.008233+00:00",
+        "method": "Independent second viewer inspected actual saved image; checked exact word, POS, meaning and visual-only interpretability. Known mapping; not a blind-test claim."
+      },
+      "finalReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-23T06:52:25.235257+00:00",
+        "runId": "20261023-060431-resume",
+        "method": "Conservative agreement between actual generator/recovery visual review and independent second visual review; exact sense and hashes checked"
+      },
+      "candidateSha256": "71e2610a104faa316ce39324aea48cdb33d1dd96625c05826fda0d90fc49b560",
+      "status": "semantic_hold",
+      "rejectionReason": "The leading backpacker walks through tall vegetation with two hikers behind. This establishes a hiking leader or trail guide, but no visible evidence distinguishes the first person opening a previously unexplored route or a pioneer/先锋. Semantic ambiguity remains without the target label.",
+      "sourceSha256": "2e0f1ad55c11802d7573710cef1b1b7803679f28ef905661da70fe7c3eccf41d"
+    }
+  ],
+  "failures": [
+    {
+      "senseId": "8d473cfa00eb9d354d95751f72e9fe886ad106839dc85ef481b8cf19e0dffd28",
+      "word": "kilometre",
+      "pos": "n.",
+      "meaning": "公里",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "无文字无数字图不能把公里与英里、米等精确长度单位区分；生成前保留，不虚构产物。",
+      "at": "2026-10-23T06:17:16.257611+00:00"
+    },
+    {
+      "senseId": "949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017",
+      "word": "fantastic",
+      "pos": "adj.",
+      "meaning": "奇妙的",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "奇妙的是主观评价，奇幻装饰或惊讶人物都可误读为魔法、惊讶、美丽；未找到无需词条即稳定体现当前形容词义项的具体场景，生成前保留待复核。",
+      "at": "2026-10-23T06:17:16.257611+00:00"
+    }
+  ],
+  "todo": [
+    {
+      "senseId": "f6eb7e5c57f38cbf55826264fbb2de0abf9d46cca583b580054a44f445af81ed",
+      "word": "eighth",
+      "status": "semantic_hold",
+      "reason": "Counting left to right gives eight blue ducklings followed by one orange duckling: the highlighted duckling is ninth, not eighth. No alternate explicit counting direction fixes an eighth-position highlight. Hold; ordinal is factually incorrect."
+    },
+    {
+      "senseId": "8b04aef3edc2cd3c0a2e5f70aa3677a498d56c260211885f2b6a93f239290df1",
+      "word": "pioneer",
+      "status": "semantic_hold",
+      "reason": "The leading backpacker walks through tall vegetation with two hikers behind. This establishes a hiking leader or trail guide, but no visible evidence distinguishes the first person opening a previously unexplored route or a pioneer/先锋. Semantic ambiguity remains without the target label."
+    },
+    {
+      "senseId": "8d473cfa00eb9d354d95751f72e9fe886ad106839dc85ef481b8cf19e0dffd28",
+      "word": "kilometre",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "a17640790e21be1e2406b7be4a0024ba2ca07970379b84b49629794e98b95160",
+      "word": "headache",
+      "status": "pending_generation",
+      "deferredReason": "Global stop requested after group a built-in network/decode failure; not attempted in this run."
+    },
+    {
+      "senseId": "949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017",
+      "word": "fantastic",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "71b43f485d6c60193b5fa8b1396cafd91d3f9711d163e1f5b511f8541132af29",
+      "word": "invention",
+      "status": "pending_generation",
+      "deferredReason": "Global stop requested after group a built-in network/decode failure; not attempted in this run."
+    },
+    {
+      "senseId": "1c4381080e6b31fce19b288106f575991cbcf05c7da3ec8204631906c7570300",
+      "word": "balloon",
+      "status": "pending_generation",
+      "deferredReason": "Global stop requested after group a built-in network/decode failure; not attempted in this run."
+    }
+  ],
+  "updatedAt": "2026-10-23T08:39:17.193041+00:00",
+  "resumedBy": "20261023-060431-resume",
+  "resumedAt": "2026-10-23T06:17:16.257611+00:00",
+  "stopReason": "Parent instructed global stop after group a built-in network/decode failure. In-flight thread succeeded and saved; no more generation calls, no CLI/API.",
+  "resumeRunId": "20261023-060431-resume",
+  "completionSummary": {
+    "claimed": 15,
+    "assetsInThisLedger": 8,
+    "continuedReady": 0,
+    "totalReadyAcrossContinuation": 8,
+    "deferred": 2,
+    "pendingGeneration": 5
+  },
+  "finalizedByRunId": "20261023-080307-resume"
+}

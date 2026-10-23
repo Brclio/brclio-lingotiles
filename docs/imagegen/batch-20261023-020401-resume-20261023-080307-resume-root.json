@@ -1,0 +1,105 @@
+{
+  "runId": "20261023-080307-resume",
+  "threadId": "01a167c3-7e89-7b81-a71f-a88094d1957f",
+  "startedAt": "2026-10-23T08:03:07.685609+00:00",
+  "batchPath": "output/imagegen/batch-20261023-020401",
+  "recoveryPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume",
+  "group": "root",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "integrated_reviewed_partial_batch",
+  "claimed": [
+    {
+      "senseId": "8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b",
+      "wordId": "dict:cheat",
+      "sourceId": "dict:cheat",
+      "word": "cheat",
+      "pos": "n.",
+      "meaning": "欺骗",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"cheat\",\"pos\":\"n.\",\"meaning\":\"欺骗\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/8c/8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "71b43f485d6c60193b5fa8b1396cafd91d3f9711d163e1f5b511f8541132af29",
+      "wordId": "dict:invention",
+      "sourceId": "dict:invention",
+      "word": "invention",
+      "pos": "n.",
+      "meaning": "发明",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"invention\",\"pos\":\"n.\",\"meaning\":\"发明\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/71/71b43f485d6c60193b5fa8b1396cafd91d3f9711d163e1f5b511f8541132af29.webp",
+      "status": "pending_generation"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b",
+      "wordId": "dict:cheat",
+      "sourceId": "dict:cheat",
+      "word": "cheat",
+      "pos": "n.",
+      "meaning": "欺骗",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration for cheat / n. / 欺骗.\nPrimary request: show an unmistakable act of deception in a simple tabletop card game between two adults. The adult at left smiles innocently toward the opponent while secretly pulling an extra playing card from inside their sleeve beneath the table edge with the other hand. Show the hidden card and the dishonest hand clearly to the viewer, while the opponent on the far side concentrates on their own ordinary hand of cards and cannot see the secret action. The deceitful person is the main subject; make the contrast between the innocent front and the concealed dishonest act legible in one coherent scene, no separate panels. Card faces have only simple colored shapes, absolutely no letters or numbers.\nStyle/medium: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural colors.\nComposition: a single clear compact scene centered in the middle 70 percent, generous clean margins, readable on a small vocabulary card.\nConstraints: no text, letters, numerals, captions, labels, logos, watermarks, borders, card UI, speech bubbles, or unrelated objects. No violence. The picture alone must convey deceit.",
+      "desiredAssetPath": "public/images/words/8c/8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a167c3-7e89-7b81-a71f-a88094d1957f/exec-38f0c682-be18-4ede-8b04-b40781e5f6b1.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/root/8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b.png",
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/root/8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b.webp",
+      "intendedSavedPath": "public/images/words/8c/8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b.webp",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "generatedAt": "2026-10-23T08:16:55.297090+00:00",
+      "mode": "built-in image_gen",
+      "tool": "image_gen",
+      "sourceSha256": "9ac8d7974893fb5bd3fe275522f04e5669e527af32bccd0bb4d92aefe9977020",
+      "candidateSha256": "d91ac8ef98e5d44d30469916de6947f27a72da676c6127eb02fd6a7a6a08a30e",
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-23T08:22:39.638962+00:00",
+        "method": "Actual view_image of saved 640px WebP; assess image with target text hidden",
+        "reason": "Playing card hidden below the table in left player hand while he displays a normal hand and smiles toward unaware opponent. The concealed extra card and innocent front directly show deceit in a card game; exact n.欺骗, no text."
+      },
+      "savedPath": "public/images/words/8c/8cdde48e7013f6966b599d06d3136421da6b74b9837301c264230f7b1e46da9b.webp",
+      "sha256": "d91ac8ef98e5d44d30469916de6947f27a72da676c6127eb02fd6a7a6a08a30e",
+      "bytes": 89578,
+      "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+      "independentVisualReview": {
+        "passed": true,
+        "method": "Actual view_image inspection of saved optimized image, exact word/POS/meaning and interpretation without target labels; known mapping, not a blind test",
+        "reviewer": "independent_a",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "reason": "Independent reviewer actually viewed 640px candidate: extra card secretly held below table while normal hand is displayed to unaware opponent; explicit deliberate deception.",
+        "sha256": "d91ac8ef98e5d44d30469916de6947f27a72da676c6127eb02fd6a7a6a08a30e"
+      },
+      "finalReview": {
+        "passed": true,
+        "runId": "20261023-080307-resume",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "method": "Agreement of generator actual visual review and independent second viewer; exact sense, source and image hashes checked"
+      }
+    }
+  ],
+  "candidates": [],
+  "failures": [],
+  "todo": [
+    {
+      "senseId": "71b43f485d6c60193b5fa8b1396cafd91d3f9711d163e1f5b511f8541132af29",
+      "word": "invention",
+      "status": "pending_generation_global_tool_stop"
+    }
+  ],
+  "updatedAt": "2026-10-23T08:34:25.357456+00:00",
+  "stopReason": "headache built-in imagegen connection failure; invention not attempted, no retry",
+  "completionSummary": {
+    "assigned": 2,
+    "approved": 1,
+    "pendingGeneration": 1
+  }
+}

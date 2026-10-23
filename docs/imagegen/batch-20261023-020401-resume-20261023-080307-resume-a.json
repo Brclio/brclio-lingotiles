@@ -1,0 +1,175 @@
+{
+  "runId": "20261023-080307-resume",
+  "threadId": "01a167c3-7e89-7b81-a71f-a88094d1957f",
+  "startedAt": "2026-10-23T08:03:07.685609+00:00",
+  "batchPath": "output/imagegen/batch-20261023-020401",
+  "recoveryPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume",
+  "group": "a",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "integrated_reviewed_partial_batch",
+  "claimed": [
+    {
+      "senseId": "b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074",
+      "wordId": "dict:absent",
+      "sourceId": "dict:absent",
+      "word": "absent",
+      "pos": "adj.",
+      "meaning": "缺席的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"absent\",\"pos\":\"adj.\",\"meaning\":\"缺席的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b6/b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074.webp",
+      "status": "ready",
+      "generationPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: absent, adjective, 缺席的 (not present at a lesson).\nPrimary request: show a conspicuously absent pupil through an unmistakable classroom attendance scene, understandable with no written words.\nScene/backdrop: a small classroom during an active lesson, with a compact semicircle of five similar school desks. Four desks are occupied by attentive seated pupils facing their teacher; the center desk and its chair are conspicuously empty. An open schoolbook and a pencil are neatly waiting on that empty desk, showing someone was expected there. The teacher gently gestures toward the empty chair while one nearby pupil looks toward it with a concerned, questioning expression. All pupils remain at their desks. The single empty expected place is the clear focal point. No pupil walking out and no ghost figure.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, simple clear educational illustration.\nComposition/framing: the five desks and teacher form one cohesive scene centered within the middle 75 percent of a square. Slightly elevated three-quarter view makes the empty chair and surrounding occupied chairs very easy to compare. Fully visible subjects, generous empty outer margin, legible at small vocabulary-card size.\nLighting/mood: soft daylight, calm classroom, muted green, blue and coral.\nConstraints: no letters, numbers, readable markings, written labels, logos, watermarks, borders, card UI, captions or signs. Books have blank unmarked pages. No unrelated decorative props. Depict the adjective 缺席的, not absence of attention or absent-mindedness. One complete standalone image, no collage or panels.",
+      "reviewed": false,
+      "provisionalApproved": true
+    },
+    {
+      "senseId": "7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862",
+      "wordId": "dict:purse",
+      "sourceId": "dict:purse",
+      "word": "purse",
+      "pos": "n.",
+      "meaning": "钱包",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"purse\",\"pos\":\"n.\",\"meaning\":\"钱包\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/7f/7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862.webp",
+      "status": "ready",
+      "generationPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: purse, noun, 钱包 (a small container used to carry money).\nPrimary request: depict one unmistakable small money purse, emphasizing the practical money-holding function so it cannot be mistaken for a handbag or a generic bag.\nSubject: a single compact reddish-brown leather coin purse with a classic rounded metal kiss-lock clasp at the top, sitting open toward the viewer. Several plain round gold and silver coins are clearly visible inside its open mouth, and two loose coins rest immediately beside it. The size is small enough to fit in one hand, with no shoulder strap and no carrying handles. A simple stitched leather body and working metal clasp show its characteristic form. Keep the focus entirely on the small purse and its coins.\nScene/backdrop: warm off-white paper ground with only a soft grounding shadow.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture, clean readable educational illustration matching existing vocabulary art.\nComposition/framing: close three-quarter view, purse centered within the middle 65 percent of one square, generous empty margin, full object visible, clear silhouette and readable clasp and coins at small card size.\nLighting/mood: soft daylight, natural muted terracotta leather and gold/silver coins.\nConstraints: no letters, numerals, written currency values, markings, currency symbols, labels, logos, watermarks, borders or card UI. Coins have plain unmarked faces. No large handbag, shopping bag, backpack, person, or unrelated objects. One standalone picture, no collage or panels.",
+      "reviewed": false,
+      "provisionalApproved": true
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074",
+      "wordId": "dict:absent",
+      "sourceId": "dict:absent",
+      "word": "absent",
+      "pos": "adj.",
+      "meaning": "缺席的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: absent, adjective, 缺席的 (not present at a lesson).\nPrimary request: show a conspicuously absent pupil through an unmistakable classroom attendance scene, understandable with no written words.\nScene/backdrop: a small classroom during an active lesson, with a compact semicircle of five similar school desks. Four desks are occupied by attentive seated pupils facing their teacher; the center desk and its chair are conspicuously empty. An open schoolbook and a pencil are neatly waiting on that empty desk, showing someone was expected there. The teacher gently gestures toward the empty chair while one nearby pupil looks toward it with a concerned, questioning expression. All pupils remain at their desks. The single empty expected place is the clear focal point. No pupil walking out and no ghost figure.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, simple clear educational illustration.\nComposition/framing: the five desks and teacher form one cohesive scene centered within the middle 75 percent of a square. Slightly elevated three-quarter view makes the empty chair and surrounding occupied chairs very easy to compare. Fully visible subjects, generous empty outer margin, legible at small vocabulary-card size.\nLighting/mood: soft daylight, calm classroom, muted green, blue and coral.\nConstraints: no letters, numbers, readable markings, written labels, logos, watermarks, borders, card UI, captions or signs. Books have blank unmarked pages. No unrelated decorative props. Depict the adjective 缺席的, not absence of attention or absent-mindedness. One complete standalone image, no collage or panels.",
+      "tool": "image_gen",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a167c5-ea1d-7af0-852f-78564027af42/exec-307fbdff-d520-4b31-8d2b-26f3ef58576f.png",
+      "sourcePath": "/Users/huangjiabao/.codex/generated_images/01a167c5-ea1d-7af0-852f-78564027af42/exec-307fbdff-d520-4b31-8d2b-26f3ef58576f.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/raw/b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074.png",
+      "desiredAssetPath": "public/images/words/b6/b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074.webp",
+      "sourceSha256": "6991f9fc8dc9ec2516bc3c6f9bf73a30cafc491924213dded3c6d3341b74ddf4",
+      "generatedAt": "2026-10-23T08:07:52.960611+00:00",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "status": "ready",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/candidates/b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074.webp",
+      "path": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/candidates/b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074.webp",
+      "candidateSize": [
+        640,
+        640
+      ],
+      "sha256": "bfe9769fb9074c1f1df5b9dbd1301ef89d3f25f8f5b7cfead65fd8f49106b1db",
+      "visualReview": {
+        "reviewer": "batch_audit",
+        "reviewedAt": "2026-10-23T08:08:30.619977+00:00",
+        "method": "Actual view_image inspection of saved 640px WebP, comparing visible scene with exact absent/adj./缺席的 target. Final reviewed remains false for primary approval.",
+        "observations": "Four pupils occupy surrounding classroom desks while a matching central desk with an open blank book and chair is empty. Teacher visibly gestures to the empty expected place and nearby students look toward it. No writing, letters, numbers, logos, or distracting unrelated props visible.",
+        "labelCoveredAssessment": "The contrast between all surrounding pupils attending a lesson and the conspicuous unoccupied expected pupil desk directly conveys a pupil not present, supporting 缺席的 rather than absent-minded.",
+        "passed": true
+      },
+      "savedPath": "public/images/words/b6/b60604dc2be81451b2a2b0b8044b00bf6ee9133b9c0d71e136d2172c039a1074.webp",
+      "candidateSha256": "bfe9769fb9074c1f1df5b9dbd1301ef89d3f25f8f5b7cfead65fd8f49106b1db",
+      "bytes": 97226,
+      "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+      "independentVisualReview": {
+        "passed": true,
+        "method": "Actual view_image inspection of saved optimized image, exact word/POS/meaning and interpretation without target labels; known mapping, not a blind test",
+        "reviewer": "root",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "reason": "Actual 640px image has four pupils at desks and a conspicuous empty desk/chair with open schoolbook; teacher gestures toward missing place, directly expressing absence from class. No text.",
+        "sha256": "bfe9769fb9074c1f1df5b9dbd1301ef89d3f25f8f5b7cfead65fd8f49106b1db"
+      },
+      "finalReview": {
+        "passed": true,
+        "runId": "20261023-080307-resume",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "method": "Agreement of generator actual visual review and independent second viewer; exact sense, source and image hashes checked"
+      }
+    },
+    {
+      "senseId": "7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862",
+      "wordId": "dict:purse",
+      "sourceId": "dict:purse",
+      "word": "purse",
+      "pos": "n.",
+      "meaning": "钱包",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: purse, noun, 钱包 (a small container used to carry money).\nPrimary request: depict one unmistakable small money purse, emphasizing the practical money-holding function so it cannot be mistaken for a handbag or a generic bag.\nSubject: a single compact reddish-brown leather coin purse with a classic rounded metal kiss-lock clasp at the top, sitting open toward the viewer. Several plain round gold and silver coins are clearly visible inside its open mouth, and two loose coins rest immediately beside it. The size is small enough to fit in one hand, with no shoulder strap and no carrying handles. A simple stitched leather body and working metal clasp show its characteristic form. Keep the focus entirely on the small purse and its coins.\nScene/backdrop: warm off-white paper ground with only a soft grounding shadow.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture, clean readable educational illustration matching existing vocabulary art.\nComposition/framing: close three-quarter view, purse centered within the middle 65 percent of one square, generous empty margin, full object visible, clear silhouette and readable clasp and coins at small card size.\nLighting/mood: soft daylight, natural muted terracotta leather and gold/silver coins.\nConstraints: no letters, numerals, written currency values, markings, currency symbols, labels, logos, watermarks, borders or card UI. Coins have plain unmarked faces. No large handbag, shopping bag, backpack, person, or unrelated objects. One standalone picture, no collage or panels.",
+      "tool": "image_gen",
+      "mode": "built-in image_gen",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a167c5-ea1d-7af0-852f-78564027af42/exec-03d04f6d-8f06-4372-b515-a4c0d1359a58.png",
+      "sourcePath": "/Users/huangjiabao/.codex/generated_images/01a167c5-ea1d-7af0-852f-78564027af42/exec-03d04f6d-8f06-4372-b515-a4c0d1359a58.png",
+      "rawPath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/raw/7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862.png",
+      "desiredAssetPath": "public/images/words/7f/7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862.webp",
+      "sourceSha256": "1cface8adebadcdf189fd39f2e797244fcce0f227b116bfdd09e42ab7f632dfd",
+      "generatedAt": "2026-10-23T08:15:34.858406+00:00",
+      "reviewed": true,
+      "provisionalApproved": true,
+      "status": "ready",
+      "sourceSize": [
+        1254,
+        1254
+      ],
+      "candidatePath": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/candidates/7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862.webp",
+      "path": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/candidates/7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862.webp",
+      "candidateSize": [
+        640,
+        640
+      ],
+      "sha256": "471ab6da828647373e2c50b42b487e9dce84a9da2e0965cd01072d94a6ada3da",
+      "visualReview": {
+        "reviewer": "batch_audit",
+        "reviewedAt": "2026-10-23T08:16:28.261771+00:00",
+        "method": "Actual view_image inspection of saved 640px WebP, comparing visible object with exact purse/n./钱包 target. Final reviewed remains false for primary approval.",
+        "observations": "One compact reddish-brown leather kiss-lock money purse is open toward viewer and visibly holds many plain coins. Two loose coins beside it reinforce money container function. No shoulder strap, carrying handle, text, logos or irrelevant objects.",
+        "labelCoveredAssessment": "The classic small metal clasp purse containing coins is immediately recognizable as a money purse, supporting 当前n.钱包 without depending on spelling or Chinese label.",
+        "passed": true
+      },
+      "savedPath": "public/images/words/7f/7fa66e6cf4b40e2f460fe666957bf5572c0780f792a646aac2b48ca83b464862.webp",
+      "candidateSha256": "471ab6da828647373e2c50b42b487e9dce84a9da2e0965cd01072d94a6ada3da",
+      "bytes": 62992,
+      "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+      "independentVisualReview": {
+        "passed": true,
+        "method": "Actual view_image inspection of saved optimized image, exact word/POS/meaning and interpretation without target labels; known mapping, not a blind test",
+        "reviewer": "root",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "reason": "Actual 640px image has small clasped leather coin purse open with coins inside and beside it. No straps or large handbag; exact noun 钱包 is clear without words.",
+        "sha256": "471ab6da828647373e2c50b42b487e9dce84a9da2e0965cd01072d94a6ada3da"
+      },
+      "finalReview": {
+        "passed": true,
+        "runId": "20261023-080307-resume",
+        "reviewedAt": "2026-10-23T08:34:25.357456+00:00",
+        "method": "Agreement of generator actual visual review and independent second viewer; exact sense, source and image hashes checked"
+      }
+    }
+  ],
+  "candidates": [],
+  "failures": [],
+  "todo": [],
+  "updatedAt": "2026-10-23T08:34:25.357456+00:00",
+  "reviewReport": "output/imagegen/batch-20261023-020401/20261023-080307-resume/a/review-report.json",
+  "completionSummary": {
+    "assigned": 2,
+    "approved": 2,
+    "pendingGeneration": 0
+  }
+}
