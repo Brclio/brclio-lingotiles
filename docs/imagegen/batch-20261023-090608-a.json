@@ -1,0 +1,577 @@
+{
+  "runId": "20261023-090608",
+  "threadId": "01a167fe-f2e5-7910-84dc-e1c9da26a21a",
+  "startedAt": "2026-10-23T09:06:08.803679+00:00",
+  "batchPath": "output/imagegen/batch-20261023-090608",
+  "group": "a",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "reviewed_partial_semantic_holds",
+  "claimed": [
+    {
+      "senseId": "e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970",
+      "wordId": "dict:postcard",
+      "sourceId": "dict:postcard",
+      "word": "postcard",
+      "pos": "n.",
+      "meaning": "明信片",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"postcard\",\"pos\":\"n.\",\"meaning\":\"明信片\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/e5/e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e",
+      "wordId": "dict:chalk",
+      "sourceId": "dict:chalk",
+      "word": "chalk",
+      "pos": "n.",
+      "meaning": "粉笔",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"chalk\",\"pos\":\"n.\",\"meaning\":\"粉笔\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/5c/5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+      "wordId": "dict:hobby",
+      "sourceId": "dict:hobby",
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"hobby\",\"pos\":\"n.\",\"meaning\":\"嗜好\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ff/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.webp",
+      "status": "pending_visual_revision"
+    },
+    {
+      "senseId": "51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c",
+      "wordId": "dict:dentist",
+      "sourceId": "dict:dentist",
+      "word": "dentist",
+      "pos": "n.",
+      "meaning": "牙科医生",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dentist\",\"pos\":\"n.\",\"meaning\":\"牙科医生\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/51/51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "31a20a4fc280551e758ee10be83a7894923cbd8034c4799ac984fa2e91ffe50e",
+      "wordId": "dict:motorcycle",
+      "sourceId": "dict:motorcycle",
+      "word": "motorcycle",
+      "pos": "n.",
+      "meaning": "摩托车",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"motorcycle\",\"pos\":\"n.\",\"meaning\":\"摩托车\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/31/31a20a4fc280551e758ee10be83a7894923cbd8034c4799ac984fa2e91ffe50e.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "71d4a1404dd4292e3001349bb00cdb5a0a2d67885778a01147743e52c18647e7",
+      "wordId": "dict:scarf",
+      "sourceId": "dict:scarf",
+      "word": "scarf",
+      "pos": "n.",
+      "meaning": "围巾",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"scarf\",\"pos\":\"n.\",\"meaning\":\"围巾\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/71/71d4a1404dd4292e3001349bb00cdb5a0a2d67885778a01147743e52c18647e7.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "abcf09e592d025f0e69457855ceda9cc7d535c4ee2dae86ba9777085f0a21cb8",
+      "wordId": "dict:ham",
+      "sourceId": "dict:ham",
+      "word": "ham",
+      "pos": "n.",
+      "meaning": "火腿",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"ham\",\"pos\":\"n.\",\"meaning\":\"火腿\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ab/abcf09e592d025f0e69457855ceda9cc7d535c4ee2dae86ba9777085f0a21cb8.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "98c07d400a2ffecf0882750800041a7637f2f1917acf6eb38583bc613ff59674",
+      "wordId": "dict:twelfth",
+      "sourceId": "dict:twelfth",
+      "word": "twelfth",
+      "pos": "num.",
+      "meaning": "第十二",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"twelfth\",\"pos\":\"num.\",\"meaning\":\"第十二\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/98/98c07d400a2ffecf0882750800041a7637f2f1917acf6eb38583bc613ff59674.webp",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "c5c4b78285b41a0c1ebae8f13fd1e99eb0e9c4a41ac603f4f542be243a9bc5b8",
+      "wordId": "dict:lazy",
+      "sourceId": "dict:lazy",
+      "word": "lazy",
+      "pos": "adj.",
+      "meaning": "懒惰的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"lazy\",\"pos\":\"adj.\",\"meaning\":\"懒惰的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c5/c5c4b78285b41a0c1ebae8f13fd1e99eb0e9c4a41ac603f4f542be243a9bc5b8.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "0786389800950464a1e641e5e9942dabb8f86eb1b93370cdb422c8a7616f6c3d",
+      "wordId": "dict:greeting",
+      "sourceId": "dict:greeting",
+      "word": "greeting",
+      "pos": "n.",
+      "meaning": "祝贺",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"greeting\",\"pos\":\"n.\",\"meaning\":\"祝贺\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/07/0786389800950464a1e641e5e9942dabb8f86eb1b93370cdb422c8a7616f6c3d.webp",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "ee55aa32c4e595973a2e9af990ea853269820a8aafe99ec55d040caf6af8f120",
+      "wordId": "dict:recite",
+      "sourceId": "dict:recite",
+      "word": "recite",
+      "pos": "v.",
+      "meaning": "背诵",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"recite\",\"pos\":\"v.\",\"meaning\":\"背诵\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ee/ee55aa32c4e595973a2e9af990ea853269820a8aafe99ec55d040caf6af8f120.webp",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "27ca517bba4e2388196ead9ea2ef771cd79108632908efcc63cc9109a58e0074",
+      "wordId": "dict:litter",
+      "sourceId": "dict:litter",
+      "word": "litter",
+      "pos": "n.",
+      "meaning": "垃圾",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"litter\",\"pos\":\"n.\",\"meaning\":\"垃圾\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/27/27ca517bba4e2388196ead9ea2ef771cd79108632908efcc63cc9109a58e0074.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "7fb29fedc721aa70cf984852da33652db05b459e340b1ad11666f4022a57eecd",
+      "wordId": "dict:grandson",
+      "sourceId": "dict:grandson",
+      "word": "grandson",
+      "pos": "n.",
+      "meaning": "孙子",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"grandson\",\"pos\":\"n.\",\"meaning\":\"孙子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/7f/7fb29fedc721aa70cf984852da33652db05b459e340b1ad11666f4022a57eecd.webp",
+      "status": "semantic_hold"
+    },
+    {
+      "senseId": "c9b6de41908f6c40dd008f454a3fa3f307b4bed1147878653b79782596ba86df",
+      "wordId": "dict:violin",
+      "sourceId": "dict:violin",
+      "word": "violin",
+      "pos": "n.",
+      "meaning": "小提琴",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"violin\",\"pos\":\"n.\",\"meaning\":\"小提琴\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c9/c9b6de41908f6c40dd008f454a3fa3f307b4bed1147878653b79782596ba86df.webp",
+      "status": "ready"
+    },
+    {
+      "senseId": "12e1f867d136d6bdb759b081ca86777114f96e1c617ead40cc84d730f2762010",
+      "wordId": "dict:madam",
+      "sourceId": "dict:madam",
+      "word": "madam",
+      "pos": "n.",
+      "meaning": "女士",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"madam\",\"pos\":\"n.\",\"meaning\":\"女士\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/12/12e1f867d136d6bdb759b081ca86777114f96e1c617ead40cc84d730f2762010.webp",
+      "status": "semantic_hold"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970",
+      "wordId": "dict:postcard",
+      "sourceId": "dict:postcard",
+      "word": "postcard",
+      "pos": "n.",
+      "meaning": "明信片",
+      "stageId": "junior",
+      "desiredAssetPath": "public/images/words/e5/e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970.webp",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: postcard, n., 明信片. Two overlapping stiff rectangular travel postcards: the front one shows a hand-painted seaside lighthouse landscape image; the second behind is turned to its blank address side with a small blank postage stamp affixed in the upper right and a thin central dividing line. Show clear card thickness and straight postcard edges. No envelope, no writing, no scribbles, no letters or numerals. The picture side and stamp/address-side format together should unmistakably identify postcards.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16801-3311-7c72-bb4c-9a9ec6b07761/exec-73120007-320c-4796-bd10-35f622af45d4.png",
+      "originalPath": "output/imagegen/batch-20261023-090608/a/raw/e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970.png",
+      "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970.webp",
+      "reviewed": true,
+      "status": "approved",
+      "sourceSha256": "73eb76fb9e2c2f0ebb10c07278ababd5b371805e36eeb5f5e8b4c94a85211a51",
+      "sha256": "99de5f936304959632b5d856ebe10a3145297aba7c97f33802cda78ecf20bb8e",
+      "bytes": 56522,
+      "generatedAt": "2026-10-23T09:11:35.921072+00:00",
+      "provisionalApproved": true,
+      "visualReview": {
+        "reviewer": "group-a-generator",
+        "reviewedAt": "2026-10-23T09:12:35.761700+00:00",
+        "method": "actual view_image of optimized WebP; label-hidden exact-sense check",
+        "evidence": "Actual 640px WebP shows picture postcard front plus separate postal reverse with blank stamp and address ruling; unmistakable postcard format without text. Exact n. 明信片 conveyed. No visible letters or numbers."
+      },
+      "finalVisualReview": {
+        "approved": true,
+        "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+        "method": "Individually inspected actual candidate images. Target mapping known; no blind-test claim. Conservative agreement across recorded reviewers.",
+        "reviews": [
+          {
+            "senseId": "e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970",
+            "word": "postcard",
+            "passed": true,
+            "reason": "Actual image individually viewed: illustrated scenic card front overlaps its blank divided address back with a stamp. Recognizable postcard format without reading text.",
+            "evidence": {
+              "senseId": "e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970",
+              "word": "postcard",
+              "pos": "n.",
+              "meaning": "明信片",
+              "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970.webp",
+              "sourceMetadataPath": "docs/imagegen/batch-20261023-090608-a.json",
+              "reviewed": false,
+              "independentReview": {
+                "approved": true,
+                "evidence": "Actual image individually viewed: illustrated scenic card front overlaps its blank divided address back with a stamp. Recognizable postcard format without reading text.",
+                "method": "Individual view_image inspection with target mapping known; word and meaning not present in image.",
+                "at": "2026-10-25T11:24:29.237410+00:00"
+              }
+            }
+          }
+        ]
+      },
+      "savedPath": "public/images/words/e5/e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970.webp",
+      "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+      "candidateSha256": "99de5f936304959632b5d856ebe10a3145297aba7c97f33802cda78ecf20bb8e"
+    },
+    {
+      "senseId": "5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e",
+      "wordId": "dict:chalk",
+      "sourceId": "dict:chalk",
+      "word": "chalk",
+      "pos": "n.",
+      "meaning": "粉笔",
+      "stageId": "junior",
+      "desiredAssetPath": "public/images/words/5c/5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e.webp",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: chalk, n., 粉笔. Close-up of three short white and pale yellow cylindrical chalk sticks on the wooden ledge of a dark green classroom chalkboard. One piece has snapped, showing powdery crumbly texture and chalk dust. A hand holds a white chalk stick against the board leaving one simple wavy white line, no characters, symbols or writing. Chalk sticks and powder are dominant and large.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16801-3311-7c72-bb4c-9a9ec6b07761/exec-336b644e-7a2d-4fb2-9d0e-935f8b401750.png",
+      "originalPath": "output/imagegen/batch-20261023-090608/a/raw/5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e.png",
+      "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e.webp",
+      "reviewed": true,
+      "status": "approved",
+      "sourceSha256": "bd90a065392d68e036deb3459f99838e9139b0c5f886354c6d2571a430a2e060",
+      "sha256": "68d7f37f84d1813d42559936ebe2b585f16c45ea1ba250070991ac769542a1d5",
+      "bytes": 107020,
+      "generatedAt": "2026-10-23T09:15:06.613894+00:00",
+      "provisionalApproved": true,
+      "visualReview": {
+        "reviewer": "group-a-generator",
+        "reviewedAt": "2026-10-23T09:15:44.679327+00:00",
+        "method": "actual view_image of optimized WebP; label-hidden exact-sense check",
+        "evidence": "Actual optimized WebP clearly shows powdery white/yellow chalk cylinders, snapped chalk crumbs and a hand drawing a plain wavy chalk line on dark board. Chalk material and classroom usage distinguish it from crayons. No writing."
+      },
+      "finalVisualReview": {
+        "approved": true,
+        "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+        "method": "Individually inspected actual candidate images. Target mapping known; no blind-test claim. Conservative agreement across recorded reviewers.",
+        "reviews": [
+          {
+            "senseId": "5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e",
+            "word": "chalk",
+            "passed": true,
+            "reason": "Actual image individually viewed: short white and pale-yellow powdery chalk sticks, crumbled dust, and hand drawing on chalkboard distinguish chalk from crayons.",
+            "evidence": {
+              "senseId": "5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e",
+              "word": "chalk",
+              "pos": "n.",
+              "meaning": "粉笔",
+              "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e.webp",
+              "sourceMetadataPath": "docs/imagegen/batch-20261023-090608-a.json",
+              "reviewed": false,
+              "independentReview": {
+                "approved": true,
+                "evidence": "Actual image individually viewed: short white and pale-yellow powdery chalk sticks, crumbled dust, and hand drawing on chalkboard distinguish chalk from crayons.",
+                "method": "Individual view_image inspection with target mapping known; word and meaning not present in image.",
+                "at": "2026-10-25T11:24:29.237410+00:00"
+              }
+            }
+          }
+        ]
+      },
+      "savedPath": "public/images/words/5c/5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e.webp",
+      "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+      "candidateSha256": "68d7f37f84d1813d42559936ebe2b585f16c45ea1ba250070991ac769542a1d5"
+    },
+    {
+      "senseId": "51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c",
+      "wordId": "dict:dentist",
+      "sourceId": "dict:dentist",
+      "word": "dentist",
+      "pos": "n.",
+      "meaning": "牙科医生",
+      "stageId": "junior",
+      "desiredAssetPath": "public/images/words/51/51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c.webp",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: dentist, n., 牙科医生. A dentist in a pale dental coat, surgical mask and gloves sits beside a reclining patient in a recognizable dental chair, carefully examining the patients open mouth with a small round dental mirror. An overhead dental lamp and a compact tray of dental instruments establish the clinic. Show the professional and action clearly, friendly non-scary educational scene, no blood.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16801-3311-7c72-bb4c-9a9ec6b07761/exec-1c5f7f56-54b8-4c6d-b4bd-7be4cd255419.png",
+      "originalPath": "output/imagegen/batch-20261023-090608/a/raw/51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c.png",
+      "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c.webp",
+      "reviewed": true,
+      "status": "approved",
+      "sourceSha256": "9763107ce651d238f88319088521eb2efb195eaeaa6b002d4add14189b0350aa",
+      "sha256": "02b64bec9b12c694c9822863a61a97579298a2f9bd4fc68ecb6fb604396f2f1b",
+      "bytes": 73108,
+      "generatedAt": "2026-10-23T09:20:15.583179+00:00",
+      "provisionalApproved": true,
+      "visualReview": {
+        "reviewer": "group-a-generator",
+        "reviewedAt": "2026-10-23T09:20:32.688831+00:00",
+        "method": "actual view_image of optimized WebP; label-hidden exact-sense check",
+        "evidence": "Viewed 640px WebP: masked gloved professional examines patient mouth with dental mirror in reclining dental chair; overhead dental lamp and instruments reinforce dentist, not generic doctor. Exact n. 牙科医生 conveyed without text."
+      },
+      "finalVisualReview": {
+        "approved": true,
+        "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+        "method": "Individually inspected actual candidate images. Target mapping known; no blind-test claim. Conservative agreement across recorded reviewers.",
+        "reviews": [
+          {
+            "senseId": "51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c",
+            "word": "dentist",
+            "passed": true,
+            "reason": "Actual image individually viewed: masked clinician uses dental mirror in a reclining patient mouth, with dental lamp and instruments. Clear dentist occupation.",
+            "evidence": {
+              "senseId": "51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c",
+              "word": "dentist",
+              "pos": "n.",
+              "meaning": "牙科医生",
+              "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c.webp",
+              "sourceMetadataPath": "docs/imagegen/batch-20261023-090608-a.json",
+              "reviewed": false,
+              "independentReview": {
+                "approved": true,
+                "evidence": "Actual image individually viewed: masked clinician uses dental mirror in a reclining patient mouth, with dental lamp and instruments. Clear dentist occupation.",
+                "method": "Individual view_image inspection with target mapping known; word and meaning not present in image.",
+                "at": "2026-10-25T11:24:29.237410+00:00"
+              }
+            }
+          }
+        ]
+      },
+      "savedPath": "public/images/words/51/51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c.webp",
+      "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+      "candidateSha256": "02b64bec9b12c694c9822863a61a97579298a2f9bd4fc68ecb6fb604396f2f1b"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+      "wordId": "dict:hobby",
+      "sourceId": "dict:hobby",
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好",
+      "stageId": "junior",
+      "desiredAssetPath": "public/images/words/ff/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.webp",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: hobby, n., 嗜好. A relaxed person happily spending free time hand-painting a small landscape at a home easel, wearing casual clothes, with several finished landscape paintings stacked nearby and familiar paintbrushes and palette. Warm peaceful absorbed enjoyment, clearly a favored repeated leisure activity, not a classroom or paid workplace. One coherent intimate scene, no text anywhere.",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a16801-3311-7c72-bb4c-9a9ec6b07761/exec-5715112a-2814-43c5-ae1c-24b87bca21ba.png",
+      "originalPath": "output/imagegen/batch-20261023-090608/a/raw/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.png",
+      "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.webp",
+      "reviewed": false,
+      "status": "pending_visual_revision",
+      "sourceSha256": "7ec24326f9080db16bd7f1672e4441908a3fd07b667378eabb15a84978a410d9",
+      "sha256": "a88830923ddb576ef89c7b92b54c8ec4c87be6ba1b5cdb65a3a42a3457e2f539",
+      "bytes": 136114,
+      "generatedAt": "2026-10-23T09:18:15.487729+00:00",
+      "provisionalApproved": false,
+      "visualReview": {
+        "reviewer": "group-a-generator",
+        "reviewedAt": "2026-10-23T09:18:32.031160+00:00",
+        "method": "actual view_image of optimized WebP; label-hidden exact-sense check",
+        "evidence": "Actual optimized WebP shows a smiling person painting at a home easel with many finished paintings; it clearly conveys painting/art but cannot distinguish a leisure hobby from an artist working. Exact broad n. 嗜好 remains ambiguous without the target word. Retain semantic hold."
+      },
+      "finalVisualReview": {
+        "approved": false,
+        "reviewedAt": "2026-10-25T14:30:01.765900+00:00",
+        "method": "Individually inspected actual candidate images. Target mapping known; no blind-test claim. Conservative agreement across recorded reviewers.",
+        "reviews": [
+          {
+            "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+            "word": "hobby",
+            "pos": "n.",
+            "meaning": "嗜好",
+            "path": "output/imagegen/batch-20261023-090608/a/candidates/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.webp",
+            "pass": false,
+            "reason": "主体明确在画画，旁边多幅画与家庭环境也可能属于职业画家或学习绘画，无法单凭静态图确定嗜好这一上位概念。保留待复核。",
+            "method": "Mapped review with known target; actually viewed separate 640px image through view_image and applied text-free meaning test. Not a blind test.",
+            "actuallyViewedAt": "2026-10-25T11:47:33.856223+00:00"
+          },
+          {
+            "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+            "word": "hobby",
+            "passed": false,
+            "reason": "Actual image individually viewed: a woman paints landscapes in a well-equipped room; clearly painting, but could be a professional artist. Hobbies as a category cannot be inferred confidently without context.",
+            "evidence": {
+              "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+              "word": "hobby",
+              "pos": "n.",
+              "meaning": "嗜好",
+              "candidatePath": "output/imagegen/batch-20261023-090608/a/candidates/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.webp",
+              "sourceMetadataPath": "docs/imagegen/batch-20261023-090608-a.json",
+              "reviewed": false,
+              "independentReview": {
+                "approved": false,
+                "evidence": "Actual image individually viewed: a woman paints landscapes in a well-equipped room; clearly painting, but could be a professional artist. Hobbies as a category cannot be inferred confidently without context.",
+                "method": "Individual view_image inspection with target mapping known; word and meaning not present in image.",
+                "at": "2026-10-25T11:24:29.237410+00:00"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "failures": [],
+  "todo": [
+    {
+      "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+      "wordId": "dict:hobby",
+      "sourceId": "dict:hobby",
+      "word": "hobby",
+      "pos": "n.",
+      "meaning": "嗜好",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"hobby\",\"pos\":\"n.\",\"meaning\":\"嗜好\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ff/fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18.webp",
+      "status": "pending_visual_revision",
+      "reviewed": false,
+      "reason": "See candidate finalVisualReview"
+    },
+    {
+      "senseId": "98c07d400a2ffecf0882750800041a7637f2f1917acf6eb38583bc613ff59674",
+      "wordId": "dict:twelfth",
+      "sourceId": "dict:twelfth",
+      "word": "twelfth",
+      "pos": "num.",
+      "meaning": "第十二",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"twelfth\",\"pos\":\"num.\",\"meaning\":\"第十二\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/98/98c07d400a2ffecf0882750800041a7637f2f1917acf6eb38583bc613ff59674.webp",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "Twelve-item ordinal scene would require counting at card scale and can be misread as cardinal twelve; no reliably direct design selected."
+    },
+    {
+      "senseId": "0786389800950464a1e641e5e9942dabb8f86eb1b93370cdb422c8a7616f6c3d",
+      "wordId": "dict:greeting",
+      "sourceId": "dict:greeting",
+      "word": "greeting",
+      "pos": "n.",
+      "meaning": "祝贺",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"greeting\",\"pos\":\"n.\",\"meaning\":\"祝贺\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/07/0786389800950464a1e641e5e9942dabb8f86eb1b93370cdb422c8a7616f6c3d.webp",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "Supplied meaning 祝贺 does not unambiguously match greeting; retain source meaning for clarification, do not generate a different sense."
+    },
+    {
+      "senseId": "ee55aa32c4e595973a2e9af990ea853269820a8aafe99ec55d040caf6af8f120",
+      "wordId": "dict:recite",
+      "sourceId": "dict:recite",
+      "word": "recite",
+      "pos": "v.",
+      "meaning": "背诵",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"recite\",\"pos\":\"v.\",\"meaning\":\"背诵\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ee/ee55aa32c4e595973a2e9af990ea853269820a8aafe99ec55d040caf6af8f120.webp",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "A speaking person and closed book cannot reliably distinguish memorized recitation from speaking or reading; no direct design selected."
+    },
+    {
+      "senseId": "7fb29fedc721aa70cf984852da33652db05b459e340b1ad11666f4022a57eecd",
+      "wordId": "dict:grandson",
+      "sourceId": "dict:grandson",
+      "word": "grandson",
+      "pos": "n.",
+      "meaning": "孙子",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"grandson\",\"pos\":\"n.\",\"meaning\":\"孙子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/7f/7fb29fedc721aa70cf984852da33652db05b459e340b1ad11666f4022a57eecd.webp",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "An elderly adult and boy only show relative ages, not the specific grandson relationship; no unambiguous nonverbal relationship design selected."
+    },
+    {
+      "senseId": "12e1f867d136d6bdb759b081ca86777114f96e1c617ead40cc84d730f2762010",
+      "wordId": "dict:madam",
+      "sourceId": "dict:madam",
+      "word": "madam",
+      "pos": "n.",
+      "meaning": "女士",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"madam\",\"pos\":\"n.\",\"meaning\":\"女士\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/12/12e1f867d136d6bdb759b081ca86777114f96e1c617ead40cc84d730f2762010.webp",
+      "status": "semantic_hold",
+      "reviewed": false,
+      "reason": "A portrait of a woman cannot express the respectful form of address madam without speech or written context."
+    }
+  ],
+  "generationPrompts": [
+    {
+      "senseId": "e5468ba395d9e2662889cc3cf90793350eae317c76b5b0efc4fbf0c356965970",
+      "word": "postcard",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: postcard, n., 明信片. Two overlapping stiff rectangular travel postcards: the front one shows a hand-painted seaside lighthouse landscape image; the second behind is turned to its blank address side with a small blank postage stamp affixed in the upper right and a thin central dividing line. Show clear card thickness and straight postcard edges. No envelope, no writing, no scribbles, no letters or numerals. The picture side and stamp/address-side format together should unmistakably identify postcards.",
+      "preparedAt": "2026-10-23T09:10:33.465896+00:00"
+    },
+    {
+      "senseId": "5c04ee70e16055ce8c2c50000fd47370972cf7763890123b3030dd45efac3a1e",
+      "word": "chalk",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: chalk, n., 粉笔. Close-up of three short white and pale yellow cylindrical chalk sticks on the wooden ledge of a dark green classroom chalkboard. One piece has snapped, showing powdery crumbly texture and chalk dust. A hand holds a white chalk stick against the board leaving one simple wavy white line, no characters, symbols or writing. Chalk sticks and powder are dominant and large.",
+      "preparedAt": "2026-10-23T09:12:35.859123+00:00"
+    },
+    {
+      "senseId": "fff19199ac446c844f2d7e97c71a69f102402a2c2a6f71ec3a293fc3784a6b18",
+      "word": "hobby",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: hobby, n., 嗜好. A relaxed person happily spending free time hand-painting a small landscape at a home easel, wearing casual clothes, with several finished landscape paintings stacked nearby and familiar paintbrushes and palette. Warm peaceful absorbed enjoyment, clearly a favored repeated leisure activity, not a classroom or paid workplace. One coherent intimate scene, no text anywhere.",
+      "preparedAt": "2026-10-23T09:15:44.784763+00:00"
+    },
+    {
+      "senseId": "51ff0fcc941f88f7cccd0cedb0859d39c4c1aca76486cda8fbcf91116e5bbc7c",
+      "word": "dentist",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: dentist, n., 牙科医生. A dentist in a pale dental coat, surgical mask and gloves sits beside a reclining patient in a recognizable dental chair, carefully examining the patients open mouth with a small round dental mirror. An overhead dental lamp and a compact tray of dental instruments establish the clinic. Show the professional and action clearly, friendly non-scary educational scene, no blood.",
+      "preparedAt": "2026-10-23T09:18:32.131862+00:00"
+    },
+    {
+      "senseId": "31a20a4fc280551e758ee10be83a7894923cbd8034c4799ac984fa2e91ffe50e",
+      "word": "motorcycle",
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary memory-card illustration. Style: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One coherent scene centered in the middle 70 percent, generous empty margins, legible at small size, soft daylight, natural muted colors. No text, letters, numbers, written labels, logos, watermarks, borders or card UI. Prioritize visual recognition of the exact meaning through subject and action. Exact target: motorcycle, n., 摩托车. One realistic classic road motorcycle in clear three-quarter side view, isolated on warm paper with subtle ground shadow. Show exactly two thick wheels, visible engine beneath the fuel tank, handlebar, headlight, saddle, exhaust pipe and kickstand. Strong typical recognizable motorcycle silhouette. No rider, no bicycle pedals, no surrounding traffic.",
+      "preparedAt": "2026-10-23T09:20:32.802539+00:00"
+    }
+  ],
+  "updatedAt": "2026-10-25T14:30:01.765900+00:00"
+}
