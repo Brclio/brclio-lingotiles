@@ -1,0 +1,1122 @@
+{
+  "runId": "20261025-150217",
+  "threadId": "01a17391-ebd7-7c03-b496-5b5868362665",
+  "startedAt": "2026-10-25T15:02:17.497011+00:00",
+  "batchPath": "output/imagegen/batch-20261025-150217",
+  "group": "root",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "reviewed_integrated",
+  "claimed": [
+    {
+      "senseId": "a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d",
+      "wordId": "dict:lemonade",
+      "sourceId": "dict:lemonade",
+      "word": "lemonade",
+      "pos": "n.",
+      "meaning": "柠檬水",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"lemonade\",\"pos\":\"n.\",\"meaning\":\"柠檬水\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/a1/a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322",
+      "wordId": "dict:postman",
+      "sourceId": "dict:postman",
+      "word": "postman",
+      "pos": "n.",
+      "meaning": "邮递员",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"postman\",\"pos\":\"n.\",\"meaning\":\"邮递员\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/4c/4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0",
+      "wordId": "dict:blackboard",
+      "sourceId": "dict:blackboard",
+      "word": "blackboard",
+      "pos": "n.",
+      "meaning": "黑板",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"blackboard\",\"pos\":\"n.\",\"meaning\":\"黑板\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b6/b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee",
+      "wordId": "dict:crayon",
+      "sourceId": "dict:crayon",
+      "word": "crayon",
+      "pos": "n.",
+      "meaning": "蜡笔",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"crayon\",\"pos\":\"n.\",\"meaning\":\"蜡笔\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/9b/9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7",
+      "wordId": "dict:raincoat",
+      "sourceId": "dict:raincoat",
+      "word": "raincoat",
+      "pos": "n.",
+      "meaning": "雨衣",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"raincoat\",\"pos\":\"n.\",\"meaning\":\"雨衣\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/d0/d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778",
+      "wordId": "dict:gymnasium",
+      "sourceId": "dict:gymnasium",
+      "word": "gymnasium",
+      "pos": "n.",
+      "meaning": "健身房",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"gymnasium\",\"pos\":\"n.\",\"meaning\":\"健身房\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/a6/a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2",
+      "wordId": "dict:toothbrush",
+      "sourceId": "dict:toothbrush",
+      "word": "toothbrush",
+      "pos": "n.",
+      "meaning": "牙刷",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"toothbrush\",\"pos\":\"n.\",\"meaning\":\"牙刷\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/37/37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78",
+      "wordId": "dict:zebra",
+      "sourceId": "dict:zebra",
+      "word": "zebra",
+      "pos": "n.",
+      "meaning": "斑马",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"zebra\",\"pos\":\"n.\",\"meaning\":\"斑马\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/1f/1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760",
+      "wordId": "dict:toothpaste",
+      "sourceId": "dict:toothpaste",
+      "word": "toothpaste",
+      "pos": "n.",
+      "meaning": "牙膏",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"toothpaste\",\"pos\":\"n.\",\"meaning\":\"牙膏\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/a9/a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850",
+      "wordId": "dict:giraffe",
+      "sourceId": "dict:giraffe",
+      "word": "giraffe",
+      "pos": "n.",
+      "meaning": "长颈鹿",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"giraffe\",\"pos\":\"n.\",\"meaning\":\"长颈鹿\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/77/7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0",
+      "wordId": "dict:chopsticks",
+      "sourceId": "dict:chopsticks",
+      "word": "chopsticks",
+      "pos": "n.",
+      "meaning": "筷子",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"chopsticks\",\"pos\":\"n.\",\"meaning\":\"筷子\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/e0/e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86",
+      "wordId": "dict:toothache",
+      "sourceId": "dict:toothache",
+      "word": "toothache",
+      "pos": "n.",
+      "meaning": "牙痛",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"toothache\",\"pos\":\"n.\",\"meaning\":\"牙痛\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/dd/dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113",
+      "wordId": "dict:schoolbag",
+      "sourceId": "dict:schoolbag",
+      "word": "schoolbag",
+      "pos": "n.",
+      "meaning": "书包",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"schoolbag\",\"pos\":\"n.\",\"meaning\":\"书包\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ac/ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a",
+      "wordId": "dict:within",
+      "sourceId": "dict:within",
+      "word": "within",
+      "pos": "n.",
+      "meaning": "内部",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"within\",\"pos\":\"n.\",\"meaning\":\"内部\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/1c/1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804",
+      "wordId": "dict:power",
+      "sourceId": "dict:power",
+      "word": "power",
+      "pos": "n.",
+      "meaning": "力",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"power\",\"pos\":\"n.\",\"meaning\":\"力\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c5/c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804.webp",
+      "status": "ready",
+      "reviewed": true
+    }
+  ],
+  "candidates": [],
+  "assets": [
+    {
+      "senseId": "a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d",
+      "wordId": "dict:lemonade",
+      "sourceId": "dict:lemonade",
+      "word": "lemonade",
+      "pos": "n.",
+      "meaning": "柠檬水",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset: one square English vocabulary illustration. Exact target lemonade, noun, 柠檬水. Show a transparent glass pitcher and one glass filled with pale yellow freshly squeezed lemonade, visible lemon slices floating inside, a cut lemon beside them. The sour citrus drink is the main subject, no other beverages. Warm off-white paper with hand-painted gouache and colored-pencil texture, muted lemon yellow and soft green, soft daylight. Center the tightly related subject in middle70%, generous negative space, fully visible at small card size. No text, letters, digits, logos, watermarks, borders or UI.",
+      "desiredAssetPath": "public/images/words/a1/a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-297171e5-6267-4b00-b82f-8795ff6d0256.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Pitcher and glass of yellow citrus drink with lemon cross-sections.",
+        "reason": "Visible lemon slices and prepared drink directly convey lemonade/柠檬水; noun and exact sense match. No text or competing subjects."
+      },
+      "sourceSha256": "fb6839deb0893daa5c967cc5a068b634e33957f1b9c242ea9783791ed619b809",
+      "candidateSha256": "71f5e968b64b0bd6864a25e25c031291487862cbc86e0fc48c1e15df6110426f",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T01:38:43.781972+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d",
+          "word": "lemonade",
+          "decision": "accept",
+          "interpretation": "Lemon slices in a glass and pitcher of pale yellow drink, whole and cut lemons nearby.",
+          "reason": "Recognizable lemon drink directly supports n./柠檬水; no labels needed.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "柠檬水"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/a1/a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d.webp",
+      "recoveryVisualReview": {
+        "senseId": "a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d",
+        "word": "lemonade",
+        "pos": "n.",
+        "meaning": "柠檬水",
+        "imagePath": "public/images/words/a1/a1c58268e3d777469e5a3db9646d286322e61c669829fe437119d802e2ca5f6d.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A glass and pitcher of pale yellow drink with visible lemon slices and cut lemons clearly convey 柠檬水."
+      }
+    },
+    {
+      "senseId": "4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322",
+      "wordId": "dict:postman",
+      "sourceId": "dict:postman",
+      "word": "postman",
+      "pos": "n.",
+      "meaning": "邮递员",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for postman, noun, 邮递员. A postal delivery worker wearing a simple blue uniform and carrying an open canvas shoulder mailbag filled with envelopes, handing a sealed envelope into a resident's outstretched hand beside a house mailbox. The mail carrier is the main full-body subject, clearly delivering physical mail; no packages or courier brands. Warm off-white paper, hand-painted gouache and subtle colored-pencil texture, natural muted blue green coral, soft daylight, generous margins, centered middle70%, legible small. No text, lettering, numbers, logos, watermarks, borders or card UI.",
+      "desiredAssetPath": "public/images/words/4c/4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-9ad7f7b5-a4ec-451b-81b5-8a626cfd6e3f.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Uniformed mail carrier delivers a letter from a mailbag to a resident beside a mailbox.",
+        "reason": "Postal uniform, envelope-filled mailbag and mail delivery distinguish postman from parcel courier; exact noun meaning matches."
+      },
+      "sourceSha256": "a1d4a9a96ad627c089f878e2b3186df4a2d0a7dbfa87547432222a237b3d085e",
+      "candidateSha256": "25736dc4cb787d3a359c61e659c5baafd6423dbba1c51de580081fe8d9d7065f",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T01:43:48.649191+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322",
+          "word": "postman",
+          "decision": "accept",
+          "interpretation": "Uniformed mail carrier hands an envelope to a resident, carrying a bag filled with mail beside a mailbox.",
+          "reason": "Mail delivery tools and action distinguish a postman from generic worker.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "邮递员"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/4c/4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322.webp",
+      "recoveryVisualReview": {
+        "senseId": "4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322",
+        "word": "postman",
+        "pos": "n.",
+        "meaning": "邮递员",
+        "imagePath": "public/images/words/4c/4c396e9e255b4b33532ab1b466f94278a5a08c1e53838322c7f21d201a219322.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A uniformed carrier with a mail-filled satchel hands an envelope to a resident beside a mailbox; clearly 邮递员."
+      }
+    },
+    {
+      "senseId": "b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0",
+      "wordId": "dict:blackboard",
+      "sourceId": "dict:blackboard",
+      "word": "blackboard",
+      "pos": "n.",
+      "meaning": "黑板",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for blackboard, noun, 黑板. Show one classic large matte dark black-green classroom blackboard in a pale wooden frame, mounted on a blank wall, completely empty except very faint erased chalk dust. A small chalk ledge holds two plain white chalk sticks and a felt eraser. The board itself dominates the centered composition, generous off-white margins. Hand-painted gouache with subtle colored pencil on warm off-white paper, soft daylight. No writing, letters, numbers, diagrams, logos, watermarks, borders or UI. It must read as a school chalkboard, not a digital display or noticeboard.",
+      "desiredAssetPath": "public/images/words/b6/b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-dca4004a-81c6-4155-95a7-31388da8fef4.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Empty framed dark green school chalkboard with chalk and eraser on its ledge.",
+        "reason": "Chalky matte surface, frame and chalk ledge directly identify a blackboard, with no writing or digital-screen ambiguity."
+      },
+      "sourceSha256": "4bbfe75e9b3017a99e06d6ff8a3a0325889b2f090528f76443c2810d40391911",
+      "candidateSha256": "a9c53d0e1827a10ba36915c204d93b90a5ea3ffe13452a76ae5c5ecfc0102f09",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T01:48:44.415604+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0",
+          "word": "blackboard",
+          "decision": "accept",
+          "interpretation": "Large dark classroom board in wooden frame with chalk pieces and eraser on tray.",
+          "reason": "Typical blackboard appearance and chalk/eraser are clear, blank surface meets no-text rule.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "黑板"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/b6/b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0.webp",
+      "recoveryVisualReview": {
+        "senseId": "b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0",
+        "word": "blackboard",
+        "pos": "n.",
+        "meaning": "黑板",
+        "imagePath": "public/images/words/b6/b62d49b8afdaa00bd39e4698c6ae9318fda9dbaa8eeb3233f2a322d7a59176e0.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Large dark framed chalk surface, chalk pieces and eraser on the tray identify 黑板 without writing."
+      }
+    },
+    {
+      "senseId": "9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee",
+      "wordId": "dict:crayon",
+      "sourceId": "dict:crayon",
+      "word": "crayon",
+      "pos": "n.",
+      "meaning": "蜡笔",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for crayon, noun, 蜡笔. Four thick blunt wax crayons in red blue yellow and green lie in a compact fan, with paper wrappers plain and unprinted, and two visible unwrapped wax tips. A short rough wax-color scribble under one tip demonstrates the dry wax texture. No sharpened wooden pencil tips, no paintbrushes, no markers. Warm off-white paper, hand-painted gouache plus colored-pencil texture, soft daylight, main objects centered middle70%, generous empty margins, small-card clarity. No letters, numbers, logos, watermark, text, borders or UI.",
+      "desiredAssetPath": "public/images/words/9b/9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-9fc4908b-0a8c-4196-9c67-6f1e8781a1e2.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Four thick red blue yellow green wax crayons with wrappers and rough red wax strokes.",
+        "reason": "Visible blunt wax tips and dry wax marks distinguish crayons from colored pencils or liquid markers."
+      },
+      "sourceSha256": "834848c62ed811c988614b92a2fd45cfb13a3e621e0f7533e2d63350cd3b9098",
+      "candidateSha256": "da04352bca7bd76dd91646de88bdc9406006a73498f3ce0a6c70c35dcef16527",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T01:53:31.708597+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee",
+          "word": "crayon",
+          "decision": "accept",
+          "interpretation": "Four thick colored wax sticks, pointed tips and waxy color scribble.",
+          "reason": "Recognizable crayons with wax texture rather than wooden pencils or paint; no labels.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "蜡笔"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/9b/9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee.webp",
+      "recoveryVisualReview": {
+        "senseId": "9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee",
+        "word": "crayon",
+        "pos": "n.",
+        "meaning": "蜡笔",
+        "imagePath": "public/images/words/9b/9b8fdc2c5608bddd513a4d38f1c9a166771e1b35295ec19e72ddab4825943bee.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Thick pointed wax sticks with waxy color scribble distinguish 蜡笔 from wooden pencils or pens."
+      }
+    },
+    {
+      "senseId": "d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7",
+      "wordId": "dict:raincoat",
+      "sourceId": "dict:raincoat",
+      "word": "raincoat",
+      "pos": "n.",
+      "meaning": "雨衣",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for raincoat, noun, 雨衣. A child seen full length standing outdoors during visible falling rain, wearing a bright yellow waterproof hooded raincoat with hood up, sleeves, closed snaps and knee-length hem, water beads rolling off its surface, rubber boots in a small puddle. The raincoat is the unmistakable dominant subject. No umbrella, no sunny weather, no other people. Gouache and colored pencil on warm off-white paper, soft muted surrounding colors, centered subject, generous margins, small card clarity. No text, letters, numbers, logos, watermarks, border or card UI.",
+      "desiredAssetPath": "public/images/words/d0/d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-0453adcd-5c32-46a0-84bb-2a7b8b9d6af3.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Child wearing a hooded yellow waterproof coat while rain falls and water runs off.",
+        "reason": "Hooded waterproof long coat and rain context directly convey raincoat; boots support the context without dominating."
+      },
+      "sourceSha256": "706a4db31a68293b05a7d8b5cc9bad45eae40d37c81ec2545fa0e917963548b4",
+      "candidateSha256": "ea81a296d0534e56ad864f4340748de912bb2e3e0fd8339c7e161c1aaf35f518",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T02:02:05.992735+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7",
+          "word": "raincoat",
+          "decision": "accept",
+          "interpretation": "Child in glossy hooded yellow long coat in falling rain.",
+          "reason": "Waterproof coat and rain context directly identify raincoat; ordinary jacket less likely.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "雨衣"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/d0/d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7.webp",
+      "recoveryVisualReview": {
+        "senseId": "d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7",
+        "word": "raincoat",
+        "pos": "n.",
+        "meaning": "雨衣",
+        "imagePath": "public/images/words/d0/d085fffa884b4865ad8205fe342ee5a9531c48e8dfd8e75cf91249518d3bffc7.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A child wears a glossy hooded long waterproof coat in visible rain; clearly 雨衣."
+      }
+    },
+    {
+      "senseId": "a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778",
+      "wordId": "dict:gymnasium",
+      "sourceId": "dict:gymnasium",
+      "word": "gymnasium",
+      "pos": "n.",
+      "meaning": "健身房",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for gymnasium, noun, 健身房. Show the interior of a compact fitness gym, three-quarter view: one treadmill, a weight bench with barbell on rack and neatly racked dumbbells on a rubber exercise floor. Equipment large and immediately recognizable, no people needed, no basketball court, no living-room furniture. Warm off-white paper, hand-painted gouache and colored-pencil texture, muted blue gray and coral, daylight through high window, generous white margins, centered composition clear on a small card. No text, numbers, logos, watermark, borders or UI.",
+      "desiredAssetPath": "public/images/words/a6/a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-510b5492-6cb8-467f-b802-49a2c73d5864.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Interior workout room with treadmill, dumbbell rack and weight bench.",
+        "reason": "Cluster of distinct fitness machines on gym flooring directly identifies 健身房; matches supplied sense rather than school sports hall."
+      },
+      "sourceSha256": "c0c52c9d3a6d39901104b3df4847e52512e2a9b4672e1ab0113c08df187a557a",
+      "candidateSha256": "40a3fd48f3dc4e9fcf6db2933768dfb31dc5cbd75f090078572db22aabf8e4c3",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T02:10:30.586654+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778",
+          "word": "gymnasium",
+          "decision": "accept",
+          "interpretation": "An indoor exercise room with dumbbells, weight bench, barbell rack and treadmill.",
+          "reason": "Multiple fitness machines in a room directly express 健身房, exact supplied sense rather than school gym hall.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "健身房"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/a6/a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778.webp",
+      "recoveryVisualReview": {
+        "senseId": "a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778",
+        "word": "gymnasium",
+        "pos": "n.",
+        "meaning": "健身房",
+        "imagePath": "public/images/words/a6/a6798f498f99149942b130846e5d0036fdd4de193e2cb50f1e25d88ae773f778.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A room containing dumbbell racks, weight bench, barbell and treadmill clearly conveys the supplied 健身房 sense."
+      }
+    },
+    {
+      "senseId": "37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2",
+      "wordId": "dict:toothbrush",
+      "sourceId": "dict:toothbrush",
+      "word": "toothbrush",
+      "pos": "n.",
+      "meaning": "牙刷",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for toothbrush, noun, 牙刷. One ordinary manual toothbrush lies diagonally, fully visible: long narrow pale blue molded handle and small oval head densely filled with short white and blue bristles. A close clear view makes the bristles unmistakable. No toothpaste tube, no hairbrush, no electric gadgets, no people. Hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, delicate shadow, centered middle70%, ample empty margins, legible small. No text, lettering, numbers, logos, watermarks, border or UI.",
+      "desiredAssetPath": "public/images/words/37/37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-8bde6373-cdbc-46ff-a4de-e373fddf1465.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Blue manual toothbrush with long handle and compact bristle head.",
+        "reason": "Characteristic long handle and dense small bristle head clearly identify toothbrush; no competing bathroom object."
+      },
+      "sourceSha256": "7aa269cfea22fe261abeabd45a0034571f4856a9709fb0c6aa4f7a2e4a1f3b6e",
+      "candidateSha256": "99b7a3a83a437638e31eef6cd24706d2229ca0af642cee1f234d4b98f4281bab",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T02:19:08.556385+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2",
+          "word": "toothbrush",
+          "decision": "accept",
+          "interpretation": "A slim handled brush with compact bristle head, isolated.",
+          "reason": "Characteristic toothbrush silhouette is immediately recognizable.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "牙刷"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/37/37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2.webp",
+      "recoveryVisualReview": {
+        "senseId": "37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2",
+        "word": "toothbrush",
+        "pos": "n.",
+        "meaning": "牙刷",
+        "imagePath": "public/images/words/37/37c59a7b272a6a8237438ccfcf7124cf1aeeab8ddef220c66484f5b39b3132b2.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Compact bristle head on a long narrow handle clearly identifies 牙刷."
+      }
+    },
+    {
+      "senseId": "1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78",
+      "wordId": "dict:zebra",
+      "sourceId": "dict:zebra",
+      "word": "zebra",
+      "pos": "n.",
+      "meaning": "斑马",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for zebra, noun, 斑马. One complete adult zebra standing in relaxed three-quarter side view, distinct natural black-and-white stripes wrapping over horse-shaped body, upright short striped mane, long ears, tail tuft, four anatomically clear legs and hooves. Sparse tiny patch of dry savanna grass under hooves, no other animals. Hand-painted gouache and colored pencil on warm off-white paper, centered main animal middle70%, generous empty margins, soft natural daylight, small-card clarity. No text, digits, letters, logos, watermark, border or UI.",
+      "desiredAssetPath": "public/images/words/1f/1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-9afadb42-600b-4a6a-a443-78c11b66b0e1.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Full-body black-and-white striped equine with upright mane.",
+        "reason": "Complete striped zebra anatomy, ears and mane directly identify zebra at card scale, without confusion with horse or other animal."
+      },
+      "sourceSha256": "d2d20e14055d1b92103bcba86ec6fa791b329fae0b785f98a93902bfffcee588",
+      "candidateSha256": "bc7626e623c09d3c899f3b23152a07c21c514170b598f50983ce2a60f01a53f5",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T02:26:36.396350+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78",
+          "word": "zebra",
+          "decision": "accept",
+          "interpretation": "A full-bodied striped equine with upright short mane and black-white coat.",
+          "reason": "Typical zebra anatomy and stripes distinguish it clearly from horse or donkey.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "斑马"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/1f/1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78.webp",
+      "recoveryVisualReview": {
+        "senseId": "1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78",
+        "word": "zebra",
+        "pos": "n.",
+        "meaning": "斑马",
+        "imagePath": "public/images/words/1f/1fe28a393d9ec6c9ed8732dc333e1aafaa485908abc119302dbe81f835ba6a78.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Full-bodied equine with distinctive black and white body and leg stripes identifies 斑马."
+      }
+    },
+    {
+      "senseId": "a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760",
+      "wordId": "dict:toothpaste",
+      "sourceId": "dict:toothpaste",
+      "word": "toothpaste",
+      "pos": "n.",
+      "meaning": "牙膏",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for toothpaste, noun, 牙膏. A soft squeezable plain white-and-muted-teal toothpaste tube lies diagonally with cap removed beside the nozzle; a pea-sized curl of thick white paste is being squeezed directly onto the small bristle head of a toothbrush. The tube and extruded paste dominate, toothbrush only supports unmistakable dental use. No medicines, cosmetics, lotion bottles, labels or written branding. Hand-painted gouache with colored-pencil grain on warm off-white paper, centered compact scene, generous margins, soft natural light, small-card clarity. No text, letters, digits, logos, watermark, border or UI.",
+      "desiredAssetPath": "public/images/words/a9/a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-c5d47d6c-b977-417a-af0a-bd67d5fa5dc1.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Plain squeeze tube extrudes white dental paste onto toothbrush bristles, cap beside it.",
+        "reason": "Paste touching bristle head supplies clear dental context; tube rather than toothbrush dominates, distinguishing toothpaste from cosmetic cream."
+      },
+      "sourceSha256": "5568ce29df86b5244e76e5fddec6bff8bf1a8a4c20409921d3c17b92f1e7fdbe",
+      "candidateSha256": "f8c2060d637e0a52aca5e2123cd39e4b1fc721647c3e4b268f932345311f2dbf",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T03:44:32.912424+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760",
+          "word": "toothpaste",
+          "decision": "accept",
+          "interpretation": "Open squeeze tube dispenses white paste onto toothbrush bristles.",
+          "reason": "Tube plus paste on toothbrush directly distinguishes toothpaste from generic cream.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "牙膏"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/a9/a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760.webp",
+      "recoveryVisualReview": {
+        "senseId": "a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760",
+        "word": "toothpaste",
+        "pos": "n.",
+        "meaning": "牙膏",
+        "imagePath": "public/images/words/a9/a98021fc525309db5508fb833e243111c57ae0711658ed37f03dcf2094f71760.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Unlabeled squeeze tube dispenses white paste onto a toothbrush; the context distinguishes 牙膏 from other creams."
+      }
+    },
+    {
+      "senseId": "7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850",
+      "wordId": "dict:giraffe",
+      "sourceId": "dict:giraffe",
+      "word": "giraffe",
+      "pos": "n.",
+      "meaning": "长颈鹿",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for giraffe, noun, 长颈鹿. A single complete adult giraffe stands in side three-quarter view: exceptionally long upright neck, very long legs, orange-tan coat with distinct brown polygonal patches, two small ossicones and large ears, four hooves and tail clearly visible. Tiny patch of grass only, no trees hiding neck, no other animals. Hand-painted gouache and colored-pencil texture on warm off-white paper, natural soft light, centered full-body animal with generous blank margins, clearly readable small. No text, letters, digits, logos, watermark, border or UI.",
+      "desiredAssetPath": "public/images/words/77/7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-549a8f70-a7d6-44f6-89f9-fac5eca0d785.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Complete long-necked spotted giraffe with ossicones and long legs.",
+        "reason": "Long neck, distinctive patch pattern and hornlike ossicones clearly identify giraffe, with intact full body."
+      },
+      "sourceSha256": "eea5cf99cee00ce0657d5f6f812cfb488ba18d031539f23aceb43839695f38d5",
+      "candidateSha256": "78cb3db413d544757a52439f365d843ca7425d3dd9b7af3c73842f36d2688cda",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T03:54:13.536534+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850",
+          "word": "giraffe",
+          "decision": "accept",
+          "interpretation": "Tall long-necked spotted mammal with ossicones and long legs.",
+          "reason": "Giraffe identifying traits are large and clear, body fully visible.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "长颈鹿"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/77/7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850.webp",
+      "recoveryVisualReview": {
+        "senseId": "7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850",
+        "word": "giraffe",
+        "pos": "n.",
+        "meaning": "长颈鹿",
+        "imagePath": "public/images/words/77/7788993f707bef0e55cb8c85fd3b88c34d91e0a1f6a0939f0eb4f839d19cc850.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Very long neck, long legs, ossicones and patch-patterned coat identify 长颈鹿."
+      }
+    },
+    {
+      "senseId": "e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0",
+      "wordId": "dict:chopsticks",
+      "sourceId": "dict:chopsticks",
+      "word": "chopsticks",
+      "pos": "n.",
+      "meaning": "筷子",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for chopsticks, noun, 筷子. A matching pair of long slim brown wooden chopsticks is held correctly in one hand, the two tapered tips gently gripping a small white dumpling above a simple bowl. The two separate wooden sticks are dominant and clearly visible end to end; just a small hand and bowl for use context, no fork, spoon or sushi clutter. Hand-painted gouache with subtle colored-pencil grain on warm off-white paper, soft natural light, centered compact scene and generous margins. No text, letters, digits, logos, watermarks, borders or UI.",
+      "desiredAssetPath": "public/images/words/e0/e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-da18d1e0-acea-4478-86cb-d525e795a41a.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Hand uses two slim wooden sticks together to grip a dumpling above a bowl.",
+        "reason": "Clearly separated wooden chopsticks and their characteristic paired gripping use convey 筷子; hand structure and tips readable."
+      },
+      "sourceSha256": "bd8d9a3152da22d6de1b9685ca76d3fde322bc2841befa22b3c580fe36ad5827",
+      "candidateSha256": "49091532fb8a1269cecc4e929c9ec12a79f665c9611945ed7858cc41da850e95",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T04:06:56.950738+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0",
+          "word": "chopsticks",
+          "decision": "accept",
+          "interpretation": "A pair of long wooden eating sticks held together picks up a dumpling from bowl.",
+          "reason": "Two-stick utensil silhouette and eating use directly identify chopsticks; no text.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "筷子"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/e0/e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0.webp",
+      "recoveryVisualReview": {
+        "senseId": "e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0",
+        "word": "chopsticks",
+        "pos": "n.",
+        "meaning": "筷子",
+        "imagePath": "public/images/words/e0/e056f1010d580e197ef7b8585e41a1c12e43c883253b6ba51bdbd293d5c62fa0.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A pair of tapered wooden sticks held in one hand lifts a dumpling; clear 筷子."
+      }
+    },
+    {
+      "senseId": "dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86",
+      "wordId": "dict:toothache",
+      "sourceId": "dict:toothache",
+      "word": "toothache",
+      "pos": "n.",
+      "meaning": "牙痛",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for toothache, noun, 牙痛. Close three-quarter view of a person wincing and pressing one hand against the lower cheek beside the mouth. A clear small circular anatomical cutaway beside the cheek shows one human molar with a dark cavity and reddened inflamed root area, connected to that exact painful cheek area by a simple unlabelled pointer. Keep focus on dental pain, no general fever, no injured jaw, no dentist tools. Gentle educational non-graphic illustration, warm off-white paper, gouache+pencil texture, muted coral blue, centered compact scene with empty margins. No words, letters, numbers, logos, watermark or UI.",
+      "desiredAssetPath": "public/images/words/dd/dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-787bc710-3472-4474-a584-96ceb8927c07.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Wincing person presses cheek, inset cutaway shows decayed inflamed molar at indicated cheek.",
+        "reason": "Pain expression plus clearly connected tooth cutaway conveys dental pain rather than generic cheek injury; exact noun toothache/牙痛 matches."
+      },
+      "sourceSha256": "f1918bbdeb35855b32f679f8381d4060f1372e82057f101ac7689f0a8d4d95ff",
+      "candidateSha256": "4474273c52e8be63c008771ffc89bdc0328f0aa9e6bb85ee6926131fc2898779",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T04:21:53.652245+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86",
+          "word": "toothache",
+          "decision": "accept",
+          "interpretation": "Person grimaces and holds a reddened cheek with a tooth-cavity inset linked to that location.",
+          "reason": "Pain expression and tooth inset localize discomfort to tooth rather than generic headache or sadness; no written labels.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "牙痛"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/dd/dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86.webp",
+      "recoveryVisualReview": {
+        "senseId": "dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86",
+        "word": "toothache",
+        "pos": "n.",
+        "meaning": "牙痛",
+        "imagePath": "public/images/words/dd/dd0b29d1222dd326d0a32495cd47cb3f4aced9ac8112c5b4937a826bf497bb86.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Person grimaces and presses a red painful cheek; the linked decayed tooth cutaway locates the pain in a tooth, conveying 牙痛."
+      }
+    },
+    {
+      "senseId": "ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113",
+      "wordId": "dict:schoolbag",
+      "sourceId": "dict:schoolbag",
+      "word": "schoolbag",
+      "pos": "n.",
+      "meaning": "书包",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for schoolbag, noun, 书包. A typical child-sized teal-and-coral school backpack standing upright, with two visible shoulder straps, top carry handle and front zipper pocket. Its main compartment is slightly open with two closed plain school textbooks and a simple pencil case peeking out, no toy or hiking equipment. Full bag centered, generous blank margins. Gouache and colored-pencil grain on warm off-white paper, soft daylight, clear small card silhouette. No text, letters, digits, logos, watermarks, border or UI.",
+      "desiredAssetPath": "public/images/words/ac/ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-3e7e5be5-2d54-452f-a55d-a0bc13eccc7d.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept",
+        "interpretation": "Child-size backpack with two shoulder straps and school books plus pencil case inside.",
+        "reason": "Open school supplies and typical school backpack form directly communicate schoolbag/书包 rather than hiking pack."
+      },
+      "sourceSha256": "13b4d88036510b1643f744b0600c5f187f4b3f9fcf7a96866c2e7b0725aa4473",
+      "candidateSha256": "6ec5c6858d85d25e6e3297e2ef8b87fead8faadc1cbcfbe0333de1946b47f0c5",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T04:29:11.046082+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113",
+          "word": "schoolbag",
+          "decision": "accept",
+          "interpretation": "Student-style backpack open to show books and pencil case, with shoulder straps.",
+          "reason": "Books and pencil case distinguish a schoolbag from generic travel backpack; characteristic bag shape clear.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "书包"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/ac/ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113.webp",
+      "recoveryVisualReview": {
+        "senseId": "ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113",
+        "word": "schoolbag",
+        "pos": "n.",
+        "meaning": "书包",
+        "imagePath": "public/images/words/ac/ac5a9acaa522db846a53e247284300d5c3c50ce66e87f6e6bd2eeaebd23bd113.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A two-strap school backpack holds recognizable books and pencil case, identifying 书包."
+      }
+    },
+    {
+      "senseId": "1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a",
+      "wordId": "dict:within",
+      "sourceId": "dict:within",
+      "word": "within",
+      "pos": "n.",
+      "meaning": "内部",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for within, exact noun sense 内部 (interior), not an unrelated preposition usage. Show a simple small wooden house in clean architectural cutaway: front wall removed, revealing clearly the interior room with floor, inner walls, a small chair and table fully inside its enclosing walls and roof. The building's inside room is the focus, outside is blank off-white, no yard decoration. Hand-painted gouache and subtle colored-pencil texture, muted green blue coral, soft daylight, centered compact cutaway with generous white margins, readable small. No text, letters, digits, labels, arrows, logos, watermark or UI.",
+      "desiredAssetPath": "public/images/words/1c/1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-6955b347-cb03-4262-89d6-165118c65e7a.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept_with_caveat",
+        "interpretation": "House with front removed clearly exposes its enclosed interior room.",
+        "reason": "Cutaway directly displays the interior/内部, matching supplied noun meaning; possible house/room alternative reading warrants strict cross-review."
+      },
+      "sourceSha256": "f60fff15dacf5f50bec92b80581f9e2b2c68ed7c122e64f1337e7f869105a47c",
+      "candidateSha256": "b267ef445fd86b21bdfcc577ae1916103bd87f1ac0527ba661ee173bb55b8ace",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T04:42:17.613409+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a",
+          "word": "within",
+          "decision": "accept",
+          "interpretation": "Cutaway house with front wall removed exposes enclosed floor, walls, table and chair.",
+          "reason": "Exposed enclosed interior directly supports the supplied n./内部; emphasizes inside of building rather than a preposition relationship. No text.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "内部"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/1c/1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a.webp",
+      "recoveryVisualReview": {
+        "senseId": "1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a",
+        "word": "within",
+        "pos": "n.",
+        "meaning": "内部",
+        "imagePath": "public/images/words/1c/1c9be8c08d5e25230a9bf6c3e7bb7b9ad5fd385c3affb6691693fcdb27d8743a.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "Cutaway house removes the front wall to reveal the enclosed room and furniture; the visible interior conveys supplied 内部 sense. Retains source n. exactly, without correcting dictionary."
+      }
+    },
+    {
+      "senseId": "c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804",
+      "wordId": "dict:power",
+      "sourceId": "dict:power",
+      "word": "power",
+      "pos": "n.",
+      "meaning": "力",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. One square vocabulary illustration for power, exact noun sense 力 (physical force). Show one person leaning forward with bent knees and both hands firmly pushing a heavy rough boulder across flat ground; braced feet, tense extended arms, and short scraped track under the rock make the applied physical force unmistakable. Focus on muscular effort causing the heavy object to move, not electricity, authority or a machine. Hand-painted gouache and colored-pencil grain on warm off-white paper, soft daylight, muted blue green coral, compact centered scene, generous empty margins. No text, letters, numbers, arrows, logos, watermark or card UI.",
+      "desiredAssetPath": "public/images/words/c5/c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17391-ebd7-7c03-b496-5b5868362665/exec-b98d7a2f-8fd0-4c0c-b9ed-556564e31074.png",
+      "originalLocalPath": "output/imagegen/batch-20261025-150217/root/c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/root/c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804.webp",
+      "reviewed": true,
+      "generatorReview": {
+        "method": "individual visual inspection of returned native image, exact sense known",
+        "decision": "provisional_accept_with_caveat",
+        "interpretation": "Braced person exerts physical effort pushing a heavy boulder.",
+        "reason": "Muscle tension, braced stance and large rock directly depict applied physical force/力 rather than authority or electricity; could also be read as push so cross-review required."
+      },
+      "sourceSha256": "8644927dce8090e8fcb734b1713f0e379a9a19ff80a5c9212708fbd68f2fa254",
+      "candidateSha256": "8e36f33efe812d9918e07bd02761ce5bdb5e8b3f2c894f2c84108854e382918f",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-26T04:51:15.371143+00:00",
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "senseId": "c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804",
+          "word": "power",
+          "decision": "accept",
+          "interpretation": "A braced person presses with both arms against a huge rock; taut limbs and disturbed ground show force exertion.",
+          "reason": "Physical force is visibly central and matches n./力, avoiding electricity or authority senses. No text.",
+          "reviewer": "generate_b",
+          "pos": "n.",
+          "meaning": "力"
+        },
+        "method": "Actual optimized candidate images individually viewed with target mapping known. Visible interpretation assessed before exact word/POS/meaning comparison; no blinded experiment claim.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/c5/c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804.webp",
+      "recoveryVisualReview": {
+        "senseId": "c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804",
+        "word": "power",
+        "pos": "n.",
+        "meaning": "力",
+        "imagePath": "public/images/words/c5/c5024e010a342e997b23ff85028bc8ad9916693ea8f8e3c98920ca83cdac0804.webp",
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+        "method": "Individually viewed each actual optimized image with target mapping known, then assessed meaning from visible subject/action/context; no blind-study claim.",
+        "interpretation": "A person visibly braces legs and pushes a heavy boulder with extended arms; contact, posture and moved ground convey physical 力 rather than electricity or authority."
+      }
+    }
+  ],
+  "todo": [],
+  "updatedAt": "2026-10-26T15:04:26.960539+00:00",
+  "counts": {
+    "claimed": 15,
+    "approved": 15,
+    "pending": 0
+  },
+  "recovery": {
+    "runId": "20261026-140258-recovery",
+    "threadId": "01a17882-0b7b-7230-86ff-945e9473a518",
+    "reviewedAt": "2026-10-26T14:08:10.687707+00:00",
+    "accepted": 15,
+    "deferred": 0,
+    "finalizedAt": "2026-10-26T14:56:48.975413+00:00",
+    "integration": {
+      "at": "2026-10-26T15:04:26.960539+00:00",
+      "manifestReady": 1378,
+      "manifestRevision": "3647d3d1e27cc596",
+      "validation": {
+        "catalogMetadataIssues": 0,
+        "productionBuild": "passed",
+        "existingTestsPassed": 69,
+        "fullyDecodedAssets": 1378,
+        "productionHTTPChecks": 1635
+      }
+    }
+  }
+}

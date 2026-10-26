@@ -1,0 +1,1476 @@
+{
+  "runId": "20261025-150217",
+  "threadId": "01a17391-ebd7-7c03-b496-5b5868362665",
+  "startedAt": "2026-10-25T15:02:17.497011+00:00",
+  "batchPath": "output/imagegen/batch-20261025-150217",
+  "group": "a",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "reviewed_integrated",
+  "claimed": [
+    {
+      "senseId": "c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff",
+      "wordId": "dict:court",
+      "sourceId": "dict:court",
+      "word": "court",
+      "pos": "n.",
+      "meaning": "法院",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"court\",\"pos\":\"n.\",\"meaning\":\"法院\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c9/c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d",
+      "wordId": "dict:view",
+      "sourceId": "dict:view",
+      "word": "view",
+      "pos": "n.",
+      "meaning": "视野",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"view\",\"pos\":\"n.\",\"meaning\":\"视野\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/19/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+      "status": "pending_visual_revision",
+      "reviewed": false
+    },
+    {
+      "senseId": "2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b",
+      "wordId": "dict:less",
+      "sourceId": "dict:less",
+      "word": "less",
+      "pos": "n.",
+      "meaning": "较少",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"less\",\"pos\":\"n.\",\"meaning\":\"较少\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/24/2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801",
+      "wordId": "dict:section",
+      "sourceId": "dict:section",
+      "word": "section",
+      "pos": "n.",
+      "meaning": "区段",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"section\",\"pos\":\"n.\",\"meaning\":\"区段\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/83/83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204",
+      "wordId": "dict:staff",
+      "sourceId": "dict:staff",
+      "word": "staff",
+      "pos": "n.",
+      "meaning": "全体人员",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"staff\",\"pos\":\"n.\",\"meaning\":\"全体人员\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/f1/f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559",
+      "wordId": "dict:product",
+      "sourceId": "dict:product",
+      "word": "product",
+      "pos": "n.",
+      "meaning": "产品",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"product\",\"pos\":\"n.\",\"meaning\":\"产品\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ff/fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3",
+      "wordId": "dict:better",
+      "sourceId": "dict:better",
+      "word": "better",
+      "pos": "adj.",
+      "meaning": "较好的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"better\",\"pos\":\"adj.\",\"meaning\":\"较好的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/9f/9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15",
+      "wordId": "dict:support",
+      "sourceId": "dict:support",
+      "word": "support",
+      "pos": "n.",
+      "meaning": "支持",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"support\",\"pos\":\"n.\",\"meaning\":\"支持\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/81/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+      "status": "pending_visual_revision",
+      "reviewed": false
+    },
+    {
+      "senseId": "35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a",
+      "wordId": "dict:range",
+      "sourceId": "dict:range",
+      "word": "range",
+      "pos": "n.",
+      "meaning": "排",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"range\",\"pos\":\"n.\",\"meaning\":\"排\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/35/35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e",
+      "wordId": "dict:material",
+      "sourceId": "dict:material",
+      "word": "material",
+      "pos": "n.",
+      "meaning": "材料",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"material\",\"pos\":\"n.\",\"meaning\":\"材料\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/8a/8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0",
+      "wordId": "dict:player",
+      "sourceId": "dict:player",
+      "word": "player",
+      "pos": "n.",
+      "meaning": "竞赛者",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"player\",\"pos\":\"n.\",\"meaning\":\"竞赛者\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/f5/f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4",
+      "wordId": "dict:base",
+      "sourceId": "dict:base",
+      "word": "base",
+      "pos": "n.",
+      "meaning": "底部",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"base\",\"pos\":\"n.\",\"meaning\":\"底部\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/d0/d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31",
+      "wordId": "dict:central",
+      "sourceId": "dict:central",
+      "word": "central",
+      "pos": "adj.",
+      "meaning": "中央的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"central\",\"pos\":\"adj.\",\"meaning\":\"中央的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/e6/e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265",
+      "wordId": "dict:apply",
+      "sourceId": "dict:apply",
+      "word": "apply",
+      "pos": "v.",
+      "meaning": "涂",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"apply\",\"pos\":\"v.\",\"meaning\":\"涂\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/07/0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265.webp",
+      "status": "ready",
+      "reviewed": true
+    },
+    {
+      "senseId": "2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da",
+      "wordId": "dict:contain",
+      "sourceId": "dict:contain",
+      "word": "contain",
+      "pos": "v.",
+      "meaning": "包含",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"contain\",\"pos\":\"v.\",\"meaning\":\"包含\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/2c/2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da.webp",
+      "status": "ready",
+      "reviewed": true
+    }
+  ],
+  "candidates": [],
+  "assets": [
+    {
+      "senseId": "c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff",
+      "wordId": "dict:court",
+      "sourceId": "dict:court",
+      "word": "court",
+      "pos": "n.",
+      "meaning": "法院",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: court / n. / 法院.\nPrimary request: Show a courthouse legal hearing room, with a judge in plain black robe seated high behind a wooden bench, two opposing legal representatives at separate low tables, and a witness stand. Formal symmetrical courtroom architecture makes the institution of the court unmistakable. No police action or sports court.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/c9/c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-b7835ad4-fba7-49b3-bb70-be966d616d1a.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T01:38:14.421297+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "8b4ed05c66489054e7f6fa844aadaa03762cbe6a2e11db6816c2a2dfe75bf34f",
+      "candidateSha256": "e8d2d1262f4b2232fc81da07f42a7f66bc0c2d2893df099a002370e5cf25bf89",
+      "bytes": 92162,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T01:39:44.203141+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际逐张查看640px候选：高座黑袍法官、证人席和双方律师共同组成清楚的法院审理空间；不依赖文字可以理解法院这一机构。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "court",
+          "decision": "accept",
+          "interpretation": "Judge and attorneys in a formal courtroom.",
+          "reason": "Judicial bench, gavel, witness position and attorneys identify the institution 法院 rather than generic office.",
+          "senseId": "c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "法院"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/c9/c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "黑袍法官位于高台、律师与证人席共同构成法院审理场景，机构义明确。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "黑袍法官位于高台、律师与证人席共同构成法院审理场景，机构义明确。",
+        "pathViewed": "public/images/words/c9/c951fb3652f851859e396fdb3bb9aa6d58c598fd45ac8a70ff92e72686fd1dff.webp"
+      }
+    },
+    {
+      "senseId": "2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b",
+      "wordId": "dict:less",
+      "sourceId": "dict:less",
+      "word": "less",
+      "pos": "n.",
+      "meaning": "较少",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: less / n. / 较少.\nPrimary request: Show two identical shallow bowls side by side at the same size: left bowl visibly full of many red cherries, right bowl contains only three cherries and lots of empty space. A hand gestures toward the right bowl with the smaller quantity. Clear simple comparison of less amount, no numbers or text.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/24/2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-a7efd80a-1a99-4dbf-843f-40fda366c8d9.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T01:54:03.380668+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "f8fa76a15953e63179abd05f01919f77b7f895becf3e146bc2809a0bd24e802b",
+      "candidateSha256": "04b22a926b15478bb852e8611afd2cda050f9a481e7e05bea316ac5b666dc8bb",
+      "bytes": 51640,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T02:00:33.448365+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际逐张查看640px候选：两个同样碗形成数量对照，手指向只有三颗樱桃的一碗，较少的数量关系直观且无文字。待主智能体复核词性。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "less",
+          "decision": "accept",
+          "interpretation": "Two equal bowls contain many cherries and very few; finger selects the smaller quantity.",
+          "reason": "Matched bowls and sharply unequal quantities directly show 较少 without labels or counting.",
+          "senseId": "2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "较少"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/24/2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "相同两碗樱桃形成数量差，手指明确指向仅三颗的较少一碗；符合原始n./较少所指数量。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "相同两碗樱桃形成数量差，手指明确指向仅三颗的较少一碗；符合原始n./较少所指数量。",
+        "pathViewed": "public/images/words/24/2467a84598c8ef5f2d61d645b65f4e2feb72715a75f3ee126c82282596cc956b.webp"
+      }
+    },
+    {
+      "senseId": "83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801",
+      "wordId": "dict:section",
+      "sourceId": "dict:section",
+      "word": "section",
+      "pos": "n.",
+      "meaning": "区段",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: section / n. / 区段.\nPrimary request: Show a short straight pale stone garden path divided by visible transverse joints into five broad consecutive sections. One middle section is coral-colored and subtly raised a little above the other four, making one bounded part of the whole path visually clear. Keep the whole path visible and no decorative garden scene competing.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/83/83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-21e3c395-aa1c-42a1-bd72-be80bfa4b76f.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T02:10:38.519770+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "0daf76df6f43e6ac9011abbb793f46c7fdf5847fcba77d3e90d7838de3f23bb9",
+      "candidateSha256": "04892fdf00e77f235a6a40a30304ac3f78986ff3ada18765bb3ba3672ea56715",
+      "bytes": 92202,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T02:18:17.854345+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：连续步道被横向接缝划为区段，中间一段以颜色突出，整体中的有边界区段关系明确。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "section",
+          "decision": "accept",
+          "interpretation": "One differently colored segment in a connected paved walkway.",
+          "reason": "Colored bounded segment within a continuous whole makes 区段 directly visible.",
+          "senseId": "83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "区段"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/83/83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "连续步道中单一珊瑚色区段与其余灰色段落有清楚边界，整体和其中一段关系明确。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "连续步道中单一珊瑚色区段与其余灰色段落有清楚边界，整体和其中一段关系明确。",
+        "pathViewed": "public/images/words/83/83eea847c77183df7574f03d946d83d9507e687dae919d0b2bce74d1a8c02801.webp"
+      }
+    },
+    {
+      "senseId": "f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204",
+      "wordId": "dict:staff",
+      "sourceId": "dict:staff",
+      "word": "staff",
+      "pos": "n.",
+      "meaning": "全体人员",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: staff / n. / 全体人员.\nPrimary request: Show the entire small café working team together in its café: one cook in apron and plain chef hat, one barista beside an espresso machine, and two servers in matching aprons, all posed shoulder to shoulder behind the counter. No customers, all four staff members visibly included. A small cohesive workforce, not a random crowd.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/f1/f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-6fbfc831-b909-4650-8049-0d32e58d52fb.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T02:24:46.927649+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "addc6f5dccecbf65951cadab93a145144ec1e4c380a0839b47f1ca04d92c52c3",
+      "candidateSha256": "cd53f48b67c6258992a743db315d4c7410a15fabcc25059f3d6d809571bf3a4e",
+      "bytes": 119982,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T03:03:30.674843+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：同一咖啡馆内厨师、咖啡师和两名服务员共同成组，制服及工作用具清晰，画面传达一处工作的员工集体。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "staff",
+          "decision": "accept",
+          "interpretation": "Cafe team in matching aprons, including chef and servers behind the counter.",
+          "reason": "Multiple job roles together at the workplace clearly present the personnel as a group, matching 全体人员.",
+          "senseId": "f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "全体人员"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/f1/f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "厨房厨师、咖啡师与侍者身穿工作围裙共同站在吧台后，表现同一餐饮场所的人员整体。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "厨房厨师、咖啡师与侍者身穿工作围裙共同站在吧台后，表现同一餐饮场所的人员整体。",
+        "pathViewed": "public/images/words/f1/f1c9d4f3d7fe79f828c9d9b1a7a367140cf01d5707021b2f2193c0709d1cb204.webp"
+      }
+    },
+    {
+      "senseId": "fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559",
+      "wordId": "dict:product",
+      "sourceId": "dict:product",
+      "word": "product",
+      "pos": "n.",
+      "meaning": "产品",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: product / n. / 产品.\nPrimary request: Show a small manufacturing conveyor finishing identical plain ceramic cups, with the final finished cup prominently displayed in front beside its simple open protective cardboard box. The finished manufactured item is dominant; only a hint of the production line in background. No logos, printed packaging or labels.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/ff/fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-8b61fe72-f356-40e7-bf3e-4122161b0e6c.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T03:14:30.026767+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "d70035a36664793a5e5b48b9d2bc07962d64dc810b4c773c039c1987ebcb1654",
+      "candidateSha256": "1eeb91f3b5f9036db04fa449bc20b6e3fa97bd10d7a1be4cc517d65ef872dd7a",
+      "bytes": 53572,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T03:37:58.873132+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：烧制生产线上相同陶瓷杯与前景成品杯及包装箱关联，清楚突出制造完成的产品。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "product",
+          "decision": "accept",
+          "interpretation": "Finished ceramic mug and packaging in front of a mug production line.",
+          "reason": "Prominent finished manufactured item and box identify 产品, with production context supporting rather than replacing the result.",
+          "senseId": "fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "产品"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/ff/fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "前景成品杯和包装箱、背景同样杯子的制造流水线，明确把成品作为产品而非只杯子。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "前景成品杯和包装箱、背景同样杯子的制造流水线，明确把成品作为产品而非只杯子。",
+        "pathViewed": "public/images/words/ff/fffc4ed155c6071e9a21a405d949c678d8df19a53fd7eff7df125b00dc10c559.webp"
+      }
+    },
+    {
+      "senseId": "9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3",
+      "wordId": "dict:better",
+      "sourceId": "dict:better",
+      "word": "better",
+      "pos": "adj.",
+      "meaning": "较好的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: better / adj. / 较好的.\nPrimary request: Show two comparable wooden stools side by side at equal scale. Left stool has a rough uneven seat and wobbly tilted leg; right stool has an even smooth polished seat, sturdy straight legs and neat construction. A person comfortably sits on the visibly superior right stool while glancing with relief at it. A clear everyday comparison of higher quality, no symbols or rating marks.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/9f/9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-0275f5c1-b80c-4ed8-acc3-3104ea14247c.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T03:45:43.931808+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "18a9cd09ac75788263606e21a11ebffc3d400b9e6e51a7ff15cd9c0ceb8dda4b",
+      "candidateSha256": "25456805f724f222163d336a18715c81b0ed6d5858f527a4db15e96bf895bb93",
+      "bytes": 56680,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T03:51:23.771957+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：粗糙开裂旧凳与光滑稳固新凳直接比较，人物舒适坐在质量较好的凳子上，比较关系可见。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "better",
+          "decision": "accept",
+          "interpretation": "Woman chooses a sound smooth stool beside a broken rough one.",
+          "reason": "Same object contrasted in usability and condition directly shows 较好的.",
+          "senseId": "9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3",
+          "reviewer": "root",
+          "pos": "adj.",
+          "meaning": "较好的"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/9f/9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "相似凳子的破损与完好形成质量对比，人物选择稳固完好者坐，较好的属性可见。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "相似凳子的破损与完好形成质量对比，人物选择稳固完好者坐，较好的属性可见。",
+        "pathViewed": "public/images/words/9f/9f9d290d5e678eefd83cf076180925dd895edcbc1f18d0808a027cfb79ab69e3.webp"
+      }
+    },
+    {
+      "senseId": "35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a",
+      "wordId": "dict:range",
+      "sourceId": "dict:range",
+      "word": "range",
+      "pos": "n.",
+      "meaning": "排",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: range / n. / 排.\nPrimary request: Show exactly six identical plain blue chairs neatly aligned in a single straight horizontal row, with consistent spacing and all chair backs facing the same direction. The single orderly row is the subject, isolated on warm off-white ground. No audience, stage, classroom or extra rows.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/35/35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-5e5bd35e-849f-48af-b7a6-10e06276654e.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T04:17:10.748765+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "945e3027144b49ee55cf26ec8b006e025a017f11ff33a5cad97ef09954524e49",
+      "candidateSha256": "ba5a4efc5e1f4c73f319577da7731f028841d9c36683a9e7f1ec7dfd58263779",
+      "bytes": 26018,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T04:21:32.678854+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：六把相同椅子等距排成单一横排，无其他关系干扰，名词一排的排列特征直观。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "range",
+          "decision": "accept",
+          "interpretation": "Identical blue chairs arranged in one straight row.",
+          "reason": "Visible single linear arrangement directly conveys the exact noun 排, not unrelated senses of range.",
+          "senseId": "35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "排"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/35/35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "六把相同椅子整齐并列成单排，直接传达给定n./排，不使用范围的其他义。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "六把相同椅子整齐并列成单排，直接传达给定n./排，不使用范围的其他义。",
+        "pathViewed": "public/images/words/35/35ac9f128912b2abb130edd07ed51526e72cabcc5070701c6b8e35851035615a.webp"
+      }
+    },
+    {
+      "senseId": "8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e",
+      "wordId": "dict:material",
+      "sourceId": "dict:material",
+      "word": "material",
+      "pos": "n.",
+      "meaning": "材料",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: material / n. / 材料.\nPrimary request: Show raw construction materials grouped on a worktable: neatly stacked unpainted wooden planks, a compact roll of plain cloth, and a few rough clay bricks, all showing distinct natural textures. Beside them one half-built simple wooden shelf makes clear these are the substances used to make things. Materials occupy most of the image; no worker or tools distracting.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/8a/8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-9553fd6d-0cdf-4d95-a694-b088c3f12368.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T04:27:25.743390+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "abc66d106129181d26b80afed83c93f196fff29bc274bbc90bc21bf21dde1733",
+      "candidateSha256": "f51041adbda0c43f4557fea86993df9c1e1c2ab0bab89ac9560e97f51bebf896",
+      "bytes": 105690,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T04:38:18.120897+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：木板、布卷和砖块的原材料形态及纹理明确，旁边木架说明制作用途，整体可读为材料而非单一成品。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "material",
+          "decision": "accept",
+          "interpretation": "Unfinished boards, cloth and bricks on workbench.",
+          "reason": "Recognizable raw inputs grouped at a workshop directly convey materials/材料.",
+          "senseId": "8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "材料"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/8a/8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "木板、布卷、砖块在制作台上表现未加工材料集合，纹理与原料形态清晰。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "木板、布卷、砖块在制作台上表现未加工材料集合，纹理与原料形态清晰。",
+        "pathViewed": "public/images/words/8a/8ad4abac1e7d170f3628fc1c857f49a110dc996cf351bb675ede6b7ad0b9637e.webp"
+      }
+    },
+    {
+      "senseId": "f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0",
+      "wordId": "dict:player",
+      "sourceId": "dict:player",
+      "word": "player",
+      "pos": "n.",
+      "meaning": "竞赛者",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: player / n. / 竞赛者.\nPrimary request: Show a focused tennis competitor on a tennis court mid-match, holding racket ready to return a visible ball, wearing plain sports kit, opponent small on the far side of the net. Main competitor full body prominent with clear active participation in a contest. No numbers, logos, scoreboard or sports text.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/f5/f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-97a5e7ec-7201-4511-8d6a-bd5acac21b7c.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T04:45:54.657886+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "c7cb2af5fc4dbc6b823ca45d9fbc77652de5ed8d6fccb5a49e477e800831e00f",
+      "candidateSha256": "0fa7622daac9c7734b763487ef9acea230422395da6b56115c835df5626ac602",
+      "bytes": 108132,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T04:55:49.002020+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：前景网球选手持拍接球，网对面有对手，明确表现比赛中的参与者而非器械或旁观者。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "player",
+          "decision": "accept",
+          "interpretation": "Tennis participant facing an opponent across a court net.",
+          "reason": "Active opposing sides and sports equipment identify a competition participant/竞赛者.",
+          "senseId": "f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "竞赛者"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/f5/f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "前景持拍击球者与网后对手构成比赛，突出实际竞赛参与者。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "前景持拍击球者与网后对手构成比赛，突出实际竞赛参与者。",
+        "pathViewed": "public/images/words/f5/f59a757588038019ece30cfa3cdae1a0707a6abb77e2c01c5998bb81d23b67a0.webp"
+      }
+    },
+    {
+      "senseId": "d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4",
+      "wordId": "dict:base",
+      "sourceId": "dict:base",
+      "word": "base",
+      "pos": "n.",
+      "meaning": "底部",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: base / n. / 底部.\nPrimary request: Show one classical stone column on a very broad stable square pedestal. The lowermost pedestal and bottom of the column are warmly lit coral stone while the upper column is muted pale gray, directing attention to the bottom supporting part. View from slightly low angle, whole column visible with generous margins. No arrows or labels.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/d0/d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-10fa02a0-7baa-4ba8-9a00-cb7d96303775.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T05:33:42.818258+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "e73c99518aa60dc49a4d8b6e6d46cde53e3b85e905be6afbddee167b90c73fa8",
+      "candidateSha256": "62c1649869bf84cc2b8f2da1e3fafa3dcbfdc09fc81f5077dc678ff93c9bc006",
+      "bytes": 89438,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T05:34:07.539473+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：整根石柱可见，最下面宽大承托底座以珊瑚色与灰色柱身区分，底部的空间位置明确。可能仍读作柱子，待主智能体严格复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "base",
+          "decision": "accept",
+          "interpretation": "Stone column stands on a prominently colored wide bottom pedestal.",
+          "reason": "Color contrast and supporting position emphasize bottom/base rather than upper column.",
+          "senseId": "d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4",
+          "reviewer": "root",
+          "pos": "n.",
+          "meaning": "底部"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/d0/d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "完整石柱下方宽大珊瑚底座承担支撑，颜色和底部位置共同强调底部。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "完整石柱下方宽大珊瑚底座承担支撑，颜色和底部位置共同强调底部。",
+        "pathViewed": "public/images/words/d0/d021268bd458894b9262883d63cdd6242fa63149d3d32236e4a4baf527a3d0b4.webp"
+      }
+    },
+    {
+      "senseId": "e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31",
+      "wordId": "dict:central",
+      "sourceId": "dict:central",
+      "word": "central",
+      "pos": "adj.",
+      "meaning": "中央的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: central / adj. / 中央的.\nPrimary request: Show a round dining table from directly above with one coral vase placed exactly at its center, surrounded symmetrically by four blue plates near the edge. Strong clear spatial relationship: central vase equally distant from table edges and surrounding plates. Clean tabletop, no food clutter.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/e6/e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-bcb1f814-5323-49db-aadc-508a4abe9fa8.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T05:34:56.742993+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "8f69aaa458970c8d82a21ff6316a3bddcaf4615ad6f7544c2bf4753dc9fff3d3",
+      "candidateSha256": "a006059601e96c1aef33e6115b2cef9838eea3dc930b25ada0138bb0a37c6e76",
+      "bytes": 71796,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T05:35:16.679667+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：俯视圆桌中央的珊瑚色花瓶，被四个边缘蓝盘对称围绕，中央位置清楚且与周围区分。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "central",
+          "decision": "accept",
+          "interpretation": "Vase sits at the exact middle of a round table surrounded by place settings.",
+          "reason": "Top-down radial arrangement makes the central position visually explicit.",
+          "senseId": "e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31",
+          "reviewer": "root",
+          "pos": "adj.",
+          "meaning": "中央的"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/e6/e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "俯视圆桌中花瓶居于四个周边盘子几何中央，中央的位置属性明确。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "俯视圆桌中花瓶居于四个周边盘子几何中央，中央的位置属性明确。",
+        "pathViewed": "public/images/words/e6/e6a2cb05d378a76747019d3f2a52ad398559b623705ed75163996f8491cccd31.webp"
+      }
+    },
+    {
+      "senseId": "0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265",
+      "wordId": "dict:apply",
+      "sourceId": "dict:apply",
+      "word": "apply",
+      "pos": "v.",
+      "meaning": "涂",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: apply / v. / 涂.\nPrimary request: Show a close view of a hand using two fingertips to spread a white streak of ointment from a small plain open cream jar onto the opposite bare forearm. Fingers visibly smear and distribute the cream on skin in one continuous action, clearly applying a substance. No writing or logos on jar, no wound or medical symbols.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/07/0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-77ae7031-c504-45c6-8848-1098b44de230.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T05:36:34.911654+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "8fa7315e265d7ded9ef5b69145cc7df169790f1e98a1a14dbedcec48b27b6369",
+      "candidateSha256": "a7767ba0fbe5af43f1d1bf768fc6ef4f4e163d0c136522289275bc0bccfd958b",
+      "bytes": 52648,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T05:37:18.833531+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：两指正在前臂上摊开白色膏体，旁有无字乳膏罐，涂抹动作与物质清楚。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "apply",
+          "decision": "accept",
+          "interpretation": "Fingers spread a layer of white cream onto forearm skin.",
+          "reason": "Visible contact and smeared cream directly show the action 涂, not another apply sense.",
+          "senseId": "0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265",
+          "reviewer": "root",
+          "pos": "v.",
+          "meaning": "涂"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/07/0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "手指接触前臂并铺开白色乳膏，清楚表现涂这一动作。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "手指接触前臂并铺开白色乳膏，清楚表现涂这一动作。",
+        "pathViewed": "public/images/words/07/0700c4e10400853fff13b5802d0df9c383d5c875493df4f06fe840af29314265.webp"
+      }
+    },
+    {
+      "senseId": "2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da",
+      "wordId": "dict:contain",
+      "sourceId": "dict:contain",
+      "word": "contain",
+      "pos": "v.",
+      "meaning": "包含",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: contain / v. / 包含.\nPrimary request: Show a transparent glass jar with its lid set beside it, visibly containing several colorful seashells entirely inside its glass boundary. A single shell just outside beside the jar emphasizes the inside-versus-outside relation. The jar enclosing its contents is dominant, no hand or clutter.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+      "desiredAssetPath": "public/images/words/2c/2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-c99bcf04-a7b4-493e-aeef-89e9a6ee5274.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/raw/2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T06:03:09.692512+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "df6af95ff35c620500efc6195579d9c6d783476f3429ac607b911657a34dbce5",
+      "candidateSha256": "28600406a2f5664a70fc531e54ac08718c35a7fbb970229cf9bccba38b7f7f14",
+      "bytes": 71120,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T06:03:34.381547+00:00",
+        "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+        "reason": "实际查看640px候选：透明罐边界内有多种贝壳，外面单独一枚贝壳形成内外对比，容器包含其内容的关系清楚。待主智能体复核。"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+        "crossReview": {
+          "word": "contain",
+          "decision": "accept",
+          "interpretation": "Transparent jar encloses several shells, one outside beside it.",
+          "reason": "Visible container boundary and contents directly express 包含/容纳, with inside-outside contrast.",
+          "senseId": "2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da",
+          "reviewer": "root",
+          "pos": "v.",
+          "meaning": "包含"
+        },
+        "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+        "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+      },
+      "savedPath": "public/images/words/2c/2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da.webp",
+      "recoveryReviews": [
+        {
+          "reviewer": "recovery-a-20261026",
+          "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+          "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+          "passed": true,
+          "interpretationAndReason": "透明罐的边界内含多枚贝壳，外部单独一枚形成内外关系，包含关系清楚。"
+        }
+      ],
+      "recoveryVisualReview": {
+        "reviewer": "recovery-a-20261026",
+        "reviewedAt": "2026-10-26T14:08:06.967675+00:00",
+        "method": "Individually opened actual 640x640 saved WebP using view_image. Target mapping known; judged scene without word or translation; no blind-test claim.",
+        "passed": true,
+        "interpretationAndReason": "透明罐的边界内含多枚贝壳，外部单独一枚形成内外关系，包含关系清楚。",
+        "pathViewed": "public/images/words/2c/2c0635601a8164dc091870115c8595b1e281d1834de9b0c3d20b817c1a8ca6da.webp"
+      }
+    },
+    {
+      "senseId": "8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15",
+      "wordId": "dict:support",
+      "sourceId": "dict:support",
+      "word": "support",
+      "pos": "n.",
+      "meaning": "支持",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one standalone square vocabulary illustration.\nExact sense: support, noun, 支持. Show emotional encouragement and solidarity, not physical propping, carrying, or medical care.\nPrimary request: On a small plain community stage, a nervous young adult speaker stands holding a blank sheet at a simple lectern. At the front edge near the speaker, three close friends face the speaker with warm encouraging smiles: one gives two thumbs up, one raises an encouraging clenched fist gently, and one claps. The speaker visibly responds with a relieved confident smile. Make the friends' encouraging gestures and their directed attention the main focal group, with a clear relationship to the person they support. This single compact scene must communicate people giving someone encouragement and support before a challenge, not celebrating a winner. No trophy, podium medals, sports, injury, balancing or lifting.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral. Main related group centered within middle70 percent; generous clean margins and legible at small size.\nConstraints: no text, letters, numbers, symbols, written marks on paper, signs, logos, borders, UI, or watermarks. One coherent scene, not panels or a collage.",
+      "desiredAssetPath": "public/images/words/81/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17884-74bd-7b20-a6a4-952f5f605330/exec-c8ce82e3-c845-476a-be23-a742dc4bbac2.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T14:14:05.943076+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "b4b0afad93d4a7531df9876cbc9d79bfde62d84257ccbc805715d23f8ac87c59",
+      "candidateSha256": "ab77dabf8eda29d2fc7ec37c44c3243e957ea59c9d05bc8e27d4d52a87742bdf",
+      "bytes": 60618,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:17:25.286503+00:00",
+        "reviewer": "recovery-a-20261026",
+        "method": "Native generated image inspected, then individually opened optimized640px WebP using view_image; target known, no blind-test claim.",
+        "interpretation": "Three friends direct thumbs-up, applause and cheering gestures at a smiling speaker at a lectern.",
+        "reason": "Their encouragement and solidarity visibly convey support/支持, with no physical propping or injury. Exact noun concept is illustrated by the encouragement being given."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+        "crossReview": {
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+          "decision": "accept",
+          "passed": true,
+          "method": "Root independently viewed actual optimized candidate; target known, no blind-test claim.",
+          "reason": "听众拇指上举、鼓掌、握拳鼓励集中指向讲台上的发言者，明确传达鼓励与支持，区别旧图身体搀扶，符合n./支持。"
+        },
+        "method": "Recovery generator and root each inspected actual image separately."
+      },
+      "recoveryAttempts": [
+        {
+          "recoveryRun": "20261026",
+          "status": "visually_approved",
+          "prompt": "Use case: scientific-educational.\nAsset type: one standalone square vocabulary illustration.\nExact sense: support, noun, 支持. Show emotional encouragement and solidarity, not physical propping, carrying, or medical care.\nPrimary request: On a small plain community stage, a nervous young adult speaker stands holding a blank sheet at a simple lectern. At the front edge near the speaker, three close friends face the speaker with warm encouraging smiles: one gives two thumbs up, one raises an encouraging clenched fist gently, and one claps. The speaker visibly responds with a relieved confident smile. Make the friends' encouraging gestures and their directed attention the main focal group, with a clear relationship to the person they support. This single compact scene must communicate people giving someone encouragement and support before a challenge, not celebrating a winner. No trophy, podium medals, sports, injury, balancing or lifting.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted natural green, blue and coral. Main related group centered within middle70 percent; generous clean margins and legible at small size.\nConstraints: no text, letters, numbers, symbols, written marks on paper, signs, logos, borders, UI, or watermarks. One coherent scene, not panels or a collage.",
+          "mode": "built-in image_gen",
+          "tool": "image_gen__imagegen",
+          "plannedAt": "2026-10-26T14:08:06.967675+00:00",
+          "source": "/Users/huangjiabao/.codex/generated_images/01a17884-74bd-7b20-a6a4-952f5f605330/exec-c8ce82e3-c845-476a-be23-a742dc4bbac2.png",
+          "rawPath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.png",
+          "generatedAt": "2026-10-26T14:14:05.943076+00:00",
+          "reviewed": true,
+          "sourceSha256": "b4b0afad93d4a7531df9876cbc9d79bfde62d84257ccbc805715d23f8ac87c59",
+          "candidatePath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+          "candidateSha256": "ab77dabf8eda29d2fc7ec37c44c3243e957ea59c9d05bc8e27d4d52a87742bdf",
+          "bytes": 60618,
+          "dimensions": [
+            640,
+            640
+          ],
+          "visualReview": {
+            "passed": true,
+            "reviewedAt": "2026-10-26T14:17:25.286503+00:00",
+            "reviewer": "recovery-a-20261026",
+            "method": "Native generated image inspected, then individually opened optimized640px WebP using view_image; target known, no blind-test claim.",
+            "interpretation": "Three friends direct thumbs-up, applause and cheering gestures at a smiling speaker at a lectern.",
+            "reason": "Their encouragement and solidarity visibly convey support/支持, with no physical propping or injury. Exact noun concept is illustrated by the encouragement being given."
+          },
+          "crossReview": {
+            "reviewer": "/root",
+            "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+            "decision": "accept",
+            "passed": true,
+            "method": "Root independently viewed actual optimized candidate; target known, no blind-test claim.",
+            "reason": "听众拇指上举、鼓掌、握拳鼓励集中指向讲台上的发言者，明确传达鼓励与支持，区别旧图身体搀扶，符合n./支持。"
+          }
+        }
+      ],
+      "priorCandidates": [
+        {
+          "senseId": "8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15",
+          "wordId": "dict:support",
+          "sourceId": "dict:support",
+          "word": "support",
+          "pos": "n.",
+          "meaning": "支持",
+          "stageId": "senior",
+          "curated": false,
+          "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: support / n. / 支持.\nPrimary request: Show a friend giving steady physical support to an injured person who has one bandaged ankle: friend's arm around their back and injured person's arm over friend's shoulder, with weight leaning onto the helper as they stand together. The central focus is the supportive hold and reliable assistance. No hospital or medical team.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+          "desiredAssetPath": "public/images/words/81/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+          "status": "pending_visual_revision",
+          "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-59c7fa67-7118-4d5a-86e5-0ca2f4b31518.png",
+          "rawPath": "output/imagegen/batch-20261025-150217/a/raw/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.png",
+          "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+          "reviewed": false,
+          "generatedAt": "2026-10-26T03:58:18.734602+00:00",
+          "tool": "image_gen__imagegen",
+          "mode": "built-in",
+          "sourceSha256": "c95d0038e8f5bd1b79f8896b1f605c1701f2d87317fb7ec3a9508f801174f007",
+          "candidateSha256": "a3e77b2db619cc0b447c202a27b7075fbb8476e888e0b4cab02ded3745c567cc",
+          "bytes": 74010,
+          "dimensions": [
+            640,
+            640
+          ],
+          "provisionalApproved": true,
+          "visualReview": {
+            "passed": true,
+            "reviewedAt": "2026-10-26T04:11:24.142495+00:00",
+            "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+            "reason": "实际查看640px候选：伤脚包扎者明显依靠朋友搭肩扶腰获得帮助，朋友给予的支撑与支持具体可见。待主智能体复核n.支持与搀扶的对应。"
+          },
+          "finalVisualReview": {
+            "passed": false,
+            "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+            "crossReview": {
+              "word": "support",
+              "decision": "defer",
+              "interpretation": "Woman helps an injured friend walk by holding her up.",
+              "reason": "Image primarily identifies helping or 搀扶/支撑, while supplied exact noun 支持 remains less direct; keep for semantic revision.",
+              "senseId": "8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15",
+              "reviewer": "root",
+              "pos": "n.",
+              "meaning": "支持"
+            },
+            "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+            "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+          }
+        }
+      ],
+      "recoveryVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:17:25.286503+00:00",
+        "reviewer": "recovery-a-20261026",
+        "method": "Native generated image inspected, then individually opened optimized640px WebP using view_image; target known, no blind-test claim.",
+        "interpretation": "Three friends direct thumbs-up, applause and cheering gestures at a smiling speaker at a lectern.",
+        "reason": "Their encouragement and solidarity visibly convey support/支持, with no physical propping or injury. Exact noun concept is illustrated by the encouragement being given.",
+        "pathViewed": "output/imagegen/batch-20261025-150217/a/recovery-20261026/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp"
+      },
+      "savedPath": "public/images/words/81/8181dddebd3484e1ce5865fe704fb2675ca73a7dc5d92bea27b8294ad2cc7f15.webp",
+      "recoveryCrossReview": {
+        "reviewer": "/root",
+        "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+        "decision": "accept",
+        "passed": true,
+        "method": "Root independently viewed actual optimized candidate; target known, no blind-test claim.",
+        "reason": "听众拇指上举、鼓掌、握拳鼓励集中指向讲台上的发言者，明确传达鼓励与支持，区别旧图身体搀扶，符合n./支持。"
+      }
+    },
+    {
+      "senseId": "197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d",
+      "wordId": "dict:view",
+      "sourceId": "dict:view",
+      "word": "view",
+      "pos": "n.",
+      "meaning": "视野",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational.\nAsset type: one standalone square English vocabulary illustration.\nExact sense: view, noun, 视野, the area a person is able to see.\nPrimary request: A simple educational illustration of a person's visual field in one coherent scene, seen from a slightly elevated three-quarter angle. Put a small person in the lower foreground facing forward, with face in slight profile so their eyes and gaze are obvious. In front of the person, a broad pale translucent fan expands naturally from their eye level across a quiet open garden. Inside this broad fan, a nearby ball, a small tree and a distant bench are vivid and clearly visible. Immediately behind the person, outside the fan, a small plant is faint grey. The visible field itself is the dominant subject: broad unobstructed area in front of the eyes, contrasted with what lies behind and cannot be seen. Fan edges only subtle softly colored transparent boundaries, no arrows and no text. The scene illustrates the extent of the visual field, rather than a scenic landscape or looking through a window. No buildings, spectacular mountains, lake, telescope or eye chart.\nStyle: hand-painted gouache with colored-pencil texture on warm off-white paper, soft natural light, muted green blue and coral, clean compact composition with generous margins. Legible at small card size.\nConstraints: no text, letters, numerals, labels, symbols, logos, borders, watermark or card UI. One scene only, not a collage or separate panels.",
+      "desiredAssetPath": "public/images/words/19/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17884-74bd-7b20-a6a4-952f5f605330/exec-a2755ad5-a592-491c-91c7-109d5ffe4d5a.png",
+      "rawPath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.png",
+      "candidatePath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+      "reviewed": true,
+      "generatedAt": "2026-10-26T14:23:58.681584+00:00",
+      "tool": "image_gen__imagegen",
+      "mode": "built-in",
+      "sourceSha256": "779bcda6bd995cba021b60350b4414e1fb1e6b3cd8d8567cd6dc767bb485bdb7",
+      "candidateSha256": "2e07926c1b6ca0840ef95949b29313101a323fe1069dea9b31b13559a5416a92",
+      "bytes": 95126,
+      "dimensions": [
+        640,
+        640
+      ],
+      "provisionalApproved": true,
+      "visualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+        "reviewer": "recovery-a-20261026",
+        "pathViewed": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+        "method": "Native generated image inspected, then individually opened optimized640px WebP using view_image; target known, no blind-test claim.",
+        "interpretation": "A person faces a clearly bounded broad colored fan containing a ball, tree and bench; the space behind is greyed.",
+        "reason": "The colored visible area in front of the person and grey unseen space behind make extent of vision the subject, distinguishing 视野 from an unbounded scenic landscape."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+        "crossReview": {
+          "reviewer": "/root",
+          "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+          "decision": "accept",
+          "passed": true,
+          "method": "Root independently viewed actual optimized candidate; target known, no blind-test claim.",
+          "reason": "人物面向彩色扇形区域，背后灰化，扇形覆盖眼前球、树和长椅且有清晰边界；画面把能看到的范围作为主体，区别于单纯景色，符合n./视野。"
+        },
+        "method": "Recovery generator and root each inspected actual image separately."
+      },
+      "recoveryAttempts": [
+        {
+          "recoveryRun": "20261026",
+          "status": "visually_approved",
+          "prompt": "Use case: scientific-educational.\nAsset type: one standalone square English vocabulary illustration.\nExact sense: view, noun, 视野, the area a person is able to see.\nPrimary request: A simple educational illustration of a person's visual field in one coherent scene, seen from a slightly elevated three-quarter angle. Put a small person in the lower foreground facing forward, with face in slight profile so their eyes and gaze are obvious. In front of the person, a broad pale translucent fan expands naturally from their eye level across a quiet open garden. Inside this broad fan, a nearby ball, a small tree and a distant bench are vivid and clearly visible. Immediately behind the person, outside the fan, a small plant is faint grey. The visible field itself is the dominant subject: broad unobstructed area in front of the eyes, contrasted with what lies behind and cannot be seen. Fan edges only subtle softly colored transparent boundaries, no arrows and no text. The scene illustrates the extent of the visual field, rather than a scenic landscape or looking through a window. No buildings, spectacular mountains, lake, telescope or eye chart.\nStyle: hand-painted gouache with colored-pencil texture on warm off-white paper, soft natural light, muted green blue and coral, clean compact composition with generous margins. Legible at small card size.\nConstraints: no text, letters, numerals, labels, symbols, logos, borders, watermark or card UI. One scene only, not a collage or separate panels.",
+          "mode": "built-in image_gen",
+          "tool": "image_gen__imagegen",
+          "plannedAt": "2026-10-26T14:08:06.967675+00:00",
+          "source": "/Users/huangjiabao/.codex/generated_images/01a17884-74bd-7b20-a6a4-952f5f605330/exec-a2755ad5-a592-491c-91c7-109d5ffe4d5a.png",
+          "rawPath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.png",
+          "generatedAt": "2026-10-26T14:23:58.681584+00:00",
+          "reviewed": true,
+          "sourceSha256": "779bcda6bd995cba021b60350b4414e1fb1e6b3cd8d8567cd6dc767bb485bdb7",
+          "candidatePath": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+          "candidateSha256": "2e07926c1b6ca0840ef95949b29313101a323fe1069dea9b31b13559a5416a92",
+          "bytes": 95126,
+          "dimensions": [
+            640,
+            640
+          ],
+          "visualReview": {
+            "passed": true,
+            "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+            "reviewer": "recovery-a-20261026",
+            "pathViewed": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+            "method": "Native generated image inspected, then individually opened optimized640px WebP using view_image; target known, no blind-test claim.",
+            "interpretation": "A person faces a clearly bounded broad colored fan containing a ball, tree and bench; the space behind is greyed.",
+            "reason": "The colored visible area in front of the person and grey unseen space behind make extent of vision the subject, distinguishing 视野 from an unbounded scenic landscape."
+          },
+          "crossReview": {
+            "reviewer": "/root",
+            "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+            "decision": "accept",
+            "passed": true,
+            "method": "Root independently viewed actual optimized candidate; target known, no blind-test claim.",
+            "reason": "人物面向彩色扇形区域，背后灰化，扇形覆盖眼前球、树和长椅且有清晰边界；画面把能看到的范围作为主体，区别于单纯景色，符合n./视野。"
+          }
+        }
+      ],
+      "priorCandidates": [
+        {
+          "senseId": "197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d",
+          "wordId": "dict:view",
+          "sourceId": "dict:view",
+          "word": "view",
+          "pos": "n.",
+          "meaning": "视野",
+          "stageId": "senior",
+          "curated": false,
+          "prompt": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: view / n. / 视野.\nPrimary request: Show one person from behind standing just inside an open window on a hilltop, looking through it at a broad clearly visible valley, distant hills, village and lake. Frame the open panorama as the area their eyes can see; keep the person small and the expansive unobstructed visual field dominant. No telescope or eye diagram.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+          "desiredAssetPath": "public/images/words/19/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+          "status": "pending_visual_revision",
+          "source": "/Users/huangjiabao/.codex/generated_images/01a17394-1223-7f11-ac4b-722198512ac9/exec-784fa01c-9743-4bd8-b6b1-9ca92ace7035.png",
+          "rawPath": "output/imagegen/batch-20261025-150217/a/raw/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.png",
+          "candidatePath": "output/imagegen/batch-20261025-150217/a/candidates/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+          "reviewed": false,
+          "generatedAt": "2026-10-26T01:44:19.469214+00:00",
+          "tool": "image_gen__imagegen",
+          "mode": "built-in",
+          "sourceSha256": "a32054226b0f350298fe8868e609693cf5e74e32f627c62c8618da72ff66054f",
+          "candidateSha256": "596fc141d0744572d59b765b7bb7884aed983539c8c68f91d82e1b6695e3ae4c",
+          "bytes": 132836,
+          "dimensions": [
+            640,
+            640
+          ],
+          "provisionalApproved": true,
+          "visualReview": {
+            "passed": true,
+            "reviewedAt": "2026-10-26T01:50:03.541050+00:00",
+            "method": "Actually viewed individual optimized 640px WebP through view_image, target mapping known, no blind-test claim; considered image without vocabulary labels",
+            "reason": "实际查看640px图：人物从敞开窗户望向完整开阔的湖泊山谷，窗框界定所见范围，视觉焦点为可看见的广阔视野。仍可能近似风景或眺望，需主智能体严格复核。"
+          },
+          "finalVisualReview": {
+            "passed": false,
+            "reviewedAt": "2026-10-26T10:37:33.191197+00:00",
+            "crossReview": {
+              "word": "view",
+              "decision": "defer",
+              "interpretation": "Woman looking through a window at a lake and mountain landscape.",
+              "reason": "Reads as scenic landscape or sightseeing; cannot confidently distinguish 视野 from 景色 or looking out a window.",
+              "senseId": "197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d",
+              "reviewer": "root",
+              "pos": "n.",
+              "meaning": "视野"
+            },
+            "method": "Each optimized640px candidate viewed individually; target mapping known; visual interpretation considered before exact word/POS/meaning comparison. No blinded experiment claimed.",
+            "decisionRule": "Accept only when generator and independent individual image review agree; defer semantic or visual ambiguity."
+          }
+        }
+      ],
+      "recoveryVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+        "reviewer": "recovery-a-20261026",
+        "pathViewed": "output/imagegen/batch-20261025-150217/a/recovery-20261026/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp",
+        "method": "Native generated image inspected, then individually opened optimized640px WebP using view_image; target known, no blind-test claim.",
+        "interpretation": "A person faces a clearly bounded broad colored fan containing a ball, tree and bench; the space behind is greyed.",
+        "reason": "The colored visible area in front of the person and grey unseen space behind make extent of vision the subject, distinguishing 视野 from an unbounded scenic landscape."
+      },
+      "recoveryCrossReview": {
+        "reviewer": "/root",
+        "reviewedAt": "2026-10-26T14:32:51.863174+00:00",
+        "decision": "accept",
+        "passed": true,
+        "method": "Root independently viewed actual optimized candidate; target known, no blind-test claim.",
+        "reason": "人物面向彩色扇形区域，背后灰化，扇形覆盖眼前球、树和长椅且有清晰边界；画面把能看到的范围作为主体，区别于单纯景色，符合n./视野。"
+      },
+      "savedPath": "public/images/words/19/197747ea06b45dc360640417f92ecce04cced773395e7519faedd09c0b01538d.webp"
+    }
+  ],
+  "todo": [],
+  "updatedAt": "2026-10-26T15:04:26.960539+00:00",
+  "generationPrompts": {
+    "court": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: court / n. / 法院.\nPrimary request: Show a courthouse legal hearing room, with a judge in plain black robe seated high behind a wooden bench, two opposing legal representatives at separate low tables, and a witness stand. Formal symmetrical courtroom architecture makes the institution of the court unmistakable. No police action or sports court.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "view": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: view / n. / 视野.\nPrimary request: Show one person from behind standing just inside an open window on a hilltop, looking through it at a broad clearly visible valley, distant hills, village and lake. Frame the open panorama as the area their eyes can see; keep the person small and the expansive unobstructed visual field dominant. No telescope or eye diagram.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "less": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: less / n. / 较少.\nPrimary request: Show two identical shallow bowls side by side at the same size: left bowl visibly full of many red cherries, right bowl contains only three cherries and lots of empty space. A hand gestures toward the right bowl with the smaller quantity. Clear simple comparison of less amount, no numbers or text.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "section": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: section / n. / 区段.\nPrimary request: Show a short straight pale stone garden path divided by visible transverse joints into five broad consecutive sections. One middle section is coral-colored and subtly raised a little above the other four, making one bounded part of the whole path visually clear. Keep the whole path visible and no decorative garden scene competing.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "staff": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: staff / n. / 全体人员.\nPrimary request: Show the entire small café working team together in its café: one cook in apron and plain chef hat, one barista beside an espresso machine, and two servers in matching aprons, all posed shoulder to shoulder behind the counter. No customers, all four staff members visibly included. A small cohesive workforce, not a random crowd.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "product": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: product / n. / 产品.\nPrimary request: Show a small manufacturing conveyor finishing identical plain ceramic cups, with the final finished cup prominently displayed in front beside its simple open protective cardboard box. The finished manufactured item is dominant; only a hint of the production line in background. No logos, printed packaging or labels.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "better": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: better / adj. / 较好的.\nPrimary request: Show two comparable wooden stools side by side at equal scale. Left stool has a rough uneven seat and wobbly tilted leg; right stool has an even smooth polished seat, sturdy straight legs and neat construction. A person comfortably sits on the visibly superior right stool while glancing with relief at it. A clear everyday comparison of higher quality, no symbols or rating marks.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "support": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: support / n. / 支持.\nPrimary request: Show a friend giving steady physical support to an injured person who has one bandaged ankle: friend's arm around their back and injured person's arm over friend's shoulder, with weight leaning onto the helper as they stand together. The central focus is the supportive hold and reliable assistance. No hospital or medical team.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "range": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: range / n. / 排.\nPrimary request: Show exactly six identical plain blue chairs neatly aligned in a single straight horizontal row, with consistent spacing and all chair backs facing the same direction. The single orderly row is the subject, isolated on warm off-white ground. No audience, stage, classroom or extra rows.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "material": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: material / n. / 材料.\nPrimary request: Show raw construction materials grouped on a worktable: neatly stacked unpainted wooden planks, a compact roll of plain cloth, and a few rough clay bricks, all showing distinct natural textures. Beside them one half-built simple wooden shelf makes clear these are the substances used to make things. Materials occupy most of the image; no worker or tools distracting.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "player": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: player / n. / 竞赛者.\nPrimary request: Show a focused tennis competitor on a tennis court mid-match, holding racket ready to return a visible ball, wearing plain sports kit, opponent small on the far side of the net. Main competitor full body prominent with clear active participation in a contest. No numbers, logos, scoreboard or sports text.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "base": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: base / n. / 底部.\nPrimary request: Show one classical stone column on a very broad stable square pedestal. The lowermost pedestal and bottom of the column are warmly lit coral stone while the upper column is muted pale gray, directing attention to the bottom supporting part. View from slightly low angle, whole column visible with generous margins. No arrows or labels.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "central": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: central / adj. / 中央的.\nPrimary request: Show a round dining table from directly above with one coral vase placed exactly at its center, surrounded symmetrically by four blue plates near the edge. Strong clear spatial relationship: central vase equally distant from table edges and surrounding plates. Clean tabletop, no food clutter.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "apply": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: apply / v. / 涂.\nPrimary request: Show a close view of a hand using two fingertips to spread a white streak of ointment from a small plain open cream jar onto the opposite bare forearm. Fingers visibly smear and distribute the cream on skin in one continuous action, clearly applying a substance. No writing or logos on jar, no wound or medical symbols.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone.",
+    "contain": "Use case: scientific-educational.\nAsset type: one square English vocabulary memory-card illustration.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft daylight, natural muted green, blue and coral colors. One compact clear subject or tightly related scene centered in the middle 70 percent, generous clean margins, legible at small card size.\nExact target: contain / v. / 包含.\nPrimary request: Show a transparent glass jar with its lid set beside it, visibly containing several colorful seashells entirely inside its glass boundary. A single shell just outside beside the jar emphasizes the inside-versus-outside relation. The jar enclosing its contents is dominant, no hand or clutter.\nConstraints: no text, letters, numerals, labels, logos, watermarks, borders, card UI, speech bubbles or unrelated objects. Convey this exact sense through the visible subject, action and relationship alone."
+  },
+  "summary": {
+    "claimed": 15,
+    "generated": 15,
+    "recoveryGenerated": 2,
+    "approved": 15,
+    "deferred": 0,
+    "allRecoveryVisualReviewPassed": true
+  },
+  "counts": {
+    "claimed": 15,
+    "approved": 15,
+    "pending": 0
+  },
+  "recovery": {
+    "runId": "20261026-140258-recovery",
+    "threadId": "01a17882-0b7b-7230-86ff-945e9473a518",
+    "accepted": 15,
+    "deferred": 0,
+    "finalizedAt": "2026-10-26T14:56:48.975413+00:00",
+    "integration": {
+      "at": "2026-10-26T15:04:26.960539+00:00",
+      "manifestReady": 1378,
+      "manifestRevision": "3647d3d1e27cc596",
+      "validation": {
+        "catalogMetadataIssues": 0,
+        "productionBuild": "passed",
+        "existingTestsPassed": 69,
+        "fullyDecodedAssets": 1378,
+        "productionHTTPChecks": 1635
+      }
+    }
+  }
+}
