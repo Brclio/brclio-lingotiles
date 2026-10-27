@@ -1,0 +1,1415 @@
+{
+  "runId": "20261027-034523",
+  "threadId": "01a17b73-9fe2-7681-a494-61c8333e55ea",
+  "startedAt": "2026-10-27T03:45:23.763761+00:00",
+  "batchPath": "output/imagegen/batch-20261027-034523",
+  "group": "b",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "complete_with_pending_revisions",
+  "claimed": [
+    {
+      "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+      "wordId": "dict:approach",
+      "sourceId": "dict:approach",
+      "word": "approach",
+      "pos": "n.",
+      "meaning": "接近",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"approach\",\"pos\":\"n.\",\"meaning\":\"接近\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/69/69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b",
+      "wordId": "dict:seek",
+      "sourceId": "dict:seek",
+      "word": "seek",
+      "pos": "v.",
+      "meaning": "寻求",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"seek\",\"pos\":\"v.\",\"meaning\":\"寻求\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/39/3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+      "wordId": "dict:organization",
+      "sourceId": "dict:organization",
+      "word": "organization",
+      "pos": "n.",
+      "meaning": "组织",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"organization\",\"pos\":\"n.\",\"meaning\":\"组织\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/2c/2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+      "wordId": "dict:application",
+      "sourceId": "dict:application",
+      "word": "application",
+      "pos": "n.",
+      "meaning": "应用",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"application\",\"pos\":\"n.\",\"meaning\":\"应用\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/88/88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+      "wordId": "dict:occur",
+      "sourceId": "dict:occur",
+      "word": "occur",
+      "pos": "v.",
+      "meaning": "发生",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"occur\",\"pos\":\"v.\",\"meaning\":\"发生\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/01/017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb",
+      "wordId": "dict:campaign",
+      "sourceId": "dict:campaign",
+      "word": "campaign",
+      "pos": "n.",
+      "meaning": "战役",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"campaign\",\"pos\":\"n.\",\"meaning\":\"战役\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b6/b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+      "wordId": "dict:represent",
+      "sourceId": "dict:represent",
+      "word": "represent",
+      "pos": "v.",
+      "meaning": "表现",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"represent\",\"pos\":\"v.\",\"meaning\":\"表现\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/52/52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+      "wordId": "dict:benefit",
+      "sourceId": "dict:benefit",
+      "word": "benefit",
+      "pos": "n.",
+      "meaning": "利益",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"benefit\",\"pos\":\"n.\",\"meaning\":\"利益\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/09/092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957",
+      "wordId": "dict:argue",
+      "sourceId": "dict:argue",
+      "word": "argue",
+      "pos": "v.",
+      "meaning": "提出理由",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"argue\",\"pos\":\"v.\",\"meaning\":\"提出理由\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/f6/f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317",
+      "wordId": "dict:charge",
+      "sourceId": "dict:charge",
+      "word": "charge",
+      "pos": "n.",
+      "meaning": "指控",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"charge\",\"pos\":\"n.\",\"meaning\":\"指控\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/d5/d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc",
+      "wordId": "dict:basis",
+      "sourceId": "dict:basis",
+      "word": "basis",
+      "pos": "n.",
+      "meaning": "基础",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"basis\",\"pos\":\"n.\",\"meaning\":\"基础\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/bf/bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7",
+      "wordId": "dict:analysis",
+      "sourceId": "dict:analysis",
+      "word": "analysis",
+      "pos": "n.",
+      "meaning": "分析",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"analysis\",\"pos\":\"n.\",\"meaning\":\"分析\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c9/c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a",
+      "wordId": "dict:concern",
+      "sourceId": "dict:concern",
+      "word": "concern",
+      "pos": "n.",
+      "meaning": "关心",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"concern\",\"pos\":\"n.\",\"meaning\":\"关心\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/d7/d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+      "wordId": "dict:statement",
+      "sourceId": "dict:statement",
+      "word": "statement",
+      "pos": "n.",
+      "meaning": "陈述",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"statement\",\"pos\":\"n.\",\"meaning\":\"陈述\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/56/5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+      "wordId": "dict:principle",
+      "sourceId": "dict:principle",
+      "word": "principle",
+      "pos": "n.",
+      "meaning": "原则",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"principle\",\"pos\":\"n.\",\"meaning\":\"原则\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c4/c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e.webp",
+      "status": "pending"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+      "wordId": "dict:approach",
+      "sourceId": "dict:approach",
+      "word": "approach",
+      "pos": "n.",
+      "meaning": "接近",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: approach, n., 接近. Primary request: depict this precise part of speech and meaning. Scene: Show a small sailboat very close to a dock, its pointed bow moving toward the dock with a short clear wake behind and a person on the dock ready to catch its rope. Emphasize the shrinking small gap between boat and destination; the visual concept is approach, coming closer, not collision or departing.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/69/69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-18e5439a-0901-47e4-87cb-a12e2a8555c7.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025.webp",
+      "reviewed": false,
+      "sourceSha256": "7a4f38dda1079da13c2493a445751d83693cb2bf75add0d0f6261063d61aee1c",
+      "candidateSha256": "478b1a69ed65f8818d6879318b0b3101ed5c8c68768f40f04bc36b6623bbcccb",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T03:52:30.623101+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A sailboat advances into the small gap toward a dock, where a man prepares to receive its rope.",
+        "reason": "The visible forward wake, bow direction and person reaching at the dock convey approaching a destination, matching n./接近.",
+        "reviewedAt": "2026-10-27T03:52:30.623101+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+          "word": "approach",
+          "pass": true,
+          "interpretation": "A sailboat with wake moves toward a dock and a waiting helper.",
+          "reason": "Decreasing visible gap, wake and docking gesture show approach/接近.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:07:40.128Z"
+        },
+        "recoveryReview": {
+          "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+          "word": "approach",
+          "pos": "n.",
+          "meaning": "接近",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025.webp",
+          "passed": false,
+          "reason": "船和码头人员及系泊绳能看出靠岸或停泊，但缺少明确的距离变化；遮住词义时更容易认作停泊，不能可靠锁定名词“接近”。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+      "wordId": "dict:organization",
+      "sourceId": "dict:organization",
+      "word": "organization",
+      "pos": "n.",
+      "meaning": "组织",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: organization, n., 组织. Primary request: depict this precise part of speech and meaning. Scene: Show a coordinated volunteer organization working together at a community food station: three adults in matching plain coral aprons divide tasks of packing, carrying and handing food parcels to visitors. A clear unified structure of coordinated roles, rather than a loose crowd; no written signs.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/2c/2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-33b66d24-7f50-4cec-812b-6542b3929768.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5.webp",
+      "reviewed": false,
+      "sourceSha256": "ec1c9594fcc8b4ca54e5ce823b3ad744698d8d6ef43d7e8d30bd7dc80cf0f529",
+      "candidateSha256": "3dd5330cf42e7a5ca07f17caacc4d1f28d29c1f2de30b9df25007f33d776a247",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T03:56:54.155432+00:00",
+      "generatorReview": {
+        "passed": false,
+        "interpretation": "Three volunteers in matching aprons pack and distribute food parcels at a station.",
+        "reason": "Coordinated volunteer work is visible, but organizational structure or an organization as a noun cannot be distinguished from an informal team or charity event from this scene alone.",
+        "reviewedAt": "2026-10-27T03:56:54.155432+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+          "word": "organization",
+          "pass": false,
+          "interpretation": "Volunteers pack and distribute food bags at a tent.",
+          "reason": "Reads charity distribution or teamwork; organization as a defined group remains ambiguous.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:07:40.139Z"
+        },
+        "recoveryReview": {
+          "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+          "word": "organization",
+          "pos": "n.",
+          "meaning": "组织",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5.webp",
+          "passed": false,
+          "reason": "统一围裙的多人分发食物可见合作与慈善服务，但组织这一实体并未被独特呈现，容易理解为帮助或分发；“组织”依赖额外解释。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+      "wordId": "dict:application",
+      "sourceId": "dict:application",
+      "word": "application",
+      "pos": "n.",
+      "meaning": "应用",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: application, n., 应用. Primary request: depict this precise part of speech and meaning. Scene: Show a child putting a classroom lever principle into practical use: a plank balanced over a sturdy fulcrum is used to lift a heavy rock in a garden; the child pushes the long end down, and the rock on the short end is visibly raised. Practical application of knowledge, no chalkboard or formulas.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/88/88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-30c11745-8312-49d0-b293-0835f0973f47.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55.webp",
+      "reviewed": false,
+      "sourceSha256": "78cdf39da2bd312927ed08aa07fcc2a00301f3bdda84ebee9ccb90dd48e837a3",
+      "candidateSha256": "d512739af258db7899fe85e7df3d640725288df0a0164d19014c8d71283a8c90",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:00:05.500595+00:00",
+      "generatorReview": {
+        "passed": false,
+        "interpretation": "A boy uses a long wooden lever on a stone fulcrum to lift a heavy rock.",
+        "reason": "The practical mechanism is visible, but without a separate knowledge-to-use relationship it primarily means lever or lifting; the abstract noun 应用 is not distinct enough.",
+        "reviewedAt": "2026-10-27T04:00:05.500595+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+          "word": "application",
+          "pass": false,
+          "interpretation": "Boy lifts a boulder using a wooden lever.",
+          "reason": "Clearly demonstrates using a lever, but knowledge application requires unseen prior knowledge; broad noun 应用 remains unclear.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:27:57.523Z"
+        },
+        "recoveryReview": {
+          "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+          "word": "application",
+          "pos": "n.",
+          "meaning": "应用",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55.webp",
+          "passed": false,
+          "reason": "男孩使用木杠抬起石头，直观内容是杠杆或撬动；要理解为知识的应用需要补充原理背景，当前名词“应用”不够直接。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+      "wordId": "dict:occur",
+      "sourceId": "dict:occur",
+      "word": "occur",
+      "pos": "v.",
+      "meaning": "发生",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: occur, v., 发生. Primary request: depict this precise part of speech and meaning. Scene: Show a sudden natural event happening: a dry tree branch has just snapped and is falling, leaves scatter, and a nearby walker turns in surprise. The event is visibly in progress, no injuries. Convey something occurring, not a static broken branch.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/01/017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-db7d93c2-0c54-4aa4-bbb4-4186a3c16b28.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785.webp",
+      "reviewed": false,
+      "sourceSha256": "6c4960539dfcc77d8f607247d51f8a6b6dcb0f0f1c3d2341a0fdc5250cca39ae",
+      "candidateSha256": "58ddd65e8fccf21af2b407b8fd51fab678f02997845176da91d66a09bc9116fc",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:03:37.345406+00:00",
+      "generatorReview": {
+        "passed": false,
+        "interpretation": "A branch suddenly breaks from a tree while a walker recoils in surprise.",
+        "reason": "An event in progress is clear, but the scene most directly depicts breaking, falling or surprise; the general verb 发生 remains insufficiently distinct without the target cue.",
+        "reviewedAt": "2026-10-27T04:03:37.345406+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+          "word": "occur",
+          "pass": false,
+          "interpretation": "A branch breaks and falls near a surprised walker.",
+          "reason": "Primarily breaking/falling branch or fright, not general occurrence without explanation.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:27:57.523Z"
+        },
+        "recoveryReview": {
+          "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+          "word": "occur",
+          "pos": "v.",
+          "meaning": "发生",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785.webp",
+          "passed": false,
+          "reason": "断裂下落的树枝和惊讶行人清楚表达突然折断或意外，无法仅凭画面从具体动作区分出泛指的“发生”。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+      "wordId": "dict:represent",
+      "sourceId": "dict:represent",
+      "word": "represent",
+      "pos": "v.",
+      "meaning": "表现",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: represent, v., 表现. Primary request: depict this precise part of speech and meaning. Scene: Show a stage actor visibly expressing sorrow through body language: seated with bowed head, slumped shoulders and hands covering the face, under a simple spotlight, a small audience watching. The exact target is v. 表现, express or portray a feeling through action, not political representation.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/52/52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-305f9c30-5d0a-4ada-8100-8b62f5362747.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe.webp",
+      "reviewed": false,
+      "sourceSha256": "b55139ef93d494dac51fbd1762fcbcdab49efdc421ed8ffd68f1ece647729e8f",
+      "candidateSha256": "ad495f0b886bef933e812f5cb4ba663c6bf78c4f56d3df2e9fa8cef515f2972c",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:14:15.026259+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A costumed actor on stage portrays sorrow through bowed posture, face-covered hands and slumped shoulders before an audience.",
+        "reason": "The theatrical setting makes deliberate portrayal of a feeling visible; expressive body language supports v./表现 rather than representative politics.",
+        "reviewedAt": "2026-10-27T04:14:15.026259+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+          "word": "represent",
+          "pass": true,
+          "interpretation": "An actor onstage visibly expresses sorrow through a bowed body and covered face before an audience.",
+          "reason": "Stage performance makes deliberate portrayal/表现 of emotion concrete rather than accidental sadness.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:02:04.053Z"
+        },
+        "recoveryReview": {
+          "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+          "word": "represent",
+          "pos": "v.",
+          "meaning": "表现",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe.webp",
+          "passed": false,
+          "reason": "舞台演员掩面呈现悲伤，首先读作表演或哭泣；无法仅凭画面确认 represent 的“表现”这一义项，而非 act/cry。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+      "wordId": "dict:benefit",
+      "sourceId": "dict:benefit",
+      "word": "benefit",
+      "pos": "n.",
+      "meaning": "利益",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: benefit, n., 利益. Primary request: depict this precise part of speech and meaning. Scene: Show a gardener receiving a tangible benefit from care: a once-tiny sapling shown as a mature fruit-laden tree sheltering the smiling gardener in shade, who holds a basket of ripe fruit. One integrated scene with plentiful fruit and useful shade, benefits made concrete, no money or decorative symbols.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/09/092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-7e25de32-aa1b-4d3d-86ee-3ca63ea40f4f.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17.webp",
+      "reviewed": false,
+      "sourceSha256": "339224db3f49582a5c7d7f3707eec815eaa528ad65a83b68cdb6aa4f92d5306a",
+      "candidateSha256": "010d8266bb16edfc48547f7de129717bf07f8c1f1c9107feff0d4f6ce9ad10af",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:25:25.764275+00:00",
+      "generatorReview": {
+        "passed": false,
+        "interpretation": "A smiling gardener rests under a fruit tree with a basket of apples.",
+        "reason": "Fruit harvest and shade are visible, but the image primarily reads harvest, orchard or resting; the gain or benefit relationship needed for n./利益 is implicit rather than direct.",
+        "reviewedAt": "2026-10-27T04:25:25.764275+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+          "word": "benefit",
+          "pass": false,
+          "interpretation": "A smiling farmer rests under an apple tree holding harvested apples.",
+          "reason": "Harvest and rest are visible, but general benefit/利益 is only inferred and lacks direct distinguishing cues.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:02:04.054Z"
+        },
+        "recoveryReview": {
+          "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+          "word": "benefit",
+          "pos": "n.",
+          "meaning": "利益",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17.webp",
+          "passed": false,
+          "reason": "果树下农人抱着苹果休息，首先表达丰收或歇息；利益或受益关系未被明确突出，需要把果实和树荫解释为好处才成立。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+      "wordId": "dict:statement",
+      "sourceId": "dict:statement",
+      "word": "statement",
+      "pos": "n.",
+      "meaning": "陈述",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: statement, n., 陈述. Primary request: depict this precise part of speech and meaning. Scene: Show one witness standing calmly before a small attentive group and orally stating an account of a broken garden pot, gesturing toward the broken pot beside them. The witness is explaining facts, listeners concentrate, no argument, no written document, no speech bubble text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/56/5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-c4c7133a-9e4d-42a2-9ea1-717d538107fd.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f.webp",
+      "reviewed": false,
+      "sourceSha256": "af3fcee4e9d58b7ca6392fc1b5a599a4ba3a8979551b02e53c877b97921cc34f",
+      "candidateSha256": "e1440f047129556e38adc4311f0d6a0bdd5e1d9b22bcdc300e9ecc77e8c0c880",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T05:46:46.331048+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A standing witness gives a calm oral account about a broken flowerpot to three attentive listeners.",
+        "reason": "The focused speaker, factual object and attentive listeners make an oral statement/陈述 readable, without relying on written text.",
+        "reviewedAt": "2026-10-27T05:46:46.331048+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+          "word": "statement",
+          "pass": true,
+          "interpretation": "Boy calmly explains a broken plant pot to attentive listeners, gesturing toward the event.",
+          "reason": "Visible account of what happened to listening people gives concrete 陈述, with no quarrelling cues.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T11:12:56.863Z"
+        },
+        "recoveryReview": {
+          "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+          "word": "statement",
+          "pos": "n.",
+          "meaning": "陈述",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f.webp",
+          "passed": false,
+          "reason": "孩子对听众讲述破碎花盆并手指现场，能看出说话或解释，但更易读成道歉、承认错误或讲述；名词“陈述”缺少区分线索。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+      "wordId": "dict:principle",
+      "sourceId": "dict:principle",
+      "word": "principle",
+      "pos": "n.",
+      "meaning": "原则",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: principle, n., 原则. Primary request: depict this precise part of speech and meaning. Scene: Show a person consistently following a fairness principle: they divide one loaf of bread into equal pieces and place equal portions on plates for people of different ages seated around a table. Equal distribution is visibly deliberate; avoid scales, slogans, legal documents or text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/c4/c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-70aa8071-44a3-49b0-9b75-0376f2b9c062.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e.webp",
+      "reviewed": false,
+      "sourceSha256": "b7a3082992721682186bb917b512831e396ea93018d84796bbc56849b5231809",
+      "candidateSha256": "7820849f6d6b163d4f7b8ca266eaa408e6ffb2d1657df7cc42d40e68c6914d16",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T06:23:17.365145+00:00",
+      "generatorReview": {
+        "passed": false,
+        "interpretation": "A woman cuts bread into equal portions and serves plates to adults and children around a table.",
+        "reason": "Equal sharing is clear, but a standing rule or guiding principle is not visible; the scene can be read simply as serving food or fairness, so n./原则 remains ambiguous.",
+        "reviewedAt": "2026-10-27T06:23:17.365145+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+          "word": "principle",
+          "pass": false,
+          "interpretation": "A family divides bread into similar portions.",
+          "reason": "Sharing/fairness is visible, but general principle is an inferred rule not clearly depicted.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T11:12:56.863Z"
+        },
+        "recoveryReview": {
+          "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+          "word": "principle",
+          "pos": "n.",
+          "meaning": "原则",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e.webp",
+          "passed": false,
+          "reason": "一家人分切和分享面包，直观表达分享或分配；不能单凭画面确定持续遵循的原则，抽象目标需要额外解释。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b",
+      "wordId": "dict:seek",
+      "sourceId": "dict:seek",
+      "word": "seek",
+      "pos": "v.",
+      "meaning": "寻求",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: seek, v., 寻求. Primary request: depict this precise part of speech and meaning. Scene: Show one person actively searching for a lost red mitten in a park: crouching and looking carefully under a bench, lifting fallen leaves with one hand, eyes focused on the partly hidden red mitten. Make purposeful seeking immediately visible, not merely strolling.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/39/3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-8fda3a67-1524-4418-b73b-f3f45888b071.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b.webp",
+      "reviewed": true,
+      "sourceSha256": "674a3616777f8259d9afbe9f9db9cf22f593d127fae822000086ef8c178fafab",
+      "candidateSha256": "6443c93ab1a8cb81d0d92916ce8a8b43f6f69a76ecb5f869ca221f63c4860dbf",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T03:54:40.255797+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A person crouches and peers beneath a park bench while moving leaves to locate a red mitten.",
+        "reason": "Focused gaze and active inspection of hidden space directly show seeking an object, matching v./寻求.",
+        "reviewedAt": "2026-10-27T03:54:40.255797+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b",
+          "word": "seek",
+          "pass": true,
+          "interpretation": "A woman searches under a bench and moves leaves toward a partly hidden mitten.",
+          "reason": "Searching action and sought object are direct and legible.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:07:40.139Z"
+        },
+        "recoveryReview": {
+          "senseId": "3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b",
+          "word": "seek",
+          "pos": "v.",
+          "meaning": "寻求",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b.webp",
+          "passed": true,
+          "reason": "女子俯身拨开长椅下的落叶寻找红色手套，视线与手部搜寻动作一致；主体动作在小卡片中清楚，可直接理解主动寻找/寻求。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/39/3954b316ad705b67601e542322bb3dadbbf336e98cff89de32ff59372434ca3b.webp",
+      "alt": "seek：寻求。女子俯身拨开长椅下的落叶寻找红色手套，视线与手部搜寻动作一致；主体动作在小卡片中清楚，可直接理解主动寻找/寻求。"
+    },
+    {
+      "senseId": "b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb",
+      "wordId": "dict:campaign",
+      "sourceId": "dict:campaign",
+      "word": "campaign",
+      "pos": "n.",
+      "meaning": "战役",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: campaign, n., 战役. Primary request: depict this precise part of speech and meaning. Scene: Show an organized historical military campaign as a coherent single landscape: a line of uniformed soldiers marching from a supply camp toward a distant fortified hill, with wagons of supplies behind them and a small command group studying an unmarked terrain model. No modern politics, no weapons firing, no wounds, no text. Emphasize a coordinated military operation across a landscape.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/b6/b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-35294679-1145-4c26-8102-0dbd6c23fd56.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb.webp",
+      "reviewed": true,
+      "sourceSha256": "d174e975fb6f785cc8d02b1f69a26f61b17e0091bb4202e45eb8b72421bc5c1a",
+      "candidateSha256": "51f81a5fa13b36b7be748c07768a2345f824915df42a6e2dd92a04a3cc184f95",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:08:29.483013+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "Commanders plan over a terrain model while supplied columns of historical soldiers advance across a landscape toward a fortified hill.",
+        "reason": "Coordinated military forces, supplies, commanders and objective together convey a military campaign/战役 rather than an election campaign or isolated soldier.",
+        "reviewedAt": "2026-10-27T04:08:29.483013+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb",
+          "word": "campaign",
+          "pass": true,
+          "interpretation": "Commanders plan on a map while organized troops and supplies advance toward a fortified objective.",
+          "reason": "Planning, army movement, supply camp and objective together present a military campaign/战役 rather than an isolated soldier.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:27:57.524Z"
+        },
+        "recoveryReview": {
+          "senseId": "b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb",
+          "word": "campaign",
+          "pos": "n.",
+          "meaning": "战役",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb.webp",
+          "passed": true,
+          "reason": "前景军官围绕地形图部署、后景有成队士兵和补给车向城堡推进，组成明确的有计划军事行动，可理解当前“战役”义；军事线索清楚。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/b6/b611222eb809b7981f6b912dfe302d20f1649c3e4e7201b2d34140b743b60ebb.webp",
+      "alt": "campaign：战役。前景军官围绕地形图部署、后景有成队士兵和补给车向城堡推进，组成明确的有计划军事行动，可理解当前“战役”义；军事线索清楚。"
+    },
+    {
+      "senseId": "f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957",
+      "wordId": "dict:argue",
+      "sourceId": "dict:argue",
+      "word": "argue",
+      "pos": "v.",
+      "meaning": "提出理由",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: argue, v., 提出理由. Primary request: depict this precise part of speech and meaning. Scene: Show a calm discussion in which one person gives a reason: they point directly at the visibly leaking seam of a watering can while explaining it to another person who considers the evidence. The damaged can and wet puddle provide a concrete reason for replacing it. No angry quarrel, no speech text or labels.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/f6/f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-ff337f2a-9b48-47fd-852f-3d840f1d9efa.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957.webp",
+      "reviewed": true,
+      "sourceSha256": "a5aac46c1b4646640ff702062a4ebfc698c4d1cc39a41460fa50830137924008",
+      "candidateSha256": "7b14e726d21607556be3bdb68526d5adfbbdea9481a4a7e4028c6c67ffce46f4",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:32:20.741770+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A woman explains and points at the crack leaking from a watering can while a man thoughtfully considers it.",
+        "reason": "The speaker presents a visible concrete reason and the listener evaluates it, supporting v./提出理由 rather than an angry quarrel.",
+        "reviewedAt": "2026-10-27T04:32:20.741770+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957",
+          "word": "argue",
+          "pass": true,
+          "interpretation": "Woman points to visible leaking cracks in watering can while explaining to a thoughtful listener.",
+          "reason": "A concrete defect provides a visible reason supporting her explanation, consistent with 提出理由 rather than angry quarrelling.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:02:04.054Z"
+        },
+        "recoveryReview": {
+          "senseId": "f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957",
+          "word": "argue",
+          "pos": "v.",
+          "meaning": "提出理由",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957.webp",
+          "passed": true,
+          "reason": "女子一边说话一边指向洒水壶破裂漏水的可见证据，男子认真思考回应；“以具体证据提出理由”的动作关系可读，区别于无依据争吵。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/f6/f69a2f7b92629962ddd03c12cf891609e80e16d924a51754ffb25e8abf4e6957.webp",
+      "alt": "argue：提出理由。女子一边说话一边指向洒水壶破裂漏水的可见证据，男子认真思考回应；“以具体证据提出理由”的动作关系可读，区别于无依据争吵。"
+    },
+    {
+      "senseId": "d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317",
+      "wordId": "dict:charge",
+      "sourceId": "dict:charge",
+      "word": "charge",
+      "pos": "n.",
+      "meaning": "指控",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: charge, n., 指控. Primary request: depict this precise part of speech and meaning. Scene: Show a clear nonviolent accusation scene: a shopkeeper points toward a person standing before a neutral magistrate while holding an empty purse; the accused person reacts with a hand to their chest and concern. The formal setting and pointing make accusation the main action; no arrest, no violence, no prison bars or text.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/d5/d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-d39cb207-f29e-47d3-a7fd-583e89bf79d0.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317.webp",
+      "reviewed": true,
+      "sourceSha256": "9c356ab0edfee07a70df73ed1f1d430902fdcba97b4243e213d5125744f5c373",
+      "candidateSha256": "6918dcb31e75db9a612935d75b1a9ea6fee516c65a3c9de37aeac27015517a1f",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:45:42.857768+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "Before a magistrate, a man holding an empty purse points accusingly at another man, who reacts with worry and a hand to his chest.",
+        "reason": "The accusation, accused party and neutral adjudicator make n./指控 directly readable; no electrical-charge or pricing sense is depicted.",
+        "reviewedAt": "2026-10-27T04:45:42.857768+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317",
+          "word": "charge",
+          "pass": true,
+          "interpretation": "A person shows an empty purse and points accusingly at another before a judge.",
+          "reason": "Court setting, direct accusation and defensive response clearly show a charge/指控.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:50:50.101Z"
+        },
+        "recoveryReview": {
+          "senseId": "d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317",
+          "word": "charge",
+          "pos": "n.",
+          "meaning": "指控",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317.webp",
+          "passed": true,
+          "reason": "持空钱袋的男子在审判者面前明确指向另一名惊讶辩解者，构成指控场景；人物关系和指认方向清楚，符合名词“指控”。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/d5/d57715caf60e1cafde95c6d12b13f51c4242a0871b360c44fa78d9e490a9a317.webp",
+      "alt": "charge：指控。持空钱袋的男子在审判者面前明确指向另一名惊讶辩解者，构成指控场景；人物关系和指认方向清楚，符合名词“指控”。"
+    },
+    {
+      "senseId": "bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc",
+      "wordId": "dict:basis",
+      "sourceId": "dict:basis",
+      "word": "basis",
+      "pos": "n.",
+      "meaning": "基础",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: basis, n., 基础. Primary request: depict this precise part of speech and meaning. Scene: Show the solid foundation of a simple house cutaway: a deep broad stone base beneath the ground supports all the upper walls and roof. Make the stable lower foundation dominant, with a clear cutaway ground line; no people, measurements, labels or numbers.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/bf/bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-c55901c4-4753-4af1-ba72-8ccc8924d38c.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc.webp",
+      "reviewed": true,
+      "sourceSha256": "bfd2fba162834c46da4f362ba7e0ee29aee05401a0afa6ea2193a8fb9d2747b6",
+      "candidateSha256": "6235fb7201cadaf2d508e1035531f20d4ec41d7b46f430553507d2acd83366ac",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T04:55:16.139612+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A cutaway house stands on a broad, deep stone foundation embedded in the ground.",
+        "reason": "The enlarged supporting base beneath every upper structure directly conveys n./基础, with no labels needed.",
+        "reviewedAt": "2026-10-27T04:55:16.139612+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc",
+          "word": "basis",
+          "pass": true,
+          "interpretation": "Cutaway house stands on a large exposed stone foundation below ground.",
+          "reason": "Supporting base is dominant and directly conveys 基础.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:50:50.102Z"
+        },
+        "recoveryReview": {
+          "senseId": "bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc",
+          "word": "basis",
+          "pos": "n.",
+          "meaning": "基础",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc.webp",
+          "passed": true,
+          "reason": "房屋剖面下方巨大的石砌地基居中突出，清楚呈现支撑上部建筑的基础，无遮蔽且小卡片可辨。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/bf/bfb8a49761e1d69f0731b3e86a0bbf36b45ed0da824884993d7c4bdc9214b9cc.webp",
+      "alt": "basis：基础。房屋剖面下方巨大的石砌地基居中突出，清楚呈现支撑上部建筑的基础，无遮蔽且小卡片可辨。"
+    },
+    {
+      "senseId": "c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7",
+      "wordId": "dict:analysis",
+      "sourceId": "dict:analysis",
+      "word": "analysis",
+      "pos": "n.",
+      "meaning": "分析",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: analysis, n., 分析. Primary request: depict this precise part of speech and meaning. Scene: Show a person carefully analyzing a mixed soil sample at a table: the original jar of soil on one side, separate small dishes of pebbles, sand and organic fragments on the other, with a hand examining one fragment through a magnifying glass. The deliberate separation and close inspection show analysis, not casual collecting.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/c9/c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-bcbd737e-141a-42fc-8446-9aa3cb1a1cfd.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7.webp",
+      "reviewed": true,
+      "sourceSha256": "2c3fe2bea23d8ef6c4c066fd2812e3cd111061d361f593743b9033e263b44145",
+      "candidateSha256": "cde8b52c7177c38e847e2426ee4a2c05eedf507aef7b0a7787191e1612480a6a",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T05:12:15.524018+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A person separates a mixed soil sample into pebble, sand and organic components and closely examines a fragment with a magnifying glass.",
+        "reason": "Breaking a sample into its components and examining them deliberately conveys n./分析, with the original mixture and separated parts both visible.",
+        "reviewedAt": "2026-10-27T05:12:15.524018+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7",
+          "word": "analysis",
+          "pass": true,
+          "interpretation": "A person examines a mixed sample and separates stones, sand and organic parts into dishes.",
+          "reason": "Breaking a mixture into components and examining them concretely demonstrates analysis.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:50:50.102Z"
+        },
+        "recoveryReview": {
+          "senseId": "c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7",
+          "word": "analysis",
+          "pos": "n.",
+          "meaning": "分析",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7.webp",
+          "passed": true,
+          "reason": "混合样品罐与分离出的石子、沙粒、落叶并列，人物用放大镜检查组成部分；拆分并研究材料的关系直观表达分析。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/c9/c9d0fdffb1bbeaa1028e35e6056c7954996b3c99d9cce4eb9dfb5bb556b5bee7.webp",
+      "alt": "analysis：分析。混合样品罐与分离出的石子、沙粒、落叶并列，人物用放大镜检查组成部分；拆分并研究材料的关系直观表达分析。"
+    },
+    {
+      "senseId": "d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a",
+      "wordId": "dict:concern",
+      "sourceId": "dict:concern",
+      "word": "concern",
+      "pos": "n.",
+      "meaning": "关心",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational. Asset type: one square English vocabulary card illustration. Exact target sense: concern, n., 关心. Primary request: depict this precise part of speech and meaning. Scene: Show a caring friend checking on a tired unwell person resting on a sofa: one friend gently touches their forehead while offering a warm blanket and water; attentive worried facial expression and reassuring hand gesture. Convey caring concern, not a medical examination or hospital.\nStyle: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. One clearly related scene centered in the middle 70 percent, generous blank margins, soft natural daylight, muted green, blue and coral, clear at small card size. Constraints: no text, letters, numbers, written labels, logos, watermarks, border or card UI. No unrelated objects. Do not print the target word or translation.",
+      "desiredAssetPath": "public/images/words/d7/d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a.webp",
+      "status": "approved",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a17b78-b70d-7801-8e42-18e2aa94624e/exec-ce12b5df-db36-4ca0-8f75-1de7380ee30b.png",
+      "originalLocalPath": "output/imagegen/batch-20261027-034523/b/d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a.png",
+      "candidatePath": "output/imagegen/batch-20261027-034523/b/d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a.webp",
+      "reviewed": true,
+      "sourceSha256": "a94754e6f2ec841c5fbca08b7e73ec234f117da9566b4b009574e7aecb86d732",
+      "candidateSha256": "7be615bbe61b9d99c17335157b2f9f8a2b6dabb90523033e5b88e682d3ca6fb6",
+      "nativeDimensions": [
+        1254,
+        1254
+      ],
+      "generatedAt": "2026-10-27T05:28:41.407799+00:00",
+      "generatorReview": {
+        "passed": true,
+        "interpretation": "A worried woman gently checks an unwell resting girl, offers water and keeps her covered with a blanket.",
+        "reason": "Attentive facial expression, gentle touch and practical support directly communicate caring concern/关心 without a medical setting.",
+        "reviewedAt": "2026-10-27T05:28:41.407799+00:00",
+        "method": "Actually viewed returned native image with target known; assessed image-only interpretation and exact word/POS/meaning. Not a blinded study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a",
+          "word": "concern",
+          "pass": true,
+          "interpretation": "Woman checks feverish child's forehead with worried tenderness and offers water.",
+          "reason": "Attentive caregiving and worried expression clearly express concern/关心.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T11:12:56.862Z"
+        },
+        "recoveryReview": {
+          "senseId": "d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a",
+          "word": "concern",
+          "pos": "n.",
+          "meaning": "关心",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a.webp",
+          "passed": true,
+          "reason": "成人带着担忧表情触摸生病孩子额头并递水，注意力和照料动作明确指向孩子，直观传达关心。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      },
+      "savedPath": "public/images/words/d7/d7ef68e2429eac9dbc9e4b3e99e0ef4c779924c02e6791cf74f404bae23b155a.webp",
+      "alt": "concern：关心。成人带着担忧表情触摸生病孩子额头并递水，注意力和照料动作明确指向孩子，直观传达关心。"
+    }
+  ],
+  "todo": [
+    {
+      "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+      "word": "approach",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+          "word": "approach",
+          "pass": true,
+          "interpretation": "A sailboat with wake moves toward a dock and a waiting helper.",
+          "reason": "Decreasing visible gap, wake and docking gesture show approach/接近.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:07:40.128Z"
+        },
+        "recoveryReview": {
+          "senseId": "69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025",
+          "word": "approach",
+          "pos": "n.",
+          "meaning": "接近",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/69c7bfebbe4fc4d14026eea5c508e0b978002b374a755c95322446c4448e9025.webp",
+          "passed": false,
+          "reason": "船和码头人员及系泊绳能看出靠岸或停泊，但缺少明确的距离变化；遮住词义时更容易认作停泊，不能可靠锁定名词“接近”。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+      "word": "organization",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+          "word": "organization",
+          "pass": false,
+          "interpretation": "Volunteers pack and distribute food bags at a tent.",
+          "reason": "Reads charity distribution or teamwork; organization as a defined group remains ambiguous.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:07:40.139Z"
+        },
+        "recoveryReview": {
+          "senseId": "2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5",
+          "word": "organization",
+          "pos": "n.",
+          "meaning": "组织",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/2cb79a43192b6b11d87eaccec7d464a01015e6dd2c1812868b5f0af5059ed7e5.webp",
+          "passed": false,
+          "reason": "统一围裙的多人分发食物可见合作与慈善服务，但组织这一实体并未被独特呈现，容易理解为帮助或分发；“组织”依赖额外解释。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+      "word": "application",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+          "word": "application",
+          "pass": false,
+          "interpretation": "Boy lifts a boulder using a wooden lever.",
+          "reason": "Clearly demonstrates using a lever, but knowledge application requires unseen prior knowledge; broad noun 应用 remains unclear.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:27:57.523Z"
+        },
+        "recoveryReview": {
+          "senseId": "88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55",
+          "word": "application",
+          "pos": "n.",
+          "meaning": "应用",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/88e931bb47769431a74fb4eb892b8063d5d6d799c99ccc6915bc618b50e51c55.webp",
+          "passed": false,
+          "reason": "男孩使用木杠抬起石头，直观内容是杠杆或撬动；要理解为知识的应用需要补充原理背景，当前名词“应用”不够直接。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+      "word": "occur",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+          "word": "occur",
+          "pass": false,
+          "interpretation": "A branch breaks and falls near a surprised walker.",
+          "reason": "Primarily breaking/falling branch or fright, not general occurrence without explanation.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T09:27:57.523Z"
+        },
+        "recoveryReview": {
+          "senseId": "017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785",
+          "word": "occur",
+          "pos": "v.",
+          "meaning": "发生",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/017c41f85b5fb26ba3949835d6c15e178bb3a28b251c663ea8271ffead0ac785.webp",
+          "passed": false,
+          "reason": "断裂下落的树枝和惊讶行人清楚表达突然折断或意外，无法仅凭画面从具体动作区分出泛指的“发生”。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+      "word": "represent",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+          "word": "represent",
+          "pass": true,
+          "interpretation": "An actor onstage visibly expresses sorrow through a bowed body and covered face before an audience.",
+          "reason": "Stage performance makes deliberate portrayal/表现 of emotion concrete rather than accidental sadness.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:02:04.053Z"
+        },
+        "recoveryReview": {
+          "senseId": "52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe",
+          "word": "represent",
+          "pos": "v.",
+          "meaning": "表现",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/52bd651dd061a8b77b4e0378253bbf286274aafa59a594c96ce7e7ca90c160fe.webp",
+          "passed": false,
+          "reason": "舞台演员掩面呈现悲伤，首先读作表演或哭泣；无法仅凭画面确认 represent 的“表现”这一义项，而非 act/cry。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+      "word": "benefit",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+          "word": "benefit",
+          "pass": false,
+          "interpretation": "A smiling farmer rests under an apple tree holding harvested apples.",
+          "reason": "Harvest and rest are visible, but general benefit/利益 is only inferred and lacks direct distinguishing cues.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T10:02:04.054Z"
+        },
+        "recoveryReview": {
+          "senseId": "092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17",
+          "word": "benefit",
+          "pos": "n.",
+          "meaning": "利益",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/092b24e7a8fdbf1d5f917a042ba63d8397dd38e00fc4e517d6748ce133043d17.webp",
+          "passed": false,
+          "reason": "果树下农人抱着苹果休息，首先表达丰收或歇息；利益或受益关系未被明确突出，需要把果实和树荫解释为好处才成立。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+      "word": "statement",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+          "word": "statement",
+          "pass": true,
+          "interpretation": "Boy calmly explains a broken plant pot to attentive listeners, gesturing toward the event.",
+          "reason": "Visible account of what happened to listening people gives concrete 陈述, with no quarrelling cues.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T11:12:56.863Z"
+        },
+        "recoveryReview": {
+          "senseId": "5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f",
+          "word": "statement",
+          "pos": "n.",
+          "meaning": "陈述",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/5623b79a0ff8a93408b068f827f798d18426f6ade20d207eefdac99e7eddf38f.webp",
+          "passed": false,
+          "reason": "孩子对听众讲述破碎花盆并手指现场，能看出说话或解释，但更易读成道歉、承认错误或讲述；名词“陈述”缺少区分线索。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    },
+    {
+      "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+      "word": "principle",
+      "status": "pending_visual_revision",
+      "reason": {
+        "passed": false,
+        "reviewedAt": "2026-10-27T22:06:31.594838+00:00",
+        "recoveryRunId": "20261027-220037-recovery",
+        "method": "Actual generation inspection, independent individual optimized-image review, and fresh recovery individual image review; target mapping known. No blind-study claim.",
+        "decisionRule": "All three actual reviews must agree; any semantic uncertainty, wrong sense, text or visual defect stays pending.",
+        "priorCrossReview": {
+          "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+          "word": "principle",
+          "pass": false,
+          "interpretation": "A family divides bread into similar portions.",
+          "reason": "Sharing/fairness is visible, but general principle is an inferred rule not clearly depicted.",
+          "method": "Individually viewed actual 640px WebP; target mapping known, image-only interpretation assessed before exact sense comparison. Not a blind study.",
+          "reviewedAt": "2026-10-27T11:12:56.863Z"
+        },
+        "recoveryReview": {
+          "senseId": "c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e",
+          "word": "principle",
+          "pos": "n.",
+          "meaning": "原则",
+          "candidatePath": "output/imagegen/batch-20261027-034523/b/c4b38bc0ccaa094a6ed7915ab42a6ab7499a1943d6589f10bc7ba22fe9a5b86e.webp",
+          "passed": false,
+          "reason": "一家人分切和分享面包，直观表达分享或分配；不能单凭画面确定持续遵循的原则，抽象目标需要额外解释。",
+          "actuallyViewedAt": "2026-10-27T22:05:47.865478+00:00",
+          "method": "individual actual view_image inspection of current candidatePath with word/pos/meaning mapping known; no contact sheet or blind-study claim; timestamp records completion of this inspection session"
+        }
+      }
+    }
+  ],
+  "updatedAt": "2026-10-27T22:10:32.056710+00:00",
+  "counts": {
+    "claimed": 15,
+    "generated": 15,
+    "approved": 7,
+    "deferred": 8
+  },
+  "recovery": {
+    "runId": "20261027-220037-recovery",
+    "threadId": "01a17f5e-4225-7800-817a-ba93020bb410",
+    "recoveredFromRunId": "20261027-034523",
+    "at": "2026-10-27T22:06:31.594838+00:00",
+    "newGeneration": 0
+  },
+  "validation": {
+    "checkedAt": "2026-10-27T22:10:32.056710+00:00",
+    "illustrationsSync": "passed",
+    "fullCatalogCheck": "passed",
+    "metadataIssues": 0,
+    "tests": {
+      "passed": 69,
+      "failed": 0
+    },
+    "productionBuild": "passed",
+    "manifest": {
+      "total": 100000,
+      "ready": 1418,
+      "pending": 98582,
+      "revision": "2b39fd6ac7f13316"
+    },
+    "runtime": {
+      "checkedAt": "2026-10-27T22:10:05.031Z",
+      "manifest": {
+        "ready": 1418,
+        "pending": 98582,
+        "revision": "2b39fd6ac7f13316"
+      },
+      "fullBucketsChecked": 256,
+      "indexed": 1418,
+      "approvedLoadedByActualFrontendModule": 40,
+      "deferredExcluded": 20,
+      "wrongSenseRejected": 40,
+      "assetByteHashesMatched": 40,
+      "httpRequests": 355,
+      "allHttp200": true,
+      "scripts": [
+        "./assets/index-DIb36Psh.js",
+        "./assets/index-CH76LmaZ.css"
+      ]
+    },
+    "browser": {
+      "url": "http://127.0.0.1:4279/",
+      "homeCoverage": "1418 / 100000",
+      "notebookSearch": "hobby",
+      "imageVisibleInActualScreenshot": true,
+      "nearbyUnillustratedSenses": [
+        "hobbyist",
+        "hobbyhorse"
+      ],
+      "method": "Actual browser UI navigation, accessible state and screenshot inspection. No full game-play claim."
+    }
+  }
+}
