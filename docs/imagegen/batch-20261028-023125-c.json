@@ -1,0 +1,1665 @@
+{
+  "runId": "20261028-023125",
+  "threadId": "01a18056-0b9e-7aa0-bf55-177fe0b2cf6e",
+  "startedAt": "2026-10-28T02:31:25.802422+00:00",
+  "batchPath": "output/imagegen/batch-20261028-023125",
+  "group": "c",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "complete_with_pending_revisions",
+  "claimed": [
+    {
+      "senseId": "ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95",
+      "wordId": "dict:failure",
+      "sourceId": "dict:failure",
+      "word": "failure",
+      "pos": "n.",
+      "meaning": "失败",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"failure\",\"pos\":\"n.\",\"meaning\":\"失败\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ff/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8",
+      "wordId": "dict:freedom",
+      "sourceId": "dict:freedom",
+      "word": "freedom",
+      "pos": "n.",
+      "meaning": "自由",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"freedom\",\"pos\":\"n.\",\"meaning\":\"自由\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/41/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f",
+      "wordId": "dict:powerful",
+      "sourceId": "dict:powerful",
+      "word": "powerful",
+      "pos": "adj.",
+      "meaning": "有力的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"powerful\",\"pos\":\"adj.\",\"meaning\":\"有力的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ef/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50",
+      "wordId": "dict:file",
+      "sourceId": "dict:file",
+      "word": "file",
+      "pos": "n.",
+      "meaning": "档案",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"file\",\"pos\":\"n.\",\"meaning\":\"档案\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/36/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f",
+      "wordId": "dict:length",
+      "sourceId": "dict:length",
+      "word": "length",
+      "pos": "n.",
+      "meaning": "长度",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"length\",\"pos\":\"n.\",\"meaning\":\"长度\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ef/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7",
+      "wordId": "dict:balance",
+      "sourceId": "dict:balance",
+      "word": "balance",
+      "pos": "n.",
+      "meaning": "平衡",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"balance\",\"pos\":\"n.\",\"meaning\":\"平衡\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/2c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832",
+      "wordId": "dict:branch",
+      "sourceId": "dict:branch",
+      "word": "branch",
+      "pos": "n.",
+      "meaning": "树枝",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"branch\",\"pos\":\"n.\",\"meaning\":\"树枝\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/18/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1",
+      "wordId": "dict:conflict",
+      "sourceId": "dict:conflict",
+      "word": "conflict",
+      "pos": "n.",
+      "meaning": "战斗",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"conflict\",\"pos\":\"n.\",\"meaning\":\"战斗\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/30/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223",
+      "wordId": "dict:studio",
+      "sourceId": "dict:studio",
+      "word": "studio",
+      "pos": "n.",
+      "meaning": "工作室",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"studio\",\"pos\":\"n.\",\"meaning\":\"工作室\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/f6/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744",
+      "wordId": "dict:strength",
+      "sourceId": "dict:strength",
+      "word": "strength",
+      "pos": "n.",
+      "meaning": "力量",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"strength\",\"pos\":\"n.\",\"meaning\":\"力量\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/64/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9",
+      "wordId": "dict:battle",
+      "sourceId": "dict:battle",
+      "word": "battle",
+      "pos": "n.",
+      "meaning": "战役",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"battle\",\"pos\":\"n.\",\"meaning\":\"战役\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/78/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b",
+      "wordId": "dict:contribution",
+      "sourceId": "dict:contribution",
+      "word": "contribution",
+      "pos": "n.",
+      "meaning": "捐助",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"contribution\",\"pos\":\"n.\",\"meaning\":\"捐助\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/95/95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4",
+      "wordId": "dict:transport",
+      "sourceId": "dict:transport",
+      "word": "transport",
+      "pos": "n.",
+      "meaning": "运输",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"transport\",\"pos\":\"n.\",\"meaning\":\"运输\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b4/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c",
+      "wordId": "dict:cash",
+      "sourceId": "dict:cash",
+      "word": "cash",
+      "pos": "n.",
+      "meaning": "现金",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"cash\",\"pos\":\"n.\",\"meaning\":\"现金\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/04/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b",
+      "wordId": "dict:protection",
+      "sourceId": "dict:protection",
+      "word": "protection",
+      "pos": "n.",
+      "meaning": "保护",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"protection\",\"pos\":\"n.\",\"meaning\":\"保护\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/c6/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+      "status": "pending"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95",
+      "wordId": "dict:failure",
+      "sourceId": "dict:failure",
+      "word": "failure",
+      "pos": "n.",
+      "meaning": "失败",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration, no text.\nExact target sense: failure, noun, 失败.\nScene: A disappointed child stands beside a small homemade toy sailboat at the edge of a shallow pond. The carefully built boat has tipped completely sideways and is sinking; its soaked sail lies flat on the water, and the child's lowered shoulders and empty launching hands clearly show that the attempted sailing did not work. Focus on the failed attempt and the visible unsuccessful result. Do not depict injury or danger.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted colors. Center the tightly related scene in the middle 70 percent with generous empty paper around it, fully legible on a small card.\nConstraints: absolutely no letters, numbers, written marks, labels, arrows, symbols, logos, watermark, borders or card UI. One standalone illustration; no montage.",
+      "desiredAssetPath": "public/images/words/ff/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-d7f52191-addd-4cf0-a05c-e11d38e2cc13.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp",
+      "candidateSha256": "80eababad449be8b0f0fa93c638e32655d184ebc36c81e87a1035c2cdeac6b6b",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:36:26.216186+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Actual 640px WebP individually inspected. Downcast child and capsized sinking model sailboat visibly show an attempted launch that failed. No text or visual defect; exact noun failure is understandable from outcome. Target mapping known, image-only semantic test, no blind-study claim.",
+        "reviewedAt": "2026-10-28T02:37:31.748784+00:00"
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A sad child looks down at a capsized, sinking toy sailboat. The visibly unsuccessful outcome of the attempted launch communicates failure without labels.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A sad child looks down at a capsized, sinking toy sailboat. The visibly unsuccessful outcome of the attempted launch communicates failure without labels.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/ff/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp"
+    },
+    {
+      "senseId": "41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8",
+      "wordId": "dict:freedom",
+      "sourceId": "dict:freedom",
+      "word": "freedom",
+      "pos": "n.",
+      "meaning": "自由",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: freedom, noun, 自由.\nPrimary request: an open birdcage sits empty on a low garden wall, its door clearly swung wide open, while a small healthy bird flies joyfully into a vast clear sky well beyond the cage. The unrestrained bird and open cage make release from confinement immediately visible. No people, no chains, no other meaning of free.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/41/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-f82d8841-a884-4daf-9ab2-a9927562938f.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp",
+      "candidateSha256": "054e4573aeb072614758345fb4158ba3f3c71396b6f60e2448bd8ed4930d3bf6",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:38:04.678910+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Open empty cage and escaping bird visibly establish release from confinement and freedom. No text, clear at small size.",
+        "reviewedAt": "2026-10-28T02:38:14.310135+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "An empty cage has its door open while a bird flies into open sky. Release from confinement makes freedom directly readable.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "An empty cage has its door open while a bird flies into open sky. Release from confinement makes freedom directly readable.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/41/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp"
+    },
+    {
+      "senseId": "ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f",
+      "wordId": "dict:powerful",
+      "sourceId": "dict:powerful",
+      "word": "powerful",
+      "pos": "adj.",
+      "meaning": "有力的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: powerful, adjective, 有力的.\nPrimary request: a robust person uses both hands to pull a heavy loaded wooden cart smoothly uphill; their firmly planted feet, powerful shoulders and taut rope visibly show force, while a small bystander cannot budge an identical heavy wheel. Keep focus on forceful physical capability; natural human anatomy. One coherent scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/ef/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-80619d2e-edc4-46a7-91d6-51de96992c7d.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp",
+      "candidateSha256": "72055ce6259aadad00063c4b9171ad6a0f19f3bf6b17405d8e6e4ed26a86656a",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:38:45.821947+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Muscular adult pulls a heavily loaded cart uphill while a smaller person struggles with the other load; physical force and powerful capability are visibly clear. No text.",
+        "reviewedAt": "2026-10-28T02:38:54.267054+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A muscular adult pulls a heavily loaded cart uphill with force; a smaller person struggles behind. The physical feat and visibly strong body communicate powerful 有力的.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A muscular adult pulls a heavily loaded cart uphill with force; a smaller person struggles behind. The physical feat and visibly strong body communicate powerful 有力的.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/ef/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp"
+    },
+    {
+      "senseId": "36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50",
+      "wordId": "dict:file",
+      "sourceId": "dict:file",
+      "word": "file",
+      "pos": "n.",
+      "meaning": "档案",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: file, noun, 档案.\nPrimary request: a thick open manila archive folder lies on a simple desk with neatly stacked old official document sheets held by metal fasteners and small unlabelled divider tabs. A filing cabinet drawer in the background contains similar folders. Center the archival folder, make it identifiable as stored documents rather than a book or computer file. All paper entirely free of text and numbers.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/36/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-6481f62a-da9b-4969-b6e6-111c19c47e0b.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp",
+      "candidateSha256": "71e00aef01dbc5b6a583ef254914ff738659b43f50efd690a1b28234d17f9070",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:39:25.832008+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Central archival folder with bound document sheets and divider tabs, supported by filing cabinet drawer, reads clearly as a paper file/archive. Pages intentionally blank to avoid text.",
+        "reviewedAt": "2026-10-28T02:39:35.763522+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A large archival folder holds grouped paper sheets and colored dividers, with a drawer of similar folders behind it. This is clearly a paper file/archive 档案.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A large archival folder holds grouped paper sheets and colored dividers, with a drawer of similar folders behind it. This is clearly a paper file/archive 档案.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/36/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp"
+    },
+    {
+      "senseId": "ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f",
+      "wordId": "dict:length",
+      "sourceId": "dict:length",
+      "word": "length",
+      "pos": "n.",
+      "meaning": "长度",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: length, noun, 长度.\nPrimary request: close view of one straight wooden plank lying horizontally on a workbench. A craftsperson stretches a blank measuring tape tightly from the plank's left end to its right end, with fingertips exactly marking the two endpoints, emphasizing end-to-end extent. The tape has plain tick marks only, absolutely no numerals or letters. Do not make width or height the focus.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/ef/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-d9f4f1c2-dde7-4c1c-93ad-fb9dab31bdd4.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp",
+      "candidateSha256": "69124798625714dbddaf5cca1acb0097f99faef7e85185addad758a73a5611e6",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:40:06.398181+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Measuring tape runs exactly between two ends along the long axis of a plank, emphasizing its end-to-end length. Tick marks contain no numbers or letters.",
+        "reviewedAt": "2026-10-28T02:40:19.658518+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A measuring tape is held exactly between the two ends of a long plank along its horizontal axis. The end-to-end extent being measured clearly conveys length.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A measuring tape is held exactly between the two ends of a long plank along its horizontal axis. The end-to-end extent being measured clearly conveys length.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/ef/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp"
+    },
+    {
+      "senseId": "2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7",
+      "wordId": "dict:balance",
+      "sourceId": "dict:balance",
+      "word": "balance",
+      "pos": "n.",
+      "meaning": "平衡",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: balance, noun, 平衡.\nPrimary request: a classic two-pan balance scale sits centered on a table. Both pans hold one equally sized smooth stone and hang at exactly the same level; the crossbeam is perfectly horizontal and central pointer is upright. Physical equilibrium is immediately visible. No markings or text on the scale.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/2c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-d5107b57-9e89-4d4e-bce8-550e04d5ec17.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp",
+      "candidateSha256": "7203d125127c7963ddc3ae0cadcab0fda0193bb1532cce4b5ec2deed596a209a",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:41:05.961752+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Equal stones in level scale pans and horizontal beam visibly communicate equilibrium/balance. No labels or text.",
+        "reviewedAt": "2026-10-28T02:41:19.542928+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "Two similar stones sit in opposite pans of a level scale with a horizontal beam. The visibly equal equilibrium conveys balance.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "Two similar stones sit in opposite pans of a level scale with a horizontal beam. The visibly equal equilibrium conveys balance.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/2c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp"
+    },
+    {
+      "senseId": "18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832",
+      "wordId": "dict:branch",
+      "sourceId": "dict:branch",
+      "word": "branch",
+      "pos": "n.",
+      "meaning": "树枝",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: branch, noun, 树枝.\nPrimary request: a single recognisable woody tree branch, gently forked with rough brown bark, several smaller twigs and a few fresh green leaves. It lies diagonally on warm off-white paper. Show its cut end and natural branching structure clearly, no whole tree, no roots, no fruit, no unrelated objects.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/18/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-8f126365-e678-4160-9186-abd79995d56b.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp",
+      "candidateSha256": "5466a1124e1c167e288c02dfffc6bf51a06228349a0ac43dac269d0e38ca5eb8",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:41:59.451156+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Single woody cut branch has bark, forks, twigs and leaves; exact concrete object 树枝 immediately identifiable. No text or unrelated elements.",
+        "reviewedAt": "2026-10-28T02:42:17.143252+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A single cut woody limb has bark, forks, smaller twigs and leaves. Its typical tree-branch shape directly conveys 树枝.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A single cut woody limb has bark, forks, smaller twigs and leaves. Its typical tree-branch shape directly conveys 树枝.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/18/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp"
+    },
+    {
+      "senseId": "309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1",
+      "wordId": "dict:conflict",
+      "sourceId": "dict:conflict",
+      "word": "conflict",
+      "pos": "n.",
+      "meaning": "战斗",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: conflict, noun, 战斗.\nPrimary request: two adult medieval soldiers in simple unmarked clothing and helmets engage in a clear one-on-one sword-and-shield fight in a bare field. Their swords cross and shields block strikes; dynamic opposing stances show actual combat rather than an argument. Non-graphic educational image, no blood, no injury, no dead bodies. No flags or national symbols.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/30/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-5d0afac2-e964-430c-99ac-7246b5725914.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp",
+      "candidateSha256": "d598def705d75b3318dd531b3be7403b4691b819064a934f5923a1328f04c634",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:42:58.916852+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Two opposing soldiers cross swords with shields raised in active combat; this matches specified noun 战斗, not merely argument. No blood, injury, text or insignia.",
+        "reviewedAt": "2026-10-28T02:43:11.981730+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "Two opposing armored soldiers clash swords with shields raised. The active one-to-one combat directly matches the specified 战斗 sense.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "Two opposing armored soldiers clash swords with shields raised. The active one-to-one combat directly matches the specified 战斗 sense.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/30/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp"
+    },
+    {
+      "senseId": "f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223",
+      "wordId": "dict:studio",
+      "sourceId": "dict:studio",
+      "word": "studio",
+      "pos": "n.",
+      "meaning": "工作室",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: studio, noun, 工作室.\nPrimary request: a small artist's working studio, showing a painter's easel with a half-finished landscape painting, a stool, a worktable holding brushes in a jar and paint palette, and gentle light from one window. Focus on the dedicated room for creative work; no person needed. No text, labels or posters; paintings have no letters.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/f6/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-88f5ab25-59d0-4218-826c-dfdbbbf266ed.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp",
+      "candidateSha256": "74f888aa0e379bf88d0bb7e688b8236bc4a0e492c0d2bdc6a7b137bd89f82eb4",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:43:54.264167+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Dedicated creative workroom with easel, painting, brushes, palette and worktable clearly reads as artist studio 工作室. No text or labels.",
+        "reviewedAt": "2026-10-28T02:44:08.087153+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "An art workroom contains a central easel and painting, brushes, palette, paint jars and a working table. The dedicated creative workspace clearly conveys 工作室.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "An art workroom contains a central easel and painting, brushes, palette, paint jars and a working table. The dedicated creative workspace clearly conveys 工作室.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/f6/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp"
+    },
+    {
+      "senseId": "6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744",
+      "wordId": "dict:strength",
+      "sourceId": "dict:strength",
+      "word": "strength",
+      "pos": "n.",
+      "meaning": "力量",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: strength, noun, 力量.\nPrimary request: a strong adult visibly lifts a very heavy round stone from the ground with both arms, knees bent and muscles engaged. The stone's weight and the person's physical effort clearly communicate bodily strength. Focus tightly on the person and single stone, no gym equipment, symbols or superhero costume. Normal anatomy.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/64/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-32630ff5-7e4f-4592-b304-5ff5a8c2ae9a.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp",
+      "candidateSha256": "326fd0050658b4c3f8d8139f29a35c38ae42cea96559012a320b77fa0c0c8dc5",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:44:42.368865+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Adult lifts a large heavy stone with visibly engaged muscles and effort; bodily strength 力量 is the central visible concept. Natural anatomy, no text.",
+        "reviewedAt": "2026-10-28T02:44:58.655308+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A muscular adult lifts a very large heavy stone with tense arms, bent legs and visible effort. Physical strength is the central visible property.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A muscular adult lifts a very large heavy stone with tense arms, bent legs and visible effort. Physical strength is the central visible property.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/64/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp"
+    },
+    {
+      "senseId": "7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9",
+      "wordId": "dict:battle",
+      "sourceId": "dict:battle",
+      "word": "battle",
+      "pos": "n.",
+      "meaning": "战役",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: battle, noun, 战役.\nPrimary request: a wide but uncluttered historical battlefield with two small opposing organized groups of medieval soldiers advancing toward each other, shields raised and spears held. A few soldiers in the center already cross weapons. Show an organized battle involving groups rather than one duel. Non-graphic, no blood, no wounds, no bodies, no explosions. No flags, words or national emblems.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/78/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-948b5c68-7ffe-4266-9c42-19d609e4ebfa.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp",
+      "candidateSha256": "717dff31e9ebf605c6d11d475f921283c723dd5ada319903e9b5ff9066d39499",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:45:58.594656+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Two organized opposing forces clash in a broad battlefield, visibly communicating a battle involving groups, distinct from the one-on-one conflict candidate. No blood, text or national insignia.",
+        "reviewedAt": "2026-10-28T02:46:10.465343+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "Two organized opposing groups of armored soldiers clash across a broad battlefield. This visibly depicts a battle/战役 rather than only an individual duel.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "Two organized opposing groups of armored soldiers clash across a broad battlefield. This visibly depicts a battle/战役 rather than only an individual duel.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/78/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp"
+    },
+    {
+      "senseId": "95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b",
+      "wordId": "dict:contribution",
+      "sourceId": "dict:contribution",
+      "word": "contribution",
+      "pos": "n.",
+      "meaning": "捐助",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: contribution, noun, 捐助.\nPrimary request: a person warmly donates a bag of rice and fresh vegetables into a shared community food box, where a volunteer gratefully accepts the goods for distribution to people in need. Focus on the donor's giving hands, donated food and recipient's grateful posture. Nothing is being sold, no payment, no coin symbols or labels. Warm respectful everyday scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/95/95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-62829ee2-29aa-44c1-a962-1f3d00565974.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b.webp",
+      "candidateSha256": "3f61080b134ccf8ac116328135248744485be4144b767890adafcb4e87b36eba",
+      "reviewed": false,
+      "generatedAt": "2026-10-28T02:46:47.259124+00:00",
+      "generatorReview": {
+        "passed": false,
+        "reason": "Food is visibly handed between smiling people beside a crate, but donation is not independently clear; the scene could be buying or handing over groceries. Exact 捐助 remains uncertain, retain pending revision rather than count ready.",
+        "reviewedAt": "2026-10-28T02:47:25.767727+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": false,
+        "reason": "Two smiling people pass groceries beside a crate. The picture could show a purchase, ordinary delivery or handing groceries to a helper; charitable donation 捐助 is not independently established. Retain for revision.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "Two smiling people pass groceries beside a crate. The picture could show a purchase, ordinary delivery or handing groceries to a helper; charitable donation 捐助 is not independently established. Retain for revision.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "revisionReason": "Food is visibly handed between smiling people beside a crate, but donation is not independently clear; the scene could be buying or handing over groceries. Exact 捐助 remains uncertain, retain pending revision rather than count ready. | Two smiling people pass groceries beside a crate. The picture could show a purchase, ordinary delivery or handing groceries to a helper; charitable donation 捐助 is not independently established. Retain for revision."
+    },
+    {
+      "senseId": "b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4",
+      "wordId": "dict:transport",
+      "sourceId": "dict:transport",
+      "word": "transport",
+      "pos": "n.",
+      "meaning": "运输",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: transport, noun, 运输.\nPrimary request: a small cargo truck in profile carries securely stacked plain cardboard boxes along a simple road. At the roadside a warehouse loading ramp and worker moving one final box into the open rear make goods being transported unmistakable. Focus on movement of cargo, no passengers, no logos, no words on truck or boxes.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/b4/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-9cc1acb0-69cd-4d31-9c56-624441c74bb9.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp",
+      "candidateSha256": "d7d82c5539cc4fc811628301ac579a78ca206183d6158626bc817fa7da66f7e3",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:48:14.307538+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Cargo truck filled with plain boxes at warehouse loading ramp, worker moving a box into it, clearly communicates goods transport. No text or logos.",
+        "reviewedAt": "2026-10-28T02:48:34.633637+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A cargo truck holds numerous boxes while a worker transfers another box from a warehouse loading platform. Moving goods by truck directly conveys 运输.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A cargo truck holds numerous boxes while a worker transfers another box from a warehouse loading platform. Moving goods by truck directly conveys 运输.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/b4/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp"
+    },
+    {
+      "senseId": "049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c",
+      "wordId": "dict:cash",
+      "sourceId": "dict:cash",
+      "word": "cash",
+      "pos": "n.",
+      "meaning": "现金",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: cash, noun, 现金.\nPrimary request: close-up of a human hand holding a small fan of paper banknotes and several metal coins above an open simple wallet. Physical notes and coins dominate the image. Banknotes have abstract decorative guilloche patterns and oval blank portrait frames but absolutely no letters, numerals or currency symbols. Do not show phone, card or digital payments.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/04/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-345b5d91-3197-4744-90ce-b669c9008029.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+      "candidateSha256": "e2199988f8f178d2b7bf80a76f36bceae752e75408fa75ffeed72bfdc06fda3d",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:49:21.871858+00:00",
+      "generatorReview": {
+        "passed": null,
+        "reason": "Actual optimized image inspection pending"
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A hand holds paper banknotes and metal coins above an open wallet. Physical currency is unmistakable and directly conveys 现金, with no letters or numerals.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A hand holds paper banknotes and metal coins above an open wallet. Physical currency is unmistakable and directly conveys 现金, with no letters or numerals.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        },
+        "primaryAdditionalReview": {
+          "senseId": "049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c",
+          "word": "cash",
+          "candidatePath": "output/imagegen/batch-20261028-023125/c/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+          "passed": true,
+          "reason": "手持多张纸币和硬币，钱包打开，现金的物理形式明确。",
+          "reviewedAt": "2026-10-28T04:09:52.356770+00:00",
+          "method": "Primary actually viewed individual 640px image with target known; no blind-study claim."
+        }
+      },
+      "savedPath": "public/images/words/04/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp"
+    },
+    {
+      "senseId": "c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b",
+      "wordId": "dict:protection",
+      "sourceId": "dict:protection",
+      "word": "protection",
+      "pos": "n.",
+      "meaning": "保护",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration, no text.\nExact target sense: protection, noun, 保护.\nPrimary request: Clearly show protective shelter from an immediate harmless environmental hazard: a mother hen spreads both large wings over three small chicks during falling rain. The chicks huddle safely beneath the dry underside of her wings while raindrops visibly strike and roll off the outside of her feathers; a small wet patch and a few drops are visible outside the shelter. The hen's body and wings physically shield the chicks. Make the act and condition of protection immediately clear from this one simple scene, not just a bird portrait.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, muted warm brown, golden yellow and blue. One coherent centered scene filling middle 70 percent, generous blank margins, legible on a small memory card.\nConstraints: absolutely no letters, words, numbers, written marks, labels, arrows, symbols, logos, watermark, border or card UI. No violence, no unrelated objects, no panels.",
+      "desiredAssetPath": "public/images/words/c6/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18075-51b9-7dd1-8631-491d0a74aaf5/exec-ac774e40-5e00-4729-a76d-e2e60fd2a555.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+      "candidateSha256": "148dd110e088256df30dd3057779aa25b512957dfac9b4e78f120fa018346780",
+      "generatedAt": "2026-10-28T03:06:04.705356+00:00",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": null,
+        "reason": "Optimized WebP inspection pending"
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A hen spreads both wings over chicks while rain strikes her exposed feathers and ground. The chicks are visibly sheltered from rain, clearly conveying 保护.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A hen spreads both wings over chicks while rain strikes her exposed feathers and ground. The chicks are visibly sheltered from rain, clearly conveying 保护.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        },
+        "primaryAdditionalReview": {
+          "senseId": "c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b",
+          "word": "protection",
+          "candidatePath": "output/imagegen/batch-20261028-023125/c/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+          "passed": true,
+          "reason": "母鸡展开双翅顶住雨水，翼下雏鸡保持干燥，保护行为和对象明确。",
+          "reviewedAt": "2026-10-28T04:09:52.356770+00:00",
+          "method": "Primary actually viewed individual 640px image with target known; no blind-study claim."
+        }
+      },
+      "savedPath": "public/images/words/c6/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95",
+      "wordId": "dict:failure",
+      "sourceId": "dict:failure",
+      "word": "failure",
+      "pos": "n.",
+      "meaning": "失败",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration, no text.\nExact target sense: failure, noun, 失败.\nScene: A disappointed child stands beside a small homemade toy sailboat at the edge of a shallow pond. The carefully built boat has tipped completely sideways and is sinking; its soaked sail lies flat on the water, and the child's lowered shoulders and empty launching hands clearly show that the attempted sailing did not work. Focus on the failed attempt and the visible unsuccessful result. Do not depict injury or danger.\nStyle: hand-painted gouache and subtle colored-pencil texture on warm off-white paper, soft daylight, muted colors. Center the tightly related scene in the middle 70 percent with generous empty paper around it, fully legible on a small card.\nConstraints: absolutely no letters, numbers, written marks, labels, arrows, symbols, logos, watermark, borders or card UI. One standalone illustration; no montage.",
+      "desiredAssetPath": "public/images/words/ff/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-d7f52191-addd-4cf0-a05c-e11d38e2cc13.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp",
+      "candidateSha256": "80eababad449be8b0f0fa93c638e32655d184ebc36c81e87a1035c2cdeac6b6b",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:36:26.216186+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Actual 640px WebP individually inspected. Downcast child and capsized sinking model sailboat visibly show an attempted launch that failed. No text or visual defect; exact noun failure is understandable from outcome. Target mapping known, image-only semantic test, no blind-study claim.",
+        "reviewedAt": "2026-10-28T02:37:31.748784+00:00"
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A sad child looks down at a capsized, sinking toy sailboat. The visibly unsuccessful outcome of the attempted launch communicates failure without labels.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A sad child looks down at a capsized, sinking toy sailboat. The visibly unsuccessful outcome of the attempted launch communicates failure without labels.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/ff/ff82854798b40f29918df62b980e591fec6b7eeef38801ba41d1744411f76f95.webp",
+      "alt": "failure：失败的词义插图"
+    },
+    {
+      "senseId": "41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8",
+      "wordId": "dict:freedom",
+      "sourceId": "dict:freedom",
+      "word": "freedom",
+      "pos": "n.",
+      "meaning": "自由",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: freedom, noun, 自由.\nPrimary request: an open birdcage sits empty on a low garden wall, its door clearly swung wide open, while a small healthy bird flies joyfully into a vast clear sky well beyond the cage. The unrestrained bird and open cage make release from confinement immediately visible. No people, no chains, no other meaning of free.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/41/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-f82d8841-a884-4daf-9ab2-a9927562938f.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp",
+      "candidateSha256": "054e4573aeb072614758345fb4158ba3f3c71396b6f60e2448bd8ed4930d3bf6",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:38:04.678910+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Open empty cage and escaping bird visibly establish release from confinement and freedom. No text, clear at small size.",
+        "reviewedAt": "2026-10-28T02:38:14.310135+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "An empty cage has its door open while a bird flies into open sky. Release from confinement makes freedom directly readable.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "An empty cage has its door open while a bird flies into open sky. Release from confinement makes freedom directly readable.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/41/41fb89b8e5193fc7da4ad86fc5a2e6521901afd73b2309adb24d7d3e1af1b3e8.webp",
+      "alt": "freedom：自由的词义插图"
+    },
+    {
+      "senseId": "ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f",
+      "wordId": "dict:powerful",
+      "sourceId": "dict:powerful",
+      "word": "powerful",
+      "pos": "adj.",
+      "meaning": "有力的",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: powerful, adjective, 有力的.\nPrimary request: a robust person uses both hands to pull a heavy loaded wooden cart smoothly uphill; their firmly planted feet, powerful shoulders and taut rope visibly show force, while a small bystander cannot budge an identical heavy wheel. Keep focus on forceful physical capability; natural human anatomy. One coherent scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/ef/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-80619d2e-edc4-46a7-91d6-51de96992c7d.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp",
+      "candidateSha256": "72055ce6259aadad00063c4b9171ad6a0f19f3bf6b17405d8e6e4ed26a86656a",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:38:45.821947+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Muscular adult pulls a heavily loaded cart uphill while a smaller person struggles with the other load; physical force and powerful capability are visibly clear. No text.",
+        "reviewedAt": "2026-10-28T02:38:54.267054+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A muscular adult pulls a heavily loaded cart uphill with force; a smaller person struggles behind. The physical feat and visibly strong body communicate powerful 有力的.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A muscular adult pulls a heavily loaded cart uphill with force; a smaller person struggles behind. The physical feat and visibly strong body communicate powerful 有力的.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/ef/ef7c796f7e56656fed69957c3cd21fbff43363ee1e12d0e1ee8f65bf099cfd9f.webp",
+      "alt": "powerful：有力的的词义插图"
+    },
+    {
+      "senseId": "36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50",
+      "wordId": "dict:file",
+      "sourceId": "dict:file",
+      "word": "file",
+      "pos": "n.",
+      "meaning": "档案",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: file, noun, 档案.\nPrimary request: a thick open manila archive folder lies on a simple desk with neatly stacked old official document sheets held by metal fasteners and small unlabelled divider tabs. A filing cabinet drawer in the background contains similar folders. Center the archival folder, make it identifiable as stored documents rather than a book or computer file. All paper entirely free of text and numbers.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/36/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-6481f62a-da9b-4969-b6e6-111c19c47e0b.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp",
+      "candidateSha256": "71e00aef01dbc5b6a583ef254914ff738659b43f50efd690a1b28234d17f9070",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:39:25.832008+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Central archival folder with bound document sheets and divider tabs, supported by filing cabinet drawer, reads clearly as a paper file/archive. Pages intentionally blank to avoid text.",
+        "reviewedAt": "2026-10-28T02:39:35.763522+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A large archival folder holds grouped paper sheets and colored dividers, with a drawer of similar folders behind it. This is clearly a paper file/archive 档案.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A large archival folder holds grouped paper sheets and colored dividers, with a drawer of similar folders behind it. This is clearly a paper file/archive 档案.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/36/36c3162545a9fd0a983dd758bc48471fc43b11ffe66cad7064f353929e988d50.webp",
+      "alt": "file：档案的词义插图"
+    },
+    {
+      "senseId": "ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f",
+      "wordId": "dict:length",
+      "sourceId": "dict:length",
+      "word": "length",
+      "pos": "n.",
+      "meaning": "长度",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: length, noun, 长度.\nPrimary request: close view of one straight wooden plank lying horizontally on a workbench. A craftsperson stretches a blank measuring tape tightly from the plank's left end to its right end, with fingertips exactly marking the two endpoints, emphasizing end-to-end extent. The tape has plain tick marks only, absolutely no numerals or letters. Do not make width or height the focus.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/ef/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-d9f4f1c2-dde7-4c1c-93ad-fb9dab31bdd4.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp",
+      "candidateSha256": "69124798625714dbddaf5cca1acb0097f99faef7e85185addad758a73a5611e6",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:40:06.398181+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Measuring tape runs exactly between two ends along the long axis of a plank, emphasizing its end-to-end length. Tick marks contain no numbers or letters.",
+        "reviewedAt": "2026-10-28T02:40:19.658518+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A measuring tape is held exactly between the two ends of a long plank along its horizontal axis. The end-to-end extent being measured clearly conveys length.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A measuring tape is held exactly between the two ends of a long plank along its horizontal axis. The end-to-end extent being measured clearly conveys length.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/ef/ef11f36a4995b1e3acf915fd930d095dfc4d597d5e267ed92fc92ce5c58be11f.webp",
+      "alt": "length：长度的词义插图"
+    },
+    {
+      "senseId": "2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7",
+      "wordId": "dict:balance",
+      "sourceId": "dict:balance",
+      "word": "balance",
+      "pos": "n.",
+      "meaning": "平衡",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: balance, noun, 平衡.\nPrimary request: a classic two-pan balance scale sits centered on a table. Both pans hold one equally sized smooth stone and hang at exactly the same level; the crossbeam is perfectly horizontal and central pointer is upright. Physical equilibrium is immediately visible. No markings or text on the scale.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/2c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-d5107b57-9e89-4d4e-bce8-550e04d5ec17.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp",
+      "candidateSha256": "7203d125127c7963ddc3ae0cadcab0fda0193bb1532cce4b5ec2deed596a209a",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:41:05.961752+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Equal stones in level scale pans and horizontal beam visibly communicate equilibrium/balance. No labels or text.",
+        "reviewedAt": "2026-10-28T02:41:19.542928+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "Two similar stones sit in opposite pans of a level scale with a horizontal beam. The visibly equal equilibrium conveys balance.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "Two similar stones sit in opposite pans of a level scale with a horizontal beam. The visibly equal equilibrium conveys balance.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/2c/2cb1ee4ecd049d4942e6b6d978250637946fa084b272f3560cb03a00e67da8e7.webp",
+      "alt": "balance：平衡的词义插图"
+    },
+    {
+      "senseId": "18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832",
+      "wordId": "dict:branch",
+      "sourceId": "dict:branch",
+      "word": "branch",
+      "pos": "n.",
+      "meaning": "树枝",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: branch, noun, 树枝.\nPrimary request: a single recognisable woody tree branch, gently forked with rough brown bark, several smaller twigs and a few fresh green leaves. It lies diagonally on warm off-white paper. Show its cut end and natural branching structure clearly, no whole tree, no roots, no fruit, no unrelated objects.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/18/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-8f126365-e678-4160-9186-abd79995d56b.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp",
+      "candidateSha256": "5466a1124e1c167e288c02dfffc6bf51a06228349a0ac43dac269d0e38ca5eb8",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:41:59.451156+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Single woody cut branch has bark, forks, twigs and leaves; exact concrete object 树枝 immediately identifiable. No text or unrelated elements.",
+        "reviewedAt": "2026-10-28T02:42:17.143252+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A single cut woody limb has bark, forks, smaller twigs and leaves. Its typical tree-branch shape directly conveys 树枝.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A single cut woody limb has bark, forks, smaller twigs and leaves. Its typical tree-branch shape directly conveys 树枝.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/18/18f44b95463b2b0632d16cf9bdad014edb82de39401e6c14bd8415c507b93832.webp",
+      "alt": "branch：树枝的词义插图"
+    },
+    {
+      "senseId": "309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1",
+      "wordId": "dict:conflict",
+      "sourceId": "dict:conflict",
+      "word": "conflict",
+      "pos": "n.",
+      "meaning": "战斗",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: conflict, noun, 战斗.\nPrimary request: two adult medieval soldiers in simple unmarked clothing and helmets engage in a clear one-on-one sword-and-shield fight in a bare field. Their swords cross and shields block strikes; dynamic opposing stances show actual combat rather than an argument. Non-graphic educational image, no blood, no injury, no dead bodies. No flags or national symbols.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/30/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-5d0afac2-e964-430c-99ac-7246b5725914.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp",
+      "candidateSha256": "d598def705d75b3318dd531b3be7403b4691b819064a934f5923a1328f04c634",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:42:58.916852+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Two opposing soldiers cross swords with shields raised in active combat; this matches specified noun 战斗, not merely argument. No blood, injury, text or insignia.",
+        "reviewedAt": "2026-10-28T02:43:11.981730+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "Two opposing armored soldiers clash swords with shields raised. The active one-to-one combat directly matches the specified 战斗 sense.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "Two opposing armored soldiers clash swords with shields raised. The active one-to-one combat directly matches the specified 战斗 sense.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/30/309f02724a83a89945481ed3a07479bc376e359df6f80524faf119c75173a7b1.webp",
+      "alt": "conflict：战斗的词义插图"
+    },
+    {
+      "senseId": "f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223",
+      "wordId": "dict:studio",
+      "sourceId": "dict:studio",
+      "word": "studio",
+      "pos": "n.",
+      "meaning": "工作室",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: studio, noun, 工作室.\nPrimary request: a small artist's working studio, showing a painter's easel with a half-finished landscape painting, a stool, a worktable holding brushes in a jar and paint palette, and gentle light from one window. Focus on the dedicated room for creative work; no person needed. No text, labels or posters; paintings have no letters.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/f6/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-88f5ab25-59d0-4218-826c-dfdbbbf266ed.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp",
+      "candidateSha256": "74f888aa0e379bf88d0bb7e688b8236bc4a0e492c0d2bdc6a7b137bd89f82eb4",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:43:54.264167+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Dedicated creative workroom with easel, painting, brushes, palette and worktable clearly reads as artist studio 工作室. No text or labels.",
+        "reviewedAt": "2026-10-28T02:44:08.087153+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "An art workroom contains a central easel and painting, brushes, palette, paint jars and a working table. The dedicated creative workspace clearly conveys 工作室.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "An art workroom contains a central easel and painting, brushes, palette, paint jars and a working table. The dedicated creative workspace clearly conveys 工作室.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/f6/f61e6487c9795d245ac5bff5c9952f6d4803c0b9bc67332742df0d3242b32223.webp",
+      "alt": "studio：工作室的词义插图"
+    },
+    {
+      "senseId": "6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744",
+      "wordId": "dict:strength",
+      "sourceId": "dict:strength",
+      "word": "strength",
+      "pos": "n.",
+      "meaning": "力量",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: strength, noun, 力量.\nPrimary request: a strong adult visibly lifts a very heavy round stone from the ground with both arms, knees bent and muscles engaged. The stone's weight and the person's physical effort clearly communicate bodily strength. Focus tightly on the person and single stone, no gym equipment, symbols or superhero costume. Normal anatomy.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/64/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-32630ff5-7e4f-4592-b304-5ff5a8c2ae9a.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp",
+      "candidateSha256": "326fd0050658b4c3f8d8139f29a35c38ae42cea96559012a320b77fa0c0c8dc5",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:44:42.368865+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Adult lifts a large heavy stone with visibly engaged muscles and effort; bodily strength 力量 is the central visible concept. Natural anatomy, no text.",
+        "reviewedAt": "2026-10-28T02:44:58.655308+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A muscular adult lifts a very large heavy stone with tense arms, bent legs and visible effort. Physical strength is the central visible property.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A muscular adult lifts a very large heavy stone with tense arms, bent legs and visible effort. Physical strength is the central visible property.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/64/6406fb50c6f6b853f3336f8a89a1cee4e01e92b7e15b82e7e2c2fa63ddd8e744.webp",
+      "alt": "strength：力量的词义插图"
+    },
+    {
+      "senseId": "7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9",
+      "wordId": "dict:battle",
+      "sourceId": "dict:battle",
+      "word": "battle",
+      "pos": "n.",
+      "meaning": "战役",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: battle, noun, 战役.\nPrimary request: a wide but uncluttered historical battlefield with two small opposing organized groups of medieval soldiers advancing toward each other, shields raised and spears held. A few soldiers in the center already cross weapons. Show an organized battle involving groups rather than one duel. Non-graphic, no blood, no wounds, no bodies, no explosions. No flags, words or national emblems.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/78/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-948b5c68-7ffe-4266-9c42-19d609e4ebfa.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp",
+      "candidateSha256": "717dff31e9ebf605c6d11d475f921283c723dd5ada319903e9b5ff9066d39499",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:45:58.594656+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Two organized opposing forces clash in a broad battlefield, visibly communicating a battle involving groups, distinct from the one-on-one conflict candidate. No blood, text or national insignia.",
+        "reviewedAt": "2026-10-28T02:46:10.465343+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "Two organized opposing groups of armored soldiers clash across a broad battlefield. This visibly depicts a battle/战役 rather than only an individual duel.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "Two organized opposing groups of armored soldiers clash across a broad battlefield. This visibly depicts a battle/战役 rather than only an individual duel.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/78/7807da4c3cfa8d28cb7a9da0673ee8a0ead05e959749df2d1253da048bff8ea9.webp",
+      "alt": "battle：战役的词义插图"
+    },
+    {
+      "senseId": "b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4",
+      "wordId": "dict:transport",
+      "sourceId": "dict:transport",
+      "word": "transport",
+      "pos": "n.",
+      "meaning": "运输",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: transport, noun, 运输.\nPrimary request: a small cargo truck in profile carries securely stacked plain cardboard boxes along a simple road. At the roadside a warehouse loading ramp and worker moving one final box into the open rear make goods being transported unmistakable. Focus on movement of cargo, no passengers, no logos, no words on truck or boxes.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/b4/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-9cc1acb0-69cd-4d31-9c56-624441c74bb9.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp",
+      "candidateSha256": "d7d82c5539cc4fc811628301ac579a78ca206183d6158626bc817fa7da66f7e3",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:48:14.307538+00:00",
+      "generatorReview": {
+        "passed": true,
+        "reason": "Cargo truck filled with plain boxes at warehouse loading ramp, worker moving a box into it, clearly communicates goods transport. No text or logos.",
+        "reviewedAt": "2026-10-28T02:48:34.633637+00:00",
+        "method": "Actual individual 640px optimized WebP viewed through view_image; image-only meaning test with target mapping known, no blind-study claim."
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A cargo truck holds numerous boxes while a worker transfers another box from a warehouse loading platform. Moving goods by truck directly conveys 运输.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A cargo truck holds numerous boxes while a worker transfers another box from a warehouse loading platform. Moving goods by truck directly conveys 运输.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        }
+      },
+      "savedPath": "public/images/words/b4/b4adc113143f0bc4848fb3e98bd99a2ba3571767fadbc1d1a22b4d89a74a6bc4.webp",
+      "alt": "transport：运输的词义插图"
+    },
+    {
+      "senseId": "049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c",
+      "wordId": "dict:cash",
+      "sourceId": "dict:cash",
+      "word": "cash",
+      "pos": "n.",
+      "meaning": "现金",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: square vocabulary learning illustration.\nExact target sense: cash, noun, 现金.\nPrimary request: close-up of a human hand holding a small fan of paper banknotes and several metal coins above an open simple wallet. Physical notes and coins dominate the image. Banknotes have abstract decorative guilloche patterns and oval blank portrait frames but absolutely no letters, numerals or currency symbols. Do not show phone, card or digital payments.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, soft natural daylight and muted green, blue and coral. Composition: one clear central subject or tightly related scene in middle 70 percent, ample empty paper around it, fully visible and legible on a small memory card. Constraints: no letters, numbers, written labels, logos, watermarks, borders, card UI or explanatory symbols; no collage, one standalone square illustration.",
+      "desiredAssetPath": "public/images/words/04/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1805a-c0c1-7df3-b5b0-0c2e094dc054/exec-345b5d91-3197-4744-90ce-b669c9008029.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+      "candidateSha256": "e2199988f8f178d2b7bf80a76f36bceae752e75408fa75ffeed72bfdc06fda3d",
+      "reviewed": true,
+      "generatedAt": "2026-10-28T02:49:21.871858+00:00",
+      "generatorReview": {
+        "passed": null,
+        "reason": "Actual optimized image inspection pending"
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A hand holds paper banknotes and metal coins above an open wallet. Physical currency is unmistakable and directly conveys 现金, with no letters or numerals.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A hand holds paper banknotes and metal coins above an open wallet. Physical currency is unmistakable and directly conveys 现金, with no letters or numerals.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        },
+        "primaryAdditionalReview": {
+          "senseId": "049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c",
+          "word": "cash",
+          "candidatePath": "output/imagegen/batch-20261028-023125/c/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+          "passed": true,
+          "reason": "手持多张纸币和硬币，钱包打开，现金的物理形式明确。",
+          "reviewedAt": "2026-10-28T04:09:52.356770+00:00",
+          "method": "Primary actually viewed individual 640px image with target known; no blind-study claim."
+        }
+      },
+      "savedPath": "public/images/words/04/049517431cbd0d4c78534a365b077cb407547276f18dbc70ff7ff7cb994b645c.webp",
+      "alt": "cash：现金的词义插图"
+    },
+    {
+      "senseId": "c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b",
+      "wordId": "dict:protection",
+      "sourceId": "dict:protection",
+      "word": "protection",
+      "pos": "n.",
+      "meaning": "保护",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary illustration, no text.\nExact target sense: protection, noun, 保护.\nPrimary request: Clearly show protective shelter from an immediate harmless environmental hazard: a mother hen spreads both large wings over three small chicks during falling rain. The chicks huddle safely beneath the dry underside of her wings while raindrops visibly strike and roll off the outside of her feathers; a small wet patch and a few drops are visible outside the shelter. The hen's body and wings physically shield the chicks. Make the act and condition of protection immediately clear from this one simple scene, not just a bird portrait.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight, muted warm brown, golden yellow and blue. One coherent centered scene filling middle 70 percent, generous blank margins, legible on a small memory card.\nConstraints: absolutely no letters, words, numbers, written marks, labels, arrows, symbols, logos, watermark, border or card UI. No violence, no unrelated objects, no panels.",
+      "desiredAssetPath": "public/images/words/c6/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18075-51b9-7dd1-8631-491d0a74aaf5/exec-ac774e40-5e00-4729-a76d-e2e60fd2a555.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/c/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+      "candidateSha256": "148dd110e088256df30dd3057779aa25b512957dfac9b4e78f120fa018346780",
+      "generatedAt": "2026-10-28T03:06:04.705356+00:00",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": null,
+        "reason": "Optimized WebP inspection pending"
+      },
+      "independentReview": {
+        "passed": true,
+        "reason": "A hen spreads both wings over chicks while rain strikes her exposed feathers and ground. The chicks are visibly sheltered from rain, clearly conveying 保护.",
+        "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+        "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+        "reviewer": "review_c",
+        "recoveryRunId": "20261028-040431-recovery"
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "A hen spreads both wings over chicks while rain strikes her exposed feathers and ground. The chicks are visibly sheltered from rain, clearly conveying 保护.",
+          "reviewedAt": "2026-10-28T04:08:34.883819+00:00",
+          "method": "Actually viewed each individual optimized 640px WebP using view_image in this run. Exact target word/POS/meaning known; assessed picture-only readability without relying on displayed labels. Not a blind review.",
+          "reviewer": "review_c",
+          "recoveryRunId": "20261028-040431-recovery"
+        },
+        "primaryAdditionalReview": {
+          "senseId": "c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b",
+          "word": "protection",
+          "candidatePath": "output/imagegen/batch-20261028-023125/c/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+          "passed": true,
+          "reason": "母鸡展开双翅顶住雨水，翼下雏鸡保持干燥，保护行为和对象明确。",
+          "reviewedAt": "2026-10-28T04:09:52.356770+00:00",
+          "method": "Primary actually viewed individual 640px image with target known; no blind-study claim."
+        }
+      },
+      "savedPath": "public/images/words/c6/c67b11138d191fb9102194e9ab007af23bd7d9ea75f0d2e04f0ed45ea43b3b8b.webp",
+      "alt": "protection：保护的词义插图"
+    }
+  ],
+  "todo": [
+    {
+      "senseId": "95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b",
+      "word": "contribution",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/c/95e024a5306856d445160221644de7f338c98d3756dffe66e8deda8bbcaad70b.webp",
+      "reason": "Food is visibly handed between smiling people beside a crate, but donation is not independently clear; the scene could be buying or handing over groceries. Exact 捐助 remains uncertain, retain pending revision rather than count ready. | Two smiling people pass groceries beside a crate. The picture could show a purchase, ordinary delivery or handing groceries to a helper; charitable donation 捐助 is not independently established. Retain for revision."
+    }
+  ],
+  "updatedAt": "2026-10-28T04:09:52.520770+00:00",
+  "counts": {
+    "claimed": 15,
+    "generated": 15,
+    "approved": 14,
+    "deferred": 1
+  },
+  "recovery": {
+    "runId": "20261028-040431-recovery",
+    "threadId": "01a180ab-a262-7632-ab07-1c13872b86de",
+    "startedAt": "2026-10-28T04:04:31.478989+00:00",
+    "reviewReport": "output/imagegen/batch-20261028-023125/recovery/20261028-040431-recovery/c/review.json"
+  }
+}

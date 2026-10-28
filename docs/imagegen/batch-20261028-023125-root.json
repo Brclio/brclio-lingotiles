@@ -1,0 +1,1265 @@
+{
+  "runId": "20261028-023125",
+  "threadId": "01a18056-0b9e-7aa0-bf55-177fe0b2cf6e",
+  "startedAt": "2026-10-28T02:31:25.802422+00:00",
+  "batchPath": "output/imagegen/batch-20261028-023125",
+  "group": "root",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "status": "complete_with_pending_revisions",
+  "claimed": [
+    {
+      "senseId": "bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3",
+      "wordId": "dict:shut",
+      "sourceId": "dict:shut",
+      "word": "shut",
+      "pos": "n.",
+      "meaning": "关闭",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"shut\",\"pos\":\"n.\",\"meaning\":\"关闭\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/bb/bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431",
+      "wordId": "dict:silver",
+      "sourceId": "dict:silver",
+      "word": "silver",
+      "pos": "n.",
+      "meaning": "银",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"silver\",\"pos\":\"n.\",\"meaning\":\"银\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/21/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a",
+      "wordId": "dict:monitor",
+      "sourceId": "dict:monitor",
+      "word": "monitor",
+      "pos": "n.",
+      "meaning": "监督器",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"monitor\",\"pos\":\"n.\",\"meaning\":\"监督器\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/de/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b",
+      "wordId": "dict:flag",
+      "sourceId": "dict:flag",
+      "word": "flag",
+      "pos": "n.",
+      "meaning": "标志",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"flag\",\"pos\":\"n.\",\"meaning\":\"标志\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/35/353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897",
+      "wordId": "dict:stranger",
+      "sourceId": "dict:stranger",
+      "word": "stranger",
+      "pos": "n.",
+      "meaning": "陌生人",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"stranger\",\"pos\":\"n.\",\"meaning\":\"陌生人\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b1/b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042",
+      "wordId": "dict:diary",
+      "sourceId": "dict:diary",
+      "word": "diary",
+      "pos": "n.",
+      "meaning": "日记",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"diary\",\"pos\":\"n.\",\"meaning\":\"日记\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b0/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98",
+      "wordId": "dict:cancel",
+      "sourceId": "dict:cancel",
+      "word": "cancel",
+      "pos": "n.",
+      "meaning": "取消",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"cancel\",\"pos\":\"n.\",\"meaning\":\"取消\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/6d/6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d",
+      "wordId": "dict:dictionary",
+      "sourceId": "dict:dictionary",
+      "word": "dictionary",
+      "pos": "n.",
+      "meaning": "字典",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dictionary\",\"pos\":\"n.\",\"meaning\":\"字典\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/40/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017",
+      "wordId": "dict:fantastic",
+      "sourceId": "dict:fantastic",
+      "word": "fantastic",
+      "pos": "adj.",
+      "meaning": "奇妙的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"fantastic\",\"pos\":\"adj.\",\"meaning\":\"奇妙的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/94/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980",
+      "wordId": "dict:excite",
+      "sourceId": "dict:excite",
+      "word": "excite",
+      "pos": "v.",
+      "meaning": "刺激",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"excite\",\"pos\":\"v.\",\"meaning\":\"刺激\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/ef/ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31",
+      "wordId": "dict:dumpling",
+      "sourceId": "dict:dumpling",
+      "word": "dumpling",
+      "pos": "n.",
+      "meaning": "面团布丁",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dumpling\",\"pos\":\"n.\",\"meaning\":\"面团布丁\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/99/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa",
+      "wordId": "dict:minister",
+      "sourceId": "dict:minister",
+      "word": "minister",
+      "pos": "n.",
+      "meaning": "部长",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"minister\",\"pos\":\"n.\",\"meaning\":\"部长\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/75/758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231",
+      "wordId": "dict:account",
+      "sourceId": "dict:account",
+      "word": "account",
+      "pos": "n.",
+      "meaning": "报告",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"account\",\"pos\":\"n.\",\"meaning\":\"报告\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/24/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea",
+      "wordId": "dict:official",
+      "sourceId": "dict:official",
+      "word": "official",
+      "pos": "n.",
+      "meaning": "官员",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"official\",\"pos\":\"n.\",\"meaning\":\"官员\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/b3/b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea.webp",
+      "status": "pending"
+    },
+    {
+      "senseId": "28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8",
+      "wordId": "dict:amount",
+      "sourceId": "dict:amount",
+      "word": "amount",
+      "pos": "n.",
+      "meaning": "总数",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"amount\",\"pos\":\"n.\",\"meaning\":\"总数\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/28/28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8.webp",
+      "status": "pending"
+    }
+  ],
+  "candidates": [
+    {
+      "senseId": "bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3",
+      "wordId": "dict:shut",
+      "sourceId": "dict:shut",
+      "word": "shut",
+      "pos": "n.",
+      "meaning": "关闭",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"shut\",\"pos\":\"n.\",\"meaning\":\"关闭\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: Show the state of closure (noun 关闭): a solid wooden shop doorway fully shut, its sliding metal bolt firmly across into the frame and an engaged padlock, with no visible interior opening. The closed panel and securely latched gap dominate. Clear three-quarter close view. No person or written sign. This must read immediately as a closed entrance.",
+      "desiredAssetPath": "public/images/words/bb/bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-35c3d5d8-01d1-47b8-a02d-f60a14596270.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3.webp",
+      "candidateSha256": "8a33d94c8d0f8c7393802730c9e8a89ca3d48e7a605eba3a3280f3aadb312f81",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": true,
+        "reason": "实际640px图中门扇合拢，门闩和挂锁显示关闭状态，主体直接清楚，无文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:35:41.327655+00:00"
+      },
+      "generatedAt": "2026-10-28T02:34:45.456628+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "画面首先读作上锁的木门；词库标为 n./关闭，与动作/状态的词性映射不确定，保留复核，不将门锁当作已确认的当前义项。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "画面首先读作上锁的木门；词库标为 n./关闭，与动作/状态的词性映射不确定，保留复核，不将门锁当作已确认的当前义项。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "画面首先读作上锁的木门；词库标为 n./关闭，与动作/状态的词性映射不确定，保留复核，不将门锁当作已确认的当前义项。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "画面首先读作上锁的木门；词库标为 n./关闭，与动作/状态的词性映射不确定，保留复核，不将门锁当作已确认的当前义项。"
+    },
+    {
+      "senseId": "215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431",
+      "wordId": "dict:silver",
+      "sourceId": "dict:silver",
+      "word": "silver",
+      "pos": "n.",
+      "meaning": "银",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"silver\",\"pos\":\"n.\",\"meaning\":\"银\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A close still life of elemental silver: two lustrous cool-white silver bullion ingots, one small natural silver crystal cluster, and a plain silver teaspoon. Silvery white metal with soft grey reflections, not gold, not steel machinery. No engravings, stamps, hallmarks or letters.",
+      "desiredAssetPath": "public/images/words/21/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-efe9e667-456c-43bf-a3a2-5ff77675a908.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp",
+      "candidateSha256": "98c05821766385c321224a5ca6a98cb1fdf93d130df6c1f6d741ddd4c7b956eb",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "银白色金属锭和银餐匙直接表现银质材料。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:37:23.423319+00:00"
+      },
+      "generatedAt": "2026-10-28T02:36:14.353135+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "银白色金属锭、金属矿晶与银匙共同突出银这种材质，主体典型，未出现文字。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "银白色金属锭、金属矿晶与银匙共同突出银这种材质，主体典型，未出现文字。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/21/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp"
+    },
+    {
+      "senseId": "deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a",
+      "wordId": "dict:monitor",
+      "sourceId": "dict:monitor",
+      "word": "monitor",
+      "pos": "n.",
+      "meaning": "监督器",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"monitor\",\"pos\":\"n.\",\"meaning\":\"监督器\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: One baby-monitor set clearly working as a supervising device: small camera on a nursery shelf overlooking a sleeping infant in its cot; in foreground a parent holds its paired handheld display showing that exact cot and baby. No screen icons, letters or numbers. The supervision link must be obvious.",
+      "desiredAssetPath": "public/images/words/de/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-68271fae-9616-4ccb-85f3-289198eb8839.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
+      "candidateSha256": "c4cb17dc513342dc7f307d95a1b64543e0f000bc239bd255003d68c7b7e10484",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "摄像头与手持显示器呈现同一婴儿床，清楚表现监督器。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:37:23.423477+00:00"
+      },
+      "generatedAt": "2026-10-28T02:36:50.627323+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "摄像头监看婴儿床，手持接收屏显示同一婴儿，监督/监视设备的作用直接可见。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "摄像头监看婴儿床，手持接收屏显示同一婴儿，监督/监视设备的作用直接可见。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/de/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp"
+    },
+    {
+      "senseId": "353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b",
+      "wordId": "dict:flag",
+      "sourceId": "dict:flag",
+      "word": "flag",
+      "pos": "n.",
+      "meaning": "标志",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"flag\",\"pos\":\"n.\",\"meaning\":\"标志\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A fork in a woodland footpath with one plain arrow-shaped wooden marker on a post, the marker clearly pointing along the safe clear path. The identifying directional sign is the main subject. This is flag meaning 标志, not a cloth national flag. No writing or pictograms.",
+      "desiredAssetPath": "public/images/words/35/353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-6ee5badf-79cf-4a80-aff3-71e4c7027123.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b.webp",
+      "candidateSha256": "c95bfba9df065a3f53e913734dd97527bba838605eb990154ef3b7d0828d1102",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": true,
+        "reason": "岔路口箭头路标直接呈现标志。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:38:38.939679+00:00"
+      },
+      "generatedAt": "2026-10-28T02:37:57.879871+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "木制箭头首先表示路标/方向指示；无法仅看图建立英文 flag 与当前“标志”的对应，容易误学为 sign。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "木制箭头首先表示路标/方向指示；无法仅看图建立英文 flag 与当前“标志”的对应，容易误学为 sign。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "木制箭头首先表示路标/方向指示；无法仅看图建立英文 flag 与当前“标志”的对应，容易误学为 sign。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "木制箭头首先表示路标/方向指示；无法仅看图建立英文 flag 与当前“标志”的对应，容易误学为 sign。"
+    },
+    {
+      "senseId": "b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897",
+      "wordId": "dict:stranger",
+      "sourceId": "dict:stranger",
+      "word": "stranger",
+      "pos": "n.",
+      "meaning": "陌生人",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"stranger\",\"pos\":\"n.\",\"meaning\":\"陌生人\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: At the open door of a family home a resident looks cautiously puzzled at an unfamiliar visitor standing politely outside; the resident keeps a careful distance. The visitor is neither threatening nor familiar. This is an unknown stranger rather than friendship or a delivery. No packages, uniforms or text.",
+      "desiredAssetPath": "public/images/words/b1/b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-625a7364-bdce-40ad-a6ee-c3c0a06ef748.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897.webp",
+      "candidateSha256": "c4e57a4582c37d6b80bd48d6358bb5af6574e47bfb89b26fe44a1d8873806491",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": false,
+        "reason": "画面是门口来访者与疑惑住户，无法仅凭图确定双方陌生，仍可能是认识的访客。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:38:38.939881+00:00"
+      },
+      "generatedAt": "2026-10-28T02:38:18.546181+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "只见门口来客和开门者，无法判明彼此不相识，也可能是邻居或熟人来访。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "只见门口来客和开门者，无法判明彼此不相识，也可能是邻居或熟人来访。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "只见门口来客和开门者，无法判明彼此不相识，也可能是邻居或熟人来访。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "画面是门口来访者与疑惑住户，无法仅凭图确定双方陌生，仍可能是认识的访客。 | 只见门口来客和开门者，无法判明彼此不相识，也可能是邻居或熟人来访。"
+    },
+    {
+      "senseId": "b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042",
+      "wordId": "dict:diary",
+      "sourceId": "dict:diary",
+      "word": "diary",
+      "pos": "n.",
+      "meaning": "日记",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"diary\",\"pos\":\"n.\",\"meaning\":\"日记\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: An open personal diary notebook beside its small locking clasp and a pen, with a tiny pressed flower and small personal snapshot tucked into the pages. Blank unruled cream pages with no writing or date marks. An intimate private day-record book, not a textbook.",
+      "desiredAssetPath": "public/images/words/b0/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-f78a40ff-c4af-4221-b040-5f8b1655f4ce.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp",
+      "candidateSha256": "0d49992d0304a94353cdd2745b9ff6701c5d255bc20b0bc0933ac99898af0935",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "带锁的私人记事本、笔、夹入的个人照片和花朵共同呈现日记本，无文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:40:21.166231+00:00"
+      },
+      "generatedAt": "2026-10-28T02:39:12.845986+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "带私人小锁的笔记本、书写笔和夹藏的个人纪念花与照片，构成典型私人日记本。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "带私人小锁的笔记本、书写笔和夹藏的个人纪念花与照片，构成典型私人日记本。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/b0/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp"
+    },
+    {
+      "senseId": "6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98",
+      "wordId": "dict:cancel",
+      "sourceId": "dict:cancel",
+      "word": "cancel",
+      "pos": "n.",
+      "meaning": "取消",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"cancel\",\"pos\":\"n.\",\"meaning\":\"取消\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: Cancellation of a planned outdoor picnic: a person lifts the carefully laid picnic cloth and packs the still-unused plates back into the basket while heavy rain starts outside. Dejected expression and untouched food show the event being called off. No written schedule, cross marks or symbols.",
+      "desiredAssetPath": "public/images/words/6d/6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-bfd82802-0a0b-42b6-ac5b-a798eef9123d.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98.webp",
+      "candidateSha256": "69f73634c86d48fab4f57d50576b20be3581798926bcff4ad3e8197ff7e2ed19",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": false,
+        "reason": "雨中收拾野餐可表示活动结束或避雨，无法确定原计划被取消，精确义项不够清楚。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:40:21.166419+00:00"
+      },
+      "generatedAt": "2026-10-28T02:39:40.999160+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "雨中收拾野餐用品可读为野餐结束或躲雨，取消尚未进行的活动不明确，词库 n. 也存疑。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "雨中收拾野餐用品可读为野餐结束或躲雨，取消尚未进行的活动不明确，词库 n. 也存疑。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "雨中收拾野餐用品可读为野餐结束或躲雨，取消尚未进行的活动不明确，词库 n. 也存疑。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "雨中收拾野餐可表示活动结束或避雨，无法确定原计划被取消，精确义项不够清楚。 | 雨中收拾野餐用品可读为野餐结束或躲雨，取消尚未进行的活动不明确，词库 n. 也存疑。"
+    },
+    {
+      "senseId": "406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d",
+      "wordId": "dict:dictionary",
+      "sourceId": "dict:dictionary",
+      "word": "dictionary",
+      "pos": "n.",
+      "meaning": "字典",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dictionary\",\"pos\":\"n.\",\"meaning\":\"字典\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A thick dictionary book standing open, distinctive dense two-column pages and many small staggered thumb-index cutouts along the page edge, a reader uses a finger to look up an entry. Absolutely no visible letters or written marks: use faint nonlinguistic grey texture in the columns. Do not put DICTIONARY or any title on the book.",
+      "desiredAssetPath": "public/images/words/40/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-d30c47a5-f70c-4b81-8ebc-182bf7f230ad.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp",
+      "candidateSha256": "35ab67bceea21601167fc745dad01a7901f79478a8360c9dee4732e7fd55629d",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "厚书、两栏条目纹理和拇指索引切口明确呈现查阅字典；没有可读文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:42:05.084285+00:00"
+      },
+      "generatedAt": "2026-10-28T02:40:58.498080+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "厚书的多列密排条目、逐页边缘查找槽和查词手指共同表现词典查阅；灰色笔触无可读词语。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "厚书的多列密排条目、逐页边缘查找槽和查词手指共同表现词典查阅；灰色笔触无可读词语。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/40/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp"
+    },
+    {
+      "senseId": "949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017",
+      "wordId": "dict:fantastic",
+      "sourceId": "dict:fantastic",
+      "word": "fantastic",
+      "pos": "adj.",
+      "meaning": "奇妙的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"fantastic\",\"pos\":\"adj.\",\"meaning\":\"奇妙的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A child looks in wide-eyed wonder at an extraordinary but clear fantastical sight: a tiny fully formed glowing garden growing inside a transparent raindrop balanced on a leaf. Child and leaf in one close scene, wonder and the marvelous impossible miniature are dominant. No sparkles, text or decorative clutter.",
+      "desiredAssetPath": "public/images/words/94/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-1c7e98c0-3b4b-4e54-8d88-b033bd3c31bf.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "candidateSha256": "2a6d66489f8148e1c2e7799bbb77cee1690371ab6477372ca69ba2328f075efd",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "孩子惊奇地观看叶片水滴中完整的小花园，奇妙的属性直观，非仅装饰。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:42:05.084441+00:00"
+      },
+      "generatedAt": "2026-10-28T02:41:21.833069+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "叶上水滴容纳完整微型花园、女孩惊叹，奇妙而超现实的可见特征明确。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "叶上水滴容纳完整微型花园、女孩惊叹，奇妙而超现实的可见特征明确。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/94/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp"
+    },
+    {
+      "senseId": "ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980",
+      "wordId": "dict:excite",
+      "sourceId": "dict:excite",
+      "word": "excite",
+      "pos": "v.",
+      "meaning": "刺激",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"excite\",\"pos\":\"v.\",\"meaning\":\"刺激\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: An adult surprises a calm dog by tossing a bright ball into view; the dog visibly springs excitedly toward the ball, ears up, tail wagging, paws lifted. The sudden ball stimulus and the energetic response must both be clear. No motion lettering or comic symbols.",
+      "desiredAssetPath": "public/images/words/ef/ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-e9fd4306-4b14-40e1-b737-cb653cadcca3.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980.webp",
+      "candidateSha256": "be2bc49dc5957ccc79a0cbb1c9cefda454fc22ce6a3f602da9b3beac054d3f21",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": true,
+        "reason": "抛出的球与狗立刻兴奋跃起的反应共同体现刺激反应。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:43:43.555488+00:00"
+      },
+      "generatedAt": "2026-10-28T02:42:44.917120+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "人物抛球、狗跳跃追球，最直接读作玩耍/取物；刺激这一动词的精确义项不足以脱离提示词辨认。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "人物抛球、狗跳跃追球，最直接读作玩耍/取物；刺激这一动词的精确义项不足以脱离提示词辨认。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "人物抛球、狗跳跃追球，最直接读作玩耍/取物；刺激这一动词的精确义项不足以脱离提示词辨认。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "人物抛球、狗跳跃追球，最直接读作玩耍/取物；刺激这一动词的精确义项不足以脱离提示词辨认。"
+    },
+    {
+      "senseId": "994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31",
+      "wordId": "dict:dumpling",
+      "sourceId": "dict:dumpling",
+      "word": "dumpling",
+      "pos": "n.",
+      "meaning": "面团布丁",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dumpling\",\"pos\":\"n.\",\"meaning\":\"面团布丁\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A traditional boiled dough pudding dumpling: one round pale golden soft dough dumpling in a small ceramic bowl, a spoon cutting it open to expose a dense tender cooked dough interior, light custard pooling below. Specifically 面团布丁, no pleated Chinese jiaozi, no wonton, no meat or filling.",
+      "desiredAssetPath": "public/images/words/99/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-b38c3c71-c010-43cf-9088-49ed18467d18.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp",
+      "candidateSha256": "75f2945dd69f78e78b52982ba757e1a2ea584999063b0f40d1629fd1088fcf2c",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "碗中的蒸面团布丁切开显示柔软面团内部，配奶油汁，无饺子褶皮或馅料。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:43:43.555654+00:00"
+      },
+      "generatedAt": "2026-10-28T02:43:07.495531+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "碗中圆形面团布丁配酱汁，切开露出松软面团内里，明确对应面团布丁，未误画为中式饺子。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "碗中圆形面团布丁配酱汁，切开露出松软面团内里，明确对应面团布丁，未误画为中式饺子。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/99/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp"
+    },
+    {
+      "senseId": "758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa",
+      "wordId": "dict:minister",
+      "sourceId": "dict:minister",
+      "word": "minister",
+      "pos": "n.",
+      "meaning": "部长",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"minister\",\"pos\":\"n.\",\"meaning\":\"部长\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A government cabinet minister overseeing a public transport department: one formally dressed department head at the center of a meeting table, civil servants listening while the head points to a physical model of road and rail projects. Departmental authority through the scene, no national emblems, no writing, flags or placards.",
+      "desiredAssetPath": "public/images/words/75/758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-238ffb5e-1223-4898-80f0-1c84f643bfb0.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa.webp",
+      "candidateSha256": "6dd4800e93ddda00f813ca4839b68fa00e1fa54505863cccaff96d98899b15b4",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": false,
+        "reason": "画面仅能确认主持交通规划会议的人，无法区分部长与公司经理或工程师。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:45:20.565948+00:00"
+      },
+      "generatedAt": "2026-10-28T02:44:22.579809+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "围绕交通模型开会的主持者可为工程师或项目经理，没有可辨识的部长职务线索。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "围绕交通模型开会的主持者可为工程师或项目经理，没有可辨识的部长职务线索。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "围绕交通模型开会的主持者可为工程师或项目经理，没有可辨识的部长职务线索。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "画面仅能确认主持交通规划会议的人，无法区分部长与公司经理或工程师。 | 围绕交通模型开会的主持者可为工程师或项目经理，没有可辨识的部长职务线索。"
+    },
+    {
+      "senseId": "2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231",
+      "wordId": "dict:account",
+      "sourceId": "dict:account",
+      "word": "account",
+      "pos": "n.",
+      "meaning": "报告",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"account\",\"pos\":\"n.\",\"meaning\":\"报告\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A person stands at a small meeting table presenting a report to attentive colleagues, holding an open folder of organized pages with clear nonverbal miniature diagrams of the project progress. Report presentation is central, not teaching at a blackboard. No letters, digits or readable writing.",
+      "desiredAssetPath": "public/images/words/24/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-ce82dae8-0e34-402f-b7a9-1bab52dfd0cb.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp",
+      "candidateSha256": "5810745738c3c91bbfceff380d54d717a95773d9394d2afc4ce1bde29f4d68bd",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "向同事展示含项目进度图表的报告册，报告场景可直接识别，无文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:45:20.566107+00:00"
+      },
+      "generatedAt": "2026-10-28T02:44:45.598266+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "人物拿图表报告册向听众讲述，报告这一名词义项由文档与汇报场景共同支持。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "人物拿图表报告册向听众讲述，报告这一名词义项由文档与汇报场景共同支持。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/24/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp"
+    },
+    {
+      "senseId": "b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea",
+      "wordId": "dict:official",
+      "sourceId": "dict:official",
+      "word": "official",
+      "pos": "n.",
+      "meaning": "官员",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"official\",\"pos\":\"n.\",\"meaning\":\"官员\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A public official at a municipal service counter formally checks a residents application folder and hands back an official-looking sealed blank document. Formal office attire and organized public-service desk. No readable writing, lettering, digital screens or insignia. This is a government officer, not shop cashier.",
+      "desiredAssetPath": "public/images/words/b3/b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-1416804c-25b3-4c29-94e2-429352c14430.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea.webp",
+      "candidateSha256": "ffa56e0793730bf79a00afcadde057dd97d90050aac1d2992a7d579671ffd246",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": false,
+        "reason": "办公室柜台递交文件只表示文员或办事人员，政府官员身份无法从画面区分。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:48:16.263353+00:00"
+      },
+      "generatedAt": "2026-10-28T02:46:04.469078+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "办公桌后递文件的人也可为银行职员或文员，官员身份无法仅凭画面确认。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "办公桌后递文件的人也可为银行职员或文员，官员身份无法仅凭画面确认。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "办公桌后递文件的人也可为银行职员或文员，官员身份无法仅凭画面确认。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "办公室柜台递交文件只表示文员或办事人员，政府官员身份无法从画面区分。 | 办公桌后递文件的人也可为银行职员或文员，官员身份无法仅凭画面确认。"
+    },
+    {
+      "senseId": "28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8",
+      "wordId": "dict:amount",
+      "sourceId": "dict:amount",
+      "word": "amount",
+      "pos": "n.",
+      "meaning": "总数",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"amount\",\"pos\":\"n.\",\"meaning\":\"总数\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A close overhead view of several small bowls each holding a different handful of the same chestnuts, all being poured into one large central bowl to show the total combined amount. Hands tip the last bowl; all chestnuts visibly gathered into the single whole. No arithmetic signs, numerals, labels or arrows.",
+      "desiredAssetPath": "public/images/words/28/28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8.webp",
+      "status": "pending_visual_revision",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-dd0e0a32-16b9-4b19-8e83-090fede27614.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8.webp",
+      "candidateSha256": "59fb4c7951e582990edb57e3c9d5d924408abdfbecfb8f1ae8ae37b1ce29896b",
+      "reviewed": false,
+      "generatorReview": {
+        "passed": false,
+        "reason": "画面是倒栗子和汇集食物，总数的数量关系尚未清晰表达。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:48:16.263512+00:00"
+      },
+      "generatedAt": "2026-10-28T02:46:24.987652+00:00",
+      "independentReview": {
+        "passed": false,
+        "reason": "将栗子倒入大碗首先表示聚拢/倾倒，既无全部完成的关系也不能直接理解总数。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "rejectionReason": "将栗子倒入大碗首先表示聚拢/倾倒，既无全部完成的关系也不能直接理解总数。",
+      "finalVisualReview": {
+        "passed": false,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": false,
+          "reason": "将栗子倒入大碗首先表示聚拢/倾倒，既无全部完成的关系也不能直接理解总数。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "revisionReason": "画面是倒栗子和汇集食物，总数的数量关系尚未清晰表达。 | 将栗子倒入大碗首先表示聚拢/倾倒，既无全部完成的关系也不能直接理解总数。"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431",
+      "wordId": "dict:silver",
+      "sourceId": "dict:silver",
+      "word": "silver",
+      "pos": "n.",
+      "meaning": "银",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"silver\",\"pos\":\"n.\",\"meaning\":\"银\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A close still life of elemental silver: two lustrous cool-white silver bullion ingots, one small natural silver crystal cluster, and a plain silver teaspoon. Silvery white metal with soft grey reflections, not gold, not steel machinery. No engravings, stamps, hallmarks or letters.",
+      "desiredAssetPath": "public/images/words/21/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-efe9e667-456c-43bf-a3a2-5ff77675a908.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp",
+      "candidateSha256": "98c05821766385c321224a5ca6a98cb1fdf93d130df6c1f6d741ddd4c7b956eb",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "银白色金属锭和银餐匙直接表现银质材料。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:37:23.423319+00:00"
+      },
+      "generatedAt": "2026-10-28T02:36:14.353135+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "银白色金属锭、金属矿晶与银匙共同突出银这种材质，主体典型，未出现文字。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "银白色金属锭、金属矿晶与银匙共同突出银这种材质，主体典型，未出现文字。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/21/215f7e7561247176ecb341834ed89bd1b450d79c3c323c3cb666419380ffd431.webp",
+      "alt": "silver：银的词义插图"
+    },
+    {
+      "senseId": "deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a",
+      "wordId": "dict:monitor",
+      "sourceId": "dict:monitor",
+      "word": "monitor",
+      "pos": "n.",
+      "meaning": "监督器",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"monitor\",\"pos\":\"n.\",\"meaning\":\"监督器\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: One baby-monitor set clearly working as a supervising device: small camera on a nursery shelf overlooking a sleeping infant in its cot; in foreground a parent holds its paired handheld display showing that exact cot and baby. No screen icons, letters or numbers. The supervision link must be obvious.",
+      "desiredAssetPath": "public/images/words/de/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-68271fae-9616-4ccb-85f3-289198eb8839.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
+      "candidateSha256": "c4cb17dc513342dc7f307d95a1b64543e0f000bc239bd255003d68c7b7e10484",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "摄像头与手持显示器呈现同一婴儿床，清楚表现监督器。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:37:23.423477+00:00"
+      },
+      "generatedAt": "2026-10-28T02:36:50.627323+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "摄像头监看婴儿床，手持接收屏显示同一婴儿，监督/监视设备的作用直接可见。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "摄像头监看婴儿床，手持接收屏显示同一婴儿，监督/监视设备的作用直接可见。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/de/deef7799af7f0d48af82ce117c2cbfad3413538b30576807d69d858430a4bc5a.webp",
+      "alt": "monitor：监督器的词义插图"
+    },
+    {
+      "senseId": "b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042",
+      "wordId": "dict:diary",
+      "sourceId": "dict:diary",
+      "word": "diary",
+      "pos": "n.",
+      "meaning": "日记",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"diary\",\"pos\":\"n.\",\"meaning\":\"日记\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: An open personal diary notebook beside its small locking clasp and a pen, with a tiny pressed flower and small personal snapshot tucked into the pages. Blank unruled cream pages with no writing or date marks. An intimate private day-record book, not a textbook.",
+      "desiredAssetPath": "public/images/words/b0/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-f78a40ff-c4af-4221-b040-5f8b1655f4ce.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp",
+      "candidateSha256": "0d49992d0304a94353cdd2745b9ff6701c5d255bc20b0bc0933ac99898af0935",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "带锁的私人记事本、笔、夹入的个人照片和花朵共同呈现日记本，无文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:40:21.166231+00:00"
+      },
+      "generatedAt": "2026-10-28T02:39:12.845986+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "带私人小锁的笔记本、书写笔和夹藏的个人纪念花与照片，构成典型私人日记本。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "带私人小锁的笔记本、书写笔和夹藏的个人纪念花与照片，构成典型私人日记本。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/b0/b0364be563cd924d13bbe67e7681c926804a38a8cbc9b46058fd3fc5a6401042.webp",
+      "alt": "diary：日记的词义插图"
+    },
+    {
+      "senseId": "406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d",
+      "wordId": "dict:dictionary",
+      "sourceId": "dict:dictionary",
+      "word": "dictionary",
+      "pos": "n.",
+      "meaning": "字典",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dictionary\",\"pos\":\"n.\",\"meaning\":\"字典\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A thick dictionary book standing open, distinctive dense two-column pages and many small staggered thumb-index cutouts along the page edge, a reader uses a finger to look up an entry. Absolutely no visible letters or written marks: use faint nonlinguistic grey texture in the columns. Do not put DICTIONARY or any title on the book.",
+      "desiredAssetPath": "public/images/words/40/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-d30c47a5-f70c-4b81-8ebc-182bf7f230ad.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp",
+      "candidateSha256": "35ab67bceea21601167fc745dad01a7901f79478a8360c9dee4732e7fd55629d",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "厚书、两栏条目纹理和拇指索引切口明确呈现查阅字典；没有可读文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:42:05.084285+00:00"
+      },
+      "generatedAt": "2026-10-28T02:40:58.498080+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "厚书的多列密排条目、逐页边缘查找槽和查词手指共同表现词典查阅；灰色笔触无可读词语。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "厚书的多列密排条目、逐页边缘查找槽和查词手指共同表现词典查阅；灰色笔触无可读词语。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/40/406639b08715bfd3011475bdd52ac2afe4daa3fa4c4236dc6edcfdb52f89805d.webp",
+      "alt": "dictionary：字典的词义插图"
+    },
+    {
+      "senseId": "949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017",
+      "wordId": "dict:fantastic",
+      "sourceId": "dict:fantastic",
+      "word": "fantastic",
+      "pos": "adj.",
+      "meaning": "奇妙的",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"fantastic\",\"pos\":\"adj.\",\"meaning\":\"奇妙的\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A child looks in wide-eyed wonder at an extraordinary but clear fantastical sight: a tiny fully formed glowing garden growing inside a transparent raindrop balanced on a leaf. Child and leaf in one close scene, wonder and the marvelous impossible miniature are dominant. No sparkles, text or decorative clutter.",
+      "desiredAssetPath": "public/images/words/94/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-1c7e98c0-3b4b-4e54-8d88-b033bd3c31bf.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "candidateSha256": "2a6d66489f8148e1c2e7799bbb77cee1690371ab6477372ca69ba2328f075efd",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "孩子惊奇地观看叶片水滴中完整的小花园，奇妙的属性直观，非仅装饰。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:42:05.084441+00:00"
+      },
+      "generatedAt": "2026-10-28T02:41:21.833069+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "叶上水滴容纳完整微型花园、女孩惊叹，奇妙而超现实的可见特征明确。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "叶上水滴容纳完整微型花园、女孩惊叹，奇妙而超现实的可见特征明确。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/94/949dfd78914b83200bd1bafe91b29e87e1536cddb02588f50772959240038017.webp",
+      "alt": "fantastic：奇妙的的词义插图"
+    },
+    {
+      "senseId": "994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31",
+      "wordId": "dict:dumpling",
+      "sourceId": "dict:dumpling",
+      "word": "dumpling",
+      "pos": "n.",
+      "meaning": "面团布丁",
+      "stageId": "junior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"dumpling\",\"pos\":\"n.\",\"meaning\":\"面团布丁\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A traditional boiled dough pudding dumpling: one round pale golden soft dough dumpling in a small ceramic bowl, a spoon cutting it open to expose a dense tender cooked dough interior, light custard pooling below. Specifically 面团布丁, no pleated Chinese jiaozi, no wonton, no meat or filling.",
+      "desiredAssetPath": "public/images/words/99/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-b38c3c71-c010-43cf-9088-49ed18467d18.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp",
+      "candidateSha256": "75f2945dd69f78e78b52982ba757e1a2ea584999063b0f40d1629fd1088fcf2c",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "碗中的蒸面团布丁切开显示柔软面团内部，配奶油汁，无饺子褶皮或馅料。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:43:43.555654+00:00"
+      },
+      "generatedAt": "2026-10-28T02:43:07.495531+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "碗中圆形面团布丁配酱汁，切开露出松软面团内里，明确对应面团布丁，未误画为中式饺子。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "碗中圆形面团布丁配酱汁，切开露出松软面团内里，明确对应面团布丁，未误画为中式饺子。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/99/994d8870c366581be108fab9af0cfc2b00ce83d52cdaee67a5affb797042dd31.webp",
+      "alt": "dumpling：面团布丁的词义插图"
+    },
+    {
+      "senseId": "2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231",
+      "wordId": "dict:account",
+      "sourceId": "dict:account",
+      "word": "account",
+      "pos": "n.",
+      "meaning": "报告",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"account\",\"pos\":\"n.\",\"meaning\":\"报告\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene: A person stands at a small meeting table presenting a report to attentive colleagues, holding an open folder of organized pages with clear nonverbal miniature diagrams of the project progress. Report presentation is central, not teaching at a blackboard. No letters, digits or readable writing.",
+      "desiredAssetPath": "public/images/words/24/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp",
+      "status": "ready",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a18056-0b9e-7aa0-bf55-177fe0b2cf6e/exec-ce82dae8-0e34-402f-b7a9-1bab52dfd0cb.png",
+      "originalLocalPath": "output/imagegen/batch-20261028-023125/root/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.png",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp",
+      "candidateSha256": "5810745738c3c91bbfceff380d54d717a95773d9394d2afc4ce1bde29f4d68bd",
+      "reviewed": true,
+      "generatorReview": {
+        "passed": true,
+        "reason": "向同事展示含项目进度图表的报告册，报告场景可直接识别，无文字。",
+        "method": "Individually inspected actual optimized WebP via view_image; target known, image-only semantic test.",
+        "reviewedAt": "2026-10-28T02:45:20.566107+00:00"
+      },
+      "generatedAt": "2026-10-28T02:44:45.598266+00:00",
+      "independentReview": {
+        "passed": true,
+        "reason": "人物拿图表报告册向听众讲述，报告这一名词义项由文档与汇报场景共同支持。",
+        "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+        "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+      },
+      "finalVisualReview": {
+        "passed": true,
+        "reviewedAt": "2026-10-28T04:09:52.520770+00:00",
+        "recoveryRunId": "20261028-040431-recovery",
+        "method": "Fresh individual 640px review of exact word/POS/meaning and picture-only semantic clarity; target known, no blind-study claim. Original generator rejection is retained.",
+        "recoveryReview": {
+          "passed": true,
+          "reason": "人物拿图表报告册向听众讲述，报告这一名词义项由文档与汇报场景共同支持。",
+          "reviewedAt": "2026-10-28T04:06:29.053460+00:00",
+          "method": "Primary agent actually viewed each individual 640px candidate with view_image, with exact target mapping available; checked picture-only semantic readability. Not a blind study."
+        }
+      },
+      "savedPath": "public/images/words/24/2406b86aae2cf0e3b09d41d039647238f1a826d0edeb21a046b8e9360650f231.webp",
+      "alt": "account：报告的词义插图"
+    }
+  ],
+  "todo": [
+    {
+      "senseId": "bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3",
+      "word": "shut",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/bb7243a9ca7eba0a0289278d706727163e8caa9cd294fe0a321cc580e973b8b3.webp",
+      "reason": "画面首先读作上锁的木门；词库标为 n./关闭，与动作/状态的词性映射不确定，保留复核，不将门锁当作已确认的当前义项。"
+    },
+    {
+      "senseId": "353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b",
+      "word": "flag",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/353ba8b9f0b6b2b879c74b0d5d23004fa64459193dd46406922b97c06549ef8b.webp",
+      "reason": "木制箭头首先表示路标/方向指示；无法仅看图建立英文 flag 与当前“标志”的对应，容易误学为 sign。"
+    },
+    {
+      "senseId": "b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897",
+      "word": "stranger",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/b1c74cbd2fdb47946f2f7fc22ba2cc3d38776918ee91ad37d8acfa21ee2df897.webp",
+      "reason": "画面是门口来访者与疑惑住户，无法仅凭图确定双方陌生，仍可能是认识的访客。 | 只见门口来客和开门者，无法判明彼此不相识，也可能是邻居或熟人来访。"
+    },
+    {
+      "senseId": "6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98",
+      "word": "cancel",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/6d8ae0c566fad6ecf1220ab3806792a0e55d5f877d218626b67aa6877f573c98.webp",
+      "reason": "雨中收拾野餐可表示活动结束或避雨，无法确定原计划被取消，精确义项不够清楚。 | 雨中收拾野餐用品可读为野餐结束或躲雨，取消尚未进行的活动不明确，词库 n. 也存疑。"
+    },
+    {
+      "senseId": "ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980",
+      "word": "excite",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/ef2a802444ad2d24efa0f6b3e4f92dee8166a6c842e34dfe7a3b6f72bc232980.webp",
+      "reason": "人物抛球、狗跳跃追球，最直接读作玩耍/取物；刺激这一动词的精确义项不足以脱离提示词辨认。"
+    },
+    {
+      "senseId": "758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa",
+      "word": "minister",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/758e2b5de6f0401d4100a4b08ea3c920fb4a84fbcf11724b141fc10f5bf7ccaa.webp",
+      "reason": "画面仅能确认主持交通规划会议的人，无法区分部长与公司经理或工程师。 | 围绕交通模型开会的主持者可为工程师或项目经理，没有可辨识的部长职务线索。"
+    },
+    {
+      "senseId": "b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea",
+      "word": "official",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/b3dc088007ea053e50cf1fd60fceff823d9168b141c1a95f9f43b1d5c4f2ebea.webp",
+      "reason": "办公室柜台递交文件只表示文员或办事人员，政府官员身份无法从画面区分。 | 办公桌后递文件的人也可为银行职员或文员，官员身份无法仅凭画面确认。"
+    },
+    {
+      "senseId": "28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8",
+      "word": "amount",
+      "status": "pending_visual_revision",
+      "candidatePath": "output/imagegen/batch-20261028-023125/root/28b8843f4d0f0df540111baebe8a34a2f21613a8cda27f78bff7aa917d58eae8.webp",
+      "reason": "画面是倒栗子和汇集食物，总数的数量关系尚未清晰表达。 | 将栗子倒入大碗首先表示聚拢/倾倒，既无全部完成的关系也不能直接理解总数。"
+    }
+  ],
+  "updatedAt": "2026-10-28T04:09:52.520770+00:00",
+  "counts": {
+    "claimed": 15,
+    "generated": 15,
+    "approved": 7,
+    "deferred": 8
+  },
+  "recovery": {
+    "runId": "20261028-040431-recovery",
+    "threadId": "01a180ab-a262-7632-ab07-1c13872b86de",
+    "startedAt": "2026-10-28T04:04:31.478989+00:00",
+    "reviewReport": "output/imagegen/batch-20261028-023125/recovery/20261028-040431-recovery/root/review.json"
+  }
+}
