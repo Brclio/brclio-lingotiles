@@ -222,6 +222,10 @@ export class CompletionHistoryStore {
     return summarize(result.records, result.persisted);
   }
 
+  async records(): Promise<CompletionRecord[]> {
+    return (await this.all()).records;
+  }
+
   async exportCsv(): Promise<{ csv: string } & Persistence> {
     const { records, ...status } = await this.all();
     return { ...status, csv: completionsToCsv(records) };

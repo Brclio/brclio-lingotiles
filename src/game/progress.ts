@@ -72,7 +72,7 @@ function validDay(value: unknown): value is string {
   return Number.isFinite(parsed.getTime()) && parsed.toISOString().slice(0, 10) === value;
 }
 
-function cleanProgress(value: unknown): Progress {
+export function cleanProgress(value: unknown): Progress {
   const source = isRecord(value) ? value : {};
   const completed: Progress['completed'] = {};
   if (isRecord(source.completed)) {

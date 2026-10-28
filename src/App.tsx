@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState, type CSSProperties } from 'react';
-import { ArrowRight, BookOpen, Building2, Check, ChevronRight, CircleHelp, Coffee, Compass, Flame, GraduationCap, Heart, History, Layers3, Leaf, Lightbulb, LockKeyhole, Pause, Play, RotateCcw, ShieldCheck, Shuffle, Sparkles, Sprout, Star, Timer, Trophy, Undo2, Volume2, VolumeX, X } from 'lucide-react';
+import { ArrowRight, BookOpen, Building2, Check, ChevronRight, CircleHelp, Coffee, Compass, Flame, GraduationCap, Heart, History, Layers3, Leaf, Lightbulb, LockKeyhole, Pause, Play, RotateCcw, ShieldCheck, Shuffle, Sparkles, Sprout, Star, Timer, Trophy, Undo2, UserRound, Cloud, CloudOff, RefreshCw, Volume2, VolumeX, X } from 'lucide-react';
 import { LEVELS, type Word } from './data/vocabulary';
 import { createGame, getHint, isTileAvailable, selectTile, shuffleBoard, undoMove, type GameState, type Tile } from './game/engine';
 import CurriculumPicker from './components/CurriculumPicker';
@@ -9,16 +9,17 @@ import VictoryCelebration from './components/VictoryCelebration';
 import MatchFusion, { type FusionEvent } from './components/MatchFusion';
 import WordHarvest from './components/WordHarvest';
 import WordIllustration from './components/WordIllustration';
-import { loadMatchAnimation, saveMatchAnimation } from './game/preferences';
+import useAccount from './account/useAccount';
+import AccountDialog from './components/AccountDialog';
+import CardCollection from './components/CardCollection';
 import { getMatchedTiles } from './game/matchPresentation';
 import { getWordIllustration, loadIllustrationManifest, loadWordIllustrations, preloadWordIllustrations, recordIllustrationPractice } from './game/wordIllustrations';
 import type { IllustrationManifest } from './data/illustrationSchema';
-import { appendCompletion } from './game/history';
 import { loadCourseLevel, loadManifest, stageProfile, STAGE_PROFILES, type CourseLevel, type StageId, type VocabularyManifest } from './data/library';
-import { getCurrentStreak, loadProgress, markSeen, recordResult, saveProgress, toggleSaved } from './game/progress';
+import { getCurrentStreak, markSeen, recordResult, toggleSaved } from './game/progress';
 
 type Phase = 'ready' | 'memory' | 'playing' | 'result';
-type View = 'game' | 'notebook' | 'history';
+type View = 'game' | 'notebook' | 'history' | 'cards';
 type Dialog = 'rules' | 'leave' | null;
 const KIND_LABELS = { word: '单词', pos: '词性', meaning: '含义' };
 const POS_LABELS: Record<string, string> = { 'n.': '名词', 'v.': '动词', 'adj.': '形容词', 'adv.': '副词', 'pron.': '代词', 'prep.': '介词', 'conj.': '连词', 'num.': '数词', 'art.': '冠词', 'interj.': '感叹词' };
@@ -45,7 +46,14 @@ function TileFace({ tile }: { tile: Tile }) {
 }
 
 export default function App() {
-  const [progress, setProgress] = useState(loadProgress);
+  const account = useAccount();
+  const { progress } = account;
+  const setProgress = account.client.setProgress;
+  const appendCompletion = account.client.appendCompletion;
+  const matchAnimation = account.preferences.matchAnimation;
+  const setMatchAnimation = account.client.setMatchAnimation;
+  const storageAvailable = account.persisted;
+  const [accountOpen, setAccountOpen] = useState(false);
   const [view, setView] = useState<View>('game');
   const [levelIndex, setLevelIndex] = useState(0);
   const [mode, setMode] = useState<'theme' | 'curriculum'>('theme');
@@ -69,13 +77,11 @@ export default function App() {
   const [hinted, setHinted] = useState<string[]>([]);
   const [lastMatched, setLastMatched] = useState<Word | null>(null);
   const [sound, setSound] = useState(false);
-  const [matchAnimation, setMatchAnimation] = useState(loadMatchAnimation);
   const [fusion, setFusion] = useState<FusionEvent | null>(null);
   const fusionRef = useRef<FusionEvent | null>(null);
   const harvestTargetRef = useRef<HTMLDivElement>(null);
   const [toast, setToast] = useState('');
   const [dialog, setDialog] = useState<Dialog>(null);
-  const [storageAvailable, setStorageAvailable] = useState(true);
   const [runId, setRunId] = useState('');
   const activeRunId = useRef('');
   const [historyRevision, setHistoryRevision] = useState(0);
@@ -113,7 +119,6 @@ export default function App() {
     const enabled = !matchAnimation;
     setMatchAnimation(enabled);
     if (!enabled) clearFusion();
-    if (!saveMatchAnimation(enabled)) notify('本次动画设置已生效，但浏览器未能保存，刷新后可能恢复默认。');
   };
 
   useEffect(() => { loadManifest().then(setManifest).catch(() => {}); }, []);
@@ -123,8 +128,18 @@ export default function App() {
   }, [view, level.words]);
 
   useEffect(() => {
-    setStorageAvailable(saveProgress(progress));
-  }, [progress]);
+    clearFusion(); setPhase('ready'); setGame(null); setPaused(false);
+    activeRunId.current = ''; resultSaved.current = false;
+  }, [account.scope, clearFusion]);
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const failure = params.get('authError');
+    if (failure) { notify(failure); setAccountOpen(true); }
+    if (failure || params.has('auth')) {
+      params.delete('authError'); params.delete('auth');
+      window.history.replaceState({}, '', window.location.pathname + (params.size ? `?${params}` : '') + window.location.hash);
+    }
+  }, [notify]);
   useEffect(() => () => { if (toastTimer.current) clearTimeout(toastTimer.current); }, []);
 
   const speak = useCallback((text: string) => {
@@ -248,6 +263,7 @@ export default function App() {
   }, [dialog]);
 
   const startMemory = () => {
+    if (!account.ready) return;
     if (mode === 'curriculum' && (!courseLevel || courseLoading)) return;
     clearFusion();
     const id = crypto.randomUUID();
@@ -325,6 +341,7 @@ export default function App() {
         illustrationStorageWarned.current = true;
         notify('待配图词单暂时只保存在本页，可在收获区展开后导出备份。');
       }
+      account.client.collect(word, runId);
       setLastMatched(word);
       if (sound) speak(word.word);
     }
@@ -375,13 +392,19 @@ export default function App() {
         <button className={`nav-button ${view === 'game' ? 'active' : ''}`} aria-current={view === 'game' ? 'page' : undefined} onClick={() => goView('game')}><Layers3 size={16} />闯关练习</button>
         <button className={`nav-button ${view === 'notebook' ? 'active' : ''}`} aria-current={view === 'notebook' ? 'page' : undefined} onClick={() => goView('notebook')}><BookOpen size={16} />单词本</button>
         <button className={`nav-button ${view === 'history' ? 'active' : ''}`} aria-current={view === 'history' ? 'page' : undefined} onClick={() => goView('history')}><History size={16} />通关足迹</button>
+        <button className={`nav-button ${view === 'cards' ? 'active' : ''}`} aria-current={view === 'cards' ? 'page' : undefined} onClick={() => goView('cards')}><Layers3 size={16} />词卡册</button>
         <button className="nav-button rules-nav" onClick={() => setDialog('rules')}><CircleHelp size={16} />玩法说明</button>
       </nav>
-      <div className="header-right"><span className="streak"><Flame size={16} />{currentStreak > 0 ? `连续 ${currentStreak} 天` : '每天一点进步'}</span><button className="icon-button" aria-label={sound ? '关闭消除朗读' : '开启消除朗读'} aria-pressed={sound} title={sound ? '消除时自动朗读：已开启' : '消除时自动朗读：已关闭'} onClick={() => { setSound(!sound); if (sound && 'speechSynthesis' in window) window.speechSynthesis.cancel(); notify(sound ? '已关闭消除时的自动朗读。' : '已开启消除时的自动朗读。'); }}>{sound ? <Volume2 size={17} /> : <VolumeX size={17} />}</button></div>
+      <div className="header-right"><button className="account-trigger" disabled={!account.ready} onClick={() => guardNavigation(() => { clearFusion(); setPhase('ready'); setGame(null); setAccountOpen(true); })}><UserRound size={16} /><span>{!account.ready ? '连接账号…' : account.user?.name || '登录 / 注册'}</span></button><span className="streak"><Flame size={16} />{currentStreak > 0 ? `连续 ${currentStreak} 天` : '每天一点进步'}</span><button className="icon-button" aria-label={sound ? '关闭消除朗读' : '开启消除朗读'} aria-pressed={sound} title={sound ? '消除时自动朗读：已开启' : '消除时自动朗读：已关闭'} onClick={() => { setSound(!sound); if (sound && 'speechSynthesis' in window) window.speechSynthesis.cancel(); notify(sound ? '已关闭消除时的自动朗读。' : '已开启消除时的自动朗读。'); }}>{sound ? <Volume2 size={17} /> : <VolumeX size={17} />}</button></div>
     </header>
 
     <main className="workspace">
-      {view === 'history' ? <HistoryPanel refreshKey={historyRevision} legacySessions={progress.sessions} onBack={() => goView('game')} /> : view === 'notebook' ? <VocabularyNotebook progress={progress} onSave={id => setProgress(current => toggleSaved(current, id))} speak={speak} /> : <>
+      {account.notice && <p className="account-change-notice" role="status">{account.notice}</p>}
+      <div className={`account-strip ${account.status === 'error' && account.user ? 'is-error' : ''}`} role="status">
+        <span>{account.user ? account.status === 'synced' ? <Cloud size={15} /> : <CloudOff size={15} /> : <ShieldCheck size={15} />}{!account.ready ? '正在确认账号状态…' : account.user ? account.status === 'synced' ? '已登录 · 学习数据已同步' : account.status === 'syncing' ? '正在同步收藏、词卡与学习记录…' : account.status === 'error' ? `同步暂未完成：${account.error} 本机记录保留，恢复连接后可重试。` : '学习数据已保存在本机，等待同步' : '游客模式 · 收藏、词卡与记录保存在这台设备'}</span>
+        {account.user ? <button className="text-button" disabled={account.status === 'syncing'} onClick={() => void account.client.sync()}><RefreshCw size={13} />立即同步</button> : <button className="text-button" disabled={!account.ready} onClick={() => guardNavigation(() => { clearFusion(); setPhase('ready'); setGame(null); setAccountOpen(true); })}>登录，跨设备继续<ArrowRight size={13} /></button>}
+      </div>
+      {view === 'history' ? <HistoryPanel key={account.scope} store={account.history} cloud={!!account.user} refreshKey={historyRevision + account.historyRevision} legacySessions={progress.sessions} onBack={() => goView('game')} /> : view === 'cards' ? <CardCollection key={account.scope} cards={account.cards} saved={progress.saved} onSave={id => setProgress(current => toggleSaved(current, id))} speak={speak} onBack={() => goView('game')} /> : view === 'notebook' ? <VocabularyNotebook progress={progress} onSave={id => setProgress(current => toggleSaved(current, id))} speak={speak} /> : <>
         <div className="page-heading"><div><h1>{phase === 'ready' ? '玩一小局，记住一点新世界。' : phase === 'memory' ? '先记住，让单词在脑海里碰个面。' : phase === 'playing' ? '把刚刚记住的，连在一起。' : won ? '你又收获了一小片新世界。' : '没关系，再给记忆一次机会。'}</h1><p>{phase === 'ready' ? '先记忆，再消除。让每一次配对，都成为一次真正的记住。' : phase === 'memory' ? '这一关的所有单词都在这里。倒计时结束后，自动进入消除。' : phase === 'playing' ? '单词 + 对应词性 + 中文含义，三张一组，顺序不限。' : won ? '回顾一下刚刚学到的单词，再出发。' : '记住已经完成的配对，剩下的慢慢来。'}</p></div><span className="date-note"><Sprout size={16} />小小积累，也会生长</span></div>
         <div className="learning-options"><div className="learning-mode" aria-label="选择关卡模式"><button className={mode === 'theme' ? 'active' : ''} aria-pressed={mode === 'theme'} onClick={() => chooseLevel(levelIndex)}><Sprout size={16} />经典主题<span>保留原 6 关</span></button><button className={mode === 'curriculum' ? 'active' : ''} aria-pressed={mode === 'curriculum'} onClick={() => chooseCourse(courseStage, courseRound)}><GraduationCap size={17} />分级闯关<span>小学 → 大学 · 10 万词</span></button></div><div className="fusion-setting"><div className="fusion-setting-copy"><strong><Sparkles size={14} />配对合成动画</strong><p id="fusion-setting-description">三牌合成后飞入收获区 · 展示不计入用时</p></div><button type="button" role="switch" className="fusion-toggle" aria-label="配对合成动画" aria-checked={matchAnimation} aria-describedby="fusion-setting-description" onClick={toggleMatchAnimation}><span className="fusion-switch-track" aria-hidden="true"><span /></span><span aria-hidden="true">{matchAnimation ? '开启' : '关闭'}</span></button></div></div>
         {phase === 'ready' && pictureCoverage && <p className="illustration-coverage">词义配图：已内置 <strong>{pictureCoverage.ready.toLocaleString('zh-CN')}</strong> / {pictureCoverage.total.toLocaleString('zh-CN')} 词<span>待补齐 {pictureCoverage.pending.toLocaleString('zh-CN')} 词</span></p>}
@@ -406,7 +429,7 @@ export default function App() {
           </section>
 
           <aside className="side-column" aria-label="本轮控制台">
-            {phase === 'ready' && <div className="side-panel ready-controls"><div className="side-eyebrow"><Sprout size={14} />{mode === 'theme' ? `第 ${level.id} 关 · 经典主题` : `${stageProfile(courseStage).title} · 第 ${courseRound} 关`}</div><h2>一场小小的记忆挑战</h2><p className="side-description">先给自己一点时间记住词表，<br />再让它们在棋盘上重逢。</p><div className="round-facts"><div><strong>{level.words.length}<small>个</small></strong><label>本关单词</label></div><div><strong>{level.words.length * 3}<small>张</small></strong><label>待消除卡牌</label></div></div><div className="duration-picker"><div className="duration-label"><Timer size={13} />记忆时长</div><div className="segmented" aria-label="选择记忆时长">{(mode === 'theme' ? [30, 60, 90] : [level.memorySeconds, level.memorySeconds + 30, level.memorySeconds + 60]).map(duration => <button key={duration} className={memoryDuration === duration ? 'active' : ''} aria-pressed={memoryDuration === duration} onClick={() => setMemoryDuration(duration)}>{duration} 秒</button>)}</div></div><div className="start-group"><button className="primary-button full-width start-button" onClick={startMemory}>开始记忆<ArrowRight size={16} /></button><p className="subnote">点击后才开始计时，准备好了再出发</p></div></div>}
+            {phase === 'ready' && <div className="side-panel ready-controls"><div className="side-eyebrow"><Sprout size={14} />{mode === 'theme' ? `第 ${level.id} 关 · 经典主题` : `${stageProfile(courseStage).title} · 第 ${courseRound} 关`}</div><h2>一场小小的记忆挑战</h2><p className="side-description">先给自己一点时间记住词表，<br />再让它们在棋盘上重逢。</p><div className="round-facts"><div><strong>{level.words.length}<small>个</small></strong><label>本关单词</label></div><div><strong>{level.words.length * 3}<small>张</small></strong><label>待消除卡牌</label></div></div><div className="duration-picker"><div className="duration-label"><Timer size={13} />记忆时长</div><div className="segmented" aria-label="选择记忆时长">{(mode === 'theme' ? [30, 60, 90] : [level.memorySeconds, level.memorySeconds + 30, level.memorySeconds + 60]).map(duration => <button key={duration} className={memoryDuration === duration ? 'active' : ''} aria-pressed={memoryDuration === duration} onClick={() => setMemoryDuration(duration)}>{duration} 秒</button>)}</div></div><div className="start-group"><button className="primary-button full-width start-button" disabled={!account.ready} onClick={startMemory}>开始记忆<ArrowRight size={16} /></button><p className="subnote">点击后才开始计时，准备好了再出发</p></div></div>}
             {phase === 'memory' && <div className="side-panel memory-controls"><div className="side-eyebrow"><Timer size={14} />先记忆 · 再消除</div><h2>给记忆一点时间</h2><div className={`timer ${remaining <= 10 ? 'urgent' : ''}`} role="timer" aria-label={`记忆剩余 ${remaining} 秒`}><strong>{remaining}</strong><span>秒后进入消除</span></div><p className="memory-tip">把单词放进一幅画面里。<br /><strong>词性也是配对的一部分。</strong></p><button className="primary-button full-width start-button" onClick={startPlaying}>记好了，开始消除<ArrowRight size={16} /></button><p className="subnote">还没记全也没关系，结束后可以再复习</p></div>}
             {phase === 'playing' && game && <div className="side-panel play-controls"><div className="side-eyebrow"><Layers3 size={14} />回忆正在发生</div><h2>{paused ? '稍作休息' : '慢慢来，配对就好'}</h2><div className="score-row"><div><label>本轮积分</label><div><strong>{score}</strong></div></div><div><label>游戏用时</label><div><strong className="time-value">{formatTime(elapsed)}</strong></div></div></div><div className="progress-section"><div className="progress-label"><span>已记住</span><span>{matchCount} / {level.words.length}</span></div><div className="progress-bar" role="progressbar" aria-label="配对进度" aria-valuenow={matchCount} aria-valuemin={0} aria-valuemax={level.words.length}><span style={{ transform: `scaleX(${matchCount / level.words.length})` }} /></div></div><div className="match-feedback" aria-live="polite">{lastMatched ? <><div className="matched-line"><Check size={14} /><strong lang="en">{lastMatched.word}</strong></div><span>{lastMatched.pos} {lastMatched.meaning} · 配对成功 +100</span></> : <span>找到三张对应的牌，<br />收获今天的第一个单词。</span>}</div><div className="tool-row"><button className="tool-button" disabled={paused || !!fusion || game.status !== 'playing' || !game.undo || toolsLeft.undo === 0} onClick={() => useTool('undo')} aria-label={`撤回，剩余 ${toolsLeft.undo} 次`}><Undo2 size={20} /><span>撤回</span><small>{toolsLeft.undo}</small></button><button className="tool-button" disabled={paused || !!fusion || game.status !== 'playing' || toolsLeft.hint === 0} onClick={() => useTool('hint')} aria-label={`提示，剩余 ${toolsLeft.hint} 次`}><Lightbulb size={20} /><span>提示</span><small>{toolsLeft.hint}</small></button><button className="tool-button" disabled={paused || !!fusion || game.status !== 'playing' || toolsLeft.shuffle === 0} onClick={() => useTool('shuffle')} aria-label={`洗牌，剩余 ${toolsLeft.shuffle} 次`}><Shuffle size={20} /><span>洗牌</span><small>{toolsLeft.shuffle}</small></button></div>{fusion && <p className="fusion-reading-note">{game.status === 'won' ? '收好最后一张词卡，就完成本关。' : '看清这一组配对，收好后继续。'} 展示不计入用时。</p>}<div className="round-actions"><button className="text-button" onClick={togglePause}>{paused ? <Play size={13} /> : <Pause size={13} />}{paused ? '继续游戏' : '暂停一下'}</button><button className="text-button" onClick={() => guardNavigation(startMemory)}><RotateCcw size={13} />重新记忆</button></div></div>}
             {phase === 'result' && <div className="side-panel"><div className="side-eyebrow">{won ? <ShieldCheck size={14} /> : <Leaf size={14} />}{won ? historySaveState === 'saved' ? '本次通关已记录' : historySaveState === 'saving' ? '正在保存通关足迹…' : '本次记录仅保留在本页' : '每一局都在积累'}</div><h2>这一次的收获</h2><div className="round-facts"><div><strong>{score}</strong><label>本轮积分</label></div><div><strong style={{ fontSize: 26 }}>{formatTime(elapsed)}</strong><label>游戏用时</label></div></div><p className="help-text">{won ? assistCount === 0 ? '没有使用道具，独立完成所有配对。三颗星，送给专注的你。' : `使用了 ${assistCount} 次辅助。可以再练一遍，试着独立完成。` : '优先凑齐暂存槽中已有的单词。相同词性的牌可以通用，别让零散的牌占满空位。'}</p><button className="text-button full-width" style={{ marginTop: 12 }} onClick={() => goView('history')}><History size={15} />查看每次通关的用时<ChevronRight size={14} /></button><button className="text-button full-width" style={{ marginTop: 5 }} onClick={() => goView('notebook')}><BookOpen size={15} />去单词本听一听、看一看<ChevronRight size={14} /></button></div>}
@@ -419,11 +442,12 @@ export default function App() {
       </>}
     </main>
 
-    <footer className="app-footer"><div className="footer-left">Made with <Heart size={11} className="heart" /> by <a href="https://brclio.com" target="_blank" rel="noreferrer">Brclio</a><span>· 让学习多一点好玩</span></div><span>{storageAvailable ? '收藏与关卡最佳成绩保存在当前浏览器 · 无需登录' : '学习进度暂未保存 · 刷新可能丢失'}</span></footer>
+    <footer className="app-footer"><div className="footer-left">Made with <Heart size={11} className="heart" /> by <a href="https://brclio.com" target="_blank" rel="noreferrer">Brclio</a><span>· 让学习多一点好玩</span></div><span>{storageAvailable ? account.user ? '账号数据自动同步 · 本机保留离线副本' : '游客记录保存在当前浏览器 · 登录可同步' : '学习进度暂未保存 · 刷新可能丢失'}</span></footer>
     <div className="sr-only" aria-live="polite">{phase === 'memory' && remaining === 10 ? '还剩 10 秒记忆时间' : phase === 'playing' ? '消除阶段已开始' : phase === 'result' ? won ? '恭喜通关' : '暂存槽已满，可以撤回或重试' : ''}</div>
     {hasWordHarvest && <WordHarvest key={runId} words={harvestedWords} total={level.words.length} targetRef={harvestTargetRef} />}
     {fusion && matchAnimation && view === 'game' && <MatchFusion key={fusion.id} event={fusion} targetRef={harvestTargetRef} paused={paused || !!dialog} onComplete={finishFusion} />}
     {phase === 'result' && won && view === 'game' && <VictoryCelebration runId={runId} stars={stars} />}
+    {accountOpen && <AccountDialog account={account} onClose={() => setAccountOpen(false)} />}
     {toast && <div className="toast" role="status">{toast}</div>}
     <dialog ref={modalRef} onCancel={() => setDialog(null)} onClick={event => { if (event.target === event.currentTarget) setDialog(null); }} aria-labelledby="dialog-title"><div className="dialog-content"><div className="dialog-top"><h2 id="dialog-title">{dialog === 'rules' ? '小小三张牌，大大新世界。' : '离开这一局？'}</h2><button className="icon-button" aria-label="关闭对话框" onClick={() => setDialog(null)}><X size={18} /></button></div>{dialog === 'rules' ? <><ol className="rule-list"><li><span className="rule-number">1</span><div><h3>先记住整关词表</h3><p>选择 30、60 或 90 秒记忆时间。开始后可看到本关所有单词、词性和含义，也可以点击喇叭听发音。时间到自动进入游戏，记好了也可以提前开始。</p></div></li><li><span className="rule-number">2</span><div><h3>把三个部分配成一组</h3><p>点击未被遮住的牌放入暂存槽。一个单词、它的词性、对应的中文含义凑齐后自动消除，点击顺序不限。可开启「配对合成动画」，先看清英文、词性、中文组成的完整词卡，再收入本关收获区；默认关闭，展示时间不计入游戏用时。</p><div className="rule-example"><span>apple</span>+<span>n.</span>+<span>苹果</span>=<Check size={16} /></div><p style={{ marginTop: 8 }}>相同词性和相同中文含义的牌都可通用：任何一张 n. 都能配名词。n. 名词 · v. 动词 · adj. 形容词 · adv. 副词。</p></div></li><li><span className="rule-number">3</span><div><h3>留意你的 7 个空位</h3><p>暂存槽有 7 格，装满且无法消除时本局结束。可以撤回最后一张未消除的牌。洗牌只改变棋盘，槽中的牌不会被移走。</p></div></li><li><span className="rule-number">4</span><div><h3>收获星星，也收获单词</h3><p>分级模式从小学到大学逐步增加词汇难度、每关词数和记忆强度。主题模式保留原有六关。每次通关都会单独记录用时，可在「通关足迹」查看和导出。每配对一组得 100 分；每次撤回、提示或洗牌扣 30 分。无辅助通关得 3 星，使用 1–2 次得 2 星，更多得 1 星。消除阶段不限时，星级不看速度。</p></div></li></ol><button className="primary-button full-width" onClick={() => setDialog(null)}>明白了，去试试<ArrowRight size={16} /></button></> : <><p className="help-text">当前棋盘和计时不会保留。已经完成的关卡、收藏和学习记录会保留。</p><div className="result-actions" style={{ marginTop: 24 }}><button className="secondary-button" onClick={() => setDialog(null)}>继续这一局</button><button className="primary-button" onClick={() => { setDialog(null); if ('speechSynthesis' in window) window.speechSynthesis.cancel(); pendingAction.current?.(); pendingAction.current = null; }}>离开并继续</button></div></>}</div></dialog>
   </div>;

@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react';
 import { ArrowLeft, ChevronLeft, ChevronRight, Download, History, Timer, Trophy } from 'lucide-react';
-import { exportCompletionsCsv, getCompletionPage, getCompletionSummary, type CompletionPage, type CompletionSummary } from '../game/history';
+import { exportCompletionsCsv, getCompletionPage, getCompletionSummary, type CompletionPage, type CompletionSummary, type CompletionHistoryStore } from '../game/history';
 import './history.css';
 
-type Props = { refreshKey: number; legacySessions: number; onBack: () => void };
+type Props = { store?: CompletionHistoryStore; cloud?: boolean; refreshKey: number; legacySessions: number; onBack: () => void };
 const PAGE_SIZE = 12;
 
 function duration(seconds: number): string {
@@ -16,7 +16,7 @@ function dateTime(value: string): string {
   return new Date(value).toLocaleString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false });
 }
 
-export default function HistoryPanel({ refreshKey, legacySessions, onBack }: Props) {
+export default function HistoryPanel({ store, cloud = false, refreshKey, legacySessions, onBack }: Props) {
   const [page, setPage] = useState(1);
   const [results, setResults] = useState<CompletionPage | null>(null);
   const [summary, setSummary] = useState<CompletionSummary | null>(null);
@@ -27,7 +27,7 @@ export default function HistoryPanel({ refreshKey, legacySessions, onBack }: Pro
   useEffect(() => {
     let cancelled = false;
     setLoading(true);
-    Promise.all([getCompletionPage({ page, pageSize: PAGE_SIZE }), getCompletionSummary()])
+    Promise.all([store ? store.page({ page, pageSize: PAGE_SIZE }) : getCompletionPage({ page, pageSize: PAGE_SIZE }), store ? store.summary() : getCompletionSummary()])
       .then(([nextResults, nextSummary]) => {
         if (cancelled) return;
         setResults(nextResults);
@@ -37,12 +37,12 @@ export default function HistoryPanel({ refreshKey, legacySessions, onBack }: Pro
       .catch(() => { if (!cancelled) setNotice('暂时无法读取通关记录，请稍后重新打开本页。'); })
       .finally(() => { if (!cancelled) setLoading(false); });
     return () => { cancelled = true; };
-  }, [page, refreshKey]);
+  }, [page, refreshKey, store]);
 
   const exportCsv = async () => {
     setExporting(true);
     try {
-      const result = await exportCompletionsCsv();
+      const result = await (store ? store.exportCsv() : exportCompletionsCsv());
       const blob = new Blob([result.csv], { type: 'text/csv;charset=utf-8;' });
       const url = URL.createObjectURL(blob);
       const anchor = document.createElement('a');
@@ -88,6 +88,6 @@ export default function HistoryPanel({ refreshKey, legacySessions, onBack }: Pro
       </table>
     </div> : <div className="empty-state history-empty"><History size={36} strokeWidth={1.3} /><h2>第一条足迹，从下一关开始</h2><p>成功通关后，记忆用时、消除用时和成绩会出现在这里。</p><button className="history-button" onClick={onBack}>开始一次挑战<ChevronRight size={16} /></button></div>}
     {!!results?.total && <div className="history-pagination" aria-label="通关记录分页"><p>共 {results.total} 条 · 第 {page} / {pages} 页</p><div><button className="history-button" disabled={page <= 1 || loading} onClick={() => setPage(current => current - 1)}><ChevronLeft size={16} />上一页</button><button className="history-button" disabled={page >= pages || loading} onClick={() => setPage(current => current + 1)}>下一页<ChevronRight size={16} /></button></div></div>}
-    <p className="history-footnote">{results?.persisted === false || summary?.persisted === false ? '部分记录目前仅临时保存在本页，刷新或关闭页面后可能丢失，请先导出 CSV 备份。' : results ? '记录保存在当前浏览器。清除网站数据会移除记录，可通过 CSV 留存完整足迹。' : '正在读取本地记录，可通过 CSV 备份已保存的通关足迹。'}不同关卡的单词数量和难度不同，用时仅作学习参考。</p>
+    <p className="history-footnote">{results?.persisted === false || summary?.persisted === false ? '部分记录目前仅临时保存在本页，刷新或关闭页面后可能丢失，请先导出 CSV 备份。' : results ? cloud ? '当前账号的通关足迹保留在本机并参与云端同步，可通过 CSV 留存完整足迹。' : '记录保存在当前浏览器。清除网站数据会移除记录，可通过 CSV 留存完整足迹。' : '正在读取本地记录，可通过 CSV 备份已保存的通关足迹。'}不同关卡的单词数量和难度不同，用时仅作学习参考。</p>
   </section>;
 }

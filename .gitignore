@@ -4,3 +4,11 @@ dist/
 .DS_Store
 output/
 .playwright-cli/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vercel/
+.wrangler/
+.dev.vars*

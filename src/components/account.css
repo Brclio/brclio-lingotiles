@@ -1,0 +1,64 @@
+/* Brclio app-template components, © Brclio, CC BY-NC-SA 4.0. */
+.account-trigger { display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); padding: 9px 12px; font-size: 12px; color: var(--blue); white-space: nowrap; }
+.account-trigger:hover { background: var(--blue-soft); }
+.account-trigger span { max-width: 100px; overflow: hidden; text-overflow: ellipsis; }
+.account-strip { margin: 0 0 22px; padding: 10px 14px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 18px; color: var(--muted); background: var(--surface); border: 1px solid var(--line); border-radius: 9px; font-size: 12px; }
+.account-strip > span { display: flex; gap: 8px; align-items: center; }
+.account-strip.is-error { background: #fff6e8; color: #765217; }
+.account-strip .text-button { font-size: 12px; }
+.account-dialog { width: min(470px, calc(100% - 28px)); max-height: min(90dvh, 850px); }
+.account-dialog .dialog-content { padding: clamp(22px, 4vw, 34px); }
+.account-dialog h2 { font-family: Georgia, 'Noto Serif SC', 'Songti SC', serif; font-size: 25px; line-height: 1.45; text-align: left; }
+.account-eyebrow { display: flex; align-items: center; gap: 7px; color: var(--green); font-size: 12px; }
+.account-description { color: var(--muted); font-size: 13px; line-height: 1.8; margin-top: 12px; }
+.account-tabs { display: flex; gap: 20px; border-bottom: 1px solid var(--line); margin: 22px 0; }
+.account-tabs button { border: 0; border-bottom: 2px solid transparent; padding: 8px 3px; background: transparent; color: var(--muted); font-size: 14px; }
+.account-tabs button.active { color: var(--blue); border-bottom-color: var(--blue); font-weight: 600; }
+.account-form { display: flex; flex-direction: column; gap: 17px; }
+.account-form label { display: flex; flex-direction: column; gap: 7px; font-size: 13px; font-weight: 600; }
+.account-form input { width: 100%; color: var(--ink); background: var(--surface); border: 1px solid #cbd1c7; border-radius: 7px; padding: 11px 12px; font-weight: 400; font-size: 14px; }
+.account-form input:focus { border-color: var(--blue); }
+.account-form .primary-button { margin-top: 4px; }
+.account-error { color: #a12e3b; background: #fff0ec; border-radius: 6px; padding: 10px 12px; line-height: 1.6; font-size: 13px; margin: 10px 0; }
+.account-divider { display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: 11px; margin: 18px 0; }
+.account-divider::before, .account-divider::after { content: ''; height: 1px; flex: 1; background: var(--line); }
+.google-login { display: flex; justify-content: center; align-items: center; gap: 11px; padding: 11px; border: 1px solid #cbd1c7; border-radius: 7px; text-decoration: none; background: var(--surface); font-size: 14px; }
+.google-login:hover { background: var(--blue-soft); }
+.google-login.disabled { color: var(--muted); cursor: default; background: #f5f3ec; }
+.google-mark { font-size: 18px; color: var(--blue); font-weight: 700; }
+.account-google-note, .account-privacy { color: var(--muted); font-size: 11px; margin-top: 12px; line-height: 1.7; }
+.account-privacy { display: flex; gap: 7px; align-items: flex-start; margin-top: 20px; }
+.account-email { color: var(--muted); font-size: 13px; margin: 6px 0 22px; overflow-wrap: anywhere; }
+.account-stats { display: grid; grid-template-columns: repeat(3, 1fr); padding: 18px 0; border-block: 1px solid var(--line); gap: 8px; margin-bottom: 22px; }
+.account-stats > div { display: flex; flex-direction: column; gap: 4px; }
+.account-stats strong { color: var(--green); font-size: 25px; font-family: Georgia, serif; }
+.account-stats span { font-size: 11px; color: var(--muted); }
+.account-sync-detail { display: flex; gap: 10px; margin-bottom: 16px; color: var(--green); }
+.account-sync-detail strong { font-size: 13px; }
+.account-sync-detail p { font-size: 12px; color: var(--muted); line-height: 1.7; margin-top: 4px; }
+.account-import { margin-top: 25px; padding-top: 20px; border-top: 1px solid var(--line); }
+.account-import h3 { font-size: 14px; }
+.account-import p { margin: 7px 0 12px; font-size: 12px; color: var(--muted); line-height: 1.75; }
+.account-logout { margin-top: 24px; color: var(--red); }
+.collection-toolbar { display: flex; justify-content: space-between; gap: 20px; align-items: center; border-block: 1px solid var(--line); padding: 16px 0; margin-bottom: 24px; }
+.collection-toolbar > p { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: 13px; color: var(--green); }
+.collection-toolbar p span { color: var(--muted); font-size: 11px; }
+.collection-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+.collection-card { border: 1px solid var(--line); border-radius: 12px; padding: clamp(18px, 2.2vw, 26px); background: var(--surface); min-width: 0; }
+.collection-image { width: 100%; height: 160px; margin-bottom: 18px; object-fit: contain; }
+.collection-card-heading { display: flex; align-items: center; gap: 7px; }
+.collection-card-heading h2 { font-family: Georgia, 'Noto Serif SC', serif; font-size: 27px; overflow-wrap: anywhere; }
+.collection-card-heading .save-button { margin-left: auto; }
+.collection-meaning { display: flex; align-items: flex-start; gap: 8px; margin: 10px 0 0; font-size: 14px; }
+.collection-example { margin-top: 14px; font-size: 12px; color: var(--muted); line-height: 1.7; }
+.collection-card-date { border-top: 1px solid var(--line); margin-top: 18px; padding-top: 12px; font-size: 10px; color: var(--muted); }
+@media (max-width: 1280px) { .app-header { flex-wrap: wrap; gap: 8px; height: auto; padding-bottom: 12px; } .main-nav { order: 3; width: 100%; justify-content: flex-start; } .header-right { margin-left: auto; } }
+@media (max-width: 900px) { .collection-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .collection-toolbar { flex-direction: column; align-items: stretch; gap: 14px; } .collection-toolbar .search-box input { width: 100%; } }
+@media (max-width: 600px) { .account-strip { font-size: 11px; margin-bottom: 18px; } .main-nav { gap: 18px; overflow-x: auto; padding-bottom: 2px; } .main-nav .nav-button { white-space: nowrap; flex-shrink: 0; } .collection-grid { grid-template-columns: 1fr; gap: 14px; } .collection-image { height: 180px; } .account-trigger { padding: 7px 9px; font-size: 11px; } .account-trigger span { max-width: 76px; } }
+@media (max-width: 600px) {
+  .collection .page-heading { flex-direction: column; align-items: stretch; gap: 16px; }
+  .collection .page-heading h1 { font-size: 24px; }
+  .collection .page-heading > .secondary-button { align-self: flex-start; white-space: nowrap; }
+}
+
+.account-change-notice { margin: 0 0 14px; padding: 12px 14px; background: #fff6e8; border-radius: 8px; color: #765217; font-size: 12px; line-height: 1.75; }

@@ -4,15 +4,23 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host 127.0.0.1",
+    "dev": "node scripts/dev.mjs",
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "test": "node --test src/game/*.test.ts",
+    "test": "node --test src/game/*.test.ts server/*.test.mjs",
     "illustrations:plan": "node scripts/illustration-catalog.mjs",
     "illustrations:sync": "node scripts/sync-illustrations.mjs",
-    "illustrations:check": "node scripts/illustration-catalog.mjs --check && node scripts/sync-illustrations.mjs --check"
+    "illustrations:check": "node scripts/illustration-catalog.mjs --check && node scripts/sync-illustrations.mjs --check",
+    "dev:client": "vite --host 127.0.0.1",
+    "dev:server": "node --env-file-if-exists=.env --watch server/index.mjs",
+    "start": "node --env-file-if-exists=.env server/index.mjs",
+    "data:sync": "node --env-file-if-exists=.env scripts/sync-program-data.mjs",
+    "data:init": "node --env-file-if-exists=.env scripts/init-data-repos.mjs",
+    "data:check": "node --env-file-if-exists=.env scripts/init-data-repos.mjs --check",
+    "deploy": "npm run build && npx wrangler pages deploy dist --project-name brclio-lingotiles --branch main"
   },
   "dependencies": {
+    "jose": "^6.2.13",
     "lucide-react": "^0.468.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"

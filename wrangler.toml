@@ -1,0 +1,17 @@
+# Cloudflare Pages: public assets in dist; /api/* handled by Pages Functions.
+# Replace name only if the existing Cloudflare project has another verified name.
+name = "brclio-lingotiles"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-28"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+APP_ORIGIN = "https://lingo.brclio.com"
+GITHUB_APP_ID = "5506935"
+GITHUB_APP_CLIENT_ID = "Iv23liuSlQBY4hKFPGFD"
+GITHUB_DATA_OWNER = "BrclioData"
+GITHUB_PROGRAM_REPO = "Brclio-LingoTiles-Data"
+GITHUB_USER_REPO = "Brclio-LingoTiles-UserData"
+GITHUB_DATA_BRANCH = "main"
+# Add GITHUB_APP_PRIVATE_KEY and SESSION_SECRET as encrypted Pages secrets.
+# Add GOOGLE_CLIENT_ID + GOOGLE_CLIENT_SECRET to enable Google sign-in.
