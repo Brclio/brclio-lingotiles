@@ -1,0 +1,103 @@
+{
+  "runId": "20261101-101737-recovery",
+  "threadId": "01a19699-3f5e-7a12-8fb3-c2381ca009f3",
+  "parentBatch": "20261031-125604",
+  "batchPath": "output/imagegen/batch-20261031-125604/recovery-undertake",
+  "group": "recovery-undertake",
+  "mode": "built-in image_gen",
+  "tool": "image_gen",
+  "startedAt": "2026-11-01T10:20:59.158419+00:00",
+  "updatedAt": "2026-11-01T11:00:46.203349+00:00",
+  "status": "verified_partial_ready_for_publication",
+  "claimed": [
+    {
+      "senseId": "dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf",
+      "wordId": "dict:undertake",
+      "sourceId": "dict:undertake",
+      "word": "undertake",
+      "pos": "v.",
+      "meaning": "试图",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"undertake\",\"pos\":\"v.\",\"meaning\":\"试图\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.",
+      "desiredAssetPath": "public/images/words/db/dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf.webp",
+      "status": "pending"
+    }
+  ],
+  "assets": [
+    {
+      "senseId": "dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf",
+      "wordId": "dict:undertake",
+      "sourceId": "dict:undertake",
+      "word": "undertake",
+      "pos": "v.",
+      "meaning": "试图",
+      "stageId": "senior",
+      "curated": false,
+      "prompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"undertake\",\"pos\":\"v.\",\"meaning\":\"试图\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene for this independent asset: One young child is trying but not succeeding to lift a very heavy wooden storage box from a plain floor. In a clear side view, the child grips the two handles tightly with both hands, knees bent and torso leaning back with visible effort, cheeks puffed, brows determined. The box stays firmly flat on the floor; the arms pull taut against it. This must show an attempted action whose goal has not been achieved, rather than a child carrying or successfully lifting a box. No celebration, no other people, no symbols, no motion arrows. Focus only on the child’s visibly effortful attempt and the unmoved box in one coherent scene.\nOne coherent square image, legible at160 pixels, no collage, no panels, no typography. The picture itself must convey the exact sense without needing the word or definition.",
+      "desiredAssetPath": "public/images/words/db/dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf.webp",
+      "status": "reviewed_integrated",
+      "source": "/Users/huangjiabao/.codex/generated_images/01a1969e-19f6-75d0-bef2-3b9e8fb615e0/exec-bd8b3cb7-33ce-4ab8-b443-1097417af108.png",
+      "originalLocalPath": "output/imagegen/batch-20261031-125604/recovery-undertake/dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf.png",
+      "candidatePath": "output/imagegen/batch-20261031-125604/recovery-undertake/dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf.webp",
+      "reviewed": true,
+      "generatedAt": "2026-11-01T10:22:02.459872+00:00",
+      "candidateSha256": "fd981aa16a51cacd79c5e8f537ca14516d20bef12e3c8bc33067aa03aad9d391",
+      "candidateBytes": 50366,
+      "generatorReview": {
+        "passed": true,
+        "observed": "一个孩子双手握住巨大木箱侧面把手，屈膝后仰，手臂紧绷、面部明显用力；木箱仍完全贴在地面，没有成功抬起。无文字、符号或无关元素。",
+        "reason": "孩子为搬动木箱而用力，目标尚未实现，能具体呈现试图做某事；单幅也可能先被读作费力或重，需父代理独立检查是否足以支持当前 v.试图。",
+        "visualInspection": true,
+        "exactSenseChecked": true,
+        "smallCardReadable": true,
+        "method": "Actually viewed both original1254pxPNG and optimized640pxWebP individually; image-first interpretation with target text mentally hidden, then exact word/POS/meaning checked. Not a blinded experiment.",
+        "reviewer": "recover_undertake",
+        "reviewedAt": "2026-11-01T10:30:17.474924+00:00"
+      },
+      "crossReview": {
+        "passed": true,
+        "observed": "孩子屈膝后仰，双手紧抓木箱把手，手臂和表情明显用力；箱子仍完整贴地。",
+        "reason": "搬动目标尚未实现、持续施力的具体动作共同呈现试图搬动，未出现成功结果；符合当前v.试图。",
+        "visualInspection": true,
+        "exactSenseChecked": true,
+        "smallCardReadable": true,
+        "reviewer": "root",
+        "reviewedAt": "2026-11-01T10:46:54.694566+00:00",
+        "method": "Actual optimized640WebP viewed individually; image-first target-aware semantic review, not blinded."
+      },
+      "savedPath": "public/images/words/db/dbaf4f92361c35849fae3abefa9b749a73e516c5ef210b7e43bd877d0500a7cf.webp",
+      "sha256": "fd981aa16a51cacd79c5e8f537ca14516d20bef12e3c8bc33067aa03aad9d391",
+      "bytes": 50366,
+      "integratedAt": "2026-11-01T10:46:54.694566+00:00"
+    }
+  ],
+  "candidates": [],
+  "generationFailures": [],
+  "todo": [
+    "Parent commit, push and remote verification"
+  ],
+  "pendingPrompt": "Use case: scientific-educational\nAsset type: one square illustration for an English vocabulary memory card.\nExact target sense: {\"word\":\"undertake\",\"pos\":\"v.\",\"meaning\":\"试图\"}.\nPrimary request: depict only this part of speech and Chinese meaning, never another sense of the spelling.\nSubject: a recognizable object for a concrete noun; an unmistakable action for a verb; a specific visible property for an adjective. For abstract meanings and function words, use a concrete, neutral everyday vignette that demonstrates the precise relationship or concept. Do not substitute a generic decorative picture. If the supplied sense cannot be represented accurately, flag it for human review before generation.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered within the middle 70 percent, generous empty space, fully visible and legible on a small card. Soft daylight, natural muted green, blue and coral as appropriate.\nConstraints: no letters, numbers, written labels, logos, watermarks, borders or card UI; no unrelated objects; no generic stock icon.\nSpecific scene for this independent asset: One young child is trying but not succeeding to lift a very heavy wooden storage box from a plain floor. In a clear side view, the child grips the two handles tightly with both hands, knees bent and torso leaning back with visible effort, cheeks puffed, brows determined. The box stays firmly flat on the floor; the arms pull taut against it. This must show an attempted action whose goal has not been achieved, rather than a child carrying or successfully lifting a box. No celebration, no other people, no symbols, no motion arrows. Focus only on the child’s visibly effortful attempt and the unmoved box in one coherent scene.\nOne coherent square image, legible at160 pixels, no collage, no panels, no typography. The picture itself must convey the exact sense without needing the word or definition.",
+  "summary": {
+    "claimed": 1,
+    "generated": 1,
+    "accepted": 1,
+    "deferred": 0
+  },
+  "recoveryRunId": "20261101-101737-recovery",
+  "validation": {
+    "catalogTotal": 100000,
+    "ready": 1668,
+    "pending": 98332,
+    "metadataIssues": 0,
+    "testsPassed": 132,
+    "buildPassed": true,
+    "runtimeExactClaims": 60,
+    "runtimeAcceptedMatches": 36,
+    "runtimeDeferredExcluded": 24,
+    "HTTPHashChecks": 293,
+    "indexedImagesDecodedAndUnique": 1668,
+    "verifiedAt": "2026-11-01T11:00:46.203349+00:00",
+    "localReportPath": "output/imagegen/batch-20261031-125604/recovery-final-audit.json"
+  }
+}
