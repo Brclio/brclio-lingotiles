@@ -641,11 +641,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: automotive / adj. / 汽车的. Depict this exact part of speech and meaning only.\nScene: A car mechanic fitting an automotive wheel onto a passenger car with its hood open in a simple garage. The car, exposed car engine and a matching spare wheel form one coherent scene. Clear familiar car-specific mechanical components, no aircraft or generic machinery. Emphasize belonging to cars through the car and its parts, with the mechanic secondary.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/cb/cb676d7aa48bae5e8083eb1624abe40a763c20e4326b2e3eb3f1e885fb87f747.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/7.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/7.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-root.json",
+      "recoveredSavedPath": "public/images/words/cb/cb676d7aa48bae5e8083eb1624abe40a763c20e4326b2e3eb3f1e885fb87f747.webp",
+      "recoveredSha256": "9d3b0f19ca3b21ecdc3ea48c5a5eaf97177ffc4fdac3f204c4b24b188856bb0b"
     },
     {
       "senseId": "42e2133e8fbf1df5e99f6d5c12586cdec085daa23cd8ea7908678670b4798d5f",
@@ -662,7 +666,13 @@
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/8.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/8.txt",
+      "recoveryAttempt": {
+        "runId": "20261117-004553",
+        "status": "saved_pending_visual_revision",
+        "candidatePath": "output/imagegen/batch-20261117-004553/a/42e2133e8fbf1df5e99f6d5c12586cdec085daa23cd8ea7908678670b4798d5f.webp",
+        "reason": "实看640px主要读成房屋与粉刷外墙动作；外部这一精确概念缺少内外对照或明确强调，遮住释义容易只认成房子，保留待修订。"
+      }
     },
     {
       "senseId": "926af8ce04ff3ea1b76aaccd205068631820d725fa505eb5c2339a3ab101d323",
@@ -675,11 +685,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: veer / v. / 转向. Depict this exact part of speech and meaning only.\nScene: A cyclist on a clear path suddenly swerves to the left to avoid a large fallen branch blocking the straight route. The bicycle leans into the turn, rider visibly steers left, and a single curved tire track behind shows the change from straight travel to a new direction. Show one cyclist and one bicycle only, one coherent moment; no arrows, no duplicate figures, no text.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/92/926af8ce04ff3ea1b76aaccd205068631820d725fa505eb5c2339a3ab101d323.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/9.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/9.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-b.json",
+      "recoveredSavedPath": "public/images/words/92/926af8ce04ff3ea1b76aaccd205068631820d725fa505eb5c2339a3ab101d323.webp",
+      "recoveredSha256": "f659ae74645c2fcc36c26adb247f4b0281403d66e5b978b039be1454be0bdf87"
     },
     {
       "senseId": "379d80ffc22abda1e52c66391ec8b95e26e687c1a3030568d98b5fc9fea12c42",
@@ -692,11 +706,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: turbulent / adj. / 狂暴的. Depict this exact part of speech and meaning only.\nScene: A violent windstorm over the sea: powerful chaotic steep waves crash and churn, white foam sprays upward, storm wind bends a small coastal tree sharply and dark storm clouds swirl above. No serene water or people. The scene must visibly convey a fierce turbulent violent condition through forceful motion and rough water, not merely grey weather.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/37/379d80ffc22abda1e52c66391ec8b95e26e687c1a3030568d98b5fc9fea12c42.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/10.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/10.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-c.json",
+      "recoveredSavedPath": "public/images/words/37/379d80ffc22abda1e52c66391ec8b95e26e687c1a3030568d98b5fc9fea12c42.webp",
+      "recoveredSha256": "38927ccd58e6dec54e96352e994fa95899a85971d6f6e99905f6d15b40faa46e"
     },
     {
       "senseId": "ae0da050b6782c85725caf71defe8004f5b3916c212778bbc648d8b84302eed9",
@@ -709,11 +727,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: refreshing / adj. / 使清爽的. Depict this exact part of speech and meaning only.\nScene: A hot tired hiker pauses beside a clear spring and splashes cool fresh water onto their face with cupped hands. Fresh droplets sparkle, the face shows a relieved revitalized smile, eyes gently closed, shoulders relaxing; an empty sunlit path and a few leaves behind. Make the cool refreshing effect of water on a sweaty overheated person explicit, one coherent scene.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/ae/ae0da050b6782c85725caf71defe8004f5b3916c212778bbc648d8b84302eed9.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/11.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/11.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-root.json",
+      "recoveredSavedPath": "public/images/words/ae/ae0da050b6782c85725caf71defe8004f5b3916c212778bbc648d8b84302eed9.webp",
+      "recoveredSha256": "deaa84d13330b3119ed938e1d7f7f3c13c11bd89c27b73f023faf4ed506583c2"
     },
     {
       "senseId": "e8666adc36ba6d35fdc5a9b39749bde13c09171b32419ae03718d4de66b48fa6",
@@ -726,11 +748,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: ailment / n. / 病痛. Depict this exact part of speech and meaning only.\nScene: A person sitting on a sofa in pajamas feels unwell, with one hand holding an aching stomach and the other pressing a tissue to a runny nose. Face pale and uncomfortable, brow furrowed, shoulders hunched. A small glass of water and plain medicine bottle without writing sits nearby. Everyday minor illness and bodily discomfort, not injury or severe emergency.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/e8/e8666adc36ba6d35fdc5a9b39749bde13c09171b32419ae03718d4de66b48fa6.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/12.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/12.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-a.json",
+      "recoveredSavedPath": "public/images/words/e8/e8666adc36ba6d35fdc5a9b39749bde13c09171b32419ae03718d4de66b48fa6.webp",
+      "recoveredSha256": "b4a179c397271886603a5f4d6d1056604cee7e048c3b863279238fd2cd105be5"
     },
     {
       "senseId": "d1a28925ed1e957cc91094a61e5822886ceb916d98ef335aa81bf4c6c0514704",
@@ -743,11 +769,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: bonnet / n. / 软帽. Depict this exact part of speech and meaning only.\nScene: A single traditional soft cloth bonnet in three-quarter view on a simple head-shaped wooden millinery stand. The bonnet has a soft rounded fabric crown, gently gathered ruffled brim framing the face, and two broad cloth ties hanging down to tie under the chin. Muted cream and coral fabric. Clearly a soft bonnet, not a rigid helmet, peaked cap or car hood.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/d1/d1a28925ed1e957cc91094a61e5822886ceb916d98ef335aa81bf4c6c0514704.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/13.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/13.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-b.json",
+      "recoveredSavedPath": "public/images/words/d1/d1a28925ed1e957cc91094a61e5822886ceb916d98ef335aa81bf4c6c0514704.webp",
+      "recoveredSha256": "ca32639b6f59e7f31371d87f74bb1926dc33eb6868f9390bf2ef049b6935e184"
     },
     {
       "senseId": "cd1920a59d72437407160e2eeb2bfd76d2f7538e21c4c9ab0d776dbe159cb3a3",
@@ -760,11 +790,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one independent square English vocabulary illustration.\nExact target sense: gunfire / n. / 炮火. Depict this exact part of speech and meaning only.\nScene: Two field artillery cannons on a distant empty rocky battlefield firing together, large bright orange muzzle flashes and expanding pale smoke clouds erupt directly from the cannon barrels. The cannon wheels and long barrels are plainly recognizable; visible recoil and dust convey the burst of artillery fire. No injured people, no soldiers, no text, no flags or insignia. Focus on the fire being discharged, not a static weapon display.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper. Soft daylight except where the scene requires storm or muzzle-flash lighting. Natural muted green, blue and coral.\nComposition: one coherent centered scene in the middle 70 percent, generous empty margins, clear silhouettes and readable at small vocabulary-card size.\nConstraints: no letters, words, digits, labels, logos, watermark, borders or card UI. No explanatory text. No contact sheet or collage. Convey the precise meaning through visible subjects, actions and identifying features alone.\n",
       "desiredAssetPath": "public/images/words/cd/cd1920a59d72437407160e2eeb2bfd76d2f7538e21c4c9ab0d776dbe159cb3a3.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/14.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/a/prompts/14.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-c.json",
+      "recoveredSavedPath": "public/images/words/cd/cd1920a59d72437407160e2eeb2bfd76d2f7538e21c4c9ab0d776dbe159cb3a3.webp",
+      "recoveredSha256": "e8a1c28376e80f2472d36249a89d64b33e47aa667c9825679eed29649afd30d5"
     }
   ]
 }

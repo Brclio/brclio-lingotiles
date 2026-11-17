@@ -595,7 +595,7 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"draught\", \"pos\": \"n.\", \"meaning\": \"气流\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: An open window on one side of a quiet room sends a visible gentle stream of moving air through it: lightweight curtains billow inward, several loose blank sheets lift and flutter in the same direction, and a light hanging ribbon is blown sideways. The shared directional movement clearly shows an air current, no fan or person.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/d0/d0547e04203143ab251266197b6e566912d48a29bdb2018ea3a13a25dfc0b8cf.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": true,
@@ -606,7 +606,11 @@
         "error": "内置imagegen失败：image generation failed: network error: error sending request；未重试，未切换CLI/API。",
         "reviewed": false
       },
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/5.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/5.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-root.json",
+      "recoveredSavedPath": "public/images/words/d0/d0547e04203143ab251266197b6e566912d48a29bdb2018ea3a13a25dfc0b8cf.webp",
+      "recoveredSha256": "663251629542b96e9f8f1fe5ff8aa6039ef3b57458b23716a8cbe885092bb111"
     },
     {
       "senseId": "15543bc67f3b8c54ab0be70d46c4aa1ebab46d6798c1d57ef017a490716f774b",
@@ -619,11 +623,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"subside\", \"pos\": \"v.\", \"meaning\": \"沉淀\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A clear glass jar of muddy water standing undisturbed: the lower region contains a thick brown sediment layer, a few visible particles descend toward that layer, and the upper water is becoming transparent. A second fainter moment to the left can show freshly mixed cloudy water, but the main large jar is the focus. Depict physical sediment settling to the bottom, not sinking ships or receding water. No arrows, text, numbers or labels.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/15/15543bc67f3b8c54ab0be70d46c4aa1ebab46d6798c1d57ef017a490716f774b.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/6.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/6.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-a.json",
+      "recoveredSavedPath": "public/images/words/15/15543bc67f3b8c54ab0be70d46c4aa1ebab46d6798c1d57ef017a490716f774b.webp",
+      "recoveredSha256": "5c463bda1f10672f9099ae712016625164b1432a681129a3640cf717d964d836"
     },
     {
       "senseId": "3d90338fa78afe5f85d6aa0113c7d2885d737213c57e4401362f74b6fe9900d2",
@@ -636,11 +644,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"putt\", \"pos\": \"v.\", \"meaning\": \"击球入洞\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A golfer on a putting green making a very short controlled stroke with a flat putter, sending a golf ball into a nearby round golf hole. The ball is at the rim tipping into the dark cup, the putter head close behind along its path. Low close angle emphasizes putter, ball and hole; golfer lower body visible. No long swing, no distant driving range, no text or numbered flag.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/3d/3d90338fa78afe5f85d6aa0113c7d2885d737213c57e4401362f74b6fe9900d2.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/7.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/7.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-b.json",
+      "recoveredSavedPath": "public/images/words/3d/3d90338fa78afe5f85d6aa0113c7d2885d737213c57e4401362f74b6fe9900d2.webp",
+      "recoveredSha256": "b6e9452c6a63fdd2f7d27ea55197ae8c3792012667b743099fbaa6ab15e44150"
     },
     {
       "senseId": "9f4f77a170291fd432cf4cc192f3f980831341da400de0d95f3518ab4e164971",
@@ -653,11 +665,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"vomit\", \"pos\": \"v.\", \"meaning\": \"吐出\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A sick adult bent forward over a basin, eyes squeezed shut, one hand on abdomen, the other on basin rim, visibly expelling a small simple greenish stream from the mouth into the basin. Gentle educational depiction, non-graphic, no blood or splatter; focus on unmistakable vomiting action and posture. Plain bathroom setting, no text.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/9f/9f4f77a170291fd432cf4cc192f3f980831341da400de0d95f3518ab4e164971.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/8.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/8.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-c.json",
+      "recoveredSavedPath": "public/images/words/9f/9f4f77a170291fd432cf4cc192f3f980831341da400de0d95f3518ab4e164971.webp",
+      "recoveredSha256": "c3056004e023c2f462bdd1ae9bd64a811422569e91314f3d310a13737bee11ac"
     },
     {
       "senseId": "0ba87bafbddd046e487da5da8cf63e88528349055f23663e70f317d2933e673e",
@@ -670,11 +686,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"sag\", \"pos\": \"v.\", \"meaning\": \"下垂\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A laundry clothesline stretched between two fixed posts, hanging down deeply in the middle under the weight of several damp towels. Both ends remain high and taut, the center distinctly droops in a broad U-shape. Show the downward sag itself clearly in a simple uncluttered garden scene. No people, text or arrows.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/0b/0ba87bafbddd046e487da5da8cf63e88528349055f23663e70f317d2933e673e.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/9.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/9.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-root.json",
+      "recoveredSavedPath": "public/images/words/0b/0ba87bafbddd046e487da5da8cf63e88528349055f23663e70f317d2933e673e.webp",
+      "recoveredSha256": "a5df0833016d82e5fbb327ca4e50c48719844a397ab92e01ff32a0c5752c239a"
     },
     {
       "senseId": "360c96c075cebe01c31d4e2ba24909c5b67c1fcecb0d650c80d6db94425c4f99",
@@ -687,11 +707,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"immaculate\", \"pos\": \"adj.\", \"meaning\": \"无污点的\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A pristine freshly washed plain white shirt hanging centered in bright soft daylight, fabric immaculate with absolutely no spots or stains. A small laundry basket below holds a visibly mud-stained beige work shirt as a natural contrast. The crisp flawless white shirt dominates the image and should read as completely spotless, not just a shirt advertisement. No labels or text.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/36/360c96c075cebe01c31d4e2ba24909c5b67c1fcecb0d650c80d6db94425c4f99.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/10.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/10.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-a.json",
+      "recoveredSavedPath": "public/images/words/36/360c96c075cebe01c31d4e2ba24909c5b67c1fcecb0d650c80d6db94425c4f99.webp",
+      "recoveredSha256": "5c47e7ad23ff77aa0a924a5f339af209b3c20ff64be74e161af9095b2119af90"
     },
     {
       "senseId": "a08be51d6bedf5cc1deaf1dc11d3d236174bd9e336ba9ab004da1e919536d368",
@@ -704,11 +728,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"rift\", \"pos\": \"n.\", \"meaning\": \"裂口\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A close view of a broad deep jagged fissure splitting a dry rocky ground surface into two sides, with a dark visible opening between the rough torn edges. A few small pebbles along its edge show scale. The crack is the only main subject, seen obliquely so the empty gap is obvious. No earthquake destruction, people, labels or text.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/a0/a08be51d6bedf5cc1deaf1dc11d3d236174bd9e336ba9ab004da1e919536d368.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/11.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/11.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-b.json",
+      "recoveredSavedPath": "public/images/words/a0/a08be51d6bedf5cc1deaf1dc11d3d236174bd9e336ba9ab004da1e919536d368.webp",
+      "recoveredSha256": "d98cac67990f140ba6a73496bf68b411acf22c9f1a701359f6d3558c45978a6a"
     },
     {
       "senseId": "9351ad69ade433acfbc607aa0cec53534954338f17d11f8b894d22e334ff945e",
@@ -721,11 +749,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"wrongdoing\", \"pos\": \"n.\", \"meaning\": \"干坏事\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A person secretly taking a coin purse from another adult open shoulder bag on a park bench, glancing furtively around while the unsuspecting owner looks away. The visible theft, sneaky posture and hand entering someone elses bag clearly communicate doing a wrongful act. Neutral daytime scene, no weapons, no chase, no text or money markings.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/93/9351ad69ade433acfbc607aa0cec53534954338f17d11f8b894d22e334ff945e.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/12.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/12.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-c.json",
+      "recoveredSavedPath": "public/images/words/93/9351ad69ade433acfbc607aa0cec53534954338f17d11f8b894d22e334ff945e.webp",
+      "recoveredSha256": "b22269a204c3475d4c3e831e60a0cc0c4464a859c3b04ef183afb5dbbff24c1f"
     },
     {
       "senseId": "a38ba36343850ca316e67ef66e078cbdf50dce58f54eeba1c23fd1187d5f4303",
@@ -738,11 +770,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"skeptic\", \"pos\": \"n.\", \"meaning\": \"怀疑者\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A doubtful observer with one eyebrow raised and lips pursed, arms partly crossed, carefully inspecting an obvious fake floating ball held by a visible thin string in another persons hands. The observer leans back skeptically and points toward the string rather than showing surprise or anger. Focus on a recognizable skeptical person who does not believe the demonstration. No symbols, words, speech bubbles or labels.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/a3/a38ba36343850ca316e67ef66e078cbdf50dce58f54eeba1c23fd1187d5f4303.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/13.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/13.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-root.json",
+      "recoveredSavedPath": "public/images/words/a3/a38ba36343850ca316e67ef66e078cbdf50dce58f54eeba1c23fd1187d5f4303.webp",
+      "recoveredSha256": "8741a0520d4e60d8bf3c6a2106a24d44b2d97b2d704f1273024ded692cc57593"
     },
     {
       "senseId": "d88ec200d4bbf3be2853629af90e120a0284b654d84b6005b10eccb4f3b9cef4",
@@ -755,11 +791,15 @@
       "curated": false,
       "prompt": "Use case: scientific-educational\nAsset type: one square English vocabulary memory-card illustration.\nExact target sense: {\"word\": \"covert\", \"pos\": \"adj.\", \"meaning\": \"隐蔽的\"}.\nPrimary request: Make this exact sense directly understandable from the picture without words.\nScene and subject: A small fox concealed almost completely behind dense leafy bushes, only one eye, one ear and a tiny part of its muzzle peeking through a gap; its curled body is barely visible through leaves and it watches an open forest path without stepping into view. Show concealment clearly as the key property rather than a fox portrait. Calm natural setting, no hunters, text or symbols.\nStyle/medium: hand-painted gouache with subtle colored-pencil texture on warm off-white paper, matching the existing garden vocabulary illustrations.\nComposition: one clear subject or tightly related scene centered in the middle 70 percent, generous warm-white margins, fully visible and readable on a small card. Soft natural daylight and muted green, blue and coral where appropriate.\nConstraints: no letters, numbers, captions, labels, logos, watermarks, borders or card UI; no unrelated decoration. Generate exactly one standalone square image, not a collage.\n",
       "desiredAssetPath": "public/images/words/d8/d88ec200d4bbf3be2853629af90e120a0284b654d84b6005b10eccb4f3b9cef4.webp",
-      "status": "pending_generation",
+      "status": "recovered_reviewed_and_embedded",
       "reviewed": false,
       "reason": "Builtin imagegen network failures interrupted batch; no image returned or generation not started. Resume this exact claim before new claims.",
       "generationAttempted": false,
-      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/14.txt"
+      "promptPath": "output/imagegen/batch-20261116-145414/b/prompts/14.txt",
+      "recoveredBy": "20261117-004553",
+      "recoveryMetadataPath": "docs/imagegen/batch-20261117-004553-a.json",
+      "recoveredSavedPath": "public/images/words/d8/d88ec200d4bbf3be2853629af90e120a0284b654d84b6005b10eccb4f3b9cef4.webp",
+      "recoveredSha256": "c8acbbebfb0d187a69eca8a8b2fe3b4610dbf8d9a91b327de701060e677bae67"
     }
   ]
 }
